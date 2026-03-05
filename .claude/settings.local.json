@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Bash(python:*)",
+      "Bash(pip show:*)",
+      "Bash(npm install:*)",
+      "Bash(node generate-character-actions.js:*)",
+      "Skill(literary-revision)",
+      "Skill(character-analysis)",
+      "Skill(character-abstraction)",
+      "Skill(fiction-abstraction)",
+      "Skill(folklore-generator)",
+      "Read(~\\.claude\\skills\\**)",
+      "Bash(pip install:*)",
+      "Skill(claude-developer-platform)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
