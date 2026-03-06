@@ -33,7 +33,7 @@ Three thousand years ago, seven great necromancers combined their power and thei
 
 *Full doc: `Mythology/Cosmology.md`*
 
-The world is the Road of Graves - an endless road paved with the gravestones of every person who has ever died. It runs in one main course without ends; over mountains and under rivers; through forests, caves, and castles; sometimes curving, rarely straight. It is ever-expanding. The Road is surrounded by the Cursed Forest, a wasteland of skeletal trees, poison pools, and roaming undead. The sun is cold and slate-colored. Trees sprout rotting and skeletal; leaves arrive on a wind from some faraway plane of forever-autumn.
+The world is the Road of Graves - an endless road paved with the gravestones of every person who has ever died. It runs in one main course without ends; over mountains and under rivers; through forests, caves, and castles; sometimes curving, rarely straight. It is ever-expanding. Lakes are poison pools. Undead roam the wild. The sun is cold and slate-colored. There are forests, but they are wasted. Trees sprout rotting and skeletal; leaves arrive on a wind from some faraway plane of forever-autumn.
 
 ## Theogony: The Seven
 
@@ -61,14 +61,14 @@ The necromancers' acolytes, servants, and slaves formed the dwellers - the basis
 
 *Full doc: `Mythology/Death-Afterlife.md`*
 
-When any person dies, their gravestone is added to the cobbles of the Road. The Road is ever-expanding. Death is not an ending but a transition into one of many undead states - ghosts, skeletons, wraiths, or worse. Some are raised deliberately by necromancers; others rise on their own. The only way to persist meaningfully after death is through necromancy.
+When any person dies, their gravestone is added to the cobbles of the Road. The Road is ever-expanding. Death is often a transition into one of many undead states - ghosts, skeletons, wraiths. Some are raised deliberately by necromancers; others rise on their own. The only way to persist meaningfully after death is through necromancy.
 
 ## Creature Taxonomies: Races and the Undead
 
 *Full doc: `Mythology/Creatures.md`*
 
 **Races:**
-- **Men** - The dwellers; scrawny, pale, road-bound
+- **Men**
 - **Holtsatr (Forest Elves)** - Extinct for roughly 600 years; translucent, blind, with innards of starlight
 - **Staalsatr (Metal Elves)** - Details vague
 - **Bouldsatr (Boulder Elves/Giants)** - Details vague
@@ -86,25 +86,13 @@ Necromancy is the only surviving magic. It is structured through a system of reu
 - **Desire Motifs (Structural)** - Undead capability: Attunements, Amalgamators, and others (partially developed)
 - **Nature Motifs (Behavioral)** - Behavior, control, and communication with undead (partially developed)
 
-**Deadspeech** is the magical language of necromancy, drawn from Hungarian. **Oulsraak** is the old language of the Holtsatr, drawn from Dutch.
+**Deadspeech** is the magical language of necromancy, drawn from Hungarian. 
 
-## Demon Cults: The Faithful
+## Demon Cults: TODO
 
-*Full doc: `Mythology/Cults.md`*
+*Full doc: `Mythology/Demon-Cults.md`*
 
-Each of the Seven retains followers with distinct beliefs and aims:
-
-- **Thin Man's followers** seek his Sickened Cradle; opening it would supposedly unleash a plague of final rest on all living and dead
-- **The Old Man Below** whispers instructions in shadowed corners, scheming to return to power
-- **The Mother of Worms** keeps consort-followers who offer their blood; Uhrdgatan (a known fanatic) believes the world ends with insects
-- **Gallbladder** is worshipped by mutant tribal farmers at the Lake of Tomatoes
-- Other cults remain vague
-
-## Sacred Time/Space: The Time / The Road
-
-*Full doc: `Mythology/Sacred-Time-Space.md`*
-
-The Time of Dying is the only known era - 3000 years and counting. There is no calendar of ages or remembered golden past. The Road of Graves is simultaneously infrastructure, cemetery, and sacred ground. Key sacred sites include the Sickened Cradle (lost), the End of the Road (possibly metaphysical), the frozen cathedral to the Old Man Below at Thistlecrown, and Scratcher's Temple.
+TODO
 
 ## Prophetic Traditions: Dreams of the Thin Man
 
@@ -116,22 +104,10 @@ The Thin Man shares his dreams with his followers from within his eternal sleep.
 
 *Full doc: `Mythology/Astral.md`*
 
-The sun is cold and slate-colored. No other celestial bodies are described. The harridan's moon is referenced once (required to summon a Gallowspook), but its nature is undefined.
-
-## Divine Kingship: The Seven as God-Kings
-
-*Full doc: `Mythology/Divine-Kingship.md`*
-
-The Seven were once literal immortal rulers who commanded armies and destroyed nations. Their decline from omnipotent conquerors to fractured, diminished pseudo-immortals mirrors the decay of the world they created. They are worshipped still - out of tradition, fear, or genuine devotion - but their ability to act directly is limited.
+The sun is cold and slate-colored. The harridan's moon is yelow, and marks the night of witches.
 
 ## Otherworld Geography: The End of the Road
 
 *Full doc: `Mythology/Otherworld.md`*
 
 The End of the Road is the place (or concept) from which the Old Man Below issues forth. Whether it is a literal terminus, a metaphysical boundary, or something else entirely is unknown. The Oldvaults - ancient laboratories and dungeons of the necromancers - serve as a physical underworld, sealed from the Cursed Forest, full of forgotten experiments and undead. The Cursed Forest itself is the hostile wilderness beyond the Road.
-
-## Dualism: Seven-Way Fracture
-
-*Full doc: `Mythology/Dualism.md`*
-
-There is no cosmic good-versus-evil axis. The Seven compete with one another in a web of mutual hostility, each pursuing their own domain and agenda. Morality, such as it exists, is pragmatic and local - survival on the Road, loyalty to a god or none, and the daily calculus of living among the dead.
