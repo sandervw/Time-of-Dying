@@ -2,7 +2,7 @@
 
 # LORE:
 
-The Time of Dying began 3000 years ago, when [seven great necromancers]{.underline} combined their power and their armies of the dead to wipe out the kingdoms, empires, and nations that would not serve them. Life was wiped out across the continent; only the [Road of Graves]{.underline} remained. The Road, it is said, runs in one main course without ends; over mountains and under rivers; through forests and caves and castles; sometimes curving, rarely straight. When any man dies, his gravestone is added to the cobbles of the road. The Road is ever expanding.
+The Time of Dying began 3000 years ago, when [seven great necromancers]{.underline} combined their power and their armies of the dead to wipe out the realms of the demon kings. Life was temporarily exterminated out across the continent; only the [Road of Graves]{.underline} remained. The Road, it is said, runs in one main course without ends; over mountains and under rivers; through forests and caves and castles; sometimes curving, rarely straight. When any man dies, his gravestone is added to the cobbles of the road. The Road is ever expanding.
 
 The necromancers' acolytes, servants, and slaves were to form the [dwellers]{.underline}; the basis of modern man; the ones who dwell upon this road. Only necromancy holds the world together, for only necromancy can persist after death. All other magics and gods have fallen in The Time of Dying.
 
@@ -12,7 +12,7 @@ The sun is a cold, slate color.
 
 The seven gods of this world have only survived by means of their necromancy.
 
-With no more external enemy to threaten them, the seven great necromancers turned on one another. [The necromancers fought; most have died at least once.]{.underline} Repeated deaths, confused doctrines, lingual drift; all contributed to a decline in the power of the seven. Once immortal gods, all seven necromancers are now cursed to different flavors of pseudo-immortality, living on the mountain they created. They are worshipped still, though their power is limited.
+With no more external enemy to threaten them, the seven great necromancers turned on one another. [The necromancers fought; most have died at least once.]{.underline} Repeated deaths, confused doctrines, lingual drift; all contributed to a decline in the power of the seven. Once immortal gods, all seven necromancers are now cursed to different flavors of pseudo-immortality. They are worshipped still, though their power is limited.
 
 **The Thin Man (Sloth):** God of Sickness and Entropy
 
