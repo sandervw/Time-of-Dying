@@ -17,7 +17,7 @@ Deadspeech is the magical language used in necromancy, drawn from Hungarian. Kno
 - "ahoz hjetes az elernt mondj." -- as seven and the living say.
 - "Malyan borznak kell megszall met; amizor a kozalsa Biry talat; es rastald atgesz ember csontjat!" -- What horror must invade the mind; when the approaching silk shall find; and sift the bones of all mankind!
 
-## Folk Explanation: The Monopoly of Necromancy
+## Folk Explanation: TODO
 
 TODO -- why necromancy alone survived the Time of Dying while all other magics perished
 
@@ -69,7 +69,7 @@ TODO -- Nature Motifs concern the behavior-of, control-of, and communication-wit
 
 ## Grot Necromancy
 
-The Grot -- an ancient race of toad-centipede-necromancers who are innately undead -- practice a distinct form of necromancy. They worship crystals rather than the seven necromancer-gods. Their spells center on mutation and curses of flesh-to-metal.
+The Grot -- an ancient race of toad-centipede-necromancers who are innately undead -- practice a distinct form of necromancy. They worship crystals rather than the necromancer-gods. Their spells center on mutation and curses of flesh-to-metal.
 
 ## Necromantic Professions
 

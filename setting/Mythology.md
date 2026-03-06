@@ -6,20 +6,20 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 
 ## Mythological Elements
 
-| Element                  | Name                   | Summary                                                                                      |
-| ------------------------ | ---------------------- | -------------------------------------------------------------------------------------------- |
-| **Cosmogony**            | The Time of Dying      | Seven necromancers destroyed the demon kings 3000 years ago; only the Road of Graves remains |
-| **Cosmology**            | The Road of Graves     | An endless road paved with gravestones, surrounded by the Cursed Forest under a slate sun    |
-| **Theogony**             | The Necromancer-Gods   | Necromancer-gods tied to the seven sins, now cursed to diminished pseudo-immortality         |
-| **Anthropogeny**         | The Dwellers           | Modern man descends from the necromancers' acolytes, servants, and slaves                    |
-| **Death/Afterlife**      | The Epitaphs           | The dead become gravestones in the Road; necromancy is the only force that persists          |
-| **Creatures**            | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna                |
-| **Magic Systems**        | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs                      |
-| **Hero Cycles**          | TODO                   | TODO                                                                                         |
-| **Demon Cults**          | TODO                   | TODO                                                                                         |
-| **Prophecy**             | Dreams of the Thin Man | The Thin Man shares dreams with his followers; prophecy of the Sickened Cradle               |
-| **Astral Mythology**     | The Slate Sun          | The sun is cold and slate-colored; no moon or stars are described                            |
-| **Otherworld Geography** | The End of the Road    | A possibly metaphysical place from which the Old Man Below issues forth                      |
+| Element                  | Name                   | Summary                                                                                   |
+| ------------------------ | ---------------------- | ----------------------------------------------------------------------------------------- |
+| **Cosmogony**            | The Time of Dying      | Necromancers destroyed the demon kings 3000 years ago; only the Road of Graves remains    |
+| **Cosmology**            | The Road of Graves     | An endless road paved with gravestones, surrounded by the Cursed Forest under a slate sun |
+| **Theogony**             | The Necromancer-Gods   | Necromancer-gods tied to the seven sins, now cursed to diminished pseudo-immortality      |
+| **Anthropogeny**         | The Dwellers           | Modern man descends from the necromancers' acolytes, servants, and slaves                 |
+| **Death/Afterlife**      | The Epitaphs           | The dead become gravestones in the Road; necromancy is the only force that persists       |
+| **Creatures**            | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna             |
+| **Magic Systems**        | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs                   |
+| **Hero Cycles**          | TODO                   | TODO                                                                                      |
+| **Demon Cults**          | TODO                   | TODO                                                                                      |
+| **Prophecy**             | Dreams of the Thin Man | The Thin Man shares dreams with his followers; prophecy of the Sickened Cradle            |
+| **Astral Mythology**     | The Slate Sun          | The sun is cold and slate-colored; no moon or stars are described                         |
+| **Otherworld Geography** | The End of the Road    | A possibly metaphysical place from which the Old Man Below issues forth                   |
 
 ---
 
@@ -27,7 +27,7 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 
 *Full doc: `Mythology/Cosmogony.md`*
 
-Three thousand years ago, seven great necromancers combined their power and their armies of the dead to wipe out the dead to wipe out the realms of the demon kings. Life was temporarily exterminated out across the continent. Only necromancy spared the human race. All other magics and gods fell. This extinction event is the origin of the world as it is now known - there is no "before."
+Three thousand years ago, a cabal of great necromancers combined their power and their armies of the dead to wipe out the dead to wipe out the realms of the demon kings. Life was temporarily exterminated out across the continent. Only necromancy spared the human race. All other magics and gods fell. This extinction event is the origin of the world as it is now known - there is no "before."
 
 ## Cosmology: The Road of Graves
 
@@ -39,7 +39,7 @@ The world is the Road of Graves - an endless road paved with the gravestones of 
 
 *Full doc: `Mythology/Theogony.md`*
 
-The seven necromancers, once united against the world, turned on one another after their victory. Most have died at least once. Repeated deaths, confused doctrines, and lingual drift degraded their power. Once immortal gods, all seven are now cursed to different flavors of pseudo-immortality. They are worshipped still, though their power is limited. Each is associated with one of the seven deadly sins:
+The necromancers, once united against the world, turned on one another after their victory. Most have died at least once. Repeated deaths, confused doctrines, and lingual drift degraded their power. Once immortal gods, all seven are now cursed to different flavors of pseudo-immortality. They are worshipped still, though their power is limited. Each is associated with one of the seven deadly sins:
 
 | God                     | Sin      | Domain               | Status/Notes                                                    |
 | ----------------------- | -------- | -------------------- | --------------------------------------------------------------- |
@@ -72,7 +72,7 @@ When any person dies, their gravestone is added to the cobbles of the Road. The 
 - **Holtsatr (Forest Elves)** - Extinct for roughly 600 years; translucent, blind, with innards of starlight
 - **Staalsatr (Metal Elves)** - Details vague
 - **Bouldsatr (Boulder Elves/Giants)** - Details vague
-- **Grot (Toad-Centipede-Necromancers)** - Innately undead; worship crystals rather than the Seven; spells center on mutation and flesh-to-metal curses; wear jellyfish-leather robes
+- **Grot (Toad-Centipede-Necromancers)** - Innately undead; worship crystals rather than the Necromancer-Gods; spells center on mutation and flesh-to-metal curses; wear jellyfish-leather robes
 
 **Notable Monsters:** Birchmen, Homunculi, Ghosts (handless), Golems (wax/glass/leather), Gasps, Ferrous Knights, Silk Giants, Gallowspooks, Leatherwyrms, Fimbulwolves, Grootslang, and many others. See source doc for full bestiary.
 

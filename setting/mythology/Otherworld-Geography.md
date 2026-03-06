@@ -33,7 +33,7 @@ The Oldvaults are the ancient dungeons and laboratories of the necromancers. The
 
 ## The Cursed Forest
 
-The Cursed Forest is the hostile wilderness surrounding the Road of Graves -- everything beyond the Road's edge. It is a wasteland of trees, poison pools, and roaming undead.
+The Cursed Forest is a hostile wilderness beside the Road of Graves. It is a wasteland of trees, poison pools, and roaming undead.
 
 - Trees sprout from the ground rotting and skeletal
 - Leaves do not come from the trees -- they arrive seemingly born on the wind of some faraway plane of forever-autumn, already fallen and colored with decay

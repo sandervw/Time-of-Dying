@@ -1,10 +1,10 @@
-# Theogony: The Seven Necromancer-Gods
+# Theogony: The Necromancer-Gods
 
 ## Overview
 
-The seven great necromancers, once united against the demon kings, turned on one another after their victory. Most have died at least once. Repeated deaths, confused doctrines, and lingual drift degraded their power over the centuries. Once immortal gods, all seven are now cursed to different flavors of pseudo-immortality. They are worshipped still, though their power is limited. Each is associated with one of the seven deadly sins.
+The seven necromancer-gods, once united against the demon kings, turned on one another after their victory. Most have died at least once. Repeated deaths, confused doctrines, and lingual drift degraded their power over the centuries. Once immortal gods, all seven are now cursed to different flavors of pseudo-immortality. They are worshipped still, though their power is limited. Each is associated with one of the seven deadly sins.
 
-## The Seven
+## The Necromancer-Gods
 
 ### The Thin Man (Sloth) - God of Sickness and Entropy
 
@@ -48,14 +48,14 @@ TODO
 
 TODO
 
-## The Decline of the Seven
+## The Decline of the necromancer-gods
 
-TODO - the process by which the seven declined from immortal gods to their current diminished states. Sources mention repeated deaths, confused doctrines, and lingual drift as contributing factors, but the specifics are undeveloped.
+TODO - the process by which the necromancer-gods declined from immortal gods to their current diminished states. Sources mention repeated deaths, confused doctrines, and lingual drift as contributing factors, but the specifics are undeveloped.
 
 ## Ritual: TODO
 
-TODO - rituals of worship associated with the Seven (or with individual gods).
+TODO - rituals of worship associated with the necromancer-gods (or with individual gods).
 
-## Folk Explanation: Why the Gods Are Diminished
+## Folk Explanation: TODO
 
 TODO - the reasons (if they exist) for why people believe the gods lost their full power. The mechanical causes are known (repeated deaths, confused doctrines, lingual drift), but how the dwellers understand and explain this is undeveloped.

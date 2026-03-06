@@ -160,10 +160,10 @@ TODO
 
 ---
 
-## Ritual: Epitaph Interment
+## Ritual: TODO
 
-A place beneath an epitaph on the Road of Graves -- proper interment -- is said to shield the soul from necromancy and necromancers. This makes burial rites significant for protecting the dead from being raised.
+TODO
 
 ## Folk Explanation: The Restless Dead
 
-Some undead are raised deliberately by necromancers; others rise on their own. The prevalence of undead is highest in the Oldvaults, where forgotten experiments and relics of ancient times persist. The Cursed Forest beyond the Road is also thick with roaming undead.
+Some undead are raised deliberately by necromancers; others rise on their own. The prevalence of undead is highest in the Oldvaults, where forgotten experiments and relics of ancient times persist. The Cursed Forest is also thick with roaming undead.

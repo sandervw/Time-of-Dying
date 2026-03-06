@@ -35,7 +35,6 @@ Infrastructure includes an embalming-fluid pipeline from one refinery to outlyin
 - Spelling conventions: Chrypt, Grave, Tohmb (instead of crypt, grave, tomb)
 - People keep bugs (praying mantis), baby goats, pigs, and chickens as pets
 - Clothing includes grave clothes
-- The only birds are ravens, crows, whip-poor-wills, and vultures
 
 ## Ritual: [NAME]
 
