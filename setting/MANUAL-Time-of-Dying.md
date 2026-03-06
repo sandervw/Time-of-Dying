@@ -812,4 +812,4 @@ Waxy Maize (dead crops)
 
 - \"Did you know, pain is entirely subjective? One man\'s pain is another\'s pleasure. So, then; how to share that pleasure? Or... that pain?\"
 
-- The Words with Rotten Syllables (spells used by witches; summon demons)
+- The Words with Rotten Syllables (spells used by witches)

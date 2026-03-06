@@ -14,7 +14,7 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 | **Anthropogeny**         | The Dwellers           | Modern man descends from the necromancers' acolytes, servants, and slaves                    |
 | **Death/Afterlife**      | The Road Grows         | The dead become gravestones in the Road; necromancy is the only force that persists          |
 | **Creature Taxonomies**  | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna                |
-| **Magic Systems**        | Necromancy Motifs      | All other magic has fallen; necromancy alone endures, structured by creational motifs        |
+| **Magic Systems**        | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs                      |
 | **Hero Cycles**          | TODO                   | TODO                                                                                         |
 | **Demon Cults**          | TODO                   | TODO                                                                                         |
 | **Prophetic Traditions** | Dreams of the Thin Man | The Thin Man shares dreams with his followers; prophecy of the Sickened Cradle               |
@@ -80,13 +80,13 @@ When any person dies, their gravestone is added to the cobbles of the Road. The 
 
 *Full doc: `Mythology/Magic.md`*
 
-Necromancy is the only surviving magic. It is structured through a system of reusable motifs - patterns for designing spells and rituals:
+Necromancy is the only surviving magic. Among Witches, necromancy is referred to as the 'Words of Rotten Syllables'. Necromancy is structured through a system of reusable motifs - patterns for designing spells and rituals:
 
 - **Shape Motifs (Creational)** - How undead are created: Classifiers, Constructors, Assimilators, Emulators, True Names
 - **Desire Motifs (Structural)** - Undead capability: Attunements, Amalgamators, and others (partially developed)
 - **Nature Motifs (Behavioral)** - Behavior, control, and communication with undead (partially developed)
 
-**Deadspeech** is the magical language of necromancy, drawn from Hungarian. 
+**Deadspeech** is the magical language of necromancy, drawn from Hungarian.
 
 ## Demon Cults: TODO
 
