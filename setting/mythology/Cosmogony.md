@@ -8,10 +8,6 @@ Only the Road of Graves remained.
 
 ### Key Facts
 
-- **When:** ~3,000 years before the present
-- **Who:** The Seven - seven great necromancers (see `Theogony.md`)
-- **What:** Combined their power and undead armies to destroy the demon kings
-- **Result:** All life temporarily exterminated; all non-necromantic magic and gods destroyed
 - **Survivors:** The necromancers and their acolytes, servants, and slaves (the basis of modern man - the dwellers; see `Anthropogeny.md`)
 - **Aftermath:** The world as it exists now - the Road of Graves (see `Cosmology.md`)
 

@@ -10,14 +10,14 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 | ------------------------ | ---------------------- | -------------------------------------------------------------------------------------------- |
 | **Cosmogony**            | The Time of Dying      | Seven necromancers destroyed the demon kings 3000 years ago; only the Road of Graves remains |
 | **Cosmology**            | The Road of Graves     | An endless road paved with gravestones, surrounded by the Cursed Forest under a slate sun    |
-| **Theogony**             | The Seven              | Necromancer-gods tied to the seven sins, now cursed to diminished pseudo-immortality         |
+| **Theogony**             | The Necromancer-Gods   | Necromancer-gods tied to the seven sins, now cursed to diminished pseudo-immortality         |
 | **Anthropogeny**         | The Dwellers           | Modern man descends from the necromancers' acolytes, servants, and slaves                    |
-| **Death/Afterlife**      | The Road Grows         | The dead become gravestones in the Road; necromancy is the only force that persists          |
-| **Creature Taxonomies**  | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna                |
+| **Death/Afterlife**      | The Epitaphs           | The dead become gravestones in the Road; necromancy is the only force that persists          |
+| **Creatures**            | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna                |
 | **Magic Systems**        | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs                      |
 | **Hero Cycles**          | TODO                   | TODO                                                                                         |
 | **Demon Cults**          | TODO                   | TODO                                                                                         |
-| **Prophetic Traditions** | Dreams of the Thin Man | The Thin Man shares dreams with his followers; prophecy of the Sickened Cradle               |
+| **Prophecy**             | Dreams of the Thin Man | The Thin Man shares dreams with his followers; prophecy of the Sickened Cradle               |
 | **Astral Mythology**     | The Slate Sun          | The sun is cold and slate-colored; no moon or stars are described                            |
 | **Otherworld Geography** | The End of the Road    | A possibly metaphysical place from which the Old Man Below issues forth                      |
 
@@ -35,7 +35,7 @@ Three thousand years ago, seven great necromancers combined their power and thei
 
 The world is the Road of Graves - an endless road paved with the gravestones of every person who has ever died. It runs in one main course without ends; over mountains and under rivers; through forests, caves, and castles; sometimes curving, rarely straight. It is ever-expanding. Lakes are poison pools. Undead roam the wild. The sun is cold and slate-colored. There are forests, but they are wasted. Trees sprout rotting and skeletal; leaves arrive on a wind from some faraway plane of forever-autumn.
 
-## Theogony: The Seven
+## Theogony: The Necromancer-Gods
 
 *Full doc: `Mythology/Theogony.md`*
 
@@ -57,13 +57,13 @@ The seven necromancers, once united against the world, turned on one another aft
 
 The necromancers' acolytes, servants, and slaves formed the dwellers - the basis of modern man, the ones who dwell upon the Road. Almost all civilization is built along the Road itself. The dwellers are typically scrawny and pale.
 
-## Death/Afterlife: The Road Grows
+## Death/Afterlife: The Epitaphs
 
 *Full doc: `Mythology/Death-Afterlife.md`*
 
-When any person dies, their gravestone is added to the cobbles of the Road. The Road is ever-expanding. Death is often a transition into one of many undead states - ghosts, skeletons, wraiths. Some are raised deliberately by necromancers; others rise on their own. The only way to persist meaningfully after death is through necromancy.
+When any person dies, their gravestone is added to the cobbles of the Road. The Road is ever-expanding. Un-dead states are common - ghosts, skeletons, wraiths. Some are raised deliberately by necromancers; others rise on their own. A place beneath an epitaph on the road of graves - proper interment - is said to shield the soul from necromancy and necromancers.
 
-## Creature Taxonomies: Races and the Undead
+## Creatures: Races and the Undead
 
 *Full doc: `Mythology/Creatures.md`*
 
@@ -94,7 +94,7 @@ Necromancy is the only surviving magic. Among Witches, necromancy is referred to
 
 TODO
 
-## Prophetic Traditions: Dreams of the Thin Man
+## Prophecy: Dreams of the Thin Man
 
 *Full doc: `Mythology/Prophecy.md`*
 
