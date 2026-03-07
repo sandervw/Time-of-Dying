@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Time of Dying is a collaborative fiction project built for iterative composition with Claude AI. TODO - 2-3 sentence setting summary
+Time of Dying is a collaborative fiction project built for iterative composition with Claude AI. The setting is a post-apocalyptic necromantic world born from seven necromancers who destroyed all other life, magic, and gods three thousand years ago. Civilization clings to the Road of Graves, an ever-expanding road paved with gravestones of the dead, while the seven necromancer-gods, each bound to a deadly sin and cursed with degraded pseudo-immortality, are still worshipped. Necromancy (called the Words of Rotten Syllables, spoken in Deadspeech) is the only surviving magic, and the restless dead roam freely beyond the Road.
 
 ## Content Structure
 
@@ -14,9 +14,9 @@ Setting documents are organized hierarchically:
 - **Setting/Folklore.md** - Random setting folklore. A good source when asked to generate story ideas.
 - **Setting/Ideas.md** - Running scratchpad / todo list for rough ideas and notes. Items here are incorporated or discarded, then deleted from the doc.
 - **Setting/Mythology.md** - The main setting summary. Maps setting details to specific myth categories.
-- **Setting/Folklore/** - Detailed documents for random pieces of generated folklore that has been confirmed as part of the setting. Only reference this is requested by the user.
+- **Setting/Folklore/** - Detailed documents for random pieces of generated folklore that has been confirmed as part of the setting. Only reference this if requested by the user.
 - **Setting/Mythology/** - Deep-dive expansions of individual mythology elements (cosmogony, cosmology, theogony, anthropogeny, magic systems, etc.).
-- **Setting/Potential-Folklore/** - Holding pen for generated folklore pieces the user hasn't decided how to use yet. Not yet incorporated into the setting framework.
+- **Setting/Archive/** - Holding pen for old or unused setting and story documents. Never access this folder unless directed by the user.
 - **Stories/** - In progress and completed stories/narratives
 - **Output/** - Default destination for files generated via skills and agents (unless the user specifies otherwise)
 
@@ -26,7 +26,25 @@ Setting documents are organized hierarchically:
 
 When generating or editing setting/story content:
 
-- TODO - setting writing conventions
+### Naming
+
+- **Character names** use one of these patterns:
+  - Compound descriptive phrases as proper names: "Killing Birds with Rocks," "Woman of the Eye," "The Dire Womb," "Skull Honey Bee"
+  - Germanic/Old English roots: Nohr, Murg, Wiege, Kriecher, Angstlich, Lerch
+  - Animals or animal-adjacent words used as names: Octopus, Orca, Manfisher
+  - Dark irony or oxymoron: Darling, Lover, Velvet Soap, Lieutenant-general Princess
+  - Compound neologisms fusing body/violence/intimacy: Winterdemon, Lovecorpse, Soulhacker
+- **Object/item names** are descriptive-literal with a sinister twist: Razorshell (frag grenade shaped like a mollusk), Violet Jelly (tissue-melting unguent), Burnbottles (molotovs), Woundwool, Jugflower. Avoid generic fantasy naming. Name things by what they do or look like, then let the horror speak for itself.
+- **Spell/magic naming** follows "Words with Rotten Syllables" pattern: decay-flavored, visceral, linguistic corruption.
+
+### Tone and Aesthetic
+
+- **Visceral sensory detail across all five senses.** Always ground horror in specific sensations: cartilage crunch, sweet sweat, burned hair, chalky cracked teeth, slimy greens, arrhythmic heart pounding. Never settle for abstract "it was terrifying."
+- **Body horror meets domestic familiarity.** Kitchen knives, carpets of rat skins, roaches over moldy meat, a pig giving birth to a cat. The grotesque lives in everyday objects and spaces, not just monsters.
+- **Industrial decay fused with organic rot.** Rusty nails alongside fungus through flesh. Wrought-iron gates beside melting trees. Metal and bone occupy the same register.
+- **Dark humor threaded through horror.** Speech Cheese, Snot Waffle, Toke Eater. The setting allows absurdity and irony without breaking tone. Comedy and horror coexist; neither cancels the other.
+- **No sanitizing, no euphemism.** Call things what they are. Severed heads, ruptured capillaries, organ harvesting. The language is direct, blunt, and unflinching.
+- **Never use em-dashes.**
 
 ## Agents (.claude/agents/)
 
