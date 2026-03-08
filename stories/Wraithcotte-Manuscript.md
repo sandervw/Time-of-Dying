@@ -1,3 +1,5 @@
+# Wraithcotte - Manuscript
+
 *"The Silver Ring is known to me. I have seen one, once. Like a tiny circle of pure moonlight.*
 
 *"I thank you for slaying my foe. Still, this trinket you seek is a coveted thing.*
