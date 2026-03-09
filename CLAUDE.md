@@ -54,7 +54,7 @@ When generating or editing setting/story content:
 
 ## Skills (.claude/skills/)
 
-- **character-analysis** - Analyzes fictional characters into structured profiles. Four modes: profile (default), description, actions, quotes.
+- **character-analysis** - Analyzes fictional characters into structured profiles. Four mutually exclusive modes: profile, description, actions, quotes.
 - **character-abstraction** - Strips setting-specific details from character elements (actions, quotes) to produce reusable templates.
 - **fiction-abstraction** - Same idea as character-abstraction but for narrative elements: paragraphs and dialogue. Generalizes source-specific prose into templates.
 - **literary-revision** - Rewrites prose in a specific literary style while preserving narrative.
