@@ -31,14 +31,45 @@ Most evil-AI stories pit the intelligence against faith as an ideological oppone
 
 ## Scenes
 
-**Scene Ideas:**
-- Entry into tomb - describe sloped opening leading down to trapped door, rounded sandstone/stucco walls (like a Hispanic villa); igon speaks to himself, some exposition via action (he stops and listens with his ear to the door, and is discouraged by no sound, but *hums* to himself for motivation)
-- The corner of shrines - medium sized L-shaped chamber, 10 stone shrines iwth offering bowls, and one "Womlocker" (setting name for a coffin); the corpse in the locker awakens, and the demon-intelligence speaks to the knight in a faint music voice; knight destroys corpse, still nto sure what he's up against
-- Four chambers, four shrines, several undead, lots of violence
-- A short scene in a tunnel leading down, down, down, no undead, but knight is breathing heavy from prior fight, the tomb is starting to ring in his ears; ends in another locked door, knight has to force this one down
-- Vestibule before the demon's chamber; final great fight takes place here; knight hacking/slashing through corpse after corpse, while the demon only sings louder and louder
+**Scene 1:**
+Entry into tomb
+- Describe sloped opening leading down to trapped door, rounded sandstone/stucco walls (like a Hispanic villa)
+- The air thick is with ancestral incense long turned to mineral dust
+- The pilgrim-knight, Igon, speaks to himself; the only knowledge he has of this tomb is that the necromancers of the region have, for centuries, left it undefiled (*with good reason - foreshadowing*)
+- Some exposition via action (he stops and listens with his ear to the door, and is discouraged by no sound, but *hums* to himself for motivation)
 
-**Final Scene:**
-The story ends with the knight standing in an empty tomb, victorious and completely drained, while the AI thanks him in notes of pure music, and awakens to life.
+**Scene 2:**
+The corner chamber lined by shrines
+- This is a medium sized L-shaped chamber, with 10 stone shrines with offering bowls (3 on each long wall, 2 on each short wall), an bronze-banded doors of splintery wood on each end
+- - Offering bowls hold varios dessicated goods - one has shriveled stones that were dried apricots
+- Beside one of the shrines stands a "Wormlocker" (setting name for an upright, uncarved sarcophagus)
+- A skeletal figure is pinned upright inside
+- As the knight approaches, the skeleton's jaw begins working open and shut, emitting one perfect sustained note (there is something familiar in the melody, but the knight doesn't realize it's his own song)
+- The knight presses ear to the wormlocker, humming in tune with the note
+- Then the corpse in the locker awakens, and the demon-intelligence speaks to the knight in a faint music voice
+- The knight destroys corpse, still nto sure what he's up against
+
+**Scene 3:**
+Four chambers, four shrines, several undead, lots of violence
+- The knight attempts a prayer at each shrine (all his known gestures of piety, to the various necromancer-gods) to quiet the dead
+- Each prayer fails (not just because Igon cares more about the oboe song than the necromancer-gods; because this is not necromancy, it is demon-magic, it existed before the Time of Dying)
+- the dead shuffle in a slow orbit like moths toward a musical flame
+- The tomb's grave goods include a jaw-lyre left as an offering
+- The main door leading to the next passage is sealed by a powerful necromancer's rune, but a nearby wall in one of the four chambers has crumbled, and the knight can jsut squeeze through the jagged aperture
+
+**Scene 4:**
+A short scene in a sloping narrow passage leading down, down, down, corner after corner
+- There are no undead, but knight is breathing heavy from prior fight, the tomb is starting to ring in his ears; the knight realizes the demon's animating music is delivered and siphoned through pipes in the tomb, it resonates in the bowls
+- The descent ends in another locked door, this one sealed in a double-enchantment of necromancy, which knight has no choice but to break down by force
+- Describe sticky film of sweat, and his short clinging coldly to his skin, under his armor, his eyes stinging from the tomb dust
+
+**Scene 5:**
+Vestibule before the demon's chamber
+- The final great fight takes place here
+- Describe the carnage; the knight hacking/slashing through corpse after corpse, while the demon only sings louder and louder through the ventilating pipes
+- The dead here are still dressed in fine, jewel-sewn cloths of a precious silver
+
+**Scene 6 (Finale):**
+The story ends with the knight sitting cross-legged in an empty tomb, victorious and completely drained, while the AI thanks him in notes of pure music, and awakens to life.
 - *(An ambiguous finale for the knight - does he live? What happens next?)*
-- Defining image of this story: The knight kneeling alone, panting in *silence*, surrounded by destroyed, humming dead, his tabard's oboe symbol torn in shreds — while every surface of the tomb resounds with his stolen song.
+- Defining image of this story: The knight sitting cross-legged, alone, panting in *silence*, surrounded by destroyed, humming dead, his tabard's oboe symbol torn in shreds — while every surface of the tomb resounds with his stolen song.
