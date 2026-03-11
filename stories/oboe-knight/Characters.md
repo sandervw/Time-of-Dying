@@ -30,16 +30,16 @@
     - Headwear: Iron full-face helm with slitted visor; silver-feather plume
     - Other: A 'Hip Light', a glowbug lantern, worn at the hip
 
-## TODO (Antagonist)
+## Guilliam (Antagonist)
 
-**Name:** TODO
+**Name:** Guilliam the Unthinking (the Demon-Intelligence)
 
-**Summary:** A demonic super-intelligence - a Demon Intelligence - based on the concept of "evil AI". Has the personality of a researching, and treats the knight like a subject for dissection - this Demon Intelligence is studying a faith it cannot feel. It existed (and was made dead) by the Necromancer-Gods; but some fragment or echo of it survived, the tomb was built around this fragment, and it has waited for someone of the knight's exact qualities (his "personal song") to arrive, so that it can drain those qualities for itself. It uses this drained faith to catalyze the dead within the tomb
+**Summary:** A demonic super-intelligence - a Demon Intelligence - based on the concept of "evil AI". Has the personality of a researcher, and treats the knight like a subject for dissection - this Demon Intelligence is studying a faith it cannot feel. It existed (and was made dead) by the Necromancer-Gods; but some fragment or echo of it survived, the tomb was built around this fragment, and it has waited for someone of the knight's exact qualities (his "personal song") to arrive, so that it can drain those qualities for itself. It uses this drained song to catalyze the dead within the tomb
 
-**Values:** TODO
+**Values:** "wholeness" - this demon-intelligence is a broken piece of a demon king, and can never achieve it's old wholeness of body; but with a kind of "genius animalism", it mindlessly seeks to devour this knight's song to make itself whole - it cannot ever concieve that what it wants is impossible, and in this way is 'acting without thought or reason'
 
-**default personality:** TODO
+**default personality:** analytical
 
-**Weakness:** TODO
+**Weakness:** mindless-focus
 
-**Strength:** TODO
+**Strength:** powerful necromancy, supremely intelligent on a factual level
