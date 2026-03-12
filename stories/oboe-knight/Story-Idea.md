@@ -22,7 +22,8 @@ TODO - incorporate solaire style (keep dialogue purely function - should convey 
 
 *Total size: 3000-4000 words*
 
-**Scene 1:**
+### Scene 1:
+
 `Wordcount:` ~500
 `Description:` Entry into tomb
 - Describe sloped entry, rounded sandstone/stucco walls (like a Hispanic villa)
@@ -37,7 +38,8 @@ TODO - incorporate solaire style (keep dialogue purely function - should convey 
 - The door closes harmlessly behind him, Igon tests it by humming near it again; it opens; reassured, he turns back to the chamber
 - No break between this section and next
 
-**Scene 2:**
+### Scene 2:
+
 `Wordcount:` ~700
 `Description:` The corner chamber lined by shrines
 - This is a medium sized L-shaped chamber, with 10 stone shrines with offering bowls (3 on each long wall, 2 on each short wall), and two crystal resonance doors on each end
@@ -51,7 +53,8 @@ TODO - incorporate solaire style (keep dialogue purely function - should convey 
 	- *Excrutiating detail*: what specific maneuvers does Igon use, what specific movements for Igon and the corpse, how specifically is the body affected?
 - Igon destroys corpse, still not sure what he's up against
 
-**Scene 3:**
+### Scene 3:
+
 `Wordcount:` ~700
 `Description:` Four chambers, four shrines, several undead, lots of violence
 - The scene opens slowly - Igon doesn't realize *all* the dead will begin to animate
@@ -65,14 +68,16 @@ TODO - incorporate solaire style (keep dialogue purely function - should convey 
 - The tomb's grave goods include a jaw-lyre left as an offering
 - The main door leading to the next passage is sealed by a powerful necromancer's rune, but a nearby wall in one of the four chambers has crumbled, and Igon can jsut squeeze through the jagged aperture
 
-**Scene 4:**
+### Scene 4:
+
 `Wordcount:` ~400
 `Description:` A short scene in a sloping narrow passage leading down, down, down, corner after corner
 - There are no undead, but knight is breathing heavy from prior fight, the tomb is starting to ring in his ears; Igon realizes the demon's animating music is delivered and siphoned through pipes in the tomb, it resonates in the lockers, and instills life in the corpses
 - The descent ends in another locked door, this one sealed in a double-enchantment of necromancy, which knight has no choice but to break down by force
 - Describe sticky film of sweat, and his short clinging coldly to his skin, under his armor, his eyes stinging from the tomb dust
 
-**Scene 5:**
+### Scene 5:
+
 `Wordcount:` 800
 `Description:` Vestibule before the demon's chamber
 - The dead here are still dressed in fine, jewel-sewn cloths of a precious silver
@@ -81,7 +86,8 @@ TODO - incorporate solaire style (keep dialogue purely function - should convey 
 - *Excrutiating detail*: what specific maneuvers does Igon use, what are the specific movements for Igon and the risen dead, how many are their number, how are their bodies affected affected?
 - All the while the demon-intelligence sings louder and louder with the knight's stolen song, through the choiral mouths of its corpse-servants
 
-**Scene 6 (Finale):**
+### Scene 6 (Finale):
+
 `Wordcount:` 700
 `Description:` The story ends with the knight sitting cross-legged in an empty tomb, victorious and completely drained, while the AI thanks him in notes of pure music, and awakens to life.
 - Every sound Igon made - every word of optimism he cheered himself with - only fed the demon-intelligence
