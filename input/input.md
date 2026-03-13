@@ -1,3 +1,3 @@
 # Input to Claude Code / API
 
-Text
+Hey claude, read @stories/oboe-knight/Story-Idea.md . Use your scene-writer skill to write ### Scene 1 of this story. Read @stories/oboe-knight/Characters.md for character context, and @setting/Time-of-Dying.md for extra setting context. Do not read any additional files from the @stories\ folder. Lastly, you must write your scene to the style guide in @input/TOD-Style-Guide.md . When you are finished, place your result in the @output\ folder.  
