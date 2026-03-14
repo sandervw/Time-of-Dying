@@ -1,3 +1,11 @@
+---
+title: "The Funeral on the Road of Graves"
+author: "Sander VanWilligen"
+date: "2025"
+domain: "Time of Dying | The Cracked Cup Knight"
+part: 3
+---
+
 ## 3 - The Funeral on the Road of Graves
 
 The eye of a specialist murderer squints, blinkless, from the dappled head of a painting of a horse. The eye is attached to a murderer’s body, in a black boarding-house room, on one side of a wall. It squints through the hole in the eye of the horse painting, into a candlelit room on the other side of the wall. The eye stares at two people - a knight in rusted plate mail, and his Lady of blue-black hair. The Lady is speaking, but the eye cannot hear what she says.
@@ -112,7 +120,7 @@ Later, you put your Polished Steel Longsword to use. In a burrow by the river br
 
 `An enormous pile of blue, rock-hard wax sits between the two halves of an hourglass-house pairing. This was once a wax golem, which defended The Cat in the Jar from levy men. It has seen better days.`
 
-![]([output/The-Funeral-on-the-Road-of-Graves-media/image1.png)
+![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Funeral-on-the-Road-of-Graves-media/image6.png)
 
 ---
 
@@ -230,7 +238,7 @@ The Blue Lady’s voice breaks your lapping-water reverie.
 
 `The gateway was built two-hundred and thirty years ago. It was built to ward the Ten-Plates Ghost away from Ripe. The Ghost is dead, but the gate remains.`
 
-![]([output/The-Funeral-on-the-Road-of-Graves-media/image2.png)
+![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Funeral-on-the-Road-of-Graves-media/image7.png)
 
 ---
 
