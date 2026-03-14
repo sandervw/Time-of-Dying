@@ -86,10 +86,16 @@ TODO - incorporate solaire style (keep dialogue purely function - should convey 
 - *Excrutiating detail*: what specific maneuvers does Igon use, what are the specific movements for Igon and the risen dead, how many are their number, how are their bodies affected affected?
 - All the while the demon-intelligence sings louder and louder with the knight's stolen song, through the choiral mouths of its corpse-servants
 
-### Scene 6 (Finale):
+### Scene 6 (The Quiet Final Scene):
 
 `Wordcount:` 700
-`Description:` The story ends with the knight sitting cross-legged in an empty tomb, victorious and completely drained, while the AI thanks him in notes of pure music, and awakens to life.
+`Description:` The story ends with seeming defeat for Igon, victorious but completely drained, while Guilliam thanks him in notes of pure music, and awakens to life.
+- Igon enters the final shrine room: it rises to a platform opposite the vestibule door; on the platform stand two three-sided small stucco obelisks, painted yellow and silver, on either side of a ring of stone, where the dessicated bones of the slain demon will remain forever even as its intelligence swells
+- Igon does not reach the stairs to the platform; he walks halfway across the stone floor, and the despair he feels in his heart drives him to the ground; he sits cross-legged, his head bowed
+- Guilliam spends the remainder of the scene analyzing the newfound intelligence, not understanding that it can never come back to life, thinking it is on the verge of revival as its voice sings through the pipes
+  - He dismisses Igon's faith in the Oboe song - it was only a lure to bring Igon here
+  - He laments the loss of his most faithful man-slaves (he thought the corpses were in-fact alive), but reflects that more slaves may be found
+  - He probes Igon with questions about the world outside the tomb: how many of the demon kings survived the seven necromancer-gods, etc
 - Every sound Igon made - every word of optimism he cheered himself with - only fed the demon-intelligence
-- *(An ambiguous finale for Igon - does he live? What happens next?)*
-- Defining image of this story: The knight sitting cross-legged, alone, panting in *silence*, surrounded by destroyed, humming dead, his tabard's oboe symbol torn in shreds — while every surface of the tomb resounds with his stolen song.
+- Defining image of this story: The knight sitting cross-legged, alone, panting in *silence*, a legion of the desroyed and humming dead behind him, his tabard's oboe symbol torn in shreds — while every surface of the tomb resounds with his stolen song.
+- The story has a very abrupt cut after Guilliam's final monologue; *(An ambiguous finale for Igon - does he live? What happens next?)*

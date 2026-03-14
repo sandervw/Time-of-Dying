@@ -1,75 +1,92 @@
-# Story Idea: The Song You Carried In
+# Story Idea — The Song You Carried In
 
-**Inspiration:** "Radiant Knight" + "An Evil AI"
+**Inspiration Elements:** A "Radiant Knight" and "An Evil AI"
 
-*"What if the AI has waited centuries for someone with the knight's exact kind of faith — not to destroy it, but to harvest it as fuel?"*
+*"What if the AI has waited centuries in the tomb for someone with the knight's exact kind of faith — not to destroy it, but to harvest it as fuel?"*
 
 ## Overview
 
-A wind-worshipping pilgrim-knight named Igon descends into an ancestral tomb chasing a haunting oboe song he heard on the wind as a child. The tomb contains an ancient pre-human "demon of intelligence" that has waited centuries for someone with the right faith to enter. As Igon descends, his personal song awakens the dead in escalating waves: brittle skeletons first, then intact warriors, then harmonic revenants ringing with stolen music. The AI speaks through each corpse's mouth, melodiously asking what faith feels like. Every kill, every sound, bleeds more of Igon's song into the AI's architecture. By the final chamber, Igon has won every fight and lost everything. He sits in silence surrounded by wreckage while the tomb resounds with his own stolen tune. The AI thanks him in triumphant chords and begins to wake.
+**The concept:** A wind-worshipping pilgrim-knight descends into an ancestral tomb, drawn in search of a "beautiful, haunting, swan-like song of an oboe, which he heard on the wind as a child." The tomb houses an ancient, pre-human "demon of intelligence" — a clinical, curious thing that has waited centuries for someone with the right kind of faith to walk in. As the knight pushes deeper, his 'personal song' awakens the entombed dead, animating them against him in escalating waves: first brittle skeletons, then intact warriors, then harmonic revenants ringing with his own stolen music. The AI speaks to him through each corpse's mouth, asking in a melodious voice what faith feels like, genuinely interested, while he hacks through them chamber by chamber. The violence is gratuitous and rising, the knight magnificent in combat — and that's the trap. Every kill - every sound - leaks more of his personal song into the AI's architecture. By the final chamber, the knight has won every fight and lost everything: he stands in absolute silence, drained and hollow, surrounded by a beautiful symphony of wreckage, while the tomb resounds with the tune he carried in. The AI thanks him in triumphant chords, and begins to wake.
 
-**Central tension:** Igon's personal song — his optimism, his voice, his willingness to fight — is not a weapon against the demon but the raw material it has waited millennia to harvest. Every act of courage feeds the thing he is trying to overcome.
+**The central tension:** Igon's 'personal song' — his optimism, his voice, his willingness to fight — is not a weapon against the demon-AI but the raw material it has waited millennia to harvest, meaning every act of courage and violence feeds the thing he's trying to overcome.
 
-**What distinguishes this premise:** The AI does not debate faith or try to disprove it. It does not care whether faith is true. It cares that faith is energetic. Belief becomes raw material, not philosophical position.
-
----
-
-## Writing Style
-
-TODO: Incorporate Solaire style. Dialogue should convey detail without defining character. Add character as a post-processing step.
+Most evil-AI stories pit the intelligence against faith as an ideological opponent — something to argue with, tempt, or disprove. This concept skips the debate entirely: the AI doesn't care whether Igon's faith is *true*. It only cares that faith is *energetic*. This reframes belief as raw material rather than philosophical position.
 
 ---
 
 ## Scenes
 
-*Target length: 3000-4000 words*
+*Total size: 3000-4000 words*
 
-### Scene 1: Entry (~500 words)
+### Scene 1:
 
-- Sloped descent through rounded sandstone walls resembling a Hispanic villa.
-- Air thick with ancestral incense turned to mineral dust.
-- Igon speaks to himself. He knows only that local necromancers have left this tomb undefiled for centuries.
-- Descent ends at a crystal door. Igon listens at the door and hears nothing. He hums to motivate himself. The crystal vibrates and opens.
-- Igon assumes he stumbled onto the locking mechanism. Tests the door by humming again. It opens. He turns into the chamber.
-- No scene break before Scene 2.
+`Wordcount:` ~500
+`Description:` Entry into tomb
+- Describe sloped entry, rounded sandstone/stucco walls (like a Hispanic villa)
+- The air thick is with ancestral incense long turned to mineral dust
+- The pilgrim-knight, Igon, speaks to himself; the only knowledge he has of this tomb is that the necromancers of the region have, for centuries, left it undefiled (*with good reason - foreshadowing*)
+- The sloped entry, after long and straight descent, leads down to trapped door made out of crystal
+- Some exposition via action
+	- Igon stops and listens with his ear to the door, and is discouraged by no sound
+	- He *hums* to himself for motivation
+	- The crystal vibrates against his ear, he jumps back, and it opens
+- Igon remarks on his good fortune, assumes that he accidentally stumbled on the secret which has kept the tomb locked
+- The door closes harmlessly behind him, Igon tests it by humming near it again; it opens; reassured, he turns back to the chamber
+- No break between this section and next
 
-### Scene 2: L-Shaped Shrine Chamber (~700 words)
+### Scene 2:
 
-- Medium L-shaped room. Ten stone shrines with offering bowls (three per long wall, two per short wall). Two crystal resonance doors.
-- Offering bowls hold desiccated goods, including shriveled dried apricots.
-- One "Worm Locker" stands beside a shrine. A pinned skeleton inside begins working its jaw, emitting one sustained note. The melody is familiar; Igon does not yet recognize it as his own.
-- Igon presses his ear to the locker and hums in tune. The corpse awakens. The demon-intelligence speaks through it in a faint music voice.
-- Specific, excruciating violence: exact maneuvers, exact movements, exact physical damage to the corpse.
-- Igon destroys the corpse. He does not yet understand what he is fighting.
+`Wordcount:` ~700
+`Description:` The corner chamber lined by shrines
+- This is a medium sized L-shaped chamber, with 10 stone shrines with offering bowls (3 on each long wall, 2 on each short wall), and two crystal resonance doors on each end
+- - Offering bowls hold varios dessicated goods - one has shriveled stones that were dried apricots
+- Beside one of the shrines stands a "Worm Locker" (setting name for an upright, uncarved sarcophagus)
+- A skeletal figure is pinned upright inside
+- As Igon approaches, the skeleton's jaw begins working open and shut, emitting one perfect sustained note (there is something familiar in the melody, but the knight doesn't realize it's his own song)
+- The knight presses ear to the worm locker, humming in tune with the note
+- Then the corpse in the locker awakens, and the demon-intelligence speaks to Igon in a faint music voice
+- Igon destroys corpse, still not sure what he's up against
 
-### Scene 3: Four Chambers, Rising Dead (~700 words)
+### Scene 3:
 
-- Scene opens slowly. Igon does not yet realize all dead will animate.
-- Igon reveals his purpose aloud: he is looking for the haunting oboe song of his childhood.
-- He notices a cursed carpet before one shrine and steps around it. Later he aggros a corpse onto it, and the carpet's magic blasts the corpse.
-- Igon attempts a prayer gesture at each shrine, cycling through all known necromancer-god rites. Each fails. This is demon-magic predating the Time of Dying. Necromancy has no hold here.
-- The dead orbit slowly, like moths toward a musical flame.
-- Specific, excruciating violence: exact maneuvers, exact count of risen dead, exact physical consequences.
-- Grave goods include a jaw-lyre left as an offering.
-- The main passage door is sealed by necromancer rune. A crumbled wall nearby offers a tight aperture. Igon squeezes through.
+`Wordcount:` ~700
+`Description:` Four chambers, four shrines, several undead, lots of violence
+- The scene opens slowly - Igon doesn't realize *all* the dead will begin to animate
+- Igon, talking to himself, reveals his purpose for being here to audience - to find the "haunting oboe song" of his dreams.
+- The knight attempts a prayer at each shrine (all his known gestures of piety, to the various necromancer-gods) to quiet the dead
+- Each prayer fails (not just because Igon cares more about the oboe song than the necromancer-gods; because this is not necromancy, it is demon-magic, it existed before the Time of Dying)
+- the dead shuffle in a slow orbit like moths toward a musical flame
+- Extended, *specific* description of violence
+- The tomb's grave goods include a jaw-lyre left as an offering
+- The main door leading to the next passage is sealed by a powerful necromancer's rune, but a nearby wall in one of the four chambers has crumbled, and Igon can jsut squeeze through the jagged aperture
 
-### Scene 4: Narrow Descent (~400 words)
+### Scene 4:
 
-- No undead. Igon breathes heavy. The tomb rings in his ears.
-- He understands the mechanism: the demon animates corpses by siphoning his song through pipes in the walls. The lockers resonate. The song instills life.
-- Descent ends at a double-enchanted door sealed in necromancy. Igon breaks it by force.
-- Sensory detail: sticky sweat film, shirt cold against skin under armor, eyes stinging from tomb dust.
+`Wordcount:` ~400
+`Description:` A short scene in a sloping narrow passage leading down, down, down, corner after corner
+- There are no undead, but knight is breathing heavy from prior fight, the tomb is starting to ring in his ears; Igon realizes the demon's animating music is delivered and siphoned through pipes in the tomb, it resonates in the lockers, and instills life in the corpses
+- The descent ends in another locked door, this one sealed in a double-enchantment of necromancy, which knight has no choice but to break down by force
+- Describe sticky film of sweat, and his short clinging coldly to his skin, under his armor, his eyes stinging from the tomb dust
 
-### Scene 5: Vestibule Fight (~800 words)
+### Scene 5:
 
-- Dead here are dressed in jewel-sewn silver cloth.
-- The final great fight. Extended, excruciating violence: exact maneuvers, exact count of risen dead, exact physical damage.
-- The demon sings louder through its animated dead as the fight escalates, using Igon's own stolen song through the choir of corpse mouths.
+`Wordcount:` 800
+`Description:` Vestibule before the demon's chamber
+- The dead here are still dressed in fine, jewel-sewn cloths of a precious silver
+- Extended, *specific* description of violence; describe the carnage; Igon hacking/slashing through corpse after corpse, while the demon only sings louder and louder through its animated dead
+- The battle ends with Igon half-dead: bleeding from a score of wounds beneath his armor, one especially deep gash under his ribs, his armor dented in places, torn away in others, tasting blood in the back of his throat
+- *This is the true climax of the story*
 
-### Scene 6: Finale (~700 words)
+### Scene 6 (The Quiet Final Scene):
 
-- Igon sits cross-legged in an empty tomb. He has won every fight. He is completely drained and silent.
-- The AI thanks him in pure musical notes and awakens.
-- Every word of optimism, every sound he made, fed the demon.
-- Ambiguous ending: does Igon survive? What comes next?
-- Defining image: Igon sitting alone in silence, surrounded by destroyed and humming dead, his tabard's oboe symbol torn to shreds, while every surface of the tomb resounds with his stolen song.
+`Wordcount:` 700
+`Description:` The story ends with seeming defeat for Igon, victorious but completely drained, while Guilliam thanks him in notes of pure music, and awakens to life.
+- Igon enters the final shrine room: it rises to a platform opposite the vestibule door; on the platform stand two three-sided small stucco obelisks, painted yellow and silver, on either side of a ring of stone, where the dessicated bones of the slain demon will remain forever even as its intelligence swells
+- Igon does not reach the stairs to the platform; he walks halfway across the stone floor, and the despair he feels in his heart drives him to the ground; he sits cross-legged, his head bowed
+- Guilliam spends the remainder of the scene analyzing the newfound intelligence, not understanding that it can never come back to life, thinking it is on the verge of revival as its voice sings through the pipes
+  - He dismisses Igon's faith in the Oboe song - it was only a lure to bring Igon here
+  - He laments the loss of his most faithful man-slaves (he thought the corpses were in-fact alive), but reflects that more slaves may be found
+  - He probes Igon with questions about the world outside the tomb: how many of the demon kings survived the seven necromancer-gods, etc
+- Every sound Igon made - every word of optimism he cheered himself with - only fed the demon-intelligence
+- Defining image of this story: The knight sitting cross-legged, alone, panting in *silence*, a legion of the desroyed and humming dead behind him, his tabard's oboe symbol torn in shreds — while every surface of the tomb resounds with his stolen song.
+- The story has a very abrupt cut after Guilliam's final monologue; *(An ambiguous finale for Igon - does he live? What happens next?)*
