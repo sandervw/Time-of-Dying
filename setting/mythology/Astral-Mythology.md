@@ -18,6 +18,12 @@ The harridan's moon is yellow. It marks the night of witches. Certain undead can
 
 - **Gallowspooks** may only be summoned under the light of a harridan's moon.
 
+The moon has a humpbacked silhouette. It also casts silver light in non-witch contexts (e.g., a full moon over Landmine Forest). Whether the silver vs. yellow distinction reflects a separate lunar body, a phase cycle, or contextual variation is unclear.
+
+## Constellations
+
+- **Amber Ox** -- named constellation in the setting. Visible from the Lake of Tomatoes region. A constellation chart shows all major constellations, with the Amber Ox specifically circled.
+
 ## Ritual: [NAME]
 
 TODO - a specific ritual or rituals associated with the astral bodies

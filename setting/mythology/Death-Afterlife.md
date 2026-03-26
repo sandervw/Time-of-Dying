@@ -32,7 +32,7 @@ The belief that a place beneath an epitaph on the Road shields the soul from nec
 Un-dead states are common. Some are raised deliberately by necromancers; others rise on their own.
 
 - **Ghosts** -- Have no hands (people can clap to prove they are not spirits).
-- **Skeletons / Restless Upright Bones** -- Generic undead.
+- **Skeletons / Restless Upright Bones** -- Generic undead. Some hold dormant guard-states or run scheduled patrol circuits without active necromantic direction. Certain poisons (e.g., landmine poison) force undead into dormancy and block necromantic spellwork in a region.
 - **Wraiths / Starshadows** -- Incorporeal undead.
 - **Rolling Walrus Bones, Vigorous Blood, Skinrights** -- Other generic undead types.
 

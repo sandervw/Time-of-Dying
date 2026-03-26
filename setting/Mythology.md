@@ -16,10 +16,10 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 | **Creatures**            | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna             |
 | **Magic Systems**        | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs                   |
 | **Magic Items**          | Sundries and Reagents  | Necromantic tools, substances, reagents, and curios used by working mancers               |
-| **Hero Cycles**          | TODO                   | TODO                                                                                      |
+| **Hero Cycles**          | Oath-Bound Questing    | Chivalric tradition of sworn service and stoic valor; implied rather than codified         |
 | **Demon Cults**          | TODO                   | TODO                                                                                      |
-| **Prophecy**             | Dreams of the Thin Man | The Thin Man shares dreams with his followers; prophecy of the Sickened Cradle            |
-| **Astral Mythology**     | The Slate Sun          | The sun is cold and slate-colored; no moon or stars are described                         |
+| **Prophecy**             | Dreams of the Thin Man | The Thin Man shares dreams with his followers; Gallbladder has a separate portent-crying tradition |
+| **Astral Mythology**     | The Slate Sun          | The sun is cold and slate-colored; the harridan's moon is yellow; constellations include the Amber Ox |
 | **Otherworld Geography** | The End of the Road    | A possibly metaphysical place from which the Old Man Below issues forth                   |
 
 ---
@@ -48,9 +48,9 @@ The necromancers, once united against the world, turned on one another after the
 | **The Old Man Below**   | Pride    | History and Age      | A roving spirit issuing from the End of the Road; most powerful |
 | **The Scratcher**       | Wrath    | Blood and Curses     | Details vague; served by the Mailed Flayer                      |
 | **The Mother of Worms** | Lust     | Decay                | A vampire; beautiful outside, rotten within; feeds off consorts |
-| **Gallbladder**         | Gluttony | Consumption          | Worshipped at the Lake of Tomatoes; served by the Grootslang    |
+| **Gallbladder**         | Gluttony | Consumption          | "Lord of Lake"; daily portents via criers; served by the Grootslang |
 | **Lady Horsehair**      | Greed    | Possession           | Details vague                                                   |
-| **The Red King**        | Envy     | Persecution          | Details vague                                                   |
+| **The Red King**        | Envy     | Persecution          | Served by branded devotees and the Weige noble family           |
 
 ## Anthropogeny: The Dwellers
 
@@ -75,7 +75,7 @@ When any person dies, their gravestone is added to the cobbles of the Road. The 
 - **Bouldsatr (Boulder Elves/Giants)** - Details vague
 - **Grot (Toad-Centipede-Necromancers)** - Innately undead; worship crystals rather than the Necromancer-Gods; spells center on mutation and flesh-to-metal curses; wear jellyfish-leather robes
 
-**Notable Monsters:** Birchmen, Homunculi, Ghosts (handless), Golems (wax/glass/leather/tissue), Gasps, Ferrous Knights, Silk Giants, Gallowspooks, Leatherwyrms, Fimbulwolves, Grootslang, and many others. See source doc for full bestiary.
+**Notable Monsters:** Birchmen, Homunculi, Ghosts (handless), Golems (wax/glass/leather/tissue), Gasps, Gearslave Apes (necromantic wood/iron/crystal constructs), Ferrous Knights, Silk Giants, Gallowspooks, Leatherwyrms, Fimbulwolves, Grootslang, Bell Ringers, and many others. See source doc for full bestiary.
 
 ## Magic Systems: Necromancy Motifs
 
@@ -93,7 +93,7 @@ Necromancy is the only surviving magic. Among Witches, necromancy is referred to
 
 *Full doc: `Mythology/Magic-Items.md`*
 
-Necromantic tools, substances, reagents, and curios. Includes violet jelly (tissue-melting unguent), embalming fluid, banshee-wax, bone dust, fabricated tissue (artificially grown biological material), firebug lanterns, and the singing mushroom (a fungus with a tiny human mouth that hums Deadspeech fragments).
+Necromantic tools, substances, reagents, and curios. Includes violet jelly (tissue-melting unguent), embalming fluid, banshee-wax, bone dust, fabricated tissue (artificially grown biological material), firebug lanterns, the Song-Singing Fungus, necromancer's shovels, reflective ointment, and poison landmines.
 
 ## Demon Cults: TODO
 
@@ -101,17 +101,24 @@ Necromantic tools, substances, reagents, and curios. Includes violet jelly (tiss
 
 TODO
 
+
 ## Prophecy: Dreams of the Thin Man
 
 *Full doc: `Mythology/Prophecy.md`*
 
-The Thin Man shares his dreams with his followers from within his eternal sleep. The central prophecy: finding and opening the Sickened Cradle will unleash a plague that brings final rest to all living and dead, inflicting final entropy on the Road of Graves. Whether this is salvation or annihilation depends on the believer.
+The Thin Man shares his dreams with his followers from within his eternal sleep. The central prophecy: finding and opening the Sickened Cradle will unleash a plague that brings final rest to all living and dead, inflicting final entropy on the Road of Graves. Whether this is salvation or annihilation depends on the believer. A Deadspeech inscription in grot tomb structures names Headstone Mountain as the landmark above the Cradle and describes the Thin Man wearing a silver mask.
+
+## Hero Cycles: Oath-Bound Questing
+
+*Full doc: `Mythology/Hero-Cycles.md`*
+
+Chivalric tradition of sworn service and stoic valor implied across the setting. Protagonists may be oath-sworn to a master, questing to retrieve specific artifacts. The Silver Ring ("a tiny circle of pure moonlight") is one such artifact.
 
 ## Astral Mythology: The Slate Sun
 
 *Full doc: `Mythology/Astral.md`*
 
-The sun is cold and slate-colored. The harridan's moon is yelow, and marks the night of witches.
+The sun is cold and slate-colored. The harridan's moon is yellow, and marks the night of witches. Silver moonlight is also observed in non-witch contexts.
 
 ## Otherworld Geography: The End of the Road
 

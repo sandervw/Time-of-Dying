@@ -1,15 +1,7 @@
-# Input to Claude Code / API
+Hey claude, I need you to incorporate the new lore in @output/Spit-of-Mool-lore-extraction.md into the existing lore in @setting\ . This is all new or modified lore for the main mythology.md file, the main folklore.md, and the specific mythology and folklore subfolders.
 
-Hey claude, read the following files for story context:
-- @stories/WIP/Story-Idea.md 
-- @stories/WIP/Characters.md
-- @stories/WIP/Time-of-Dying.md
-- @stories/WIP/Oboe-Knight-Scene-5-Summary.md
-Use your scene-writer skill to write ### Scene 6 (the finale) of this story. You must write your scene according to the style guide in @input/TOD-Style-Guide.md . Do not read any additional files. Place your result in the @output\ folder.
+For the purposes of this task, your primary goal is to match the density or compactness of exisitng entries. For example, you would not modify the 'Grot' entry in creatures to the point where it outweighed all the other entries.
 
-Hey claude, read all the following files:
-- @stories/oboe-knight/Oboe-Knight-Scene-1-Summary.md
-- @stories/oboe-knight/Oboe-Knight-Scene-2-Summary.md
-- @stories/oboe-knight/Oboe-Knight-Scene-3-Summary.md
-- @stories/oboe-knight/Oboe-Knight-Scene-4-Summary.md
-These are the summaries of scenes already written for @stories/oboe-knight/Story-Idea.md Can you condense these down into a smaller 'Oboe-Knight-Prior-Scene-Summary.md' file, which would have info necessary to write scene 5? Obviously the more recent a scene, the more direct bearing it will have. Focus on any open/unanswered threads left from prior scenes.
+A secondary goal is to organize the new lore appropriately. I've taken a best-guess at which sections each piece of myth/lore goes into. If you think one of the new mythic elements represents a smaller aspect of the setting, or would work better in an existing or new folklore section, you have my permission to move it to folklore instead.
+
+Do you have any questions, or need clarification?

@@ -16,6 +16,17 @@ The Oldvaults are the ancient dungeons and laboratories of the necromancers. The
 - All exits to the Cursed Forest are sealed, or said to be
 - Undead are most common here, as are weird experiments and relics of ancient times
 
+### Mool's Chrypt (Heather Vault)
+
+- An Oldvault containing a self-sustaining underground ecosystem: magenta heather fields, crystal-lattice lighting, and mirrored sunlight conduits from the surface
+- Includes a populated underground lake
+- Maintained by gearslave ape automaton labor under a sleeping mancer's will
+
+### Headstone Mountain
+
+- Named in the Sickened Cradle prophecy inscription as the landmark above the Thin Man's Cradle
+- Source is prophecy only; whether literal or metaphorical is unconfirmed
+
 ### The Sleep Tombs
 
 - Mancers came down here and entered eternal slumber, to be awakened again in a better age, with a new sun dawned
@@ -39,6 +50,14 @@ The Cursed Forest is a hostile wilderness beside the Road of Graves. It is a was
 - Leaves do not come from the trees -- they arrive seemingly born on the wind of some faraway plane of forever-autumn, already fallen and colored with decay
 - Lakes are poison pools
 - The only birds are ravens, crows, whip-poor-wills, and vultures
+
+## Landmine Forest
+
+A dense forest where buried poison landmines emit poison that suppresses necromancy and forces undead into dormancy. The road disintegrates to loose stone at its edge.
+
+- Contains giant black slugs repelled by firebug lantern light; too large to enter narrow openings
+- Fig-root caves provide shelter from the slugs
+- The ruined Wraithcotte Estate lies within
 
 ## Ritual: [NAME]
 

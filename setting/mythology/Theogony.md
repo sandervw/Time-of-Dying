@@ -34,9 +34,9 @@ Uhrdgatan ("winter-beast") is a named devoted follower who believes the world en
 
 ### Gallbladder (Gluttony) - God of Consumption
 
-Also known as The Fat Man, or "His Grand Corpulency."
+Also known as The Fat Man, "His Grand Corpulency," or "Lord of Lake."
 
-Worshipped by the mutants of The Lake of Tomatoes. His strongest servants are the Grootslang - many-trunked elephant-snakes.
+Worshipped by the mutants of The Lake of Tomatoes. His strongest servants are the Grootslang -- many-trunked elephant-snakes. Also served by the Distended Hermits, a monastic order. The Song-Singing Fungus (bright red mushroom) is sacred to these hermits. Daily portents are issued in his name by a formal class of street criers.
 
 ### Lady Horsehair (Greed) - God of Possession
 
@@ -46,11 +46,7 @@ TODO
 
 ### The Red King (Envy) - God of Persecution
 
-TODO
-
-## The Decline of the necromancer-gods
-
-TODO - the process by which the necromancer-gods declined from immortal gods to their current diminished states. Sources mention repeated deaths, confused doctrines, and lingual drift as contributing factors, but the specifics are undeveloped.
+Associated with torture devices called confession racks. Worshippers are branded with his mark and described as "devoted, wrathful dreamers." The Weige noble family are rumored cultists, practicing black rites in deep places near the Lake of Tomatoes. The Stitched Soul Men are branded servants of the Red King.
 
 ## Ritual: TODO
 

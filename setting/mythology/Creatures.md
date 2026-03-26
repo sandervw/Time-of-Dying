@@ -72,6 +72,13 @@ TODO
 - Throw rocks from pouches around their necks
 - Rise in coordinated groups; capable of surrounding, pausing, and launching synchronized barrages
 
+### Gearslave Apes
+
+- Necromantic constructs built from wood, rusted iron, and glowing crystal; animated by a mancer's will
+- Capable of speaking Deadspeech
+- Five named subtypes: Carver (embeds crystal buds in walls), Stonechewer, Yellow (wax-covered), Heavy (twice a man's height), Milk (pale steel, glows white)
+- Associated with grot mancers and Oldvault automation
+
 ### Ferrous Knights
 
 - Automatons
@@ -79,6 +86,8 @@ TODO
 ### Silk Giant
 
 - A giant that likes to weave, can climb walls, and hates light
+- Near-invulnerable to cutting weapons ("saddle-like skin"); paralyzed by concentrated light
+- Bonded to a master; goes mad if the master dies
 
 ### Gallowspook
 
@@ -100,6 +109,31 @@ TODO
 
 - Giant wyrm that disguises itself in wall reliefs
 - Guards tombs
+
+### Bell Ringer
+
+- Thick skeleton with a bell for one hand and a cone around its mouth
+- Tolling 11 times induces sleep
+- Cries "Who calls at midnight?" on patrol
+
+### Stitched Soul Men
+
+- Colony of grey-eyed humanoids with stitched, variegated flesh
+- Live inside stone lanterns in carved caves; attack on a single gong-note
+- Branded servants of the Red King
+
+### Mermaid
+
+- Bloated siren; fish-eyed with a positional vulnerability (eyes cannot look downward)
+
+### Penny Lizard
+
+- Enormous sewer salamander that collects objects falling through city grates, accumulating a copper-coin hoard
+
+### Ratwall
+
+- Living wall of ratskin and ratheads; "probably some mancer's work"
+- Eats steel and any limb touching it; destroyed by fire
 
 ### Mailed Flayer
 

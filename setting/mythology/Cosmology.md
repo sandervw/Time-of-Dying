@@ -12,6 +12,10 @@ The only birds are ravens, crows, whip-poor-wills, and vultures.
 
 Some graves - Tombs and Chrypts - are more elaborate than simple stones. They are deep underground vaults. Chryptsackers are professionals in the art of looting these valuable troves.
 
+## Divine Weather Curses
+
+Necromancer-gods can impose long-duration regional weather curses tied to calendar periods. A permanent rainstorm bound to commence each spring is one known example. Such curses can outlast the memory of their original purpose.
+
 ## Ritual: [NAME]
 
 TODO

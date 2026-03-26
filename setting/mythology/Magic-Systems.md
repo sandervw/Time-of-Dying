@@ -18,6 +18,13 @@ Deadspeech is the magical language used in necromancy, drawn from Hungarian. Kno
 - "harag naj, gonosz naj; egos at haruva halj," -- Day of wrath, evil day; shall sky and road in ashes lay.
 - "ahoz hjetes az elernt mondj." -- as seven and the living say.
 - "Malyan borznak kell megszall met; amizor a kozalsa Biry talat; es rastald atgesz ember csontjat!" -- What horror must invade the mind; when the approaching silk shall find; and sift the bones of all mankind!
+- "Vigyazz" -- Caution. (From Hungarian "vigyazz.")
+
+## Environmental Counters
+
+- **Anti-necromancy zones** -- Certain poisons (e.g., landmine poison) nullify necromancy within a region, forcing undead into dormancy and blocking all necromantic spellwork. The only known hard environmental constraint on necromancy beyond physical gagging.
+- **Autonomous skeleton behavior** -- Undead given standing behavioral orders (guard-states, patrol circuits) can operate indefinitely without active necromantic direction. The orders survive the issuing necromancer.
+- **Heart removal** -- Cutting out the heart of a slain person prevents "common necromancy" from resurrecting them. The qualifier "common" implies higher necromancy may overcome this.
 
 ## Folk Explanation: TODO
 

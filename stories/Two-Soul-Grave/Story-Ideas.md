@@ -19,6 +19,8 @@ Assassin sent to bottom of middlemoss gorge (bottom of middle of road) - fights 
 The Moonbeast (werewolf)
 
 The Bottom Sea
+
+Murder at the Snowbound Abbey (mystery is which one of them is the monster)
 ## Unsorted
 
 Next story: STOP PROVIDING SO MUCH CONTEXT
