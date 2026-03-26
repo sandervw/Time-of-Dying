@@ -50,8 +50,8 @@ This time you recognize, quite clearly as your senses wake, your Blue Lady’s v
 In the northernmost reach of the Middlemoss heath, over which you and your Blue Lady presently roam, there stand several of the famous Pilgrim Tohmbs.
 
 | **The Fourth Green** The Mother of Worms is the fourth god-necromancer whose domain is ‘wanting’. Her Pilgrim Tohmb can be found beneath the ruined brickwork of a gutted brothel. The bouncer behind the tohmb door halts you with a riddle. The correct answer is ‘Ginseng’. | **The Leper Stone** The Thin Man’s ill mask looks down its flaccid cheeks of plaster from the upper middle of this menhir. Though it is a bad idea, the colony of lepers camping around the shrine’s base will not stop you if you take the mask. |
-| --- | --- |
-| **The Wandering Barrow** This barrow’s entry changes to one of five different locations every night at midnight. The bodies are different at each location, but the smell of old death is the same. | **The Chine Pit** This is not really a shrine to Gallbladder, but to a famous Middlemoss butcher, who was a great friend among the local mancers. There is nothing here for you. |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Wandering Barrow** This barrow’s entry changes to one of five different locations every night at midnight. The bodies are different at each location, but the smell of old death is the same.                                                                            | **The Chine Pit** This is not really a shrine to Gallbladder, but to a famous Middlemoss butcher, who was a great friend among the local mancers. There is nothing here for you.                                                                  |
 
 All four shrines are disappointing. None of these gods gives you their sign of will, good or evil.
 
@@ -105,9 +105,9 @@ As you wake you hear the same chime.
 
 `Near the end of the week the nightmares will bleed into reality. You will have to deal with any three of the following afflictions.`
 
-| **Merchants’ Ill Welcome** Every shop gate, when it opens, rings not with a bell, but with a chime. | **Prickly Cuisine** Your black bread, your tubers, your sheepmeat, all burst with prongs. You cannot eat it. You must go hungry. |
-| --- | --- |
-| **Immobilized** A test of patience. Your Lady will eventually find you; her words break the spell. | **The False Foe** This statue appears like an enemy about to strike. It is an illusion, only a statue, but the fear lasts for many hours after. |
+| **Merchants’ Ill Welcome** Every shop gate, when it opens, rings not with a bell, but with a chime. | **Prickly Cuisine** Your black bread, your tubers, your sheepmeat, all burst with prongs. You cannot eat it. You must go hungry.                |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Immobilized** A test of patience. Your Lady will eventually find you; her words break the spell.  | **The False Foe** This statue appears like an enemy about to strike. It is an illusion, only a statue, but the fear lasts for many hours after. |
 
 ---
 

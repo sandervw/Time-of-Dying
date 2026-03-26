@@ -6,6 +6,8 @@ Necromancy is the only surviving magic in the Time of Dying. All other magics an
 
 Necromancy is structured through a system of reusable motifs -- patterns for designing spells and rituals. By using these motifs in incantation design, a mancer creates spells and rituals that may be used in a variety of contexts.
 
+Spells are spoken aloud in Deadspeech -- gagging a mancer physically prevents casting. A single spell typically incorporates motifs from multiple categories (Shape, Desire, Nature), worked through sequentially. Interrupting a spell mid-cast does not fizzle it; a partially completed spell can become an uncontrolled, unbounded invitation in Deadspeech, drawing undead without targeting or behavioral constraints.
+
 ## Ritual: Deadspeech
 
 Deadspeech is the magical language used in necromancy, drawn from Hungarian. Known phrases include:
@@ -80,7 +82,7 @@ The Grot -- an ancient race of toad-centipede-necromancers who are innately unde
 ## Notable Necromantic Creations
 
 - **Homunculus** -- Fetus grown in a stoppered flask, buried in cow dung. When uncorked and fed blood, turns into a servant of the creator. The greater the kind of blood (mice, chickens, cows, men), the more powerful the servant.
-- **Golems** -- Wax, Glass, or Leather. Cannot be created under the sky or sun.
+- **Golems** -- Wax, Glass, Leather, or Stitched Tissue. Cannot be created under the sky or sun.
 - **Birchmen** -- Bodies of dead birch trees possessed by an evil spirit; feed on blood; can be sedated with subzero temperatures.
 - **Gallowspook** -- May only be summoned under the light of a harridan's moon.
 
@@ -88,3 +90,5 @@ The Grot -- an ancient race of toad-centipede-necromancers who are innately unde
 
 - **Violet Jelly** -- Unguent which melts tissue, but not bones.
 - **Embalming Fluid** -- Transported via pipeline from refineries to outlying necromancer facilities.
+
+For a full catalogue of necromantic items, substances, and tools, see `Mythology/Magic-Items.md`.

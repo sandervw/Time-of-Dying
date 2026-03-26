@@ -75,9 +75,9 @@ You hold your sabaton back just before stepping over the lip of an invisible led
 
 `By observing them without notice for some time, you can learn the distinct types of gearslave ape.`
 
-| **Carver Ape** These servants climb up and down the walls of the trench, carving out small boreholes, and placing the glowing crystal buds within. | **Stonechewer Ape** Their purpose is unknown. When they move, it is always accompanied by an enormous scraping, grating sound. |   | **Yellow Ape** Covered in wax. |
-| --- | --- | --- | --- |
-| **Heavy Ape** These gearslaves stand twice the height of a man. You do not wish to draw their attention. |   | **Milk Ape** Constructed of pale steel, painted balsa-wood, and glowing white crystal. They shamble without a sound. |   |
+| **Carver Ape** These servants climb up and down the walls of the trench, carving out small boreholes, and placing the glowing crystal buds within. | **Stonechewer Ape** Their purpose is unknown. When they move, it is always accompanied by an enormous scraping, grating sound. |                                                                                                                      | **Yellow Ape** Covered in wax. |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| **Heavy Ape** These gearslaves stand twice the height of a man. You do not wish to draw their attention.                                           |                                                                                                                                | **Milk Ape** Constructed of pale steel, painted balsa-wood, and glowing white crystal. They shamble without a sound. |                                |
 
 You watch as a procession of gearslave apes emerges - one ape after the next - from the mouth of one tunnel, like a long, lolling, constructed tongue. The apes jitter in time with each other, their movements like a clockwork ritual dance.
 

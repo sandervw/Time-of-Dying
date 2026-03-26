@@ -15,6 +15,7 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 | **Death/Afterlife**      | The Epitaphs           | The dead become gravestones in the Road; necromancy is the only force that persists       |
 | **Creatures**            | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna             |
 | **Magic Systems**        | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs                   |
+| **Magic Items**          | Sundries and Reagents  | Necromantic tools, substances, reagents, and curios used by working mancers               |
 | **Hero Cycles**          | TODO                   | TODO                                                                                      |
 | **Demon Cults**          | TODO                   | TODO                                                                                      |
 | **Prophecy**             | Dreams of the Thin Man | The Thin Man shares dreams with his followers; prophecy of the Sickened Cradle            |
@@ -74,7 +75,7 @@ When any person dies, their gravestone is added to the cobbles of the Road. The 
 - **Bouldsatr (Boulder Elves/Giants)** - Details vague
 - **Grot (Toad-Centipede-Necromancers)** - Innately undead; worship crystals rather than the Necromancer-Gods; spells center on mutation and flesh-to-metal curses; wear jellyfish-leather robes
 
-**Notable Monsters:** Birchmen, Homunculi, Ghosts (handless), Golems (wax/glass/leather), Gasps, Ferrous Knights, Silk Giants, Gallowspooks, Leatherwyrms, Fimbulwolves, Grootslang, and many others. See source doc for full bestiary.
+**Notable Monsters:** Birchmen, Homunculi, Ghosts (handless), Golems (wax/glass/leather/tissue), Gasps, Ferrous Knights, Silk Giants, Gallowspooks, Leatherwyrms, Fimbulwolves, Grootslang, and many others. See source doc for full bestiary.
 
 ## Magic Systems: Necromancy Motifs
 
@@ -87,6 +88,12 @@ Necromancy is the only surviving magic. Among Witches, necromancy is referred to
 - **Nature Motifs (Behavioral)** - Behavior, control, and communication with undead (partially developed)
 
 **Deadspeech** is the magical language of necromancy, drawn from Hungarian.
+
+## Magic Items: Sundries and Reagents
+
+*Full doc: `Mythology/Magic-Items.md`*
+
+Necromantic tools, substances, reagents, and curios. Includes violet jelly (tissue-melting unguent), embalming fluid, banshee-wax, bone dust, fabricated tissue (artificially grown biological material), firebug lanterns, and the singing mushroom (a fungus with a tiny human mouth that hums Deadspeech fragments).
 
 ## Demon Cults: TODO
 

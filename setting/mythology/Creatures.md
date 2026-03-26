@@ -56,8 +56,10 @@ TODO
 
 ### Golems
 
-- Varieties: Wax, Glass, Leather
+- Varieties: Wax, Glass, Leather, Stitched Tissue
 - Cannot be created under the sky or sun
+- Operate on standing behavioral orders and can receive real-time verbal commands
+- Can have named identities (e.g., "Grot," a three-armed, three-eyed tissue golem)
 
 ### Starshadow
 
@@ -65,9 +67,10 @@ TODO
 
 ### Gasps
 
-- Skeletons that rise from the water with a single gasp sound
-- Form ice under their feet
+- Skeletons that rise from the water with a single gasp sound; may retain scraps of clinging flesh
+- Form ice from their toe-phalanges outward
 - Throw rocks from pouches around their necks
+- Rise in coordinated groups; capable of surrounding, pausing, and launching synchronized barrages
 
 ### Ferrous Knights
 
