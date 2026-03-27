@@ -11,6 +11,8 @@ Necromantic tools, substances, reagents, and curios. Some are crafted deliberate
 - **Banshee-wax** -- Purpose unspecified; a common field-kit component.
 - **Bone Dust** -- Carried in flour sacks; a common necromantic reagent.
 - **Fabricated Tissue** -- Artificially created biological material, white and marble-like. Can be worn as armor or used as a component. Suggests mancers can grow living-adjacent tissue.
+- **Sewer Worm Silk** -- Rope woven from Sewer Worm silk; stronger than iron. Can restrain a fully armored knight.
+- **Ill Omen's Heart** -- A named necromantic substance carried in labeled vials; associated with medical or necromantic practice. Name suggests ominous or predictive properties.
 
 ## Tools
 
@@ -24,6 +26,10 @@ Necromantic tools, substances, reagents, and curios. Some are crafted deliberate
 - Completes songs you begin singing, induces deep sleep, then grows parasitic crimson roots over the victim to feed
 - A smaller variant has a hidden mouth under its cap and sings specifically in the presence of uncontrolled dead, functioning as a detection organism
 - An earlier description references a small fungus with a tiny human mouth that hums Deadspeech fragments; this predatory variant may be the same organism at full size or a related species
+
+### The Alabaster Masks
+
+A set of twenty-three alabaster masks, each granting the wearer a false identity and altered physical traits. The Sorrowful Father variant grants leather-tough skin resistant to lesser cuts, but the wearer burns easily in fire. Other masks in the set are unspecified.
 
 ### Necromancer's Shovel
 

@@ -40,9 +40,7 @@ Worshipped by the mutants of The Lake of Tomatoes. His strongest servants are th
 
 ### Lady Horsehair (Greed) - God of Possession
 
-Also known as The Girl Doll.
-
-TODO
+Also known as The Girl Doll. Commands a servitor class called dollmakers. Ordered her dollmakers to weave the Whiteeye Waste from shed winter animal pelts, creating a barrier between Gallbladder's territory and the civilized Road. *"A door erected must be, / Between Middlemoss, / And the Red Lake of Gallbladder."*
 
 ### The Red King (Envy) - God of Persecution
 

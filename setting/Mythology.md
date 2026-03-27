@@ -6,21 +6,21 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 
 ## Mythological Elements
 
-| Element                  | Name                   | Summary                                                                                   |
-| ------------------------ | ---------------------- | ----------------------------------------------------------------------------------------- |
-| **Cosmogony**            | The Time of Dying      | Necromancers destroyed the demon kings 3000 years ago; only the Road of Graves remains    |
-| **Cosmology**            | The Road of Graves     | An endless road paved with gravestones, surrounded by the Cursed Forest under a slate sun |
-| **Theogony**             | The Necromancer-Gods   | Necromancer-gods tied to the seven sins, now cursed to diminished pseudo-immortality      |
-| **Anthropogeny**         | The Dwellers           | Modern man descends from the necromancers' acolytes, servants, and slaves                 |
-| **Death/Afterlife**      | The Epitaphs           | The dead become gravestones in the Road; necromancy is the only force that persists       |
-| **Creatures**            | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna             |
-| **Magic Systems**        | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs                   |
-| **Magic Items**          | Sundries and Reagents  | Necromantic tools, substances, reagents, and curios used by working mancers               |
-| **Hero Cycles**          | Oath-Bound Questing    | Chivalric tradition of sworn service and stoic valor; implied rather than codified         |
-| **Demon Cults**          | TODO                   | TODO                                                                                      |
-| **Prophecy**             | Dreams of the Thin Man | The Thin Man shares dreams with his followers; Gallbladder has a separate portent-crying tradition |
-| **Astral Mythology**     | The Slate Sun          | The sun is cold and slate-colored; the harridan's moon is yellow; constellations include the Amber Ox |
-| **Otherworld Geography** | The End of the Road    | A possibly metaphysical place from which the Old Man Below issues forth                   |
+| Element              | Name                   | Summary                                                                                            |
+| -------------------- | ---------------------- | -------------------------------------------------------------------------------------------------- |
+| **Cosmogony**        | The Time of Dying      | Necromancers destroyed the demon kings 3000 years ago; only the Road of Graves remains             |
+| **Cosmology**        | The Road of Graves     | An endless road paved with gravestones, surrounded by the Cursed Forest under a slate sun          |
+| **Theogony**         | The Necromancer-Gods   | Necromancer-gods tied to the seven sins, now cursed to diminished pseudo-immortality               |
+| **Anthropogeny**     | The Dwellers           | Modern man descends from the necromancers' acolytes, servants, and slaves                          |
+| **Death/Afterlife**  | The Epitaphs           | The dead become gravestones in the Road; sanctums grant the "shield of after-life"                 |
+| **Creatures**        | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna                      |
+| **Magic Systems**    | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs                            |
+| **Magic Items**      | Sundries and Reagents  | Necromantic tools, substances, reagents, curios, and the twenty-three Alabaster Masks              |
+| **Hero Cycles**      | Oath-Bound Questing    | Chivalric tradition of sworn service and stoic valor; implied rather than codified                 |
+| **Demon Cults**      | TODO                   | TODO                                                                                               |
+| **Prophecy**         | Dreams of the Thin Man | The Thin Man shares dreams with his followers; Gallbladder has a separate portent-crying tradition |
+| **Astral Mythology** | The Slate Sun          | The sun is cold and slate-colored; the harridan's moon triggers a cyclical folk-apocalypse vigil   |
+| **World Geography**  | Zones of the Road      | The Cursed Forest, Oldvaults, Landmine Forest, Whiteeye Waste, Middlemoss, and other named regions |
 
 ---
 
@@ -42,15 +42,15 @@ The world is the Road of Graves - an endless road paved with the gravestones of 
 
 The necromancers, once united against the world, turned on one another after their victory. Most have died at least once. Repeated deaths, confused doctrines, and lingual drift degraded their power. Once immortal gods, all seven are now cursed to different flavors of pseudo-immortality. They are worshipped still, though their power is limited. Each is associated with one of the seven deadly sins:
 
-| God                     | Sin      | Domain               | Status/Notes                                                    |
-| ----------------------- | -------- | -------------------- | --------------------------------------------------------------- |
-| **The Thin Man**        | Sloth    | Sickness and Entropy | Locked in eternal sleep in his Sickened Cradle; shares dreams   |
-| **The Old Man Below**   | Pride    | History and Age      | A roving spirit issuing from the End of the Road; most powerful |
-| **The Scratcher**       | Wrath    | Blood and Curses     | Details vague; served by the Mailed Flayer                      |
-| **The Mother of Worms** | Lust     | Decay                | A vampire; beautiful outside, rotten within; feeds off consorts |
+| God                     | Sin      | Domain               | Status/Notes                                                        |
+| ----------------------- | -------- | -------------------- | ------------------------------------------------------------------- |
+| **The Thin Man**        | Sloth    | Sickness and Entropy | Locked in eternal sleep in his Sickened Cradle; shares dreams       |
+| **The Old Man Below**   | Pride    | History and Age      | A roving spirit issuing from the End of the Road; most powerful     |
+| **The Scratcher**       | Wrath    | Blood and Curses     | Details vague; served by the Mailed Flayer                          |
+| **The Mother of Worms** | Lust     | Decay                | A vampire; beautiful outside, rotten within; feeds off consorts     |
 | **Gallbladder**         | Gluttony | Consumption          | "Lord of Lake"; daily portents via criers; served by the Grootslang |
-| **Lady Horsehair**      | Greed    | Possession           | Details vague                                                   |
-| **The Red King**        | Envy     | Persecution          | Served by branded devotees and the Weige noble family           |
+| **Lady Horsehair**      | Greed    | Possession           | Details vague                                                       |
+| **The Red King**        | Envy     | Persecution          | Served by branded devotees and the Weige noble family               |
 
 ## Anthropogeny: The Dwellers
 
@@ -75,11 +75,11 @@ When any person dies, their gravestone is added to the cobbles of the Road. The 
 - **Bouldsatr (Boulder Elves/Giants)** - Details vague
 - **Grot (Toad-Centipede-Necromancers)** - Innately undead; worship crystals rather than the Necromancer-Gods; spells center on mutation and flesh-to-metal curses; wear jellyfish-leather robes
 
-**Notable Monsters:** Birchmen, Homunculi, Ghosts (handless), Golems (wax/glass/leather/tissue), Gasps, Gearslave Apes (necromantic wood/iron/crystal constructs), Ferrous Knights, Silk Giants, Gallowspooks, Leatherwyrms, Fimbulwolves, Grootslang, Bell Ringers, and many others. See source doc for full bestiary.
+**Notable Monsters:** Birchmen, Homunculi, Ghosts (handless), Golems (wax/glass/leather/tissue), Gasps, Living Bones (conversant skeletal undead), Gearslave Apes (necromantic wood/iron/crystal constructs), Ferrous Knights, Silk Giants, Gallowspooks, Sewer Worms, Leatherwyrms, Fimbulwolves, Grootslang, Bell Ringers, and many others. See source doc for full bestiary.
 
 ## Magic Systems: Necromancy Motifs
 
-*Full doc: `Mythology/Magic.md`*
+*Full doc: `Mythology/Magic-Systems.md`*
 
 Necromancy is the only surviving magic. Among Witches, necromancy is referred to as the 'Words of Rotten Syllables'. Necromancy is structured through a system of reusable motifs - patterns for designing spells and rituals:
 
@@ -93,7 +93,7 @@ Necromancy is the only surviving magic. Among Witches, necromancy is referred to
 
 *Full doc: `Mythology/Magic-Items.md`*
 
-Necromantic tools, substances, reagents, and curios. Includes violet jelly (tissue-melting unguent), embalming fluid, banshee-wax, bone dust, fabricated tissue (artificially grown biological material), firebug lanterns, the Song-Singing Fungus, necromancer's shovels, reflective ointment, and poison landmines.
+Necromantic tools, substances, reagents, and curios. Includes violet jelly (tissue-melting unguent), embalming fluid, banshee-wax, bone dust, fabricated tissue (artificially grown biological material), Sewer Worm silk (stronger than iron), Ill Omen's Heart (named necromantic substance), firebug lanterns, the Song-Singing Fungus, necromancer's shovels, reflective ointment, poison landmines, and the twenty-three Alabaster Masks (identity-granting enchanted masks with varied physical boons and drawbacks).
 
 ## Demon Cults: TODO
 
@@ -120,8 +120,8 @@ Chivalric tradition of sworn service and stoic valor implied across the setting.
 
 The sun is cold and slate-colored. The harridan's moon is yellow, and marks the night of witches. Silver moonlight is also observed in non-witch contexts.
 
-## Otherworld Geography: The End of the Road
+## World Geography: Zones of the Road
 
-*Full doc: `Mythology/Otherworld.md`*
+*Full doc: `Mythology/World-Geography.md`*
 
-The End of the Road is the place (or concept) from which the Old Man Below issues forth. Whether it is a literal terminus, a metaphysical boundary, or something else entirely is unknown. The Oldvaults - ancient laboratories and dungeons of the necromancers - serve as a physical underworld, sealed from the Cursed Forest, full of forgotten experiments and undead. The Cursed Forest itself is the hostile wilderness beyond the Road.
+The world beyond the Road of Graves is divided into named zones and landmarks. The Cursed Forest is a hostile wilderness beside the Road. The Oldvaults are the ancient dungeons and laboratories of the necromancers, serving as a physical underworld. The Whiteeye Waste is a dust barrier woven by Lady Horsehair's dollmakers between Gallbladder's territory and the civilized Road. Middlemoss is the geographic center of the Road. The End of the Road is the place (or concept) from which the Old Man Below issues forth.

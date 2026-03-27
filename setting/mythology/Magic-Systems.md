@@ -6,7 +6,7 @@ Necromancy is the only surviving magic in the Time of Dying. All other magics an
 
 Necromancy is structured through a system of reusable motifs -- patterns for designing spells and rituals. By using these motifs in incantation design, a mancer creates spells and rituals that may be used in a variety of contexts.
 
-Spells are spoken aloud in Deadspeech -- gagging a mancer physically prevents casting. A single spell typically incorporates motifs from multiple categories (Shape, Desire, Nature), worked through sequentially. Interrupting a spell mid-cast does not fizzle it; a partially completed spell can become an uncontrolled, unbounded invitation in Deadspeech, drawing undead without targeting or behavioral constraints.
+Spells are spoken aloud in Deadspeech -- gagging a mancer physically prevents casting. Deadspeech can be recorded in written form (scroll fragments, inscriptions) as a notation system, though the writing itself is not independently functional. A single spell typically incorporates motifs from multiple categories (Shape, Desire, Nature), worked through sequentially. Interrupting a spell mid-cast does not fizzle it; a partially completed spell can become an uncontrolled, unbounded invitation in Deadspeech, drawing undead without targeting or behavioral constraints.
 
 ## Ritual: Deadspeech
 
@@ -87,6 +87,8 @@ The Grot -- an ancient race of toad-centipede-necromancers who are innately unde
 - **Chryptsacker** -- Professionals who loot old tohmbs and chrypts in search of treasure.
 
 ## Notable Necromantic Creations
+
+Standard necromancy animates dead animals as well as humans. Dead cats, for instance, can be raised en masse by a working mancer.
 
 - **Homunculus** -- Fetus grown in a stoppered flask, buried in cow dung. When uncorked and fed blood, turns into a servant of the creator. The greater the kind of blood (mice, chickens, cows, men), the more powerful the servant.
 - **Golems** -- Wax, Glass, Leather, or Stitched Tissue. Cannot be created under the sky or sun.

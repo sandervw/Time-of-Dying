@@ -135,6 +135,11 @@ TODO
 - Living wall of ratskin and ratheads; "probably some mancer's work"
 - Eats steel and any limb touching it; destroyed by fire
 
+### Troll
+
+- Small, burrow-dwelling creatures that lair near road bridges
+- Nuisance-tier; lured from burrows and killed without great difficulty
+
 ### Mailed Flayer
 
 - Servant of The Scratcher
@@ -143,6 +148,23 @@ TODO
 
 - Many-trunked elephant-snakes
 - Strongest servants of Gallbladder
+
+### The Hearse
+
+- Two-ton dragonfly-like flying predator with a tail of a hundred stingers and wings covered in a thousand eyes
+- Nocturnal; kills exactly one victim per exposed night
+- Produces a deep rumbling Stomach Song that rises each sunset and fades at sunrise
+- Humans can mimic its call to summon it ("Hungry calls to hungry")
+
+### Stump Dugs
+
+- Dog-like pack predators with coarse burned-hair texture, matte white eyes, and soft wriggling teeth
+- Bite carries an incurable Blight
+
+### Nickel Beetle
+
+- Small venomous insect found near the Waste Bridge
+- Venom kills within ten days with no known cure; symptoms include rapid pallor, sweating, deterioration
 
 ### Mimic
 
@@ -169,6 +191,7 @@ TODO
 ### Cankarnis
 
 - A vampire
+- At least one known origin path for vampirism: a harridan's curse spoken "under her moon," producing a suspended state ("living but not, frozen far away")
 
 ### Halo of Worms
 
@@ -177,6 +200,16 @@ TODO
 ### Lectergast
 
 TODO
+
+### Living Bones
+
+- Named category of conversant skeletal undead; capable of sustained speech and rhyming verse
+- Distinct from Gasps and generic Restless Upright Bones
+
+### Sewer Worm
+
+- Subterranean creature whose silk is supernaturally strong (stronger than iron)
+- Silk harvested and used as rope; see also Magic-Items.md
 
 ### Generic Undead
 

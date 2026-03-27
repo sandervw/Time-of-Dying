@@ -1,4 +1,4 @@
-Hey claude, I need you to incorporate the new lore in @output/Spit-of-Mool-lore-extraction.md into the existing lore in @setting\ . This is all new or modified lore for the main mythology.md file, the main folklore.md, and the specific mythology and folklore subfolders.
+Hey claude, I need you to incorporate the new lore in @output/Graveside-Inn-lore-extraction.md into the existing lore in @setting\ . This is all new or modified lore for the main mythology.md file, the main folklore.md, and the specific mythology and folklore subfolders.
 
 For the purposes of this task, your primary goal is to match the density or compactness of exisitng entries. For example, you would not modify the 'Grot' entry in creatures to the point where it outweighed all the other entries.
 

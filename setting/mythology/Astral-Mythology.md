@@ -17,6 +17,7 @@ The Sleep Tombs reference mancers who entered eternal slumber "to be awakened ag
 The harridan's moon is yellow. It marks the night of witches. Certain undead can only be summoned under its light:
 
 - **Gallowspooks** may only be summoned under the light of a harridan's moon.
+- **The Hearse** hunts only at night; its Stomach Song intensifies toward sunset and fades at sunrise. A second creature with a strict lunar activity boundary.
 
 The moon has a humpbacked silhouette. It also casts silver light in non-witch contexts (e.g., a full moon over Landmine Forest). Whether the silver vs. yellow distinction reflects a separate lunar body, a phase cycle, or contextual variation is unclear.
 
@@ -28,6 +29,6 @@ The moon has a humpbacked silhouette. It also casts silver light in non-witch co
 
 TODO - a specific ritual or rituals associated with the astral bodies
 
-## Folk Explanation: [NAME]
+## Folk Explanation: The Harridan's Moon Vigil
 
-TODO - the reasons (if they exist) for why people believe the sun is slate, or what the harridan's moon signifies to ordinary dwellers
+Ordinary dwellers treat the harridan's moon as a cyclical folk-apocalypse. Villagers fear the moon will crash from the heavens and pray through the night to the necromancer-gods. Post-moon-night cheer suggests the omen has failed often enough to become tradition -- a recurring vigil rather than a genuine expectation of doom.

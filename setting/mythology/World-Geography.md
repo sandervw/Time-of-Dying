@@ -1,8 +1,8 @@
-# Otherworld Geography: The End of the Road
+# World Geography: The End of the Road
 
 ## Overview
 
-The otherworld of the Time of Dying consists of zones beyond or beneath the civilized Road of Graves: the End of the Road, the Oldvaults, the Cursed Forest, etc.
+The World of the Time of Dying consists of zones beyond or beneath the civilized Road of Graves: the End of the Road, the Oldvaults, the Cursed Forest, etc.
 
 ## The End of the Road
 
@@ -48,6 +48,21 @@ A dense forest where buried poison landmines emit poison that suppresses necroma
 - Contains giant black slugs repelled by firebug lantern light; too large to enter narrow openings
 - Fig-root caves provide shelter from the slugs
 - The ruined Wraithcotte Estate lies within
+
+## Whiteeye Waste
+
+A curtain of black-grey dust woven from shed winter animal pelts by Lady Horsehair's dollmakers. Created as a barrier between Gallbladder's territory (The Lake of Tomatoes) and the civilized Road.
+
+- The Road of Graves is buried within the Waste; walkers navigate by astrolabe rather than the Road itself
+- A massive canyon cuts through the Waste, crossed by the Waste Bridge: a single unsupported arc of whitish rock that narrows at center to twin stone beams wide enough for one person each
+
+## Middlemoss
+
+The geographic center of the Road. Positioned between two white peaks with high heath between them. Known as "The Heart of an endless road."
+
+## The Lake of Tomatoes
+
+A regional landmark visible for miles. Its red sheen is visible under the slate-colored sun from hilltop distances. Road-side settlements cluster along its shore. Gallbladder is worshipped by the mutants who live here.
 
 ## Deadman's Pile
 
