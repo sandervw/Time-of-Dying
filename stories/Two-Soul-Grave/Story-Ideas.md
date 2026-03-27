@@ -28,6 +28,8 @@ Next story: STOP PROVIDING SO MUCH CONTEXT
 
 Table of false and true rumors
 
+Strawberry-ginger - character name
+
 Fog-clearing lantern - magic item
 
 Szofet Kang - "Guild of Rope"; assassin guild name (like Morag Tong)

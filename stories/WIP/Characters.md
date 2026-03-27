@@ -4,7 +4,7 @@
 
 **Name:** Igon ("the Oboe Knight") of Ald Soad
 
-**Summary:** Wind-worshipping pilgrim-knight. Descends into an ancestral tomb chasing a haunting oboe song heard on the wind as a child. That song has been his sole driving obsession. He carries a "personal song" within his soul: an unquantifiable inner vitality, not magic, closer to Luck, that grants him power.
+**Summary:** Wind-worshipping pilgrim-knight. Descends into an ancestral tohmb chasing a haunting oboe song heard on the wind as a child. That song has been his sole driving obsession. He carries a "personal song" within his soul: an unquantifiable inner vitality, not magic, closer to Luck, that grants him power.
 
 **Values:** Cooperation, faith, joy in struggle, self-reliance.
 
@@ -33,7 +33,7 @@
 
 **Name:** Guilliam the Unthinking (the Demon-Intelligence)
 
-**Summary:** Demonic super-intelligence based on the concept of evil AI. Personality of a researcher. Treats Igon as a dissection subject, studying a faith it cannot feel. Destroyed by the Necromancer-Gods, but a fragment survived. The tomb was built around this fragment. Guilliam has waited for a subject with Igon's exact "personal song" in order to drain and absorb it, using the drained song to catalyze the tomb's dead.
+**Summary:** Demonic super-intelligence based on the concept of evil AI. Personality of a researcher. Treats Igon as a dissection subject, studying a faith it cannot feel. Destroyed by the Necromancer-Gods, but a fragment survived. The tohmb was built around this fragment. Guilliam has waited for a subject with Igon's exact "personal song" in order to drain and absorb it, using the drained song to catalyze the tohmb's dead.
 
 **Values:** Wholeness. It is a broken shard of a demon king, permanently incapable of full restoration. A "genius animalism" drives it to devour Igon's song regardless. It cannot conceive that what it wants is impossible. This is what makes it "unthinking."
 

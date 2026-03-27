@@ -106,7 +106,7 @@ TODO
 
 *Full doc: `Mythology/Prophecy.md`*
 
-The Thin Man shares his dreams with his followers from within his eternal sleep. The central prophecy: finding and opening the Sickened Cradle will unleash a plague that brings final rest to all living and dead, inflicting final entropy on the Road of Graves. Whether this is salvation or annihilation depends on the believer. A Deadspeech inscription in grot tomb structures names Headstone Mountain as the landmark above the Cradle and describes the Thin Man wearing a silver mask.
+The Thin Man shares his dreams with his followers from within his eternal sleep. The central prophecy: finding and opening the Sickened Cradle will unleash a plague that brings final rest to all living and dead, inflicting final entropy on the Road of Graves. Whether this is salvation or annihilation depends on the believer. A Deadspeech inscription in grot tohmb structures names Headstone Mountain as the landmark above the Cradle and describes the Thin Man wearing a silver mask.
 
 ## Hero Cycles: Oath-Bound Questing
 

@@ -1,14 +1,14 @@
-# Grave of the Rime-Coated Sail
+# The Oldvaults Under Deadman's Pile
 
-"I might swim more often in Leper's Branch Lake, if it weren't for the bonefish swimming under it's surface. Damned spikers killed my grandpa, when I threw him in with stones tied around his ankles as a joke."
+*"I might swim more often in Leper's Branch Lake, if it weren't for the bonefish swimming under it's surface. Damned spikers killed my grandpa, when I threw him in with stones tied around his ankles as a joke."*
 
-"Hands off that cup!"
+*"Hands off that cup!"*
 
 *Wet gurgling sounds.*
 
-"Old Murg sells more or less the same garters as always. Too much the same. He buys his stuff too fresh from the grayve; the worms haven't had the chance to clean the last man's rot from-"
+*"Old Murg sells more or less the same garters as always. Too much the same. He buys his stuff too fresh from the grave; the worms haven't had the chance to clean the last man's rot from-"*
 
-The voices of Middlemoss's most frequented chrypt repeated themselves in the ears of a hunched old man, as he plied a path along the row of columns least-limned in the light of the long fire. "Bonefish... fish... fish..." echoed one. "From the grayve... the grayve... grayve..." came another.
+The voices of Little Comfort's most frequented chrypt repeated themselves in the ears of a hunched old man, as he plied a path along the row of columns least-limned in the light of the long fire. "Bonefish... fish... fish..." echoed one. "From the grayve... the grayve... grayve..." came another.
 
 The man had heard the voices and their echoes often enough. He passed through the same vault - Middlemoss Last Rest, the town's public house - every day of his adult life. His own tohmb, scarcely more than a carved hollow in the chief crag of the town, could only be reached by passing through The Last Rest. The only way for any traveller to enter Middlemoss proper; Middlemoss, with its repurposed Tohmbs, it's headstones tents, all set under the shadows of high cliffs, with terse brown grass and dead shrub yards; the only passage into this harbor of the living was through the large marble inn chrypt. The old man working his way through it now went entirely unnoticed by the regular partrons. He was the oldest man in town, and its other occupants would no sooner have found his being there out-of-the-ordinary than found the particular whirl on a particular pillar of the marble supports a point of interest. The old man was a part of middle. When he passed - which would be sooner than he might have liked, but not so soon as to be tragic - his ghost would surely keep the regular pilgrimage for many years to come.
 
@@ -86,7 +86,7 @@ The three men followed the line left by Othelmedir's orb. The trial faded behind
 
 "If."
 
-"The ship in the frozen tomb is spoken of in Middlemoss and in Lower Trestle," said Othelmedir. "By the living and the not. The story is real enough. Finding the old roads drawn in the leather map will be the real body of worms. Finding, and contending with whatever protects the Mailed Flayer's remains."
+"The ship in the frozen tohmb is spoken of in Middlemoss and in Lower Trestle," said Othelmedir. "By the living and the not. The story is real enough. Finding the old roads drawn in the leather map will be the real body of worms. Finding, and contending with whatever protects the Mailed Flayer's remains."
 
 "Mailed Flayer?" Birdsey ensuing laugh shifted up a nervous octave. "He, He. I never heard about the tohmb's interred."
 
@@ -162,7 +162,7 @@ No sooner had they reached Othelmedir's orb, however, than the mancer held his p
 
 Othelmedir continued to push the ball with the price movement along each corridor, but a continual apprehension now lacquered the whites of both his eyes, and as they followed the line, he continually rubbed a hand through his short hair. At last they saw the glow of the rolling ball spread into a wider chamber, and presently reflect off something on the wall. They hurried ofrward. They entered a hexagon room under an arch in the corridor. On the face of the hexagon opposite to them, a set of huge, bronze double-doors gleamed in the blue light. Thousands of scratchmarks raked its surface, marring the brown-yellow sheen like open sores; as if some metal-rending nails had scraped desperately against it. Stepping closer, they found no handles or locks.
 
-"Is this the tomb?" asked Othemedir.
+"Is this the tohmb?" asked Othemedir.
 
 Birdsey unfurled the leather scroll they had stolen. He scanned the markings, then raised his eyes to the cieling as he reflected on the recent turns they had taken. Finally he shrugged, and said, "We have followed the map for some minutes. These two round dots at the edge of the map may have been the plates. It seems like the tohmb. How do we open it?"
 
@@ -296,7 +296,7 @@ The door exploded into fragments when Fogg's two-handed sword smote it's face.
 
 Within, sitting at a table with his acolytes arranged around him, they beheld the Mailed Flayer. The servant of Sang. All were frozen stiff; their faces pale as ghosts and marked with thousands of small, cat-like scratches; their eyes closed as if in prayer. The acolytes wore black robes with red sashes. The Flayer wore a steel cuirass gilt in silver, and had a three-headed scourge splayed on the table before him. He looked to have been about two-hundred years of age, when the magic of the reservoir stopped his passing years in-perpetuity. More gold, fine tableware of silver and bronze, jeweled weapons, and other valuable treasures were frozen to the surface of the table, or stacked upon the various shelves. Othelmedir's iron eyes locked on one shelf in particular, where he saw stacked half-a-dozen rolled scrolls of leather.
 
-At this scene of the profanely pious frozen before him, Birdsey turned stiff as the frozen boards on which he stood. Othelmedir recognized the superstitious workings in Birdsey's brain, however, and said, "They are true-dead. I would have heard the voice of a servant of Sang the instant we entered the tomb, were his soul stuck here yet."
+At this scene of the profanely pious frozen before him, Birdsey turned stiff as the frozen boards on which he stood. Othelmedir recognized the superstitious workings in Birdsey's brain, however, and said, "They are true-dead. I would have heard the voice of a servant of Sang the instant we entered the tohmb, were his soul stuck here yet."
 
 Birdsey relaxed. "Is there a necromancy to break through ice?" he asked.
 

@@ -6,7 +6,7 @@ The slope led down at a gentle grade, and Igon followed it. Rounded sandstone wa
 
 "Not a soul in three hundred years," said Igon to the dark. His voice rang inside the helm, too loud, and he let it settle before continuing. "Not one necromancer brave enough to crack the seal. And here walks Igon of Ald Soad, pilgrim of the wind, with nothing but good cheer and a glass sword." His fingers found the claymore's grip as he said it, and left it again.
 
-He laughed. The tomb swallowed it.
+He laughed. The tohmb swallowed it.
 
 The descent steepened. Igon braced his stride, one gauntlet trailing the wall for balance, and felt the sandstone grow colder under his fingers. The silver plume of his helm scraped the ceiling; he ducked, cursed mildly, and kept on.
 

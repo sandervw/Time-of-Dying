@@ -2,7 +2,7 @@
 
 ## Overview
 
-The otherworld of the Time of Dying consists of three primary zones beyond or beneath the civilized Road of Graves: the End of the Road, the Oldvaults, and the Cursed Forest. Each represents a different kind of frontier -- metaphysical, subterranean, and terrestrial.
+The otherworld of the Time of Dying consists of zones beyond or beneath the civilized Road of Graves: the End of the Road, the Oldvaults, the Cursed Forest, etc.
 
 ## The End of the Road
 
@@ -13,7 +13,6 @@ The End of the Road is the place (or concept) from which the Old Man Below issue
 The Oldvaults are the ancient dungeons and laboratories of the necromancers. They serve as a physical underworld beneath the Road.
 
 - Once the location of the necromancers' dungeons and laboratories; now a place of forgotten vaults, with doors often locked from the outside
-- All exits to the Cursed Forest are sealed, or said to be
 - Undead are most common here, as are weird experiments and relics of ancient times
 
 ### Mool's Chrypt (Heather Vault)
@@ -21,11 +20,6 @@ The Oldvaults are the ancient dungeons and laboratories of the necromancers. The
 - An Oldvault containing a self-sustaining underground ecosystem: magenta heather fields, crystal-lattice lighting, and mirrored sunlight conduits from the surface
 - Includes a populated underground lake
 - Maintained by gearslave ape automaton labor under a sleeping mancer's will
-
-### Headstone Mountain
-
-- Named in the Sickened Cradle prophecy inscription as the landmark above the Thin Man's Cradle
-- Source is prophecy only; whether literal or metaphorical is unconfirmed
 
 ### The Sleep Tombs
 
@@ -35,12 +29,8 @@ The Oldvaults are the ancient dungeons and laboratories of the necromancers. The
 
 ### Other Notable Oldvault Locations
 
-- The Crypt of Unconsecrated Ashes -- where sinners were burned, their ashes strewn
+- The Chrypt of Unconsecrated Ashes -- where sinners were burned, their ashes strewn
 - The Abbottoir of the Carnivores
-
-### Atmosphere
-
-"A long, dark stair, lit only by torches spaced a little too far apart, with the random occasional meter-long drop in a step."
 
 ## The Cursed Forest
 
@@ -59,10 +49,6 @@ A dense forest where buried poison landmines emit poison that suppresses necroma
 - Fig-root caves provide shelter from the slugs
 - The ruined Wraithcotte Estate lies within
 
-## Ritual: [NAME]
+## Deadman's Pile
 
-TODO
-
-## Folk Explanation: [NAME]
-
-TODO
+A mountain, through, around, and over which runs the Road of Graves

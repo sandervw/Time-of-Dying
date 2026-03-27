@@ -2,7 +2,7 @@
 
 ## Scene Summary
 
-Igon descends a narrowing passage devoid of dead. He finds thin pipes cut into the walls and understands the tomb's mechanism: his voice was channeled through these pipes to animate the corpses above. Every sound fed the demon. He goes silent. The passage ends at a double door sealed with necromancer runes in black wax. Someone sealed this deliberately. Igon drives his claymore through the seal and steps through without a word.
+Igon descends a narrowing passage devoid of dead. He finds thin pipes cut into the walls and understands the tohmb's mechanism: his voice was channeled through these pipes to animate the corpses above. Every sound fed the demon. He goes silent. The passage ends at a double door sealed with necromancer runes in black wax. Someone sealed this deliberately. Igon drives his claymore through the seal and steps through without a word.
 
 ## Ending Text
 

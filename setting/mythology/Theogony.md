@@ -8,7 +8,7 @@ The seven necromancer-gods, once united against the demon kings, turned on one a
 
 ### The Thin Man (Sloth) - God of Sickness and Entropy
 
-An old man locked in eternal sleep in his Sickened Cradle (his tomb). Bears the gift of perpetual youth united with perpetual sleep. He shares his dreams with his followers.
+An old man locked in eternal sleep in his Sickened Cradle (his tohmb). Bears the gift of perpetual youth united with perpetual sleep. He shares his dreams with his followers.
 
 The finding and opening of the Sickened Cradle is a central goal of his followers. Opening it will supposedly unleash a plague that brings final rest to all the living and the dead, inflicting final entropy on the Road of Graves.
 

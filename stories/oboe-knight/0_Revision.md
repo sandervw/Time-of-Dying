@@ -12,7 +12,7 @@ POSSIBLY: Add a final scene - a "good ending"
 - His played molidy *is not* the oboe song of his dreams, and certainly not his 'inner music'
   - It is discordant, it clashes with the stolent song of Guilliam
 - Guillium continues on, completely unaware of the disruption, but with his stolen voice gradually diminishing in volume
-- The night stands, concludes his melody, and stands, drained but alive, in the silent tomb (cut here)
+- The night stands, concludes his melody, and stands, drained but alive, in the silent tohmb (cut here)
 
 Start by manually revising each individual scene file
 

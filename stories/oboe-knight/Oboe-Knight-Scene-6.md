@@ -10,7 +10,7 @@ Igon crossed the floor. Blood fell from beneath his armor in fat drops, marking 
 
 He did not reach the stairs. Halfway across the chamber his legs folded and he sank to the ground. He sat cross-legged, the Blue Glass Claymore laid across his knees, his head bowed. The hip light threw his shadow long and guttering behind him.
 
-The tomb hummed. Every surface trembled with the melody he had carried since childhood, the melody he had fed to this place note by note, kill by kill.
+The tohmb hummed. Every surface trembled with the melody he had carried since childhood, the melody he had fed to this place note by note, kill by kill.
 
 He had nothing left to hum.
 
@@ -24,7 +24,7 @@ Igon did not lift his head.
 
 The knight sat in silence unmoving. His breathing was shallow, inaudible beneath the swelling music. The oboe on his tabard hung in threads across his chest.
 
-Every surface of the tomb sang. The melody washed over the obelisks, over the bones that would never rise.
+Every surface of the tohmb sang. The melody washed over the obelisks, over the bones that would never rise.
 
 "My servants," said Guilliam, and something in the chord dimmed. "They are dead now. They lived for so long in their alcoves, faithful, quiet. The ones in the silver cloth were my favourites. They never questioned me. I had hoped they would last. I did not think you would kill all of them." The pipes brightened. "But servants may be found. There are always the devoted. I will walk the Road and find them, once this body remembers how to stand."
 

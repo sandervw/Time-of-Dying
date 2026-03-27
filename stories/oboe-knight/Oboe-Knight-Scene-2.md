@@ -44,6 +44,6 @@ Two crystal doors flanked the far wall. His lantern's glow touched them both and
 
 He hummed.
 
-The crystal answered. Green light pooled in the seams and the door slid wide, and somewhere deeper in the tomb another note began, faint and sustained, waiting for him to match it.
+The crystal answered. Green light pooled in the seams and the door slid wide, and somewhere deeper in the tohmb another note began, faint and sustained, waiting for him to match it.
 
 Igon walked through.

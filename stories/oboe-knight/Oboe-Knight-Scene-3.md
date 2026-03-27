@@ -4,9 +4,9 @@
 
 The first chamber held four shrines. Igon touched the nearest offering bowl and the dried goods crumbled under his gauntlet, releasing a faint sweetness like old fruit leather. He lifted his fingers and sniffed. Someone had left apricots here, once. Plums, perhaps. A thousand years of mineral air had turned them to powder. Before the fourth shrine lay a carpet of woven black wool, matted with crystallized residue. He stepped wide.
 
-"I have been looking for you," he said aloud, and his voice filled the chamber and rang against the sandstone. He was speaking to the tomb. To whatever had made the sound that had followed him since childhood. "I heard an oboe on the wind when I was seven years old. It played for three days. No one else heard it. I have come a very long way."
+"I have been looking for you," he said aloud, and his voice filled the chamber and rang against the sandstone. He was speaking to the tohmb. To whatever had made the sound that had followed him since childhood. "I heard an oboe on the wind when I was seven years old. It played for three days. No one else heard it. I have come a very long way."
 
-The tomb said nothing. He moved to the next shrine and found a knot of human hair bound with copper wire, sitting in its bowl like a small dead animal. The air was still. His glowbug lantern swung at his hip and threw his shadow in long arcs across the walls.
+The tohmb said nothing. He moved to the next shrine and found a knot of human hair bound with copper wire, sitting in its bowl like a small dead animal. The air was still. His glowbug lantern swung at his hip and threw his shadow in long arcs across the walls.
 
 Something clicked behind him. Bone on stone. He turned.
 
@@ -30,7 +30,7 @@ Three more stood in the passage beyond, swaying, their skulls turned toward him.
 
 He went through them at speed. One stroke apiece. Clean separation. The claymore rang against stone where the last one fell.
 
-Silence. Then, from deeper in the tomb, a sustained note rose. Louder now than it had been in the shrine room. Louder than in the passage. It had fed on the noise of each destroyed corpse, the crack of bone and the ring of iron, and grown fat on the sound.
+Silence. Then, from deeper in the tohmb, a sustained note rose. Louder now than it had been in the shrine room. Louder than in the passage. It had fed on the noise of each destroyed corpse, the crack of bone and the ring of iron, and grown fat on the sound.
 
 Igon crossed to the main passage door. Iron, heavy, carved with a necromancer rune filled with black wax. He laid his gauntlet against it. The wax was faintly warm. He pushed, and struck the door with the claymore's pommel when it held, and the rune flared once, cold and blue, and the door did not move.
 

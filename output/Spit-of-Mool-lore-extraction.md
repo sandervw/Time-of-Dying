@@ -8,9 +8,9 @@
 
 ## Prophecy
 
-- `[NEW]` `[EXPLICIT]` **"Headstone Mountain" in the Thin Man Prophecy** -- A Deadspeech tomb inscription names "Headstone Mountain" as the landmark above the Thin Man's Sickened Cradle. Full inscription: "In the Sickening Cradle; / Under the Headstone Mountain; / The Thin Man breaths behind a silver mask. / His house shall awaken; hail, Sleeper, Dreamer." Adds: a named geographical anchor and the silver mask detail.
+- `[NEW]` `[EXPLICIT]` **"Headstone Mountain" in the Thin Man Prophecy** -- A Deadspeech tohmb inscription names "Headstone Mountain" as the landmark above the Thin Man's Sickened Cradle. Full inscription: "In the Sickening Cradle; / Under the Headstone Mountain; / The Thin Man breaths behind a silver mask. / His house shall awaken; hail, Sleeper, Dreamer." Adds: a named geographical anchor and the silver mask detail.
 
-- `[REINFORCES]` `[EXPLICIT]` **Prophecy Inscribed in Oldvault Structures** -- The Sickened Cradle prophecy exists in physical written form on marble within grot tomb structures, carved in Deadspeech. Suggests the prophecy predates or is contemporary with grot mancers.
+- `[REINFORCES]` `[EXPLICIT]` **Prophecy Inscribed in Oldvault Structures** -- The Sickened Cradle prophecy exists in physical written form on marble within grot tohmb structures, carved in Deadspeech. Suggests the prophecy predates or is contemporary with grot mancers.
 
 ---
 

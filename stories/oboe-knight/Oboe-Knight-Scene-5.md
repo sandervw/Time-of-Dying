@@ -24,7 +24,7 @@ The nearest corpse lurched from its alcove. Igon split it from collarbone to hip
 
 Igon took its head. He did not answer.
 
-Three came at him from the left alcoves. He planted his back foot and swung in a wide lateral cut that sheared through two at the ribs and knocked the third sideways into the wall. Tomb dust erupted in amber clouds, glowing in the hip-light. His breathing hammered inside the helm, fogging the visor slits. Sweat pooled in his gauntlets. The claymore hilt slipped a quarter-turn in his grip and he tightened his fist.
+Three came at him from the left alcoves. He planted his back foot and swung in a wide lateral cut that sheared through two at the ribs and knocked the third sideways into the wall. Tohmb dust erupted in amber clouds, glowing in the hip-light. His breathing hammered inside the helm, fogging the visor slits. Sweat pooled in his gauntlets. The claymore hilt slipped a quarter-turn in his grip and he tightened his fist.
 
 "Fascinating," sang a corpse from behind him. He wheeled and drove the blade through its sternum. "You tighten when you strike. The song brightens. Do you feel it brighten."
 

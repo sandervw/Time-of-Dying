@@ -12,9 +12,9 @@ TODO -- how exactly the acolytes, servants, and slaves survived the Time of Dyin
 
 Almost all places of the living are built along the Road. Notable settlements:
 
-- **Middlemoss** -- the main starting village/tomb; lies in "The Middle of the Road," also in the middle of a cliff along which the Road runs; paper lanterns buzzing faintly with glowbugs inside; massive fungal conservatory with mushroom bonsai
+- **Middlemoss** -- the main starting village/tohmb; lies in "The Middle of the Road," also in the middle of a cliff along which the Road runs; paper lanterns buzzing faintly with glowbugs inside; massive fungal conservatory with mushroom bonsai
 - **Thistlecrown** -- a motte and bailey where the Road runs over the tallest mountain; half-frozen cabins; lies in the shadow of a high, frozen cathedral to The Old Man Below
-- **Tombtown**
+- **Tohmbtown**
 - **The Rat Farmer's Barn**
 - **Scratcher's Temple**
 - **The Living, Breathing, Mossy Gulch**
@@ -32,7 +32,7 @@ Infrastructure includes an embalming-fluid pipeline from one refinery to outlyin
 
 ## Culture
 
-- Spelling conventions: Chrypt, Grave, Tohmb (instead of crypt, grave, tomb)
+- Spelling conventions: Chrypt, Grave, Tohmb (instead of crypt, grave, tohmb)
 - People keep bugs (praying mantis), baby goats, pigs, and chickens as pets
 - Clothing includes grave clothes
 

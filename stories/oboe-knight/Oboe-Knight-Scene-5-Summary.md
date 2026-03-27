@@ -2,7 +2,7 @@
 
 ## Scene Summary
 
-Igon enters a vestibule with twelve alcoves, each corpse dressed in jewel-sewn silver cloth. Thick pipes amplify and harvest. All twelve animate at once, singing in Igon's own childhood melody through dead throats. Guilliam the Unthinking speaks through the corpses with clinical fascination: noting that Igon's song brightens when he strikes, that he diminishes with each kill. Igon destroys all twelve, his own self-motivating words feeding their power. The pipes carry the chord of his voice after the last corpse falls. His personal song now belongs to the tomb. He walks into darkness beyond an archway, drained and silent. He has won every fight and lost everything that mattered.
+Igon enters a vestibule with twelve alcoves, each corpse dressed in jewel-sewn silver cloth. Thick pipes amplify and harvest. All twelve animate at once, singing in Igon's own childhood melody through dead throats. Guilliam the Unthinking speaks through the corpses with clinical fascination: noting that Igon's song brightens when he strikes, that he diminishes with each kill. Igon destroys all twelve, his own self-motivating words feeding their power. The pipes carry the chord of his voice after the last corpse falls. His personal song now belongs to the tohmb. He walks into darkness beyond an archway, drained and silent. He has won every fight and lost everything that mattered.
 
 ## Ending Text
 

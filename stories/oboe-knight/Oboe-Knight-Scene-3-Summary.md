@@ -2,7 +2,7 @@
 
 ## Scene Summary
 
-Igon explores four chambers off the shrine room, speaking aloud to reveal his lifelong quest: an oboe song heard on the wind at age seven. Six skeletons rise and orbit him like moths drawn to sound. He attempts prayer gestures for every necromancer-god at each shrine; none respond, confirming the tomb predates the Time of Dying. He finds a jaw-lyre among grave goods and leaves it. He lures one skeleton onto a cursed carpet, detonating it from within. A necromancer rune seals the main passage; he squeezes through a crumbled wall in silence. A sustained note from deeper in the tomb has grown louder with each corpse destroyed. Igon has stopped humming.
+Igon explores four chambers off the shrine room, speaking aloud to reveal his lifelong quest: an oboe song heard on the wind at age seven. Six skeletons rise and orbit him like moths drawn to sound. He attempts prayer gestures for every necromancer-god at each shrine; none respond, confirming the tohmb predates the Time of Dying. He finds a jaw-lyre among grave goods and leaves it. He lures one skeleton onto a cursed carpet, detonating it from within. A necromancer rune seals the main passage; he squeezes through a crumbled wall in silence. A sustained note from deeper in the tohmb has grown louder with each corpse destroyed. Igon has stopped humming.
 
 ## Ending Text
 
@@ -11,7 +11,7 @@ Igon explores four chambers off the shrine room, speaking aloud to reveal his li
 ## Questions Posed
 
 - Why does the sustained note grow louder with each corpse destroyed?
-- Why do necromancer runes seal a tomb that predates necromancy?
+- Why do necromancer runes seal a tohmb that predates necromancy?
 - Has Igon's instinct to go silent come too late?
 
 ## Characters
@@ -22,7 +22,7 @@ Igon explores four chambers off the shrine room, speaking aloud to reveal his li
 
 ## Reflection
 
-**What worked:** Sound-silence inversion across the scene. Carpet trap delivers tactical variety. Prayer sequence establishes the tomb's alien origin. "None of that" callback from Scene 2 anchors character voice.
+**What worked:** Sound-silence inversion across the scene. Carpet trap delivers tactical variety. Prayer sequence establishes the tohmb's alien origin. "None of that" callback from Scene 2 anchors character voice.
 
 **What was cut in review:** Nothing major. One overwrought verb in the carpet detonation tightened.
 

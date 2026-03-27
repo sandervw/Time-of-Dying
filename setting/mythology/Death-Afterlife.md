@@ -10,7 +10,7 @@ A place beneath an epitaph on the Road of Graves -- proper interment -- is said 
 
 - **Gravestones** -- The default. A stone added to the cobbles of the Road.
 - **Tohmbs and Chrypts** -- More elaborate graves; deep underground vaults, not simple stones in the road.
-- **The Crypt of Unconsecrated Ashes** -- Where sinners were burned, their ashes strewn.
+- **The Chrypt of Unconsecrated Ashes** -- Where sinners were burned, their ashes strewn.
 - **The Sleep Tombs** -- Mancers came down here and entered eternal slumber, to be awakened again in a better age, with a new sun dawned. They set a monster to guard them.
 
 ### Professions of the Dead

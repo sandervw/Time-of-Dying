@@ -2,11 +2,11 @@
 
 **Inspiration Elements:** A "Radiant Knight" and "An Evil AI"
 
-*"What if the AI has waited centuries in the tomb for someone with the knight's exact kind of faith — not to destroy it, but to harvest it as fuel?"*
+*"What if the AI has waited centuries in the tohmb for someone with the knight's exact kind of faith — not to destroy it, but to harvest it as fuel?"*
 
 ## Overview
 
-**The concept:** A wind-worshipping pilgrim-knight descends into an ancestral tomb, drawn in search of a "beautiful, haunting, swan-like song of an oboe, which he heard on the wind as a child." The tomb houses an ancient, pre-human "demon of intelligence" — a clinical, curious thing that has waited centuries for someone with the right kind of faith to walk in. As the knight pushes deeper, his 'personal song' awakens the entombed dead, animating them against him in escalating waves: first brittle skeletons, then intact warriors, then harmonic revenants ringing with his own stolen music. The AI speaks to him through each corpse's mouth, asking in a melodious voice what faith feels like, genuinely interested, while he hacks through them chamber by chamber. The violence is gratuitous and rising, the knight magnificent in combat — and that's the trap. Every kill - every sound - leaks more of his personal song into the AI's architecture. By the final chamber, the knight has won every fight and lost everything: he stands in absolute silence, drained and hollow, surrounded by a beautiful symphony of wreckage, while the tomb resounds with the tune he carried in. The AI thanks him in triumphant chords, and begins to wake.
+**The concept:** A wind-worshipping pilgrim-knight descends into an ancestral tohmb, drawn in search of a "beautiful, haunting, swan-like song of an oboe, which he heard on the wind as a child." The tohmb houses an ancient, pre-human "demon of intelligence" — a clinical, curious thing that has waited centuries for someone with the right kind of faith to walk in. As the knight pushes deeper, his 'personal song' awakens the entombed dead, animating them against him in escalating waves: first brittle skeletons, then intact warriors, then harmonic revenants ringing with his own stolen music. The AI speaks to him through each corpse's mouth, asking in a melodious voice what faith feels like, genuinely interested, while he hacks through them chamber by chamber. The violence is gratuitous and rising, the knight magnificent in combat — and that's the trap. Every kill - every sound - leaks more of his personal song into the AI's architecture. By the final chamber, the knight has won every fight and lost everything: he stands in absolute silence, drained and hollow, surrounded by a beautiful symphony of wreckage, while the tohmb resounds with the tune he carried in. The AI thanks him in triumphant chords, and begins to wake.
 
 **The central tension:** Igon's 'personal song' — his optimism, his voice, his willingness to fight — is not a weapon against the demon-AI but the raw material it has waited millennia to harvest, meaning every act of courage and violence feeds the thing he's trying to overcome.
 
@@ -25,16 +25,16 @@ TODO - incorporate solaire style (keep dialogue purely function - should convey 
 ### Scene 1:
 
 `Wordcount:` ~500
-`Description:` Entry into tomb
+`Description:` Entry into tohmb
 - Describe sloped entry, rounded sandstone/stucco walls (like a Hispanic villa)
 - The air thick is with ancestral incense long turned to mineral dust
-- The pilgrim-knight, Igon, speaks to himself; the only knowledge he has of this tomb is that the necromancers of the region have, for centuries, left it undefiled (*with good reason - foreshadowing*)
+- The pilgrim-knight, Igon, speaks to himself; the only knowledge he has of this tohmb is that the necromancers of the region have, for centuries, left it undefiled (*with good reason - foreshadowing*)
 - The sloped entry, after long and straight descent, leads down to trapped door made out of crystal
 - Some exposition via action
 	- Igon stops and listens with his ear to the door, and is discouraged by no sound
 	- He *hums* to himself for motivation
 	- The crystal vibrates against his ear, he jumps back, and it opens
-- Igon remarks on his good fortune, assumes that he accidentally stumbled on the secret which has kept the tomb locked
+- Igon remarks on his good fortune, assumes that he accidentally stumbled on the secret which has kept the tohmb locked
 - The door closes harmlessly behind him, Igon tests it by humming near it again; it opens; reassured, he turns back to the chamber
 - No break between this section and next
 
@@ -65,16 +65,16 @@ TODO - incorporate solaire style (keep dialogue purely function - should convey 
 - the dead shuffle in a slow orbit like moths toward a musical flame
 - Extended, *specific* description of violence
 	- *Excrutiating detail*: what specific maneuvers does Igon use, what are the specific movements for Igon and the risen dead, how many are their number, how are their bodies affected affected?
-- The tomb's grave goods include a jaw-lyre left as an offering
+- The tohmb's grave goods include a jaw-lyre left as an offering
 - The main door leading to the next passage is sealed by a powerful necromancer's rune, but a nearby wall in one of the four chambers has crumbled, and Igon can jsut squeeze through the jagged aperture
 
 ### Scene 4:
 
 `Wordcount:` ~400
 `Description:` A short scene in a sloping narrow passage leading down, down, down, corner after corner
-- There are no undead, but knight is breathing heavy from prior fight, the tomb is starting to ring in his ears; Igon realizes the demon's animating music is delivered and siphoned through pipes in the tomb, it resonates in the lockers, and instills life in the corpses
+- There are no undead, but knight is breathing heavy from prior fight, the tohmb is starting to ring in his ears; Igon realizes the demon's animating music is delivered and siphoned through pipes in the tohmb, it resonates in the lockers, and instills life in the corpses
 - The descent ends in another locked door, this one sealed in a double-enchantment of necromancy, which knight has no choice but to break down by force
-- Describe sticky film of sweat, and his short clinging coldly to his skin, under his armor, his eyes stinging from the tomb dust
+- Describe sticky film of sweat, and his short clinging coldly to his skin, under his armor, his eyes stinging from the tohmb dust
 
 ### Scene 5:
 
@@ -95,7 +95,7 @@ TODO - incorporate solaire style (keep dialogue purely function - should convey 
 - Guilliam spends the remainder of the scene analyzing the newfound intelligence, not understanding that it can never come back to life, thinking it is on the verge of revival as its voice sings through the pipes
   - He dismisses Igon's faith in the Oboe song - it was only a lure to bring Igon here
   - He laments the loss of his most faithful man-slaves (he thought the corpses were in-fact alive), but reflects that more slaves may be found
-  - He probes Igon with questions about the world outside the tomb: how many of the demon kings survived the seven necromancer-gods, etc
+  - He probes Igon with questions about the world outside the tohmb: how many of the demon kings survived the seven necromancer-gods, etc
 - Every sound Igon made - every word of optimism he cheered himself with - only fed the demon-intelligence
-- Defining image of this story: The knight sitting cross-legged, alone, panting in *silence*, a legion of the desroyed and humming dead behind him, his tabard's oboe symbol torn in shreds — while every surface of the tomb resounds with his stolen song.
+- Defining image of this story: The knight sitting cross-legged, alone, panting in *silence*, a legion of the desroyed and humming dead behind him, his tabard's oboe symbol torn in shreds — while every surface of the tohmb resounds with his stolen song.
 - The story has a very abrupt cut after Guilliam's final monologue; *(An ambiguous finale for Igon - does he live? What happens next?)*

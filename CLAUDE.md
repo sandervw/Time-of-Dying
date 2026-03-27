@@ -36,6 +36,7 @@ When generating or editing setting/story content:
   - Compound neologisms fusing body/violence/intimacy: Winterdemon, Lovecorpse, Soulhacker
 - **Object/item names** are descriptive-literal with a sinister twist: Razorshell (frag grenade shaped like a mollusk), Violet Jelly (tissue-melting unguent), Burnbottles (molotovs), Woundwool, Jugflower. Avoid generic fantasy naming. Name things by what they do or look like, then let the horror speak for itself.
 - **Spell/magic naming** follows "Words with Rotten Syllables" pattern: decay-flavored, visceral, linguistic corruption.
+- **Setting-specific spellings:** "Chrypt" replaces "Crypt" and "Tohmb" replaces "Tomb" in all setting content.
 
 ### Tone and Aesthetic
 
