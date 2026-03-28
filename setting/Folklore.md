@@ -24,6 +24,10 @@ A folk belief in a post-death existence beyond the undead cycle, in which the de
 
 Proper burial requires actual earth beneath the epitaph. A gravestone suspended over open air (such as the Waste Bridge, which spans a canyon with nothing below) is considered "unclean." The soul's protection depends not just on the epitaph but on the ground beneath it.
 
+### Dead Redwoods as Soul Refuges
+
+When a redwood dies, its fibrous structure provides one spirit a temporary refuge from vagabond death. A dead redwood can house a single soul -- no more. A minor mercy in a landscape where uninterred souls are otherwise exposed to capture or dissolution.
+
 ### Fear of Necromantic Soul Theft
 
 The improperly buried fear that a mancer will steal their soul. Those without a spot on the "sacred labelled stones" face this terror on their deathbed. The folk framing is soul theft -- a mancer snatching the unshielded soul -- rather than the more doctrinal concern of undead rising.
@@ -31,3 +35,19 @@ The improperly buried fear that a mancer will steal their soul. Those without a 
 ### Colloquial Invocation of the Seven
 
 Casual expressions like "pray to the seven necromancer-gods" appear in everyday speech as idioms of hope or exasperation. Worship of the necromancer-gods is not only organized ritual but ambient folk practice woven into ordinary language.
+
+---
+
+## Frontier Alchemy
+
+### Sleep Toxin
+
+A known formula for a potent sleep toxin: condensed sunflower juice, oxidized copper dust, columbine petals, sulfur, tohmbdust, and crushed fireflies, stewed together. Notable for the inclusion of tohmbdust as an active alchemical ingredient, confirming that tohmb-derived materials carry exploitable necromantic properties beyond their funerary origin.
+
+---
+
+## Organizations
+
+*Full docs in `Folklore/`*
+
+- **Houses of Maze** -- Multi-city criminal guild network operating out of Middlemoss and beyond. See `Folklore/Houses-of-Maze.md`.

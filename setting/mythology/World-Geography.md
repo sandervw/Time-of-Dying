@@ -56,9 +56,20 @@ A curtain of black-grey dust woven from shed winter animal pelts by Lady Horseha
 - The Road of Graves is buried within the Waste; walkers navigate by astrolabe rather than the Road itself
 - A massive canyon cuts through the Waste, crossed by the Waste Bridge: a single unsupported arc of whitish rock that narrows at center to twin stone beams wide enough for one person each
 
+## The Old Soulwood
+
+A named forest on the Road of Graves. Legend holds the forest was created as a garden by the widowed mistress of a demon king, predating the Time of Dying. The Bouldsatr later settled it before being hunted to extinction.
+
+- Home to Periwinkle Forest Cats (Bouldsatr-possessed guardians), Scorpion Stoats, and soul-trapping trees
+- **Soul-trapping trees** -- Trees that trap souls and leak them as sap-wisps to lure travelers. Contact shrinks the victim until small enough for the tree to digest
+- **Blind Eyes** -- Eggshell-colored ponds, waist-deep, with a single hole large enough for a person. The hole leads to an ocean in another place. Faces may appear on the surface
+
 ## Middlemoss
 
-The geographic center of the Road. Positioned between two white peaks with high heath between them. Known as "The Heart of an endless road."
+The oldest town in living and dead memory -- even the conversantly-dead recall no older settlement. Known as "The Heart of an endless road." Middlemoss occupies two canyon walls cut through yellow-heather heath. The canyon floor was never settled beyond the reach of refracted sunlight.
+
+- The entire town is built from repurposed tohmbs: white marble facades on sandstone terraces, originally layered funerary architecture descending into the canyon. Upper tohmbs became living space over generations; the town grew downward within sunlight's reach
+- **The Athidal** -- A sulfurous gorge physically dividing Middlemoss, crossable on foot. The House of Maze sits on one side
 
 ## The Lake of Tomatoes
 
@@ -67,3 +78,7 @@ A regional landmark visible for miles. Its red sheen is visible under the slate-
 ## Deadman's Pile
 
 A mountain, through, around, and over which runs the Road of Graves
+
+## The Holt of Old Souls
+
+A named wilderness landmark more than a hundred leagues from Middlemoss. Used as a waypoint reference for frontier territory beyond the settled Road.

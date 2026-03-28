@@ -6,7 +6,7 @@ Necromancy is the only surviving magic in the Time of Dying. All other magics an
 
 Necromancy is structured through a system of reusable motifs -- patterns for designing spells and rituals. By using these motifs in incantation design, a mancer creates spells and rituals that may be used in a variety of contexts.
 
-Spells are spoken aloud in Deadspeech -- gagging a mancer physically prevents casting. Deadspeech can be recorded in written form (scroll fragments, inscriptions) as a notation system, though the writing itself is not independently functional. A single spell typically incorporates motifs from multiple categories (Shape, Desire, Nature), worked through sequentially. Interrupting a spell mid-cast does not fizzle it; a partially completed spell can become an uncontrolled, unbounded invitation in Deadspeech, drawing undead without targeting or behavioral constraints.
+Spells are spoken aloud in Deadspeech -- gagging a mancer physically prevents casting. Deadspeech can be recorded in written form (scroll fragments, inscriptions) as a notation system. Written Deadspeech is not independently functional in the way spoken spells are, but inscribed on worn objects (e.g., Scroll-Armor) it can passively deter undead -- a ward rather than a spell. A single spell typically incorporates motifs from multiple categories (Shape, Desire, Nature), worked through sequentially. Interrupting a spell mid-cast does not fizzle it; a partially completed spell can become an uncontrolled, unbounded invitation in Deadspeech, drawing undead without targeting or behavioral constraints.
 
 ## Ritual: Deadspeech
 
@@ -19,6 +19,24 @@ Deadspeech is the magical language used in necromancy, drawn from Hungarian. Kno
 - "ahoz hjetes az elernt mondj." -- as seven and the living say.
 - "Malyan borznak kell megszall met; amizor a kozalsa Biry talat; es rastald atgesz ember csontjat!" -- What horror must invade the mind; when the approaching silk shall find; and sift the bones of all mankind!
 - "Vigyazz" -- Caution. (From Hungarian "vigyazz.")
+
+## Named Spells
+
+### The Elegy of the Equinox
+
+- A necromantic song used by mummies
+- Grants the caster sight in the cold when stars shine over her
+- Implies attunement between undead perception and stellar or seasonal conditions
+
+## Named Techniques
+
+### Ghost Capture (Censer Method)
+
+A ghost is drawn to a smoking mancer's censer and bottled with the smoke. Standard field method for collecting uninterred souls.
+
+### Shriving
+
+A necromantic reduction process that strips ghosts of individuality and compresses them for necromantic use. Even powerful ghosts can be shrived into compact, digestible material. Used in industrial-scale ghost processing operations.
 
 ## Environmental Counters
 
@@ -91,7 +109,7 @@ The Grot -- an ancient race of toad-centipede-necromancers who are innately unde
 Standard necromancy animates dead animals as well as humans. Dead cats, for instance, can be raised en masse by a working mancer.
 
 - **Homunculus** -- Fetus grown in a stoppered flask, buried in cow dung. When uncorked and fed blood, turns into a servant of the creator. The greater the kind of blood (mice, chickens, cows, men), the more powerful the servant.
-- **Golems** -- Wax, Glass, Leather, or Stitched Tissue. Cannot be created under the sky or sun.
+- **Golems** -- Wax, Glass, Leather, Stitched Tissue, or Wood. Cannot be created under the sky or sun.
 - **Birchmen** -- Bodies of dead birch trees possessed by an evil spirit; feed on blood; can be sedated with subzero temperatures.
 - **Gallowspook** -- May only be summoned under the light of a harridan's moon.
 

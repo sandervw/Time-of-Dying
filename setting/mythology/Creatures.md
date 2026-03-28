@@ -25,7 +25,9 @@ TODO
 
 ### Bouldsatr (Boulder Elves/Giants)
 
-TODO
+- Giants who once settled The Old Soulwood
+- Hunted to extinction; their spirits possessed native wild cats, becoming the Periwinkle Forest Cats
+- First race to inhabit The Old Soulwood after its mythic creation
 
 ### Grot (Toad-Centipede-Necromancers)
 
@@ -56,10 +58,24 @@ TODO
 
 ### Golems
 
-- Varieties: Wax, Glass, Leather, Stitched Tissue
+- Varieties: Wax, Glass, Leather, Stitched Tissue, Wood
 - Cannot be created under the sky or sun
+- Wood golems serve automated patrol roles in necromantic facilities
 - Operate on standing behavioral orders and can receive real-time verbal commands
 - Can have named identities (e.g., "Grot," a three-armed, three-eyed tissue golem)
+
+### Veyers (Skull-Cavity Undead)
+
+- Skeleton undead with the skull top removed and a fill-material in the cavity
+- Three sub-varieties: Pumice Veyer (hurls pumice like sling bullets), Minnow Veyer (skull filled with minnows), Sun Veyer (skull holds a yellow sun)
+- Inflict maladies via head-action or scraping finger bones: Amnesia Sweats, Cataracts, Foot Famine, Misoplexy, Siderophobia, The Haunting Cleanness, The Gaze
+- Heavy damage without killing triggers rampage
+
+### Liches
+
+- Necromantic undead who store their death externally in a remote vessel, making them unkillable on-site
+- Known liches: The Overseer (Nightlichen), The Stillbreather
+- The Overseer: a chromatic absinthe skull on a jade tray carried by eight articulated spider legs (steel joints, scapula struts from a once-sacred cow); death hidden in a sapphire hen's egg in a coffin located elsewhere
 
 ### Starshadow
 
@@ -190,8 +206,17 @@ TODO
 
 ### Cankarnis
 
-- A vampire
+- A vein predator: rotting man's head on a living stone statue body
+- Stone limbs and torso are impervious to mundane steel; skull softens under maze-madness
+- Lamprey tongue; basalt fingernails
+- Body regenerates at moonrise unless a mancer intones hidden spells from midnight to the crow's call
 - At least one known origin path for vampirism: a harridan's curse spoken "under her moon," producing a suspended state ("living but not, frozen far away")
+
+### Dust Slimes
+
+- Non-sentient debris animated by ectoplasm suffused with scrap soul fragments
+- Six varieties: hunchhobble, wriggling mass, green, brownish-green (venomous), dropper, and false puddle
+- Most dangerous in confined spaces; must be drawn to open ground to fight
 
 ### Halo of Worms
 
@@ -217,6 +242,38 @@ TODO
 - Rolling Walrus Bones
 - Vigorous Blood
 - Skinrights
+
+### Periwinkle Forest Cats
+
+- Lynx-sized predators (bear-wide, salamander-long) that patrol The Old Soulwood
+- Possessed by Bouldsatr spirits; serve as the forest's eternal guardians
+- Not always hostile; sometimes befriend children and women
+
+### Doppelganger Skeletons (Undead)
+
+- Immortal undead mancers whose skeleton rips free when the host body ages
+- The freed skeleton tears bones from a new victim by the spine and inhabits the vacant flesh
+- Detectable by Bloodstone (turns pale and shivers) or Inside-seeing Statue
+
+### Mummies (Undead)
+
+- Undead with hypnotic gaze capable of involuntary enthrallment
+- Retain active necromantic ability; beauty persists through death as a feature of the type
+
+### Ghouls (Undead)
+
+- Grey-skinned dead with long tongues and streaming spittle
+- Swarm in packs; repelled by Lemon Cider
+
+### Scorpion Stoats
+
+- Long-bodied, chitin-plated creatures with weak heads and tails
+- Guard tree hollows in The Old Soulwood
+
+### Giant Rats
+
+- Wild territory rats reaching bulldog proportions; territorial and hunt men
+- Frontier trappers called "Squeakers" catch them in deadfalls and guillotine boxes and sell the pelts
 
 ### Other Creatures (Briefly Noted)
 

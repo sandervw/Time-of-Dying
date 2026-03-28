@@ -13,6 +13,7 @@ Necromantic tools, substances, reagents, and curios. Some are crafted deliberate
 - **Fabricated Tissue** -- Artificially created biological material, white and marble-like. Can be worn as armor or used as a component. Suggests mancers can grow living-adjacent tissue.
 - **Sewer Worm Silk** -- Rope woven from Sewer Worm silk; stronger than iron. Can restrain a fully armored knight.
 - **Ill Omen's Heart** -- A named necromantic substance carried in labeled vials; associated with medical or necromantic practice. Name suggests ominous or predictive properties.
+- **Tohmbdust** -- Dust harvested from old tohmbs; carries active necromantic or alchemical properties. A tradeable commodity used as a reagent in sleep toxins and other preparations.
 
 ## Tools
 
@@ -50,6 +51,57 @@ A set of twenty-three alabaster masks, each granting the wearer a false identity
 
 - Device whose poison suppresses necromancy and puts the dead to sleep within a region
 - Defines the ecology of the Landmine Forest
+
+### Speech Cheese
+
+- Consumable that temporarily grants ability to understand and speak in the voice of wisps or other tiny nonhuman intelligences
+
+### Bloodstone
+
+- Detection curio; turns pale and shivers when a nearby body is occupied by multiple people (i.e., a Doppelganger Skeleton host)
+
+### Lemon Cider
+
+- Protective draught; grants immunity to ghoul attack when taken secretly beforehand
+
+### Coldsoil
+
+- A pot of special soil that keeps undead worms in an alive-dead preserved state
+- Looted from Celadust Castle
+
+### Scroll-Armor
+
+- Metal plate lined inside with yellow vellum scrolls covered in a mancer's script
+- Most ghosts will not trouble the wearer
+- Establishes that written Deadspeech inscribed on worn objects can passively deter undead -- distinct from spoken spellwork
+
+### Ent-Eye
+
+- A rare artifact harvested from a creature called an Ent, described as a "true shiner"
+- Sought more than a hundred leagues past the Holt of Old Souls
+- Nature and function unstated; implied to be a rare optical or magical component
+
+### Columbine Water
+
+- Ghost containment medium; ghosts stored in driftwood buckets of columbine water
+- Preserves and contains a ghost's Voice
+- A ghost can request oblivion by having a living person drip floor dust into their bucket
+
+### Wooden Dagger
+
+- Last carving of a blind artist, varnished in albino tears
+- Carrier may discern more in the words of men
+- Fragile; shatters easily
+
+### Inside-seeing Statue
+
+- Enchanted statue of a woman that looks through a person's skin to reveal internal structure
+- Detects Doppelganger Skeletons
+
+### Feral Pickled Fairie
+
+- Dead fairie preserved in lime-colored brine; retains residual magic despite death
+- First known instance of fairies as a creature type in the setting
 
 ## Ritual: TODO
 

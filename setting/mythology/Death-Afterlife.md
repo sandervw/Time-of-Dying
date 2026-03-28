@@ -19,6 +19,16 @@ A place beneath an epitaph on the Road of Graves -- proper interment -- is said 
 - **Tailor** -- Someone who sells the clothes from graves (and any other goods).
 - **Resurrecter** -- Men who dig up graves.
 
+## Ghost Processing
+
+### Ghost Factories
+
+Industrialized soul-processing operations. Facilities capture, sort, and strip ghosts of individuality until they become usable necromantic material. The process removes Desire, Motive, and Energy in sequence. The end product is a saleable foam-like substance -- fully processed ghosts lose individual consciousness and merge into a collective hissing white mass.
+
+### Counterfeit Epitaphs
+
+Fake Road stones and counterfeit epitaphs arranged in rings around factory chimneys to lure uninterred souls. Exploits the pull of proper interment -- wandering ghosts approach what appears to be a resting place and are trapped instead.
+
 ## Ritual: TODO
 
 TODO - specific rituals associated with death, burial, and interment on the Road.
