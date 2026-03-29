@@ -26,7 +26,7 @@ So relaxed had the man become that he did not see the deformation of shadow in t
 
 The man breathed once. The moment he completed his respiration the knife - which had relaxed -closed back to his throat; like a door opened only a crack then slammed shut. To inhale again now would amount to suicide.
 
-"I saw where you buried the map," the deep-voiced man went on. "Out of the crevice, up on the mountain. Two rows of headstones rising from the parched heath, like the skin of a mummy, topped with tongue-colored heather fronds waving in the breath of the wind. But I didn't see this: which grave did you bury it in? Too dark at night. I don't want to waste my time digging them all. You resurrecter's will have pulled the wares from any stones under the sky already. Oh dearie me, you're turning purple. I'd better ask a yes-er or a no-er. Now don't lie! Did you bury the map in the westernmost grave in the northmost row of the headstones on the parched heath?"
+"I saw where you buried the map," the deep-voiced man went on. "Out of the crevice, up on the crags. Two rows of headstones rising from the parched heath, like the skin of a mummy, topped with tongue-colored heather fronds waving in the breath of the wind. But I didn't see this: which grave did you bury it in? Too dark at night. I don't want to waste my time digging them all. You resurrecter's will have pulled the wares from any stones under the sky already. Oh dearie me, you're turning purple. I'd better ask a yes-er or a no-er. Now don't lie! Did you bury the map in the westernmost grave in the northmost row of the headstones on the parched heath?"
 
 The old man took two gasping breaths.
 
@@ -46,11 +46,11 @@ As he spoke the shadow unconsciously loosened the razor-edge of the knife from t
 
 Birdsey seemed to ponder. He drew his knife away. The old man shifted forward and to the side to extricate himself, but a flash of shadow and steel came quicker. The old man felt pain on his temple. Then the little candle, and the reflection, and consciousness, vanished.
 
-"Perhaps you're right, he, he," said Birdsey, concluding the thought with two puffs of air that were laughs, the puffs separated by a distinct space between. "It'd be a shame to cut that old throat now. Firstly, because you were so obedient - up till that last word. Second, because you've made a long life on The Mountain of Graves. Ahhh, but Fogg will pull out my fingernails if I leave you breathing."
+"Perhaps you're right, he, he," said Birdsey, concluding the thought with two puffs of air that were laughs, the puffs separated by a distinct space between. "It'd be a shame to cut that old throat now. Firstly, because you were so obedient - up till that last word. Second, because you've made a long life on this mountain. Ahhh, but Fogg will pull out my fingernails if I leave you breathing."
 
 Birdsey cut the old man's throat.
 
-Some moments after the old man had passed unnoticed through Little Comfort's Last Rest, another shape passed in the opposite direction. While the old man's familiar face might have sparked no interest in the common crowd - had he shown himself - this second shape was a stranger to Little Comfort and its inhabitants. Fortunate for the second shape, then, that it took the same dark corners in its egress as the old man had in his ingress. It passed from Little Comfort, town of tohmbs in one of that mountain's many gorges and ravines, and wound a crooked path up to the parched heath - seeking 'friends' and a fresh burial - under a starless black sky.
+Some moments after the old man had passed unnoticed through Little Comfort's Last Rest, another shape passed in the opposite direction. While the old man's familiar face might have sparked no interest in the common crowd - had he shown himself - this second shape was a stranger to Little Comfort and its inhabitants. Fortunate for the second shape, then, that it took the same dark corners in its egress as the old man had in his ingress. It passed from Little Comfort, town of tohmbs in one of the many gorges and ravines which scarred the mountain of Deadman's Pile, and wound a crooked path up to the parched heath - seeking 'friends' and a fresh burial - under a starless black sky.
 
 ---
 
@@ -64,61 +64,61 @@ Othelmedir, the tall man with star-iron eyes, rubbed a hand through the salt and
 
 "Not wasted yet," Birdsey countered. He turned so that the glowing trail limned the map more clearly to his eyes. "He, he. If the scratches on this leather usher us to a genuine trove - why, a little gravediggery is small fare."
 
-Othelmedir raised one sharp eyebrow a fraction of a millimeter, as fog waved his clattering arms in huge circles over the skull he had crushed. The primordial man said, "Waste. Just full-dead here, and dust stirred by marauders. No souls." He glared up at Othelmedir (though Fogg was tall, Othelmedir was yet taller) as if expecting a rebuke.
+Othelmedir raised one sharp eyebrow a fraction of a millimeter, as fog waved his clattering arms in huge circles over the skull he had crushed. The primordial man said, "Waste. Just full-dead and marauded dust. No souls." He glared up at Othelmedir (though Fogg was tall, Othelmedir was yet taller) as if daring a rebuke.
 
-"Regarding the space above that particular dismantled armature," said Othelmedir, "you are correct." Othelmedir kept even the smallest hint of sarcasm from his voice and eyes. It would not have served him. Only in his thoughts did he grant himself the pleasures of contempt.
+"Regarding the space above that particular dismantled armature," said Othelmedir, "you are correct." Othelmedir withheld sarcasm from his voice and eyes. It would not have served. Only in his thoughts did he grant himself the pleasure of contempt.
 
-**Pickup**
+The three men followed the line left by Othelmedir's orb. The trail faded behind them as they moved. Othelmedir bent and picked up his glowing tangle when they came to the intersection where it had stopped. He repeated the maneuver with the next corridor, and the next. Birdsey carried a lamp, but oil and wood were precious on the mountain. The ball was their chief light. Their path carried them into a low-ceilinged vault, lined with pillars notched in a hundred alcoves, each pillar puncturing the black deep overhead, each alcove sporting a skull. The dead-jabber that was common in the Oldvaults of Deadman's Pile - especially the lower catacombs - hissed within the chamber. Fogg's two-handed sword was now in his hands; the pale savage eyed the chamber darkly.
 
-The three men followed the line left by Othelmedir's orb. The trail faded behind them as they moved. Othelmedir bent and picked up his glowing tangle when they came to the intersection where it had stopped. He repeated the maneuver with the next corridor, and the next, and the next. Birdsey carried a lamp, but oil and wood were precious in The Time of Dying; the ball was their chief source of light. Their path carried them into a low-ceilinged vault, lined with huge pillars notched in a hundred alcoves, each alcove containing a skull. The hissing dead-jabber that was common in The Mountain's catacombs - especially the lower catacombs - filled the chamber. Fogg's two-handed sword appeared in his hands as if it had teleported there, and the savage eyed the chamber darkly.
-
-"I hear no words with rotten syllables," said Othelmedir. "No hostile ghost is among the throng around us."
+"I hear no words with rotten syllables," said Othelmedir. "No hostile ghost mutters in the throng."
 
 "What are they saying?" asked Birdsey.
 
-"Nothing worth repeating, my stone-throwing associate."
+"Nothing worth repeating."
 
 "Slurs? Insults?"
 
-"Most ghosts this dep are too old or mad." Othelmedir shrugged. "Perhaps their language is different. Perhaps, their thinking. I cannot comprehend the words, but I can tell a threat."
+"Ghosts this deep are cracked, brittle as driftwood." Othelmedir shrugged. "Perhaps their deadspeech differs. Perhaps, their thinking. I cannot comprehend the speech, but I would recognize a threat."
 
-"Not a sole shiny disc," Fogg grumbled as he tossed a skull from an alcove and squinted in the vacant space. "No treasures here. It's all been combed."
+"Nothing shiny," Fogg grumbled as he tossed a skull from an alcove and squinted in the vacant space. "Not one sparkling disc. It's all been combed."
 
-"We'll be dragging gold by the sled if the ship's real," said Birdsey. He matched Fogg's displaced head with a stone he threw from his sling - expertly ricocheted off of the inner wall of a pillar-alcove, and knocking the skull loose.
+"We'll be dragging gold out by the sled if the ship's real," said Birdsey. He matched Fogg's displaced head with a stone he threw from his sling - it ricocheted off of the inner wall of a pillar-alcove and knocked the skull loose.
 
 "If."
 
-"The ship in the frozen tohmb is spoken of in Little Comfort and in Lower Trestle," said Othelmedir. "By the living and the not. The story is real enough. Finding the old roads drawn in the leather map will be the real body of worms. Finding, and contending with whatever protects the Mailed Flayer's remains."
+"Three seperate accounts corroborated the myth of the ship in the frozen tomb," said Othelmedir. "We had it from both Little Comfort and Lower Trestle; from the living and un-living. The story is real. Finding the old roads drawn in the leather map will be our difficulty. Finding the road, and circumventing whatever protects the Mailed Flayer's remains."
 
-"Mailed Flayer?" Birdsey ensuing laugh shifted up a nervous octave. "He, He. I never heard about the tohmb's interred."
+"Mailed Flayer?" Birdsey ensuing laugh shifted up an octave. "He, He. I never heard about what was interred in this tohmb."
 
-"A Mail Flayer named Angstlich. Holy and unholy servant of Sang, The Scratcher."
+"Perhaps it is not a flayer. That was the rumor from the ghost. A Mail Flayer named Angstlich; holy and unholy servant of Sang, The Scratcher."
 
 "He, he."
 
-"Stop trembling," said Fogg to Birdsey. "It's just bones ."
+"Stop trembling," said Fogg to Birdsey. "It's only bones."
 
-"Bones are deadlier than muscle, when they're moving on their own."
+"But consider, my strapping chum. Bones are deadlier than muscle when they're moving on their own."
 
-"Moving or still, sacred or not, bones can always be crushed." To emphasize his point, Fogg's two-handed sword returned to its sheath, Fogg's one-handed morningstar emerged from its loop, and Fogg's sledgehammer arm crushed another skull in another hollow.
+"Bones can be crushed." To emphasize his point, Fogg's two-handed sword returned to its sheath, Fogg's one-handed morningstar emerged from its loop, and Fogg's sledgehammer arm crushed another skull in another hollow.
 
-Othelmedir marched to the exact middle of four pillars, where his glowing orb had stalled. Fogg's cold blue eyes, Birdsey's narrow ones, and the empty sockets of a score of skulls stared at the tall and thin mancer, underlit in faint sapphire glow by his orb. Othelmedir intoned the same phrase over and over, a language few among the living could understand: "Fehér uj sinonak. Fehér uj sinonak. Fehér uj sinonak."
+Othelmedir marched to the exact middle of four pillars, where his glowing orb had stalled. Fogg's cold blue eyes, Birdsey's narrow ones, and the empty sockets of a score of skulls stared at the tall and thin mancer, underlit in the faint glow of sapphire. Othelmedir intoned; a phrase spoken over and over, deadspeech, language of the dead and the scholars. "Fehér uj sinonak. Fehér uj sinonak. Fehér uj sinonak."
 
-With Othelmedir's understanding and orb lighting their way, the three walked a short time later into a smaller, round room. The room was an intersection of fifth paths. Four large byways opened into cardinal directions, the three having entered from the east. The fifth way was down. A black, unrailed hole spanned most of the floor in the room, with only a thin ledge of tiles clinging to the wall around it. As Othelmedir leaned over the lip - and he could lean far indeed - the mancer could see a narrow stairway, hardly more than a foot in width, descending well beyond sight.
+With Othelmedir's understanding and orb lighting their way, the three walked a short time later into a smaller round room. This room was an intersection of five paths. Four large byways opened into cardinal directions, the three men having entered from the east. The fifth way was down. A railless hole spanned most of the floor, with only a thin ledge of tiles clinging to the wall around it. As Othelmedir leaned over the lip - and he could lean far indeed - the mancer saw a narrow stairway. Little more than a foot in width, this stair descended beyond sight.
 
-Othelmedir reached out and dropped his orb at the center of this well. It fell like a feather, leaving a midair streak of blue. It was still falling as Othelmedir, then Birdsey, then Fogg set their feet on the narrow descending steps. They started down. As the dropped foot by foot to this lower epoch of the catacombs on The Mountain of Graves, they sensed a change in atmosphere. Any dweller on The Mountain had long ago inundated themselves to the various odors of the various states of decay, from fresh blood, to the first bloated stages of rot, to desiccation. This new odor was not unfamiliar, but certainly uncommon; a smell like the memory of some primordial species of mildew; mildew that had been the apex of the fungal world in an age long past; mildew that ate more than dead matter. The stairs and the walls of the well transitioned from the cold grey of bland stone, to a fuzzy whitish texture of dead moss, to coal-black, covered in soot, and deeply shelved. The stone became more like the stone of a cave than a crypt, jagged and roughly-hewn, and covered in the dust of ancient bones.
+Othelmedir extended his arm and released his orb. It dropped like a feather, leaving a midair streak of blue. It was still falling as Othelmedir, then Birdsey, then Fogg set their feet on the narrow descending steps.
 
-How long they slid carefully down that well, hugging its walls, would be difficult to determine. Perhaps less than a round of a clock's thinnest hand. Perhaps days. Space and minutes were mutant things in that Time of Dying. Devices for measurement were rare - accurate measurement, rarer - and people told time by the passage of the staring sun on the mountains surface, or by counted footsteps in its guts. The dead-chatter of the upper halls had faded to silence during the descent. Now, there only echoed the footsteps and occasional quips of the three traversers: muted, stillborn echoes, reeling languorously up and down the vertical shaft like a hooked worm on a fishing pole.
+As the three dropped foot by foot to this lower epoch of the Oldvaults, they sensed a change in atmosphere. The dwellers on Deadman's Pile had long ago inundated themselves to the various odors of the various states of decay, from fresh blood, to the first bloated stages of rot, to desiccation. This new odor was not unfamiliar, but nor was it common. It was a smell like the memory of some primordial species of mildew, mildew that had been the apex of a fungal world in an older Time, mildew that ate more than dead matter. The stairs and the walls of the hole transitioned from the cold grey of bland stone, to a fuzzy whitish texture of dead moss; then to coal-black, covered in soot and deeply shelved. The stone became more like the stone of a cave, jagged and roughly-hewn, and covered in the dust of bones.
 
-"Look now," said Birdsey, his echo slowly moving away below and above him. "Othelmedir, your magic lamp has been only a fleck in the black for long moments, with its string of light reaching behind it. God of this sepulcher be praised, I think it grows in size at last."
+How long the men hugged the wall on the stair down that well would be difficult to determine. Perhaps less than a round of a clock's thinnest hand. Perhaps days. Space and minutes were mutant things in that Time of Dying. Devices for measurement were rare - accurate measurement, rarer - and people told time by the passage of the slate-colored sun, or by counted footsteps. The dead-chatter of the upper halls had faded during the descent. Now there only echoed the footsteps and occasional quips of the three traversers; muted, stillborn echoes, reeling languorously up and down the vertical shaft.
 
-We've descended many hundreds of years," said Othelmedir.
+"Othelmedir," said Birdsey, his echo slowly moving away below and above him. "your magic ball has been only a fleck in the black for long moments, with its string of light reaching behind it. But look now, God of this sepulcher be praised. I think it swells at last."
 
-"The Foundation?"
+"We have descended many centuries," said Othelmedir.
 
-"So it would seem." The cant of Othelmedir's words broadened as the three stepped down the last round of the stairs in a more open space. The floor was flat, unmortared stone. The walls showed some working. Huge iron stakes, covered in flaking rust were driven sporadically into the various rock faces, in clusters of eight. What significance these marked had long been lost to history. The stakes represented the only objects of value in the immediate borough of The Mountain's endless catacombs; and even Fogg, a marble sculpture of raw sinew and muscles though he was, could not hope to pull the rusted nails from the hold of the stone.
+"All the way to the Foundation?"
 
-"We're unlikely to run into looters," Birdsey mused, as Othelmedir lifted his orb and picked a passage to follow. "These cavities might be a thousand years old; the looting of them, a hundred years."
+"So it would seem." The cant of Othelmedir's words broadened as the three stepped down the last round of the stairs, and plumbed an open space. The floor was flat, unmortared stone. The walls showed some working. Huge iron stakes covered in flaking rust were driven sporadically into the various rock faces, in clusters of eight. The significance of these arrangements had long been lost to history. The stakes represented the only objects of value in this immediate borough of the Oldvaults, and even Fogg, a marble sculpture of raw sinew and muscles, could not hope to pull the rusted nails from the grip of the stone.
+
+"Not likely we'll meet other looters," Birdsey mused. Othelmedir lifted his orb and picked a passage to follow. "These cavities might be a thousand years old; the looting of them, a hundred years."
 
 The last word of each of Birdsey's sentences reverberated ahead of them in the silence. "Looters... looters... looters... Years... years... years..."
 
@@ -126,21 +126,23 @@ Fogg said, "Be nice to have a donkey."
 
 "Donkey... donkey... donkey..."
 
-Birdsey cast the pale giant a puzzled glance. "What for?"
+Birdsey cast the pale giant a puzzled glance. "Why?"
 
-"For... for... for..."
+"Why?... why?... why?..."
 
-"We could bring more of this boat treasure out in a single journey. That was the way of older generations of chryptsackers."
+"To haul out more of this boat treasure. That was the way of old chryptsackers."
 
-"Journey... journey... journey... Sacker... sacker... sacker..."
+"Treasure... treasure... treasure... Sackers... sackers... sackers..."
 
-"Othelmedir," said Birdsey, turning back to the mancer. "Will there be wards on this mailed flayer's tohmb?"
+"My dear Othelmedir," said Birdsey, turning back to the mancer, "will there be wards on this mailed flayer's tohmb?"
 
 "Tohmb... tohmb... tohmb..."
 
-Othelmedir had been walking with his eyes closed, speaking his foreign language quietly, without opening his lips. Now the iron eyes opened, looked back at his comrades, and saw the nerves written on Birdsey's face. "Keep your eyes open for mechanical traps, Birdsey," he said. "I will ensure we cross over no rune or curse."
+Othelmedir had been walking with eyes closed, murmuring his other language. Now the iron eyes opened, looked back at his comrades, and saw the nerves on Birdsey's face. "You watch for the mechanical traps," he warned. "I will ensure we cross no rune or curse."
 
-"Birdsey... birdsey... birdsey... Curse... curse... curse..."
+"Traps... traps... traps... Curse... curse... curse..."
+
+**Pickup**
 
 All of these latest echoes - since the three had reached the bottom of the black well - seemed to spend a very long time in dying, as if the trio could follow them as fast as the echoes could move away. As well, these repetitions seemed to take on a tone - an emotion - of their own as they progressed. Though Othelmedir had spoken the words "Birdsey" and "Cursed" with no particular inflection, each successive echo changed the emphasis of the word. "Birdsey", when it finally died, died with note of mockery. "Cursed" faded like the last gasp of spite from the lips of a dying man. Othelmedir's words, calculated to put his anxious ally at ease, were thus undercut.
 
