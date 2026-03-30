@@ -142,115 +142,119 @@ Othelmedir had been walking with eyes closed, murmuring his other language. Now 
 
 "Traps... traps... traps... Curse... curse... curse..."
 
-**Pickup**
+All of these echoes - since the three had reached the bottom of the black well - seemed to spend a very long time in dying, as if the trio could follow them as fast as the echoes could move away. As well, these repetitions seemed to take on a tone - an emotion - of their own as they went. Though Othelmedir had spoken the words "Birdsey" and "Cursed" with no particular inflection, each successive echo changed the emphasis of the word. "Birdsey", when it finally died, died with note of mockery. "Cursed" faded like the last gasp of spite from the lips of a dying man.
 
-All of these latest echoes - since the three had reached the bottom of the black well - seemed to spend a very long time in dying, as if the trio could follow them as fast as the echoes could move away. As well, these repetitions seemed to take on a tone - an emotion - of their own as they progressed. Though Othelmedir had spoken the words "Birdsey" and "Cursed" with no particular inflection, each successive echo changed the emphasis of the word. "Birdsey", when it finally died, died with note of mockery. "Cursed" faded like the last gasp of spite from the lips of a dying man. Othelmedir's words, calculated to put his anxious ally at ease, were thus undercut.
+They traversed several more length of corridor. The next moment of intrigue for Birdsey came when they entered a corridor where the walls had been more-finely chiseled. As Othelmedir's ball rolled down the length of this hall it's blue line revealed ten perfectly-spaced alcoves, five alcoves on each side. Small holes in the walls were common enough, but these holes were too small and too low to the ground to serve for interment. Othelmedir held a palm high in warning. They stepped cautiously up to a few yards before the first set of niches. Othelmedir bent with torturous slowness to the niche on the left. Birdsey did the same on the right. Each hollow contained a simple pewter plate. The plates were brown, undamaged, and probably shiny, though a layer of dust precluded reflection.
 
-They entered and exited several more length of corridor which contained nothing of note, and in which none spoke. The next moment of intrigue for Birdsey came when they entered a corridor where the walls had been more-finely chiseled. As Othelmedir's ball rolled down the length of this hall, shedding its blue line, it revealed ten perfectly-spaced alcoves, five alcoves on each side. Small holes in the walls were common enough, but these holes were too small and too low to the ground to service as recepticles for the remains of the dead. Othelmedir held a palm high in warning. They stepped cautiously up to a few yards before the first set of niches. Othelmedir bent with torturous slowness to the niche on the left. Birdsey did the same on the right. Each hollow contained a simple pewter plate. The plates were brown, undamaged, and probably shiny, though a layer of dust precluded any reflection.
+"I'll be slit," Birdsey exclaimed, his last word echoing slowly away. "Unsacked treasure. He, he."
 
-"I'll be slit," Birdsey exclaimed, his last word echoing slowly away. "Unsacked treasure. He, he. We're getting somewhere."
+"Don't touch it," Othelmedir warned.
 
-"Don't touch it," Othelmedir warned as Birdsey reached for the face.
+"Cursed, eh? Do they block our way?"
 
-"Cursed? Warded? Will they prevent our crossing?"
+"The plates will not stop our passage. But see that there are ten niches; ten long-lasting brown plates. In such arrangements, one plate is always cursed. There is no way to know which."
 
-"The plates will not stop our passage. Btu see that there are ten niches; ten long-lasting brown plates. In such arrangements, one palte is always cursed. There is no way to know which."
+Birdsey's shoulder's sagged. "Guess we'd better keep going."
 
-Birdsey's shoulder's sagged. "Guess we'd better keep going," he said. Othelmedir resumed his lengthy stride.
+Fogg meanwhile had refused to even look at the place. Something in his primitive sensibility had been repulsed by the careful arrangement of porcelain. His instinct had been to smash. Hearing Othelmedir's explanation, he only grunted, and fell in line behind the mancer. They hurried past the ten alcoves, with a feeling of being watched by the pewter.
 
-Fogg meanwhile had refused to even look at the place. Something in his primitive sensibility had been repulsed by the careful arrangement of porcelain. His instinct had been simply to smash one of them. Hearing Othelmedir's explanation, he simply grunted and fell in line behind the mancer. They hurried past the ten alcoves, feeling watched by the ageless pewter.
+No sooner had they reached Othelmedir's orb, however, than the mancer held his palm up once more. He knelt, swiftly this time, and Birdsey saw an excited gleam in a corner of the iron eyes. Othelmedir brushed his palm over the floor.
 
-No sooner had they reached Othelmedir's orb, however, than the mancer held his palm up oncem ore. He knelt, swiftly this time, and Birdsey could see the excited gleam in a corner of the iron eyes. Othelmedir brushed his palm over the floor.
+"Bend and look," he said. "See. There is no mortar, but the stone is lightly carved into hexagons. At each corner of each hexagon, three scratches. Innumerable scratches across the floor. We have crossed a threshhold into some burgh committed to Sang. Let us hurry."
 
-"Bend and look," he said. The others did so. "See. There is no mortar, but the stone is lightly carved into hexagons. At each corner of each hexagon, three scratches. Innumerable scratches across the floor. We have crossed a threshhold into some burgh committed to Sang. Let us hurry."
+Othelmedir continued to push the ball carefully ahead along each corridor, but apprehension now lacquered the whites of both his eyes, and as they followed the line he continually rubbed a hand through his short hair.
 
-Othelmedir continued to push the ball with the price movement along each corridor, but a continual apprehension now lacquered the whites of both his eyes, and as they followed the line, he continually rubbed a hand through his short hair. At last they saw the glow of the rolling ball spread into a wider chamber, and presently reflect off something on the wall. They hurried ofrward. They entered a hexagon room under an arch in the corridor. On the face of the hexagon opposite to them, a set of huge, bronze double-doors gleamed in the blue light. Thousands of scratchmarks raked its surface, marring the brown-yellow sheen like open sores; as if some metal-rending nails had scraped desperately against it. Stepping closer, they found no handles or locks.
+At last they saw the glow of the rolling ball spread into a wider chamber, and presently reflect off something on the wall. They hurried under a last arch, and entered a hexagon room. On the face of the hexagon opposite to them, a set of huge, bronze double-doors gleamed in the blue light. Thousands of scratchmarks raked its surface, marring the brown-yellow sheen like open sores; as if some metal-rending nails had scraped desperately against it. The blue ball had stopped against the metal. Stepping closer, they found no handles or locks.
 
-"Is this the tohmb?" asked Othemedir.
+"Is this the guided way?" asked Othemedir.
 
-Birdsey unfurled the leather scroll they had stolen. He scanned the markings, then raised his eyes to the cieling as he reflected on the recent turns they had taken. Finally he shrugged, and said, "We have followed the map for some minutes. These two round dots at the edge of the map may have been the plates. It seems like the tohmb. How do we open it?"
+Birdsey unfurled the leather scroll they had stolen. He scanned the markings, then raised his eyes to the ceiling as he reflected on the recent turns they had taken. Finally he shrugged. "We've followed the map. These two round dots here may have been the plates. How do we open the tohmb?"
 
-Fogg grunted. He stepped up to the door. He did stop and stare at Othelmedir before touching the scarred copper. The latter raised no objection. Fogg slammed a palm on each door and strained. The striations stood out like an azure spiderweb under the pale skin of his arms. He strained silently against the door for several moments, shifted, set his back against the copper and pressed with his mutant legs. The door moved not a mouse's hair. At last, Fogg came away. He stood, caught his breath, and shook his head. "It can't be forced," he said.
+Fogg grunted. He stepped up to the door. He did pause, and stared at Othelmedir. The latter raised no objection. Fogg slapped a palm against each scarred copper door and strained. The striations stood out like an azure spiderweb under the pale skin of his arms. He strained silently against the door for several moments, shifted, set his back against the copper and pressed with his mutant legs. The door moved not a mouse's hair. At last Fogg came away. He caught his breath and shook his head. "It can't be forced," he said.
 
-"Search for a mechanism," said Othelmedir. "I will ask the dead."
+"Search for a mechanism," said Othelmedir. "I will ask in deadspeech."
 
-Birdsey immediately cast his eyes over the six walls of the room. Each of the walls was covered in icons of giant horseflies, carved directly into the stones. The four walls which did not support the bronze doors or the arch by which they'd entered each had a gaint, curling symbol of a worm embossed on it. Birdsey went to the nearest. He ran his hand over the worm's loops.
+Birdsey immediately cast his eyes over the six walls. Each of the walls was covered in icons of giant horseflies, carved directly into the stones. The four walls which did not support the bronze doors or the arch by which they'd entered each held a curling symbol of a worm embossed on it. Birdsey went to the nearest. He ran his hand over the worm's loops.
 
 "Fehér uj sinonak," Othelmedir chanted softly the same phrase from before. "Fehér uj sinonak élérntés."
 
-Fogg knelt and stirred the dust of the floor with his fingers. It had an altered texture to the dust of the corridors. It felt familiar, in a way that Fogg could not remember. Thin, and fragile, like dry filo flakes."
+Fogg knelt and stirred the dust of the floor with his fingers. It had an altered texture to the dust of the corridors. It felt familiar, in a way that Fogg could not remember. Thin, and fragile, like dry filo flakes.
 
-"Nothing on the reliefs," said Birdsey. He looked up. "The cieling's dark, but it looks smooth."
+"Nothing on the reliefs," said Birdsey. "The cieling's dark, but it looks smooth."
 
 "Keep looking," said Othelmedir.
 
-Fogg looked up from the dust to the huge motif of the worm beside Birdsey. He squinted, then drew in a hissing breath. "Wormskin," he said.
+Fogg looked up from the dust to the huge motif of the worm beside Birdsey. He squinted, then drew a sharp breath. "Wormskin," he hissed.
 
-"What?" asked Othelmedir.
+"What?"
 
-"The dust is shed skin. Like a snake or a worm."
+"The dust - shed skin. A snake or a worm."
 
-Othelmedir only nodded and closed his eyes again, resuming the call to the dead. Birdsey shifted and said, " He, he. I suppose worms are sacred to all the gods."
+Othelmedir only nodded and closed his eyes again, resuming the call to the dead. Birdsey said, " He, he. I suppose worms are sacred to all the gods."
 
-"Something is wrong in this room," Fogg went on slowly. He stepped away from the center of the chamber and ran a hand along the surface of another carved worm-panel. "I feel it in the jungle of my bones. I-"
+"Something's wrong in this room," Fogg went on. He stepped away from the center of the chamber and ran a hand along the surface of another carved worm-panel. "I feel it in the jungle of my bones. I-"
 
-But something suddenly hissed as Fogg set his palm against the worm relief. He jumped back, Othelmedir's eyes popped open, Birdsey spun. The hiss went on, and all three turned to the double bronze doors, from whence it eminated.
+But something else hissed as Fogg set his palm against the worm relief. He jumped back. Othelmedir's eyes flashed. Birdsey spun. The hiss went on - and all three stared the double bronze doors.
 
-A perfect black seam opened between the scratches on the bronze. The crack widened. Othelmedir took a pace back, and Fogg's two-handed sword swung from its sheath as the hiss rose to a wail like a banshee. All three put a hand to their faces, both as a ward again the sharp wind, and against the texture-stench of the ancient air. Dust, with the smell of a long-vacant wood cabin, and the chill of stone rubbed raw by a glacier, blasted against their skin.
+A perfect black seam opened between the scratches on the bronze. The crack widened. Othelmedir took a pace back, and Fogg's two-handed sword swung from its sheath as the hiss rose to a wail like a wraith. All three put hands to their faces, both as a ward again the sharp wind, and against the texture-stench of the ancient air. Dust, with the smell of an abandoned cabin in a deep grove, and the chill of glacier-smoothed pebbles, blasted their skin.
 
-When the blast of cold air finally faded, the three lowered their hands.
+When the gust of cold air finally faded, the three lowered their hands.
 
-The bronze doors yawned before them. Othelmedir bent and picked up his light. The wine-black walls of a tunnel, curving down and to the the left, shone brilliantly in the light of Othelmedir's orb; their surfaces rendered dustless by the breath of the tohmb.
+The bronze doors yawned before them. Othelmedir bent and picked up his ball. The wine-black walls of a tunnel, curving down and to the the left, shone brilliantly in the light of Othelmedir's orb, their surfaces rendered dustless by the breath of the tohmb.
 
-"Fogg," said Othelmedir. "Take the front." The pale giant grunted and stepped toward the tunnel.
+"Fogg," said Othelmedir, "Go to the front." The pale giant grunted and stepped toward the tunnel.
 
-But just they were taking their step toward the door which had expelled its hiss, a second hiss - like an echo, but far to present and close - sounded. Something thudded on the floor behind them.
+But just as they were taking their step toward the door which had expelled its hiss, a third hiss; not Fogg, not the door; like an echo, but far to present and close; sounded. Something behind them thudded.
 
-Fogg reacted the swiftest. He had not taken more than a step toward the door; he was nearest to the thumping sound, and halfway round before it had reached the ears of his comrades. The other two reacted more slowly, but not much more.
+Fogg reacted the swiftest. He had not taken more than a step toward the door. He had already spun half-round before the sound reached the ears of his comrades. The other two were slower, but not by much.
 
-They all saw that one of the reliefs on the wall had been the source. Specifically, the worm within the relief. This had been one of the two that neither Fogg nor Birdsey had touched. Perhaps they might have recognized that the relief was not a relief - not an embossed, enormous worm set within the carved wall - but an organism. A living (or dead) thing, come to enormous animation as it unfurled on the floor before them. It's underside had been the color of the wall, but the sides and back of the worm were a rust-colored leather, with bony protrusions like the spin of a lizard covering its surface.
+One of the reliefs on the wall had been the source. Specifically, the worm within the relief. Neither Fogg nor Birdsey had touched that one. Perhaps they might have recognized that the relief was not a relief - not an embossed, enormous worm set within the carved wall - but an organism. A living (or not) thing came to enormous animation as it unfurled on the floor. It's underside had been the color of the wall, but the sides and back of the worm were a rust-colored leather, with bony protrusions like lizardskin.
 
-The creature was enormous. Swift as Fogg and Birdsey and Othelmedir had reacted, yet the creature had already untangled its great mass before any could do more than gape at its size. It's faceless front was thicker than the trunk of a sturdy pine, and rose so high that it brushed the ceiling six feet overhead, and sent curtains of dust and cobwebs floating down around it.
+The creature was enormous. Swift as Fogg and Birdsey and Othelmedir had reacted, yet the creature had already untangled its great mass. It's faceless front was thicker than the trunk of a sturdy pine. It rose so high that it brushed the ceiling nine feet overhead - curtains of dust and cobwebs floating down like snow.
 
-Fogg's coiled muscles launched him, like a triggered jawtrap snapping. The worm reeled back from the swing of Fogg's two-handed sword, but Fogg's two-handed sword clove the air with the speed of a moor cat. The blade slammed the side of the worm; it's upper mass swayed sideways under the weight of the blow; the chamber shuddered as it struck the wall. But the blade did not cut.
+Fogg's coiled muscles launched him like a triggered jawtrap. The worm reeled back from the swing of Fogg's two-handed sword, but Fogg's two-handed sword clove with the speed of a moor cat. The blade slammed the worm's left flank - it's upper mass swayed sideways under the weight of the blow, and the chamber shuddered as it struck the wall. But the blade did not cut.
 
-Birdsey meanwhile had knocked and whipped a stone into motion with his sling. A whistled punctured the silent heaving of the spined worm as the stone rent the air. It thudded into the stone-like leather of the monster with no more effect than Fogg's sword.
+Birdsey meanwhile had knocked and whipped a stone with his sling. A whistled punctured the silent heaving of the spined worm as the stone rent the air. It thudded into the rusty leather of the monster with no more effect than Fogg's sword. The worm-monster's enormous body lashed out with a speed that seemed impossible for a creature of it's mass. Fogg brought his sword up to block. The worm slammed against the enormous pale fighter like a collapsing stone wall, knocking him back against the actual stone and pinning him.
 
-The worm-monster's enormous body whipped out with a speed that seemed impossible for a creature of it's size - it's mass seemed to engulf the room. Fogg brought his sword up to block. The worm slammed against the enormous pale fighter like a collapsing stone wall, knocking him back against the actual stone and pinning him.
+Othelmedir meanwhile had been stunned by the sudden violence. Now he wagged his head, and focused on the worm as it squeezed against Fogg. Othelmedir had only a small knife for cutting his bread - worthless against this mega-invertebrate - but he recognized the creature. "It's a leatherwyrm," he called. "Stab. Don't cut."
 
-Othelmedir had been stunned to torpor by the sudden violence. Now he wagged his head, clearing the fog, and studied the worm as it squeezed against Fogg. Othelmedir had only a small knife for cutting his bread - worthless against this mega-invertebrate - but he did recongize the creature. "It's a leatherwyrm," he called. "Stab it. Don't slash."
+Fogg's two-handed sword was pinned with his arm, however, the worm's bulk crushing sword and arm against the stone. The savage tried to reach his morningstar, but the bulk of the monster covered his waist.
 
-Fogg's two-handed sword was pinned with his arm, however, the worms bulk crushing them against the stone. The savage tried to reach his other weapon, but the bulk of the monster covered it waste.
+"What's it want?!" Birdsey yelled. He whipped another stone to no effect.
 
-"What it want?!" Birdsey yelled. He whipped another stone to no effect.
+Othelmedir replied, "Rust and moss, but it will eat Fogg. It will lay it's slime atop his corpse."
 
-Othelmedir replied, "Rust and moss from tohmbs. But it will eat Fogg. It'll crush him and lay it's slime atop his corpse."
+Suddenly the worms back-end rose from the ground and swung. Birdsey screamed. He let the stone he had been whirring fall from his sling. He dove sideways, just missing a blow that would have lain him breathless against the floor. He was up in moment beside Othelmedir, and tugged the towering mancer toward the newly-opened door.
 
-Suddenly the worms back-end rose from the ground and swung. Birdsey screamed. He let the stone he had been whirring fall from his sling. He dove sideways, just missing a blow that would have lain him breathless against the floor. He was up in moment, beside Othelmedir, and tugging the towering mancer toward the newly-opened door.
+"Fogg's dead," said Birdsey. And indeed, Fogg's pale face had now turned a deep eggplant color as the worm  collapsed his lungs. "Inside, and shut the doors."
 
-"Fogg's dead," said Birdsey - and indeed, Fogg's pale face was at that moment turning a deep purple as the worm pressed the breath from his lungs. "Inside, and shut the doors."
+"No-" Othelmedir began. Birdsey was beyond terror, however, and only yanked Othelmedir harder toward the door. Othelmedir himself felt no special grief for the loss of Fogg, beyond the latter's value as a fighter. But he feared entrapment within a single-exit tohmb.
 
-"No-" Othelmedir began. He felt no special grief for the loss of Fogg (beyond his value as a fighter). He worried only that they were trapping themselves in a tohmb with only one exit. Birdsey was beyond terror, however, and only yanked Othelmedir harder toward the door.
+Fogg seemed at that moment to have second thoughts about dying. With a savage cry and a surge of corded arms he pressed the worm's bulk. A tiny gap opened. The gap was small and momentary. But in that brief second Fogg filled his lungs with air. Fogg's two-handed sword also shifted. He set the blade at an angle with the wall so that, as the worm pressed in again, it's own force drove it's bulk along the razor edge. The creature let out a vibration that might have been pain. It reeled back, a small cut visible in leather. Fogg neither pressed the attack nor held his place. At once when he was freed he stumbled for the door, gasping. He heard the worm slither against the floor just as he crossed the threshold. He spun, bringing his two-handed sword up to block.
 
-Fogg, however, seemed at that moment to have second thoughts about dying. With a savage cry and a surge of corded arms he pressed the worm's bulk off him. Not for long, and not by much. But in the second of time he took a huge breath. Fogg's two-handed sword also shifted in the time. He angled it so that, as the worm pressed in again, it's own force drove it along the razor edge. The creature let out a vibration that might have been pain. It reeled back, a small cut showing on it's body. Fogg neither pressed the attack nor held his place. At once when he was freed he darted for the door, gasping to catch his breath. He heard the worm behind him just as he crossed the threshhold. He spun, bringing his weapon up in a block.
+Birdsey had pause at the door. He now tried to slam one of the heavy bronze doors. He abandoned the effort and fell back, however, as the leatherwyrm threw itself against the door's stone casing. Fogg's two-handed sword blocked none of the worm's mass, for the worm came up short of the weapon. Its vastness slammed the bronze doors and stone frame. A mineral *snap* resounded. The tunnel shivered. "Back!" yelled Othelmedir.
 
-Birdsey had pause at the door. He now tried to slam one of the heavy bronze doors. He abandoned the effort and had to fall back, however, as the leatherwyrm threw itself against the door's stone casing. Fogg's two-handed sword came nowhere near to blocking the worm's mass, for the worm came up short of the weapon. Its entire bulk slammed the partially open door and its frame. A crack of stone resounded. A shudder shook the tunnel. "Back!" yelled Othelmedir.
+The three chryptsackers fell back as rubble and dust crashed in curtains over the shape of the leatherwyrm. The door arch buckled. Thunder like a sea storm boomed as the three stumbled down the curving slope. Othelmedir's light flickered as great dust plumes blew past and all around them. Then there was one final, terrific crash like a gong. A loose piece of ceiling rock blasted Othelmedir in the shoulder. The light winked out in a instant, and all three were plunged into a cold and storming blackness.
 
-The three chryptsackers fell back as rubble and dust crashed in curtains over the shape of the leatherwyrm framed in the doorway. The frame buckled. Thunder like the heart of a storm boomed in their ears as the three stumbled down the curving slop. Othelmedir's light flickered as great plumed of dust blew past and all around them. Then there was one final, terrific crash like a gong, and a loose piece of cieling rock blasted Othelmedir in the shoulder. The light winked out in a instant, and all three were plunged into a cold and storming blackness.
+---
 
-The groaning of the stonework faded in starts and stops, like the death-throes of a strong-limbed bull-ox when an axe is driven through it's neck. Amidst the darkness and the dust, men coughed and sputtered. Finally, Birdsey's voice softly spoke: "Who's living still?"
+The groaning of the stonework faded in starts and stops, like the death-throes of a bull-ox when an axe is driven through it's neck. Amidst the darkness and dust, men's voices sputtered.
 
-The reply came as another groan, this time in the deep, scratched voice of Othelmedir, somewhere to Birdsey's left. Then Fogg barked from just beside Birdsey, "I'm alive."
+Finally Birdsey's voice softly coughed: "Who's living still?"
 
-"Othelmedir, are you hurt?"
+The reply came as another groan. This was the deep, scratched voice of Othelmedir, somewhere to Birdsey's left. Then Fogg barked just beside Birdsey, "I'm alive."
 
-Another groan sounded, then Othelmedir said hoarsely, "My shoulder's smashed. I'm up though."
+"Othelmedir? You hurt?"
+
+Othelmedir said hoarsely, "My shoulder is smashed."
 
 "Conjure a globe so-" Fogg began. A fit of coughing dust interrupted him, before he resumed, "So we can take stock."
 
-"I can't- can't focus. The pain, agh."
+"I can't- cannot focus. The pain, agh."
 
-Another rumble shook the floor. Then the blackness seemed to fall still for good. Fogg said, "The air feels cool and open before me. Birdsey, help the mancer, then grab the back of my leathers. I'll pick a path."
+Another rumble shook the floor. Then the blackness seemed to fall permanently still. Fogg said, "The air feels cool and open ahead. Birdsey, help the mancer. Then fasted a hand on my collar."
+
+**Pickup**
 
 Birdsey stumbled over some loose rocks to where he heard Othelmedir breathing heavily. He groped until he felt a sharp elbow. He let the tall man set a long-fingered hand around his shoulder, then led the way back to Fogg, guided by a clicking sound the latter was making in imitation of a bat. Birdsey caught hold of the collar of Fogg's leather coat, and with the savage leading they descending along the sloping corridor.
 

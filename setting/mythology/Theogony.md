@@ -8,7 +8,7 @@ The seven necromancer-gods, once united against the demon kings, turned on one a
 
 ### The Thin Man (Sloth) - God of Sickness and Entropy
 
-An old man locked in eternal sleep in his Sickened Cradle (his tohmb). Bears the gift of perpetual youth united with perpetual sleep. He shares his dreams with his followers.
+An old man locked in eternal sleep in his Sickened Cradle (his tohmb). Bears the gift of perpetual youth united with perpetual sleep. He shares his dreams with his followers. Two distinct iconographic traditions: a silver mask (from the Prophecy/grot tohmb inscriptions) and a plaster mask with flaccid, ill-looking cheeks (from regional shrine representations).
 
 The finding and opening of the Sickened Cradle is a central goal of his followers. Opening it will supposedly unleash a plague that brings final rest to all the living and the dead, inflicting final entropy on the Road of Graves.
 
@@ -28,7 +28,7 @@ TODO
 
 ### The Mother of Worms (Lust) - God of Decay
 
-A vampire. Lives off the blood of her consort-followers. Beautiful on the outside, but rotten within. Inspired by Akivasha; always nude, always deadly.
+A vampire. Lives off the blood of her consort-followers. Beautiful on the outside, but rotten within. Inspired by Akivasha; always nude, always deadly. Folk or regional traditions name her sin-domain "wanting" rather than lust or decay, suggesting doctrinal drift from formal theology.
 
 Uhrdgatan ("winter-beast") is a named devoted follower who believes the world ends with insects, and wants to be reborn as a dragonfly.
 
@@ -40,11 +40,21 @@ Worshipped by the mutants of The Lake of Tomatoes. His strongest servants are th
 
 ### Lady Horsehair (Greed) - God of Possession
 
-Also known as The Girl Doll. Commands a servitor class called dollmakers. Ordered her dollmakers to weave the Whiteeye Waste from shed winter animal pelts, creating a barrier between Gallbladder's territory and the civilized Road. *"A door erected must be, / Between Middlemoss, / And the Red Lake of Gallbladder."*
+Also known as The Girl Doll (or "The Porcelain Girl Doll"). Commands a servitor class called dollmakers. Ordered her dollmakers to weave the Whiteeye Waste from shed winter animal pelts, creating a barrier between Gallbladder's territory and the civilized Road. *"A door erected must be, / Between Middlemoss, / And the Red Lake of Gallbladder."*
+
+Temples called **The Emerald House** operate as art galleries fronting soul-harvesting operations. Led by a Grand Daughter and staffed by ranked priestesses with distinct violence-talents: Wailing (grief rituals that stop hearts), Tonguebinder (prayers that stymie a mancer's mind -- a theologically-grounded counter to necromantic spellwork), Gargoyle (stone-skinned fighters), and Living Hair (close-combat). Priestesses can invoke Lady Horsehair's power to lay permanent curses on the spine.
 
 ### The Red King (Envy) - God of Persecution
 
 Associated with torture devices called confession racks. Worshippers are branded with his mark and described as "devoted, wrathful dreamers." The Weige noble family are rumored cultists, practicing black rites in deep places near the Lake of Tomatoes. The Stitched Soul Men are branded servants of the Red King.
+
+## Pilgrim Tohmbs
+
+Individual gods have dedicated shrines along the Road, known as Pilgrim Tohmbs. At least four are confirmed in the northernmost Middlemoss heath. Each is architecturally distinct. Gods can grant or withhold a "sign of will" to pilgrims. Named examples:
+
+- **The Fourth Green** (Mother of Worms): beneath a gutted brothel; entry by riddle (answer: "Ginseng")
+- **The Leper Stone** (The Thin Man): a menhir bearing his plaster mask; surrounded by a leper colony
+- **The Wandering Barrow**: entry shifts between five sites each midnight; smell of old death is constant
 
 ## Ritual: TODO
 

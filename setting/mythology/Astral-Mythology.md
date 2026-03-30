@@ -21,6 +21,10 @@ The harridan's moon is yellow. It marks the night of witches. Certain undead can
 
 The moon has a humpbacked silhouette. It also casts silver light in non-witch contexts (e.g., a full moon over Landmine Forest). Whether the silver vs. yellow distinction reflects a separate lunar body, a phase cycle, or contextual variation is unclear.
 
+## Comets and Heavenly Signs
+
+Comets and other heavenly signs serve as timing omens for major necromantic workings. The necromancers waited for "signs in the comets and the heavens" before animating the golem Lendendrung. Celestial observation governs the scheduling of large-scale rituals.
+
 ## Constellations
 
 - **Amber Ox** -- named constellation in the setting. Visible from the Lake of Tomatoes region. A constellation chart shows all major constellations, with the Amber Ox specifically circled.

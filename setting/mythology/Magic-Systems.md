@@ -38,6 +38,12 @@ A ghost is drawn to a smoking mancer's censer and bottled with the smoke. Standa
 
 A necromantic reduction process that strips ghosts of individuality and compresses them for necromantic use. Even powerful ghosts can be shrived into compact, digestible material. Used in industrial-scale ghost processing operations.
 
+### Katabasis (Wooly Vampire Trance-Descent)
+
+- Named term for the hypnotic trance induced by a Wooly Vampire's feeding
+- Cyclic in nature ("Ouroboros is the trance"): the victim enters recursive dream-worlds
+- Escape requires identifying real-world elements bleeding through into the dream layers
+
 ## Environmental Counters
 
 - **Anti-necromancy zones** -- Certain poisons (e.g., landmine poison) nullify necromancy within a region, forcing undead into dormancy and blocking all necromantic spellwork. The only known hard environmental constraint on necromancy beyond physical gagging.
@@ -85,6 +91,10 @@ Allows a spell which imparts certain abilities to impart other abilities instead
 ### Amalgamators
 
 Treat groups of similar magical effects or undead as a single entity, allowing control over larger groups of undead, or control of a variety of spell effects at once.
+
+### Soul-to-Sense Tether
+
+The motif of desire bridges soul, sense, and body. This connection governs soul-sense-body integrity in both living and resurrected persons, not only undead capability. Repeated death and resurrection wears the motif thin until it breaks. The tether is subject to physical attrition -- a person resurrected too many times loses the bridge entirely.
 
 ### Other Desire Motifs
 

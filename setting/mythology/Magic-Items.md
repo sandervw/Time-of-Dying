@@ -14,6 +14,7 @@ Necromantic tools, substances, reagents, and curios. Some are crafted deliberate
 - **Sewer Worm Silk** -- Rope woven from Sewer Worm silk; stronger than iron. Can restrain a fully armored knight.
 - **Ill Omen's Heart** -- A named necromantic substance carried in labeled vials; associated with medical or necromantic practice. Name suggests ominous or predictive properties.
 - **Tohmbdust** -- Dust harvested from old tohmbs; carries active necromantic or alchemical properties. A tradeable commodity used as a reagent in sleep toxins and other preparations.
+- **Soul Scarabs** -- A traded commodity stocked by specialist sellers; stock changes every daybreak. Nature and use unstated but implied as necromantic components.
 
 ## Tools
 
@@ -98,10 +99,40 @@ A set of twenty-three alabaster masks, each granting the wearer a false identity
 - Enchanted statue of a woman that looks through a person's skin to reveal internal structure
 - Detects Doppelganger Skeletons
 
+### The Unhue
+
+- Small plain clay jar of acid that destroys a painted image and severs a phylactery contract
+- Created by a temple chemist named Squide; stored in The Emerald House's chamber of paints
+
+### Monkshood Potion
+
+- Silences armor and footsteps entirely for sixty-three minutes
+- Concealed in a decorative glass statue in The Emerald House's garden, released by a riddle-lock mechanism
+
+### The Quieting Mirror
+
+- Relic owned by the Monks of the Lidless; described as quieting one's thinking
+- Sought as a cure for night terrors
+
+### Glowbug in Amber
+
+- An insect imbued with un-life by a mancer, then frozen in amber; glows persistently
+- First documented example of un-life imbued into a non-humanoid organism as a light-source curio
+
+### Engraved Nautilus
+
+- A polished ivory nautilus shell engraved with a map through the Tunnel of the Stillbreather
+- Found as a random Oddboon
+
 ### Feral Pickled Fairie
 
 - Dead fairie preserved in lime-colored brine; retains residual magic despite death
 - First known instance of fairies as a creature type in the setting
+
+### Far Speaking Necklace
+
+- Thin silver necklace enchanted with a "spell of Far Speaking"
+- Activated by touch; allows contact with a mancer across long distances
 
 ## Ritual: TODO
 

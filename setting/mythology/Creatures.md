@@ -60,6 +60,7 @@ TODO
 
 - Varieties: Wax, Glass, Leather, Stitched Tissue, Wood
 - Cannot be created under the sky or sun
+- Wax golem surfaces coated in paint harden to stone-hardness; blunt attacks and imprecise cuts are useless against painted areas. "Painted Twins" variant: nine feet tall, roughly 1000 lbs, partially painted, vulnerable only to precise cuts and stabs
 - Wood golems serve automated patrol roles in necromantic facilities
 - Operate on standing behavioral orders and can receive real-time verbal commands
 - Can have named identities (e.g., "Grot," a three-armed, three-eyed tissue golem)
@@ -79,7 +80,8 @@ TODO
 
 ### Starshadow
 
-- A type of Wraith
+- A type of Wraith; can serve as an active guardian-warden bound to a specific location
+- The Tower of Silence houses a named Starshadow that enforces the site's internal rules (e.g., curses those who take more than one statue)
 
 ### Gasps
 
@@ -184,12 +186,26 @@ TODO
 
 ### Mimic
 
-TODO
+- Disguises as a flat portrait on a wall; attacks by enveloping and crushing the target
+- Conceals passages behind it
+- Defeated by repeated blunt-force strikes from a shield boss
+- Portrait-disguise variant confirmed; other forms may exist
 
 ### Will-o-Wisp
 
-- Glowballs so bright they blind any who look on them
+- Glowballs so bright they blind any who look on them; incorporeal
 - Steal all sound
+- Only necromancy can destroy them; wisps expend energy quickly and wear down over time
+- Created by Lampagogue (see below)
+
+### Lampagogue (The Maker of Wisps)
+
+- A sentient pool in the Glowing Glade of the Old Soulwood; water is dry, brittle, grey, and refuses to reflect the moon
+- Speaks in a boneless, sinusless voice
+- Drives victims to become Will-o-Wisps by forcing combat in one of three chosen forms:
+  - **Form of the Eyeball** -- Slow twenty-foot armored millipede with a socketless eyeball that spews yellow fluid
+  - **Form of the Glass Wasp** -- Near-invisible wasp whose sting curses flesh to glass
+  - **Form of the Padfooted Woodsman** -- Fleet axeman in heavy pelt who cuts through nearly anything
 
 ### False Foe
 
@@ -202,7 +218,10 @@ TODO
 
 ### Wooly Vampire
 
-- Feeds on imagination
+- Feeds on dreams of sleeping victims, weakening targets during waking hours
+- Inhabits homes marked by great loss; can sustain itself off a single village for hundreds of years
+- Thralls lose all emotion and will ("flesh without inner will, domesticated swords")
+- Conjures the victim's own shadow as a physical combatant: the shadow-self is covered in shadow-thorns, mirrors the victim's fighting style, and moves faster due to being unweighted. Each strike absorbs the victim's color; seven hits fade the victim to nothing. Immune to conventional shields but vulnerable to polished steel
 
 ### Cankarnis
 
@@ -245,8 +264,10 @@ TODO
 
 ### Periwinkle Forest Cats
 
-- Lynx-sized predators (bear-wide, salamander-long) that patrol The Old Soulwood
+- Elephant-scale predators: 4.3-4.5 m long, 2.2-2.3 m shoulder height, ~3 m reach, exceeding two tons. Unusually long sinewy limbs; flat face with a comparatively weak jaw
 - Possessed by Bouldsatr spirits; serve as the forest's eternal guardians
+- Primary habitat is the Soulwood and its Underpass; giant tunnel-rats are primary prey
+- Do not kill-hunt in the forest proper except for play or vengeance
 - Not always hostile; sometimes befriend children and women
 
 ### Doppelganger Skeletons (Undead)
@@ -274,6 +295,13 @@ TODO
 
 - Wild territory rats reaching bulldog proportions; territorial and hunt men
 - Frontier trappers called "Squeakers" catch them in deadfalls and guillotine boxes and sell the pelts
+
+### The Lidless (Half-Demons)
+
+- Malevolent winged female half-demons born from two half-souls
+- Appear as mutated spotted owls with partially human faces and eye-covered feathers
+- Haunt churches, towers, and barns
+- Namesake creatures of the Monks of the Lidless (see `Folklore/Monks-of-the-Lidless.md`)
 
 ### Other Creatures (Briefly Noted)
 

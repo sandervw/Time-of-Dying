@@ -8,7 +8,7 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 
 | Element              | Name                   | Summary                                                                                            |
 | -------------------- | ---------------------- | -------------------------------------------------------------------------------------------------- |
-| **Cosmogony**        | The Time of Dying      | Necromancers destroyed the demon kings 3000 years ago; only the Road of Graves remains             |
+| **Cosmogony**        | The Time of Dying      | Necromancers destroyed the demon kings 3000 years ago; the war opened with Surveillance's assassination by the golem Lendendrung; demon-king era extends to 5000 years ago |
 | **Cosmology**        | The Road of Graves     | An endless road paved with gravestones, surrounded by the Cursed Forest under a slate sun          |
 | **Theogony**         | The Necromancer-Gods   | Necromancer-gods tied to the seven sins, now cursed to diminished pseudo-immortality               |
 | **Anthropogeny**     | The Dwellers           | Modern man descends from the necromancers' acolytes, servants, and slaves                          |
@@ -19,8 +19,8 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 | **Hero Cycles**      | Oath-Bound Questing    | Chivalric tradition of sworn service and stoic valor; implied rather than codified                 |
 | **Demon Cults**      | TODO                   | TODO                                                                                               |
 | **Prophecy**         | Dreams of the Thin Man | The Thin Man shares dreams with his followers; Gallbladder has a separate portent-crying tradition |
-| **Astral Mythology** | The Slate Sun          | The sun is cold and slate-colored; the harridan's moon triggers a cyclical folk-apocalypse vigil   |
-| **World Geography**  | Zones of the Road      | The Cursed Forest, Oldvaults, Landmine Forest, Whiteeye Waste, Middlemoss, The Old Soulwood, The Holt of Old Souls, and other named regions |
+| **Astral Mythology** | The Slate Sun          | The sun is cold and slate-colored; the harridan's moon triggers a cyclical folk-apocalypse vigil; comets serve as timing omens for major rituals |
+| **World Geography**  | Zones of the Road      | The Cursed Forest, Oldvaults, Landmine Forest, Whiteeye Waste, Middlemoss, The Old Soulwood, The Holt of Old Souls, Meathook Mountains, Tunnel of the Stillbreather, and other named regions |
 
 ---
 
@@ -28,7 +28,7 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 
 *Full doc: `Mythology/Cosmogony.md`*
 
-Three thousand years ago, a cabal of great necromancers combined their power and their armies of the dead to wipe out the dead to wipe out the realms of the demon kings. Life was temporarily exterminated out across the continent. Only necromancy spared the human race. All other magics and gods fell. This extinction event is the origin of the world as it is now known - there is no "before."
+Three thousand years ago, a cabal of great necromancers combined their power and their armies of the dead to wipe out the realms of the demon kings. Life was temporarily exterminated across the continent. Only necromancy spared the human race. All other magics and gods fell. This extinction event is the origin of the world as it is now known -- there is no "before." However, the demon-king era stretches back five thousand years; the cultural "no before" reflects amnesia, not objective history. The war's opening move was the assassination of Surveillance, the first Demon King to fall, killed by Lendendrung -- a copper golem animated with a flood of human souls.
 
 ## Cosmology: The Road of Graves
 
@@ -40,7 +40,7 @@ The world is the Road of Graves - an endless road paved with the gravestones of 
 
 *Full doc: `Mythology/Theogony.md`*
 
-The necromancers, once united against the world, turned on one another after their victory. Most have died at least once. Repeated deaths, confused doctrines, and lingual drift degraded their power. Once immortal gods, all seven are now cursed to different flavors of pseudo-immortality. They are worshipped still, though their power is limited. Each is associated with one of the seven deadly sins:
+The necromancers, once united against the world, turned on one another after their victory. Most have died at least once. Repeated deaths, confused doctrines, and lingual drift degraded their power. Once immortal gods, all seven are now cursed to different flavors of pseudo-immortality. They are worshipped still, though their power is limited. Individual gods have dedicated shrines along the Road called Pilgrim Tohmbs, where pilgrims may receive a "sign of will." Each god is associated with one of the seven deadly sins:
 
 | God                     | Sin      | Domain               | Status/Notes                                                        |
 | ----------------------- | -------- | -------------------- | ------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ The necromancers, once united against the world, turned on one another after the
 | **The Scratcher**       | Wrath    | Blood and Curses     | Details vague; served by the Mailed Flayer                          |
 | **The Mother of Worms** | Lust     | Decay                | A vampire; beautiful outside, rotten within; feeds off consorts     |
 | **Gallbladder**         | Gluttony | Consumption          | "Lord of Lake"; daily portents via criers; served by the Grootslang |
-| **Lady Horsehair**      | Greed    | Possession           | Details vague                                                       |
+| **Lady Horsehair**      | Greed    | Possession           | "The Porcelain Girl Doll"; temples called The Emerald House; priestess hierarchy with violence-talents |
 | **The Red King**        | Envy     | Persecution          | Served by branded devotees and the Weige noble family               |
 
 ## Anthropogeny: The Dwellers
@@ -75,7 +75,7 @@ When any person dies, their gravestone is added to the cobbles of the Road. The 
 - **Bouldsatr (Boulder Elves/Giants)** - Extinct giants who settled The Old Soulwood; spirits possess native wild cats as Periwinkle Forest Cats
 - **Grot (Toad-Centipede-Necromancers)** - Innately undead; worship crystals rather than the Necromancer-Gods; spells center on mutation and flesh-to-metal curses; wear jellyfish-leather robes
 
-**Notable Monsters:** Golems (wax/glass/leather/tissue/wood), Gearslave Apes (necromantic constructs), Veyers (skull-cavity undead), Liches (externally stored death), Gallowspooks, Doppelganger Skeletons (immortal body-hopping undead mancers), Cankarnis (vein predators). See `Mythology/Creatures.md` for full bestiary.
+**Notable Monsters:** Golems (wax/glass/leather/tissue/wood; paint-hardened variants), Gearslave Apes (necromantic constructs), Veyers (skull-cavity undead), Liches (externally stored death), Gallowspooks, Doppelganger Skeletons (immortal body-hopping undead mancers), Cankarnis (vein predators), Mimics (portrait-disguised ambush predators), Wooly Vampires (dream-feeders with shadow-self weapons), The Lidless (winged female half-demons), Lampagogue (sentient pool that manufactures Will-o-Wisps). See `Mythology/Creatures.md` for full bestiary.
 
 ## Magic Systems: Necromancy Motifs
 
@@ -93,7 +93,7 @@ Necromancy is the only surviving magic. Among Witches, necromancy is referred to
 
 *Full doc: `Mythology/Magic-Items.md`*
 
-Necromantic tools, substances, reagents, and curios. Includes tohmbdust (active necromantic reagent), the twenty-three Alabaster Masks (identity-granting enchanted masks), Scroll-Armor (written Deadspeech wards against ghosts), Columbine Water (ghost containment medium), the Song-Singing Fungus, poison landmines, and Ent-Eye (rare optical artifact). See `Mythology/Magic-Items.md` for full catalogue.
+Necromantic tools, substances, reagents, and curios. Includes tohmbdust (active necromantic reagent), soul scarabs (traded commodity), the twenty-three Alabaster Masks (identity-granting enchanted masks), Scroll-Armor (written Deadspeech wards against ghosts), Columbine Water (ghost containment medium), the Song-Singing Fungus, poison landmines, Ent-Eye (rare optical artifact), Engraved Nautilus (ivory map shell), the Quieting Mirror (thought-silencing relic), and Glowbug in Amber (un-life light curio). See `Mythology/Magic-Items.md` for full catalogue.
 
 ## Demon Cults: TODO
 
@@ -112,7 +112,7 @@ The Thin Man shares his dreams with his followers from within his eternal sleep.
 
 *Full doc: `Mythology/Hero-Cycles.md`*
 
-Chivalric tradition of sworn service and stoic valor implied across the setting. Protagonists may be oath-sworn to a master, questing to retrieve specific artifacts. The Silver Ring ("a tiny circle of pure moonlight") is one such artifact.
+Chivalric tradition of sworn service and stoic valor implied across the setting. Protagonists may be oath-sworn to a master, questing to retrieve specific artifacts. The Silver Ring ("a tiny circle of pure moonlight") is one such artifact. "Strength and Promise" serves as a knightly creed. A moral hierarchy among weapons exists (e.g., the Horned Morning Star is considered dishonorable).
 
 ## Astral Mythology: The Slate Sun
 
@@ -124,4 +124,4 @@ The sun is cold and slate-colored. The harridan's moon is yellow, and marks the 
 
 *Full doc: `Mythology/World-Geography.md`*
 
-The world beyond the Road of Graves is divided into named zones and landmarks. The Cursed Forest is a hostile wilderness beside the Road. The Oldvaults are the ancient dungeons and laboratories of the necromancers, serving as a physical underworld. The Whiteeye Waste is a dust barrier woven by Lady Horsehair's dollmakers between Gallbladder's territory and the civilized Road. Middlemoss is the oldest town in living and dead memory, built entirely from repurposed tohmbs on two canyon walls cut through yellow-heather heath, split by The Athidal, a sulfurous gorge. The Old Soulwood is a named forest containing Bouldsatr-possessed guardian cats, soul-trapping trees, and Blind Eye ponds. The Holt of Old Souls is a frontier wilderness waypoint more than a hundred leagues from Middlemoss. The End of the Road is the place (or concept) from which the Old Man Below issues forth.
+The world beyond the Road of Graves is divided into named zones and landmarks. The Cursed Forest is a hostile wilderness beside the Road. The Oldvaults are the ancient dungeons and laboratories of the necromancers, serving as a physical underworld. The Whiteeye Waste is a dust barrier woven by Lady Horsehair's dollmakers between Gallbladder's territory and the civilized Road. Middlemoss is the oldest town in living and dead memory, built entirely from repurposed tohmbs on two canyon walls cut through yellow-heather heath, split by The Athidal, a sulfurous gorge. The Old Soulwood is a pre-cataclysm forest grown from magic juniper berries planted on the Road's first epitaphs, containing Bouldsatr-possessed guardian cats, soul-trapping trees, Blind Eye ponds, and the Lampagogue's Glowing Glade. The Holt of Old Souls is a frontier wilderness waypoint more than a hundred leagues from Middlemoss. The Meathook Mountains are a far landmark beyond the gorge. The Tunnel of the Stillbreather is a named underground route associated with a known Lich. The End of the Road is the place (or concept) from which the Old Man Below issues forth.

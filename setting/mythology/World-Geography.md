@@ -58,8 +58,11 @@ A curtain of black-grey dust woven from shed winter animal pelts by Lady Horseha
 
 ## The Old Soulwood
 
-A named forest on the Road of Graves. Legend holds the forest was created as a garden by the widowed mistress of a demon king, predating the Time of Dying. The Bouldsatr later settled it before being hunted to extinction.
+A named forest on the Road of Graves, predating the Time of Dying. A demon king willed his field to his human slave concubine on death. The necromancer-gods, unable to kill a human, drove the Road of Graves through her land instead. She planted magic juniper berries atop the first epitaphs; these rooted into stone and spread into an unstoppable forest. The Bouldsatr later settled it before being hunted to extinction.
 
+- The Road of Graves lies buried beneath loam and roots throughout the Soulwood but surfaces often enough to confirm a traveler is still on course
+- Roughly four days' crossing east-west on foot
+- A thin forest of arch trees rising "beyond the dreams of the highest clouds" stands immediately east of the Soulwood's edge
 - Home to Periwinkle Forest Cats (Bouldsatr-possessed guardians), Scorpion Stoats, and soul-trapping trees
 - **Soul-trapping trees** -- Trees that trap souls and leak them as sap-wisps to lure travelers. Contact shrinks the victim until small enough for the tree to digest
 - **Blind Eyes** -- Eggshell-colored ponds, waist-deep, with a single hole large enough for a person. The hole leads to an ocean in another place. Faces may appear on the surface
@@ -78,6 +81,14 @@ A regional landmark visible for miles. Its red sheen is visible under the slate-
 ## Deadman's Pile
 
 A mountain, through, around, and over which runs the Road of Graves
+
+## The Meathook Mountains
+
+A named far landmark beyond the gorge, referenced as a distant travel destination.
+
+## The Tunnel of the Stillbreather
+
+A named underground route associated with the Lich known as the Stillbreather. An Engraved Nautilus Oddboon contains a map through this tunnel.
 
 ## The Holt of Old Souls
 

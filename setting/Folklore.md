@@ -36,6 +36,18 @@ The improperly buried fear that a mancer will steal their soul. Those without a 
 
 Casual expressions like "pray to the seven necromancer-gods" appear in everyday speech as idioms of hope or exasperation. Worship of the necromancer-gods is not only organized ritual but ambient folk practice woven into ordinary language.
 
+### The Indigo Lodge (Kustodevite Cosmology)
+
+A named mancer sect -- the Kustodevites -- models the soul as a multi-story painted lodging house. The living self occupies the roof and descends through occupants and functions to the coffin-maker in the cellar. First named theoretical school within the mancer tradition, suggesting formal academic disagreement about the soul's structure exists alongside practical necromancy.
+
+### Infants with Radiant Scalps
+
+Living infants occasionally found abandoned in remote places (e.g., in a leather sack beneath a sodden log). The "radiant scalp" implies supernatural origin. Middlemoss pays rewards for the return of such children. Whether they are portents, cursed, or blessed is unclear.
+
+### The Chine Pit (Unsanctioned Folk-Shrine)
+
+A folk-shrine in the Middlemoss heath dedicated to a famous local butcher, attached to the Pilgrim Tohmb tradition without official divine sanction. An example of grassroots devotion latching onto the god-shrine framework -- the butcher is venerated alongside the necromancer-gods despite having no theological claim.
+
 ---
 
 ## Frontier Alchemy
@@ -51,3 +63,24 @@ A known formula for a potent sleep toxin: condensed sunflower juice, oxidized co
 *Full docs in `Folklore/`*
 
 - **Houses of Maze** -- Multi-city criminal guild network operating out of Middlemoss and beyond. See `Folklore/Houses-of-Maze.md`.
+- **The Monks of the Lidless** -- Monastic order seated at the Tower of Silence in Deep Compost. Identifiable by a shaved scalp and a tattooed small mouth inside a black ink circle. Led by the Senseless King and Queen (unliving, eye-tattooed skulls, iron-hook scepters). Three fighter types: Tuskhands, Man of Dogs, Leaping Monk. Will-o-Wisps bound as tower guards. Not linked to any of the seven necromancer-gods; no epitaphs on the Road of Graves. See `Folklore/Monks-of-the-Lidless.md`.
+
+---
+
+## Folk Creatures
+
+### Black Fairie
+
+Found beneath Soulwood gravestones, flushed out by pouring water on specific epitaphs. Also hides under beached scallops and manure piles. Swallowing one grants three days of prosperous financial dealings.
+
+### Walnut Fairie
+
+Also flushed from beneath Soulwood gravestones by water. Begs to be escorted to the nearest frog pond; if obliged, shrinks to yam-size and rides in a pocket.
+
+---
+
+## Occupations
+
+### Haruspex
+
+A diviner class that consults "ghosts of prophetic organs" for readings -- entrail-ghosts rather than living anatomy. At least one Haruspex (named Joole) operates in Deep Compost. Price for a reading: three stamped squares of Lady Horsehair gold.
