@@ -33,6 +33,16 @@ Fake Road stones and counterfeit epitaphs arranged in rings around factory chimn
 
 TODO - specific rituals associated with death, burial, and interment on the Road.
 
+## Cosmological Axioms
+
+### Real Death is Cold; Real Life is Warm
+
+A foundational axiom structuring the relationship between ice, death, and necromancy. Cold is the natural state of true death; warmth belongs to true life.
+
+### The Core Glacier (Eschatological Clock)
+
+At the core of Time is a glacier that is always sweating. When the glacier has become a lake, Time will cease, and all will drown in the flood. A cosmological endpoint -- the world's death measured in meltwater.
+
 ## Folk Explanation: Proper Interment
 
 The belief that a place beneath an epitaph on the Road shields the soul from necromancy and necromancers. Whether this is literally true or folk superstition is unconfirmed.

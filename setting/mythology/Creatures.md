@@ -48,9 +48,15 @@ TODO
 
 ### Homunculus
 
-- Fetus grown in a stoppered flask, buried in cow dung
-- When uncorked and fed blood, turns into a servant of the creator
-- The greater the kind of blood (mice, chickens, cows, men), the more powerful the servant
+- Fetus grown in a stoppered flask, buried in cow entrails
+- When uncorked and nursed on mammal blood, turns into a servant of the creator
+- The greater the mammal, the more powerful the servant
+
+### Hueless (Named Homunculus Type)
+
+- Old homunculus; wax-textured, milk-colored, elongated forehead, four thin hairs, bloodless, four eyes
+- Speaks in a voice "like water trickling in a library"
+- Rides a Fimbulwolf
 
 ### Ghosts
 
@@ -117,7 +123,9 @@ TODO
 
 ### Fimbulwolf
 
-- A Winter Wolf
+- A Winter Wolf; ancient brood predating the current age
+- Gaze described as prehistoric; breath smells of ancient petrichor
+- Rideable by small creatures
 
 ### Undead Centipede
 
@@ -286,6 +294,16 @@ TODO
 - Grey-skinned dead with long tongues and streaming spittle
 - Swarm in packs; repelled by Lemon Cider
 
+### Ents
+
+- Oldest surviving trees in the setting; found only in the remotest Old Soulwood: mountain peaks or ravines deep enough that canopies sit below the standard forest line
+- Communicate through branch-to-branch contact (creaking, groaning); rarely, a smaller beast or plant may understand their intent
+- Sway and twine branches but never uproot; movements compared to whales, elephants, ten-thousand-year-old birds
+- Each Ent contains a tetrahedron-shaped heart-chamber at its core: veiny roots loop through floor and walls, every seventh root undulating with sappy red light, a giant stag's head suspended at the apex
+- A thief who wounds the heart without applying a clotting salve becomes a heart-mite: body encased in chitin, half the face replaced by a single large rectangular-irised eyeball. Cannot be slain by conventional means. The corrupted stag-head emits a petrifying eye-beam; the heart also controls chamber roots defensively
+- Nine named afflictions that may kill or sicken an Ent: Petrification, Red King's Curse, Stone Curse, Slumber, Wilting Disease, Millipedes, Curse of Soft Roots, Pulping, and Shakes
+- Unsafe to stand on after the fifth star blinks into the dusk sky
+
 ### Scorpion Stoats
 
 - Long-bodied, chitin-plated creatures with weak heads and tails
@@ -310,6 +328,7 @@ TODO
 - Clouds of drinking bats
 - Mildew beetle
 - Seventh-House-Bells (undead; strong in ice)
+- Crackling Spiders (found in Meathook Mountain canyons)
 - Old Twothroats
 - Zugg (an evil Wraith-Ogre)
 

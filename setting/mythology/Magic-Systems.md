@@ -50,6 +50,12 @@ A necromantic reduction process that strips ghosts of individuality and compress
 - **Autonomous skeleton behavior** -- Undead given standing behavioral orders (guard-states, patrol circuits) can operate indefinitely without active necromantic direction. The orders survive the issuing necromancer.
 - **Heart removal** -- Cutting out the heart of a slain person prevents "common necromancy" from resurrecting them. The qualifier "common" implies higher necromancy may overcome this.
 
+## Elemental Affinities
+
+### Winter and Ice
+
+Winter is necromancy's season. Ice carries an inherent affinity with necromancy -- some undead are stronger in cold, and ice recurs as a motif in preservation and spellwork. First-age necromancers borrowed Winter's breath, installed it in undead hosts, and buried them in deep mountain tohmbs to create permanent self-sustaining cold. This technique is not lost; it remains active in locations like the Meathook Mountains, where glaciers are frozen undead exhaling borrowed Winter breath.
+
 ## Folk Explanation: TODO
 
 TODO -- why necromancy alone survived the Time of Dying while all other magics perished
@@ -118,7 +124,7 @@ The Grot -- an ancient race of toad-centipede-necromancers who are innately unde
 
 Standard necromancy animates dead animals as well as humans. Dead cats, for instance, can be raised en masse by a working mancer.
 
-- **Homunculus** -- Fetus grown in a stoppered flask, buried in cow dung. When uncorked and fed blood, turns into a servant of the creator. The greater the kind of blood (mice, chickens, cows, men), the more powerful the servant.
+- **Homunculus** -- Fetus grown in a stoppered flask, buried in cow entrails. When uncorked and nursed on mammal blood, turns into a servant of the creator. The greater the mammal, the more powerful the servant.
 - **Golems** -- Wax, Glass, Leather, Stitched Tissue, or Wood. Cannot be created under the sky or sun.
 - **Birchmen** -- Bodies of dead birch trees possessed by an evil spirit; feed on blood; can be sedated with subzero temperatures.
 - **Gallowspook** -- May only be summoned under the light of a harridan's moon.

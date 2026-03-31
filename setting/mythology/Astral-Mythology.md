@@ -25,13 +25,25 @@ The moon has a humpbacked silhouette. It also casts silver light in non-witch co
 
 Comets and other heavenly signs serve as timing omens for major necromantic workings. The necromancers waited for "signs in the comets and the heavens" before animating the golem Lendendrung. Celestial observation governs the scheduling of large-scale rituals.
 
+## Stellar Events
+
+- **The Fifth Star** -- When the fifth star blinks into place in the dusk sky, Ents become unsafe to stand on. First known stellar event that governs creature behavior rather than ritual or undead restriction.
+
 ## Constellations
 
 - **Amber Ox** -- named constellation in the setting. Visible from the Lake of Tomatoes region. A constellation chart shows all major constellations, with the Amber Ox specifically circled.
 
+## Aurora
+
+A celestial phenomenon: swirls of white, blue, purple, and gold across the firmament, likened to a burning phoenix. Observed in the Meathook Mountains region.
+
 ## Ritual: [NAME]
 
 TODO - a specific ritual or rituals associated with the astral bodies
+
+## Folk Explanation: The Green Firebeetle
+
+Meathook Mountain folk attribute the aurora to the flight of the Green Firebeetle -- a mythological insect whose passage across the sky paints the light. The aurora's natural palette (white, blue, purple, gold) notably lacks the green tint of nearby undead phenomena like the Stillbreather's glow, implying the folk explanation distinguishes between celestial and necromantic light sources.
 
 ## Folk Explanation: The Harridan's Moon Vigil
 

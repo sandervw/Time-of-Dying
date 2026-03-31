@@ -63,7 +63,8 @@ A named forest on the Road of Graves, predating the Time of Dying. A demon king 
 - The Road of Graves lies buried beneath loam and roots throughout the Soulwood but surfaces often enough to confirm a traveler is still on course
 - Roughly four days' crossing east-west on foot
 - A thin forest of arch trees rising "beyond the dreams of the highest clouds" stands immediately east of the Soulwood's edge
-- Home to Periwinkle Forest Cats (Bouldsatr-possessed guardians), Scorpion Stoats, and soul-trapping trees
+- Ents occupy the elevated stratum above the cloud line, accessible by climbing the great arch trees. The Ent-land has a defined boundary transitioning to ordinary forest; beyond that border, a tundra with distant white mountains (implied: the Meathook Mountains) stretches out, with the Road of Graves visible as a faint line of paving stones
+- Home to Periwinkle Forest Cats (Bouldsatr-possessed guardians), Scorpion Stoats, Ents, and soul-trapping trees
 - **Soul-trapping trees** -- Trees that trap souls and leak them as sap-wisps to lure travelers. Contact shrinks the victim until small enough for the tree to digest
 - **Blind Eyes** -- Eggshell-colored ponds, waist-deep, with a single hole large enough for a person. The hole leads to an ocean in another place. Faces may appear on the surface
 
@@ -84,11 +85,46 @@ A mountain, through, around, and over which runs the Road of Graves
 
 ## The Meathook Mountains
 
-A named far landmark beyond the gorge, referenced as a distant travel destination.
+A mountain range beyond the gorge. Road-side settlers and giant rat trappers inhabit the approaches. Ten thousand undead legends surround the range. Glaciers here are frozen undead exhaling borrowed Winter breath -- a first-age necromantic technique still active. Quicksnow is a named environmental hazard. The Massy Fane, a lost temple built by the Old Man Below, lies somewhere within.
+
+- **Lost Glaciertop** -- A named sub-location within the range
+- **Glacier Canyon** -- A glacier-cut canyon containing Crackling Spiders; one of the approaches to the Tunnel of the Stillbreather
+
+Three routes lead south from the Meathooks to Hornwater: the Road of Graves through the Limbichorous Dunes, the Scarab Mines, or the Forest of Candles and Skulls and Roaches and Fungi and Ruptured Capillaries.
 
 ## The Tunnel of the Stillbreather
 
-A named underground route associated with the Lich known as the Stillbreather. An Engraved Nautilus Oddboon contains a map through this tunnel.
+An underground passage through the Meathook Mountains, associated with the Lich known as the Stillbreather. Accessible via two entrances: a glacier route or a canyon route. An Engraved Nautilus Oddboon contains a map through this tunnel.
+
+Interior features: double doors of bronze and moonstone, ice walls with green ambient glow, frozen servants preserved in the walls, a petrified lake, and a frozen castle with a limestone undercroft housing sarcophagi. The Stillbreather's burial chamber is the source of the green light -- an active Lich resting in an open feretory.
+
+## Hornwater
+
+A named far city, a major travel destination south of the Meathook Mountains.
+
+## Limbichorous Dunes
+
+A thousand-mile stretch of frigid dunes on the southern Road of Graves loop between the Meathook Mountains and Hornwater.
+
+## The Waxy Maize Fields
+
+An impassable surface obstacle between the Meathook Mountains and Hornwater. Circumvented by the underground Scarab Mines route.
+
+## The Scarab Mines
+
+An underground route passing beneath the Waxy Maize Fields, connecting the Meathooks to Hornwater. Includes a stop at the cave-town Alsoburg.
+
+## Alsoburg
+
+A cave-town on the Scarab Mines route; functions as a supply stop.
+
+## Mellowdepth
+
+An alternate Road of Graves route: an echoing pipe running under the sea, lined in slime-covered marble and polyps.
+
+## The Leviathan Fields
+
+A named alternate Road of Graves route. Avoided by travelers; no further description known.
 
 ## The Holt of Old Souls
 

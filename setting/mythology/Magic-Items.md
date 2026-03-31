@@ -6,7 +6,7 @@ Necromantic tools, substances, reagents, and curios. Some are crafted deliberate
 
 ## Substances
 
-- **Violet Jelly** -- Unguent which melts tissue, but not bones.
+- **Violet Jelly** -- Unguent which melts tissue, but not bones. Composed from glazed fir needles, knuckle dust, and two slivers of moose antler, prepared in or near hot scented wax.
 - **Embalming Fluid** -- Transported via pipeline from refineries to outlying necromancer facilities.
 - **Banshee-wax** -- Purpose unspecified; a common field-kit component.
 - **Bone Dust** -- Carried in flour sacks; a common necromantic reagent.
@@ -78,9 +78,10 @@ A set of twenty-three alabaster masks, each granting the wearer a false identity
 
 ### Ent-Eye
 
-- A rare artifact harvested from a creature called an Ent, described as a "true shiner"
+- A rare optical artifact harvested from an Ent, described as a "true shiner"
 - Sought more than a hundred leagues past the Holt of Old Souls
-- Nature and function unstated; implied to be a rare optical or magical component
+- Deflects the corrupted Ent stag-eye petrification beam when held aloft; price of use: attracts the heart-mite
+- Origin confirmed: found in The Emerald House (Lady Horsehair's temple)
 
 ### Columbine Water
 
@@ -128,6 +129,17 @@ A set of twenty-three alabaster masks, each granting the wearer a false identity
 
 - Dead fairie preserved in lime-colored brine; retains residual magic despite death
 - First known instance of fairies as a creature type in the setting
+
+### Jugflower
+
+- Pressed, pitcher-shaped blossom carried in a leather roll
+- Disintegrates on air exposure, emitting a piercing ring that deafens nearby targets
+- Tactical counter to enemies who attack with choral screams
+
+### Pure Wheat
+
+- Revitalizing bread in cracker form; one piece eliminates accumulated fatigue and soreness immediately
+- Scarce and rationed
 
 ### Far Speaking Necklace
 

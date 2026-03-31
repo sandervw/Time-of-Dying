@@ -252,49 +252,53 @@ Othelmedir said hoarsely, "My shoulder is smashed."
 
 "I can't- cannot focus. The pain, agh."
 
-Another rumble shook the floor. Then the blackness seemed to fall permanently still. Fogg said, "The air feels cool and open ahead. Birdsey, help the mancer. Then fasted a hand on my collar."
+Another rumble shook the floor. Then the blackness seemed to fall permanently still. Fogg said, "The air feels cool and open ahead. Birdsey, help the mancer. Then grab a hold on my shirt."
 
-**Pickup**
+Birdsey stumbled over some loose rocks to where he heard Othelmedir's pained hissing. He groped blindly until he felt a sharpness that was elbow rather than stone. He helped the tall mancer drape a long arm around his shoulder, then led the way back to Fogg, guided by a clicking sound the latter was making in imitation of a bat. Birdsey caught hold of the collar of Fogg's leather coat. With the savage leading, they descended.
 
-Birdsey stumbled over some loose rocks to where he heard Othelmedir breathing heavily. He groped until he felt a sharp elbow. He let the tall man set a long-fingered hand around his shoulder, then led the way back to Fogg, guided by a clicking sound the latter was making in imitation of a bat. Birdsey caught hold of the collar of Fogg's leather coat, and with the savage leading they descending along the sloping corridor.
+Fogg found the wall soon enough, and after the three had stumbled past the debris of the collapsed door, they found the terrain smooth for walking, even blind. Othelmedir's breath evened; he withdrew his arm from Birdsey and began to walk unsupported. They all felt the chill in the air. They shivered, and surely their breath misted, though they could not see it.
 
-Fogg found the wall soon enough, and after the three had stumbled past the debri of the collapsed door, they felt the travel easy enough, even blinded. Othelmedir's breathing steadied, and he began to walk again unsupported. They all felt the chill in the air. They shivered, and surely their breath misted before each, though they could not see it.
+As they went blindly on, however, they found that they *could* see the misting breaths. Their eyes adjusted to the dark, but how? How in a sepulcher completely without light? They slowly understood that a thin vapor shed soft light in the tunnel, which continued to curve gradually but inexorably down. The vapor, which must have been heavier than air, thickened into an even brighter glow as they descended; not so bright as the sun, yet brighter than the yellow light of a full harridan's moon, and teal.
 
-As they went blindly on, however, they found that they COULD see the result of each exhalation. Their eyes adjusted to the darkness, but how was that too be in a sepulcher completely without light. They slowly understood that a thin vapor was shedding a soft glow in the tunnel, which continued to curve gradually but inexorably down. As they descended the vapor, which must have been heavier than air, thickened into an even brighter glow; not so bright as the sun, yet brighter than the yellow light of a full harvest-moon, and teal in hue.
+The tunnel had given the three space to walk abreast. Now it widened to five meters form wall-to-wall, then six, then they saw ahead that it opened out broadly. Othelmedir raised his good arm with a flat palm. They proceeded slowly, noticing a strange glimmering texture of the floor where the tunnel terminated.
 
-The tunnel had given the three enough space to walk abreast. Now it widened to five meters form wall-to-wall, then to six, then they saw ahead that it opened out broadly. Othelmedir held up his good arm with a flat palm. They proceeded slowly, as they saw a strange glimmering new texture of the floor where the tunnel terminated. They realized, as they stepped out and into the wide space, that this glimmer was the shine of the teal vapor off of a floor of ice. They had entered a huge, frozen reservoir, deep in the catacombs, and at it's heart was a frozen ship.
+They realized, as they stepped out and into the wide space, that this glimmer was the shine of the teal vapor off of a floor of ice. They had entered a huge, frozen reservoir, deep in the catacombs. And at the heart of this resevoir, there was a frozen ship.
 
-A long vessel of three masts, tarred and tallowed to watertightness, sat locked in the center of the frozen pool. Blue-white powder urned every board and line of the ship. The double-set of rowlock holes on the side that faced the three were frozen over with a draping curtain of icicles. Two more enormous icicles, oddly symmetrical and perfect, dangled over the ship from the roof of the resevoir, nearly even at their tips with the crow's-nest of the center. The ship seemed to the three more an abstract realization of a ship than a concrete one; a vessel in service to one of the seven dead gods, bearing souls for the deity's own malign ends; so silent did it sit, frosted and still in the middle of the teal fog. The silence was not complete, but crackled low and continually. The air tasted antiseptic.
+A long vessel of three masts, tarred and tallowed to watertightness, lay locked in the center of the frozen pool. Blue-white powder rimed every board and line of the ship. The double-set of rowlock holes on the side that faced the three were frozen over with draping curtains of icicles. Two more enormous icicles, oddly symmetrical and perfect, dangled over the ship from the roof of the resevoir, nearly even at their tips with the crow's-nest of the center. The ship seemed to the three plunderers more like the abstract realization of a ship than a concrete one; a vessel in service to one of the seven dead gods, carting souls for the deity's malign ends; so silently did it lay, crusted and motionless in the teal fog. This was not full silence, but the silence of the frozen lake, crackling liek a dead thunderstorm. The air tasted antiseptic.
 
-"Guess this is it, he, he," said Birdsey. He glanced at Othelmedir for confirmation; the mancer's iron eyes shone like steel as they stared across the frozen expanse.
+"Guess this is it, he, he," said Birdsey. He glanced at Othelmedir. The mancer's iron eyes shone like steel as they stared across the frozen expanse.
 
-"Seems frozen through," said Fogg, stamping a foot on the ice.
+"Seems solid," said Fogg, stamping at the ice's edge.
 
 Othelmedir said, "Let us cross."
 
-Birdsey happened to glance down as they stepped carefully over the frozen pool. He squinted, bent and wiped a hand through the light spackle of frost that covered the surface, then started up and back. "There's dead below," he said.
+Birdsey happened to glance down as they stepped carefully over the frozen pool. He squinted, bent and wiped a hand through the light spackle of frost that covered the surface, then jumped back. "There's dead below."
 
-Fogg and Othelmedir turned and saw where he was looking. Othelmedir unclasped his long cape and swept it about. He uncovered, lying hardly a foot below, locked in near-perfectly transparent crystal, half-a-dozen frozen men. They were entirely composes, without a bit of rot scarring their upturned, pale faces; faces frozen in the last moments of terror and death; lifeless eyes, wide, and seeming to follow the three as they moved.
+Fogg and Othelmedir turned and saw where he was looking. Othelmedir used his good arm to unclasp his cape and sweep it about. He uncovered, a foot below the surface, locked in near-perfectly transparent crystal, half-a-dozen frozen men. They were wholly composed, with not a flake of rot scarring their upturned, pale faces; faces frozen in the last moments of terror and death; lifeless eyes wide, and seeming to follow the three.
 
-Othelmedir whispered something, then said, "Their souls are gone, at least."
+Othelmedir whispered something. Then he said, "Their souls are gone, at least."
 
 "Let's get to the ship," said Fogg.
 
-As they progressed through the mist, Birdsey spotted something else. "Look there," he said. "On the far wall, I see another opening. He, he, we are not trapped at least."
+As they progressed through the mist, Birdsey spotted something else. "Look." He pointed. "On the far wall I see another opening. He, he. Maybe we aren't trapped."
 
-The side of the frozen ship presented a small obstacles when they reached, for the frosted surface was smooth and outward-facing. Fogg overcame this by start up where there were gas in the frosted-over rowholes, then chiseling grooves in the wood and ice with a knife. He reached the gunnels and climbed over. The two heard a quick intake of breath.
+As they reached it, the side of the vessel presented their first obstacle, for the frosted surface was smooth and outward-facing. Fogg overcame this. He spotted some small holes, gaps in the frosted-over rowholes, and chiseling grooves in the wood and ice with a knife. The pale man started up, and soon slipped over the gunnels. The two heard a quick intake of breath.
 
 "What do you see?" asked Othelmedir.
 
 "Treasure?" asked Birdsey?
 
-In response, Fogg threw a knotted line of rope over the edge. Birdsey climbed easily, and together he and Fogg hauled the mancer, whose shoulder would be long in healing.
+In response Fogg tossed down a knotted rope. Birdsey climbed easily, and together he and Fogg hauled in the injured mancer.
 
-The three stopped and stared. The deck was barren - covered in the same rime of frost - except for a few pieces of coiled rigging, and except for three thickly-frozen rings around the three masts. The rings were each under a thick but translucent layer of pure ice. Under the ice, hexagonal, golden coins lay piled. Birdsey's eyes especially seemed to reflect the sparkling treasure. Othelmedir, after the sparkle at drawn his first attention, paid closer mind to the masts themselves. They were not sawn and carved pieces of tumber, but birch trees, whole birch trees complete with bark, and with thin, sere sails hanging from their branches. Fogg saw the masts too. He noticed also that, on the deckboards surrounding the masts and their three rings of treasure, scratches had been dug through the wood. The gouges were deep enough that the patina of did not conceal them.
+The three stopped and stared. The deck was barren - covered in the same rime of frost - except for a few pieces of coiled rigging, and except for three thickly-frozen rings around the three masts. The rings were each under a thick but translucent layer of pure ice. And under this ice, hexagonal, golden coins sparkled. Birdsey's eyes especially seemed to reflect the gold.
 
-"By The Scratcher's bloody loins," said Birdsey with a whistle, "that's a finer pile than ever my mind imagined. Who'd have thought a trove like this'd still lie completely untouched, with only some rotten worm to guard it? I wonder if there boxes down in the hold? We could pile these golden hexes in, and slide 'em across to the opposite tunnel. Blast me, but this air's colder than a hag's tit."
+Othelmedir, though the sparkle had drawn his initial attention, quickly paid closer mind to the masts. They were not sawn and carved pieces of timber, but birch trees; whole birch trees, with bark, and with thin sere sails hanging from their branches. Fogg noticed the masts too. He noticed also that, on the deckboards surrounding the masts and their three rings of treasure, scratches gouged the wood. The scratched were deep enough that the ice patina did not conceal them.
 
-Othelmedir said, "The frost is a curse or enchantment of some sort."
+"Sang's bloody loins." said Birdsey with a whistle. "That's a fine-ish pile. Who'd have thought a trove like this'd lie untouched, only some rotten worm to guard it? I wonder if there more below? We might find a barrel to pile these golden hexes in, and roll everything out of this pit. Blast me, but this air's colder than a hag's tit."
+
+Othelmedir said, "The frost is some manner of curse or enchantment."
+
+**Pickup**
 
 "Not a bit of it. Five of those golden pieces says there's some crystal machine lying around.
 

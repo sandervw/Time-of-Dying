@@ -16,9 +16,9 @@ The finding and opening of the Sickened Cradle is a central goal of his follower
 
 "Death stalks the land with a suit, a dapper smile, and silver laughter."
 
-A roving spirit that issues forth from The End of the Road (possibly a metaphysical concept). Whispers instructions in shadowed corners, conniving and scheming to return to power. The most powerful of the necromancers in life.
+A roving spirit that issues forth from The End of the Road (possibly a metaphysical concept). Whispers instructions in shadowed corners, conniving and scheming to return to power. The most powerful of the necromancers in life. His journey runs from the bottom to the top of the Road -- a directional cosmology.
 
-Has a high, frozen cathedral in his name in the shadow of Thistlecrown.
+Has a high, frozen cathedral in his name in the shadow of Thistlecrown. Also built The Massy Fane, a lost temple in the Meathook Mountains, during his journey along the Road. Left "reflections of death" in the ice there.
 
 ### The Scratcher (Wrath) - God of Blood and Curses
 

@@ -12,15 +12,15 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 | **Cosmology**        | The Road of Graves     | An endless road paved with gravestones, surrounded by the Cursed Forest under a slate sun          |
 | **Theogony**         | The Necromancer-Gods   | Necromancer-gods tied to the seven sins, now cursed to diminished pseudo-immortality               |
 | **Anthropogeny**     | The Dwellers           | Modern man descends from the necromancers' acolytes, servants, and slaves                          |
-| **Death/Afterlife**  | The Epitaphs           | The dead become gravestones in the Road; sanctums grant the "shield of after-life"; ghost factories process uninterred souls into necromantic material |
-| **Creatures**        | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna including Veyers, Liches, Dust Slimes |
-| **Magic Systems**    | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs                            |
+| **Death/Afterlife**  | The Epitaphs           | The dead become gravestones in the Road; sanctums grant the "shield of after-life"; ghost factories process uninterred souls into necromantic material; the Core Glacier marks eschatological time |
+| **Creatures**        | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna including Veyers, Liches, Dust Slimes, the Ents, and named homunculus types (Hueless) |
+| **Magic Systems**    | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs; Winter and ice carry inherent necromantic affinity |
 | **Magic Items**      | Sundries and Reagents  | Necromantic tools, substances, reagents (including Tohmbdust), curios (Scroll-Armor, Ent-Eye, Columbine Water), and the twenty-three Alabaster Masks |
 | **Hero Cycles**      | Oath-Bound Questing    | Chivalric tradition of sworn service and stoic valor; implied rather than codified                 |
 | **Demon Cults**      | TODO                   | TODO                                                                                               |
 | **Prophecy**         | Dreams of the Thin Man | The Thin Man shares dreams with his followers; Gallbladder has a separate portent-crying tradition |
-| **Astral Mythology** | The Slate Sun          | The sun is cold and slate-colored; the harridan's moon triggers a cyclical folk-apocalypse vigil; comets serve as timing omens for major rituals |
-| **World Geography**  | Zones of the Road      | The Cursed Forest, Oldvaults, Landmine Forest, Whiteeye Waste, Middlemoss, The Old Soulwood, The Holt of Old Souls, Meathook Mountains, Tunnel of the Stillbreather, and other named regions |
+| **Astral Mythology** | The Slate Sun          | The sun is cold and slate-colored; the harridan's moon triggers a cyclical folk-apocalypse vigil; comets serve as timing omens for major rituals; aurora attributed to the Green Firebeetle |
+| **World Geography**  | Zones of the Road      | The Cursed Forest, Oldvaults, Landmine Forest, Whiteeye Waste, Middlemoss, The Old Soulwood, The Holt of Old Souls, Meathook Mountains, Tunnel of the Stillbreather, Hornwater, Mellowdepth, Leviathan Fields, and other named regions |
 
 ---
 
@@ -62,7 +62,7 @@ The necromancers' acolytes, servants, and slaves formed the dwellers - the basis
 
 *Full doc: `Mythology/Death-Afterlife.md`*
 
-When any person dies, their gravestone is added to the cobbles of the Road. The Road is ever-expanding. Un-dead states are common - ghosts, skeletons, wraiths. Some are raised deliberately by necromancers; others rise on their own. A place beneath an epitaph on the road of graves - proper interment - is said to shield the soul from necromancy and necromancers. Uninterred souls are vulnerable to capture; ghost factories are industrialized operations that process captured souls into saleable necromantic material.
+When any person dies, their gravestone is added to the cobbles of the Road. The Road is ever-expanding. Un-dead states are common - ghosts, skeletons, wraiths. Some are raised deliberately by necromancers; others rise on their own. A place beneath an epitaph on the road of graves - proper interment - is said to shield the soul from necromancy and necromancers. Uninterred souls are vulnerable to capture; ghost factories are industrialized operations that process captured souls into saleable necromantic material. A cosmological axiom holds that real death is cold and real life is warm. At the core of Time is a perpetually sweating glacier; when it becomes a lake, Time ceases.
 
 ## Creatures: Races and the Undead
 
@@ -118,10 +118,10 @@ Chivalric tradition of sworn service and stoic valor implied across the setting.
 
 *Full doc: `Mythology/Astral-Mythology.md`*
 
-The sun is cold and slate-colored. The harridan's moon is yellow, and marks the night of witches. Silver moonlight is also observed in non-witch contexts.
+The sun is cold and slate-colored. The harridan's moon is yellow, and marks the night of witches. Silver moonlight is also observed in non-witch contexts. An aurora phenomenon (white, blue, purple, gold swirls) is observed in the Meathook Mountains region; Meathook folk attribute it to the Green Firebeetle's flight.
 
 ## World Geography: Zones of the Road
 
 *Full doc: `Mythology/World-Geography.md`*
 
-The world beyond the Road of Graves is divided into named zones and landmarks. The Cursed Forest is a hostile wilderness beside the Road. The Oldvaults are the ancient dungeons and laboratories of the necromancers, serving as a physical underworld. The Whiteeye Waste is a dust barrier woven by Lady Horsehair's dollmakers between Gallbladder's territory and the civilized Road. Middlemoss is the oldest town in living and dead memory, built entirely from repurposed tohmbs on two canyon walls cut through yellow-heather heath, split by The Athidal, a sulfurous gorge. The Old Soulwood is a pre-cataclysm forest grown from magic juniper berries planted on the Road's first epitaphs, containing Bouldsatr-possessed guardian cats, soul-trapping trees, Blind Eye ponds, and the Lampagogue's Glowing Glade. The Holt of Old Souls is a frontier wilderness waypoint more than a hundred leagues from Middlemoss. The Meathook Mountains are a far landmark beyond the gorge. The Tunnel of the Stillbreather is a named underground route associated with a known Lich. The End of the Road is the place (or concept) from which the Old Man Below issues forth.
+The world beyond the Road of Graves is divided into named zones and landmarks. The Cursed Forest is a hostile wilderness beside the Road. The Oldvaults are the ancient dungeons and laboratories of the necromancers, serving as a physical underworld. The Whiteeye Waste is a dust barrier woven by Lady Horsehair's dollmakers between Gallbladder's territory and the civilized Road. Middlemoss is the oldest town in living and dead memory, built entirely from repurposed tohmbs on two canyon walls cut through yellow-heather heath, split by The Athidal, a sulfurous gorge. The Old Soulwood is a pre-cataclysm forest grown from magic juniper berries planted on the Road's first epitaphs, containing Bouldsatr-possessed guardian cats, soul-trapping trees, Blind Eye ponds, and the Lampagogue's Glowing Glade. The Holt of Old Souls is a frontier wilderness waypoint more than a hundred leagues from Middlemoss. The Meathook Mountains are a mountain range with glaciers of frozen undead exhaling first-age Winter breath, housing the lost temple The Massy Fane and the Tunnel of the Stillbreather -- a frozen Lich-castle passage with green-lit ice walls. Hornwater is a far city reached from the Meathooks via the Limbichorous Dunes, the Scarab Mines, or the Forest of Candles and Skulls and Roaches and Fungi and Ruptured Capillaries. Mellowdepth and the Leviathan Fields are alternate Road routes. The End of the Road is the place (or concept) from which the Old Man Below issues forth.

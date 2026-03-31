@@ -79,6 +79,14 @@ Also flushed from beneath Soulwood gravestones by water. Begs to be escorted to 
 
 ---
 
+## Named Lore-Texts
+
+### The Third Song of Splywater
+
+A named cultural text documenting facts about Ents (e.g., that Ents dislike all men who touch their bark). Implies a broader tradition of sung encyclopedic lore -- a mythological record-keeping format in which knowledge is preserved and transmitted as numbered songs.
+
+---
+
 ## Occupations
 
 ### Haruspex
