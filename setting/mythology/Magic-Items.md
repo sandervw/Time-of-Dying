@@ -14,7 +14,7 @@ Necromantic tools, substances, reagents, and curios. Some are crafted deliberate
 - **Sewer Worm Silk** -- Rope woven from Sewer Worm silk; stronger than iron. Can restrain a fully armored knight.
 - **Ill Omen's Heart** -- A named necromantic substance carried in labeled vials; associated with medical or necromantic practice. Name suggests ominous or predictive properties.
 - **Tohmbdust** -- Dust harvested from old tohmbs; carries active necromantic or alchemical properties. A tradeable commodity used as a reagent in sleep toxins and other preparations.
-- **Soul Scarabs** -- A traded commodity stocked by specialist sellers; stock changes every daybreak. Nature and use unstated but implied as necromantic components.
+- **Soul Scarabs** -- Wooden phylacteries storing individual souls. Require deep-earth lead environment to prevent soul disintegration; soul released by shattering the scarab. Exist in the Scarab Mines in quantities forming underground rivers. Souls can languish inside for thousands of seasons. Stocked by specialist sellers; stock changes every daybreak.
 
 ## Tools
 
@@ -119,6 +119,18 @@ A set of twenty-three alabaster masks, each granting the wearer a false identity
 
 - An insect imbued with un-life by a mancer, then frozen in amber; glows persistently
 - First documented example of un-life imbued into a non-humanoid organism as a light-source curio
+
+### Shelley Stone
+
+- Flat, olive-pit colored polished stone; relic "from the first Time"
+- Single-use: placed on the throat of one not too long dead, restores life
+- Found in the Stope of the Ninth Ozone (within the Scarab Mines)
+
+### Lead Curtain
+
+- Translucent cloth reinforced with lead thread, anchored to a lead-framed rod
+- Ghosts cannot pass through it
+- Can be cut through by sufficiently powerful undead weaponry
 
 ### Engraved Nautilus
 

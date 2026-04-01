@@ -40,6 +40,14 @@ TODO
 
 ## Monsters and Undead
 
+### The Alien Knight (Undead)
+
+- Undead entity animated by Blind-spot Necromancy; center invisible to naked eyes
+- Reflection shows only arms and legs, no torso; armor is faceted black onyx with an inner-star shimmer visible with one eye shut
+- Fights with two curved swords; each footfall produces a booming sound
+- Travels with seven ghosts; will not enter a scarab river
+- Cannot be wounded until seen whole
+
 ### Birchmen (Undead)
 
 - Bodies of dead birch trees possessed by an evil spirit
@@ -65,7 +73,7 @@ TODO
 ### Golems
 
 - Varieties: Wax, Glass, Leather, Stitched Tissue, Wood
-- Cannot be created under the sky or sun
+- Cannot be created under the sky, sun, or stars; the constraint is celestial exposure, not surface location. Underground construction is viable
 - Wax golem surfaces coated in paint harden to stone-hardness; blunt attacks and imprecise cuts are useless against painted areas. "Painted Twins" variant: nine feet tall, roughly 1000 lbs, partially painted, vulnerable only to precise cuts and stabs
 - Wood golems serve automated patrol roles in necromantic facilities
 - Operate on standing behavioral orders and can receive real-time verbal commands
@@ -131,6 +139,13 @@ TODO
 
 - Its only weakness is newborn saliva
 
+### Herdybey
+
+- Cave creature known to chryptsackers
+- Two-tone howl ("AHHHH-woooo")
+- Kept at bay by good blades in cool caves; mating bulls in humid holes are especially dangerous
+- Not to be confused with the Leatherwyrm
+
 ### Leatherwyrm
 
 - Giant wyrm that disguises itself in wall reliefs
@@ -168,7 +183,8 @@ TODO
 
 ### Mailed Flayer
 
-- Servant of The Scratcher
+- Blessedly deathless armored knight; servant of The Scratcher
+- Functions as a resurrectionist's deterrent in tohmbs and chrypts sacred to The Scratcher
 
 ### Grootslang
 
@@ -187,10 +203,27 @@ TODO
 - Dog-like pack predators with coarse burned-hair texture, matte white eyes, and soft wriggling teeth
 - Bite carries an incurable Blight
 
+### Witches (Harridans, Cursewives)
+
+- Neither human, undead, nor animal; may wear features of all three
+- Known forms include old women, great black half-hounds, and dripping grey flesh
+- Transformation between forms: old-woman shape to a massive beast with shaggy grey hair, tripled or quadrupled mass, hunched posture, elongated forearms, musk of old forest shadow
+- Curses are spoken aloud; known effects include petrification, sleep, and skin rot. A completed curse is likely fatal; interrupting mid-cast is the required counter
+- Can suspend a living victim in stasis: eyes open, color restored, breathing, but wholly unresponsive
+- Can possess or inhabit a living victim's body (skin-taking)
+- Practice the Words of Rotten Syllables -- a "profane" and "antique" magic predating or existing outside necromantic tradition. Capable of curing ills beyond mancer spells. See `Magic-Systems.md` for implications
+
+### Spider Wolves
+
+- Pack predators with greyblack fur, thin limbs, long low bodies, and bulbous chitinous heads
+- Attack in duos and trios from low grass at crossed angles; bite with pincers
+- Chitinous skulls shatter with a shield-edge blow
+
 ### Nickel Beetle
 
-- Small venomous insect found near the Waste Bridge
+- Small venomous insect found near the Waste Bridge and on the moor route between Waste Bridge and Middlemoss
 - Venom kills within ten days with no known cure; symptoms include rapid pallor, sweating, deterioration
+- Venom sensation: "tiny slivers of ice, sliding along my arms, slipping under each of my fingers"
 
 ### Mimic
 
@@ -247,11 +280,15 @@ TODO
 
 ### Halo of Worms
 
-TODO
+- Colony of undead flatworms; most often forms a ring around statue plinths
+- Does not feed; kills for sport
+- Can take other formations beyond the ring shape
 
 ### Lectergast
 
-TODO
+- Wraithish creature; runs in a sideways-dancing motion
+- Dwells under ossuaries
+- Associated with paladin funereal bells
 
 ### Living Bones
 
@@ -277,6 +314,16 @@ TODO
 - Primary habitat is the Soulwood and its Underpass; giant tunnel-rats are primary prey
 - Do not kill-hunt in the forest proper except for play or vengeance
 - Not always hostile; sometimes befriend children and women
+
+### The Crawling Silk (Cursed Mancer-Entity)
+
+- A former human mancer punished by the Mother of Worms with eternal life fused to eternal madness
+- Quadrupedal; triple-stranded spine; hoofed elbows and knees; drags a white beard as a carpet
+- Distinct from golems and undead -- defined by voluntary cursed transformation, not necromantic construction
+- Commands human slaves called **Hides**: flay victims, wear skins as clothing, sharpen harvested bones into weapons (spine-sewn flails, femur-spike war picks)
+- **Dream of the Winter Storm** -- Pulls a target into an isolated frozen dream-space via a nod of the scalp. Golems and Hides cannot follow. Movement is slowed; kills by freezing the mind within five minutes. White hair-serpents continuously entangle the victim's feet. Comparable to but distinct from the Wooly Vampire's Katabasis
+- **Hair Cocoon** -- When wounded, encases itself in hardened white hair at marble density. Cannot be cut; must be broken by golem-impact
+- Identifiable from the Harmonies of Avda song cycle (see `Folklore.md`)
 
 ### Doppelganger Skeletons (Undead)
 

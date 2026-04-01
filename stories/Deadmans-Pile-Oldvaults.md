@@ -298,29 +298,33 @@ Othelmedir, though the sparkle had drawn his initial attention, quickly paid clo
 
 Othelmedir said, "The frost is some manner of curse or enchantment."
 
-**Pickup**
+"Not a bit. Five of those shiny pieces says it's some crystal machine."
 
-"Not a bit of it. Five of those golden pieces says there's some crystal machine lying around.
-
-Othelmedir did not answer. He had noticed the door to what would have been the captain's quarters he walked across to it. He tried the knob, but it was frozen stiff, and the door would not open. He glanced back at Fogg.
+Othelmedir had noticed the door to what would have been the captain's quarters. He walked across to it. He tried the knob, but it was frozen stiff, and the door would not open. He glanced at Fogg.
 
 The door exploded into fragments when Fogg's two-handed sword smote it's face.
 
-Within, sitting at a table with his acolytes arranged around him, they beheld the Mailed Flayer. The servant of Sang. All were frozen stiff; their faces pale as ghosts and marked with thousands of small, cat-like scratches; their eyes closed as if in prayer. The acolytes wore black robes with red sashes. The Flayer wore a steel cuirass gilt in silver, and had a three-headed scourge splayed on the table before him. He looked to have been about two-hundred years of age, when the magic of the reservoir stopped his passing years in-perpetuity. More gold, fine tableware of silver and bronze, jeweled weapons, and other valuable treasures were frozen to the surface of the table, or stacked upon the various shelves. Othelmedir's iron eyes locked on one shelf in particular, where he saw stacked half-a-dozen rolled scrolls of leather.
+Within, in a high-backed chair at a long table of black wood, with acolytes arranged down either side, they beheld the Mailed Flayer.
 
-At this scene of the profanely pious frozen before him, Birdsey turned stiff as the frozen boards on which he stood. Othelmedir recognized the superstitious workings in Birdsey's brain, however, and said, "They are true-dead. I would have heard the voice of a servant of Sang the instant we entered the tohmb, were his soul stuck here yet."
+The servant of Sang. They flayer and his acolytes were completely frozen; their faces pale as ghosts and marked with thousands of small, cat-like scratches; their eyes closed as if in prayer. The acolytes wore black robes with red sashes. The Flayer wore a steel cuirass gilt in silver, and had laid on the table before him a three-headed scourge. He looked to have been about two-hundred years of age, before the magic of this reservoir had stopped his aging in-perpetuity. More gold, fine tableware of silver and bronze, jeweled weapons, other works of art - all was frozen to the surface of the table, or stacked upon the various shelves. Othelmedir's iron eyes locked on one shelf in particular, where he saw half-a-dozen furled scrolls of leather.
 
-Birdsey relaxed. "Is there a necromancy to break through ice?" he asked.
+At this scene of the profanely pious, Birdsey stiffened. Othelmedir recognized the suspicions working Birdsey's brain, and said, "They are true-dead. I would have heard the deadspeech of a servant of Sang the instant we entered the tohmb, were such a soul present."
+
+Birdsey relaxed. "Is there necromancy to crack ice?" he asked.
 
 "None that I am proficient in."
 
-"Come on, Fogg." Birdsey spun back out of the door and walked to the rail where they had left the knotted rope. "I'm going out onto the lake. I'll look for this freezing-machine; it's got to be in the water. You try to crack one of those ice-rings around the masts."
+"Come on, Fogg." Birdsey spun back out of the door and walked to the rail where they had left the knotted rope. "I'm going onto the lake. I'll look for this freezing-machine; it's got to be in the water. You try to crack one of those ice-rings around the masts."
 
-The pommel of Fogg's two-handed sword let out a ringing note that rang over the ice and resounded within the chamber, as he banged it against one of the ice rings. Birdsey scampered deftly down the side of the ship. He then began wide arcs upon the ice, sweeping frost, shuddering whenever he met the upturned eyes of a body, searching for the means by which the chamber was kept encased.
+The pommel of Fogg's two-handed sword let out a note that echoed over the ice and resounded within the chamber, as he banged the weapon against one of the crusted rings. Birdsey scampered deftly down the ship. He then began wide arcs upon the ice, sweeping the surface frost, shuddering whenever he met the upturned eyes of a body, yet squinting back all the same as he for the means by which the chamber was encrusted.
 
-Othelmedir had remained in the cabin with the frozen Flayer. He drifted toward the rolls of leather on the shelf. The flimsy teal light from the frost-coated window cast his tall shadow over the scrolls as he picked them up and unfurled them. The TINK, TINK, TINK, of Fogg's two-handed sword sounded faintly from without. Some of the leathers Othelmedir looked at were only instructions for rites sacred to The Scratcher. Others were perhaps more useful, having carved upon their surfaces The Words with Rotten Syllables. While his narrow eyes sifted the cracking leather, however, Othelmedir's thoughts hung upon the outer chamber. That the frost was not the result of crystalline machinery, he fully believed. He had read of this kind of enchantment, and Othelmedir now cast his mind back into untitled books for an answer. The cold in this cave was, he understood, brought about by the captured ghost of a terrible winter. A whole terrible year of weather's ghost, he realized, for he suddenly the name of The Blizzard that Flayed the Mountain; and he recalled that the winter of that blizard, recorded centuries and centuries past, had been a year of a terrible Spring blooming, a baking summer; and of course all autumns were dead on The Mountain of Graves. Still, Othelmedir understood that now the captured ghost of that year was waxing in winter, here in this tohmb, now.
+Othelmedir had remained in the cabin with the dead. He drifted toward the shelf of leather scrolls. The flimsy teal light from the frost-coated window cast his tall shadow over the scrolls; he unfurled and read each in silence. The *tink*, *tink*, *tink* of Fogg's two-handed sword sounded faintly from without. Some of the scrolls Othelmedir examined were only instructions for rites sacred to Sang, The Scratcher. Others were perhaps more useful, having grooved upon their surfaces the words of witches, The Words with Rotten Syllables.
 
-Whiler Othelmedir pondered, Fogg's TINK, TINK, TINK, continued to resound dully in the back of his mind. Birdsey had reached the wall of the reservoir, and was cirling toward the second exit with his sweeping pattern.
+While his narrow eyes sifted the cracking leather, however, Othelmedir's thoughts hung upon the outer chamber. That the frost was not the result of crystalline machinery, he was certain. He had read somewhere of this kind of enchantment, and Othelmedir now cast his mind back into books that had no names for an answer. The cold in this cave was, he thought, perhaps brought about by the captured ghost of a terrible winter. A whole terrible year of weather's ghost - the idea struck him, for he recalled in a flash the name of The Blizzard that Flayed the Road; and he recalled that the winter of that blizard, recorded centuries and centuries past, had been a year of a terrible Spring blooming, a baking summer; and of course all autumns were dead on The Road of Graves. Still, Othelmedir believed that the captured ghost of that year now waxed in winter, here in the present, in this Mailed Flayer's tohmb.
+
+While Othelmedir pondered, Fogg's TINK, TINK, TINK, continued to resound dully in the back of his mind. Birdsey had by now reached the wall of the reservoir, and was circling toward the second exit with his sweeping pattern.
+
+**Pickup**
 
 Othelmedir needed some way to trigger the coming of spring, if he was to thaw the ice and treasure. What could signal a change in season, he wondered? He shivered in the cold; a grisly think to see in a man so lean and tall, too swift, like a hummignbirds flitting wings.
 

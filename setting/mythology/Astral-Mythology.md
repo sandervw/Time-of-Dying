@@ -8,13 +8,13 @@ The sky of the Time of Dying holds a cold, slate-colored sun. The harridan's moo
 
 The sun provides light but no warmth. It is cold and slate-colored. Certain necromantic creations are restricted by its presence:
 
-- **Golems** (wax, glass, leather) cannot be created under the sky or sun.
+- **Golems** (wax, glass, leather) cannot be created under the sky, sun, or stars. The constraint is celestial exposure; underground construction is viable.
 
 The Sleep Tombs reference mancers who entered eternal slumber "to be awakened again in a better age, with a new sun dawned".
 
 ## The Harridan's Moon
 
-The harridan's moon is yellow. It marks the night of witches. Certain undead can only be summoned under its light:
+The harridan's moon is poxy-faced, perfectly round, and brilliant yellow. It marks the night of witches and provides strong ambient light over open terrain. Certain undead can only be summoned under its light:
 
 - **Gallowspooks** may only be summoned under the light of a harridan's moon.
 - **The Hearse** hunts only at night; its Stomach Song intensifies toward sunset and fades at sunrise. A second creature with a strict lunar activity boundary.

@@ -13,9 +13,9 @@ High-level setting mythology framework. Full documents in `Mythology/`.
 | **Theogony**         | The Necromancer-Gods   | Necromancer-gods tied to the seven sins, now cursed to diminished pseudo-immortality               |
 | **Anthropogeny**     | The Dwellers           | Modern man descends from the necromancers' acolytes, servants, and slaves                          |
 | **Death/Afterlife**  | The Epitaphs           | The dead become gravestones in the Road; sanctums grant the "shield of after-life"; ghost factories process uninterred souls into necromantic material; the Core Glacier marks eschatological time |
-| **Creatures**        | Races and the Undead   | Men, three Satr lineages, the Grot; plus extensive undead and monstrous fauna including Veyers, Liches, Dust Slimes, the Ents, and named homunculus types (Hueless) |
-| **Magic Systems**    | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs; Winter and ice carry inherent necromantic affinity |
-| **Magic Items**      | Sundries and Reagents  | Necromantic tools, substances, reagents (including Tohmbdust), curios (Scroll-Armor, Ent-Eye, Columbine Water), and the twenty-three Alabaster Masks |
+| **Creatures**        | Races and the Undead   | Men, three Satr lineages, the Grot; Witches (Harridans, Cursewives); plus extensive undead and monstrous fauna including Veyers, Liches, Dust Slimes, the Ents, Spider Wolves, The Crawling Silk (cursed mancer-entity), The Alien Knight (blind-spot undead), and named homunculus types (Hueless) |
+| **Magic Systems**    | Necromancy Motifs      | Necromancy is the only magic among men, structured by creational motifs; witch magic (Words of Rotten Syllables) survives separately as a profane, antique tradition; Winter and ice carry inherent necromantic affinity |
+| **Magic Items**      | Sundries and Reagents  | Necromantic tools, substances, reagents (including Tohmbdust), curios (Scroll-Armor, Ent-Eye, Columbine Water, Shelley Stone, Lead Curtain), and the twenty-three Alabaster Masks |
 | **Hero Cycles**      | Oath-Bound Questing    | Chivalric tradition of sworn service and stoic valor; implied rather than codified                 |
 | **Demon Cults**      | TODO                   | TODO                                                                                               |
 | **Prophecy**         | Dreams of the Thin Man | The Thin Man shares dreams with his followers; Gallbladder has a separate portent-crying tradition |
@@ -46,8 +46,8 @@ The necromancers, once united against the world, turned on one another after the
 | ----------------------- | -------- | -------------------- | ------------------------------------------------------------------- |
 | **The Thin Man**        | Sloth    | Sickness and Entropy | Locked in eternal sleep in his Sickened Cradle; shares dreams       |
 | **The Old Man Below**   | Pride    | History and Age      | A roving spirit issuing from the End of the Road; most powerful     |
-| **The Scratcher**       | Wrath    | Blood and Curses     | Details vague; served by the Mailed Flayer                          |
-| **The Mother of Worms** | Lust     | Decay                | A vampire; beautiful outside, rotten within; feeds off consorts     |
+| **The Scratcher**       | Wrath    | Blood and Curses     | Details vague; served by the Mailed Flayer (deathless armored guardian of sacred tohmbs) |
+| **The Mother of Worms** | Lust     | Decay                | A vampire; beautiful outside, rotten within; feeds off consorts; capable of territorial divine punishment |
 | **Gallbladder**         | Gluttony | Consumption          | "Lord of Lake"; daily portents via criers; served by the Grootslang |
 | **Lady Horsehair**      | Greed    | Possession           | "The Porcelain Girl Doll"; temples called The Emerald House; priestess hierarchy with violence-talents |
 | **The Red King**        | Envy     | Persecution          | Served by branded devotees and the Weige noble family               |
@@ -81,7 +81,7 @@ When any person dies, their gravestone is added to the cobbles of the Road. The 
 
 *Full doc: `Mythology/Magic-Systems.md`*
 
-Necromancy is the only surviving magic. Among Witches, necromancy is referred to as the 'Words of Rotten Syllables'. Necromancy is structured through a system of reusable motifs - patterns for designing spells and rituals:
+Necromancy is the only surviving magic among men. Witch magic -- the Words of Rotten Syllables -- survives separately as a profane, antique tradition outside necromancy. Necromancy is structured through a system of reusable motifs - patterns for designing spells and rituals:
 
 - **Shape Motifs (Creational)** - How undead are created: Classifiers, Constructors, Assimilators, Emulators, True Names
 - **Desire Motifs (Structural)** - Undead capability: Attunements, Amalgamators, and others (partially developed)
@@ -93,7 +93,7 @@ Necromancy is the only surviving magic. Among Witches, necromancy is referred to
 
 *Full doc: `Mythology/Magic-Items.md`*
 
-Necromantic tools, substances, reagents, and curios. Includes tohmbdust (active necromantic reagent), soul scarabs (traded commodity), the twenty-three Alabaster Masks (identity-granting enchanted masks), Scroll-Armor (written Deadspeech wards against ghosts), Columbine Water (ghost containment medium), the Song-Singing Fungus, poison landmines, Ent-Eye (rare optical artifact), Engraved Nautilus (ivory map shell), the Quieting Mirror (thought-silencing relic), and Glowbug in Amber (un-life light curio). See `Mythology/Magic-Items.md` for full catalogue.
+Necromantic tools, substances, reagents, and curios. Includes tohmbdust (active necromantic reagent), soul scarabs (wooden soul-phylacteries requiring lead environments), the twenty-three Alabaster Masks (identity-granting enchanted masks), Scroll-Armor (written Deadspeech wards against ghosts), Columbine Water (ghost containment medium), the Song-Singing Fungus, poison landmines, Ent-Eye (rare optical artifact), Engraved Nautilus (ivory map shell), the Quieting Mirror (thought-silencing relic), and Glowbug in Amber (un-life light curio). See `Mythology/Magic-Items.md` for full catalogue.
 
 ## Demon Cults: TODO
 

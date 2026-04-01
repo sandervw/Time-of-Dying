@@ -4,6 +4,10 @@
 
 The World of the Time of Dying consists of zones beyond or beneath the civilized Road of Graves: the End of the Road, the Oldvaults, the Cursed Forest, etc.
 
+## Alternate Names for the Road of Graves
+
+The Road of Graves is also called **The Long Road** (conversational usage) and **That Road Familiar and Strange** (narrative/mythic register).
+
 ## The End of the Road
 
 The End of the Road is the place (or concept) from which the Old Man Below issues forth. Whether it is a literal terminus of the Road of Graves, a metaphysical boundary, or something else entirely is unknown. The Old Man Below -- most powerful of the necromancers in life -- is a roving spirit that issues forth from this place, whispering instructions in shadowed corners, conniving and scheming to return to power.

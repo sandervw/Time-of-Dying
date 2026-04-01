@@ -2,7 +2,9 @@
 
 ## Overview
 
-Necromancy is the only surviving magic in the Time of Dying. All other magics and gods fell during the extinction event 3000 years ago. Only necromancy can persist after death, and only necromancy holds the world together. Among witches, necromancy is referred to as the "Words of Rotten Syllables." Practitioners are called Mancers (short for Necromancer).
+Necromancy is the only surviving magic among men in the Time of Dying. All other magics and gods fell during the extinction event 3000 years ago. Only necromancy can persist after death, and only necromancy holds the world together. Practitioners are called Mancers (short for Necromancer).
+
+Witch magic -- the Words of Rotten Syllables -- is a separate surviving tradition: "profane" and "antique," predating or existing outside necromancy. Witches are not human, and their magic is capable of effects beyond mancer spells (e.g., curing ills that necromancy cannot). See `Creatures.md` for witch taxonomy and abilities.
 
 Necromancy is structured through a system of reusable motifs -- patterns for designing spells and rituals. By using these motifs in incantation design, a mancer creates spells and rituals that may be used in a variety of contexts.
 
@@ -18,6 +20,7 @@ Deadspeech is the magical language used in necromancy, drawn from Hungarian. Kno
 - "harag naj, gonosz naj; egos at haruva halj," -- Day of wrath, evil day; shall sky and road in ashes lay.
 - "ahoz hjetes az elernt mondj." -- as seven and the living say.
 - "Malyan borznak kell megszall met; amizor a kozalsa Biry talat; es rastald atgesz ember csontjat!" -- What horror must invade the mind; when the approaching silk shall find; and sift the bones of all mankind!
+- Variant translation (from The Crawling Silk's hymn): *"Day of wrath, evil sky; shall all the Road in blackness lie / As Seven bid men's souls to die / What horror must o'ercome the heart; when Mancer Silk shall start / And bids the bones by blackened art."* Differences ("evil sky" vs. "evil day," "blackness" vs. "ashes") reflect doctrinal or regional transmission drift.
 - "Vigyazz" -- Caution. (From Hungarian "vigyazz.")
 
 ## Named Spells
@@ -43,6 +46,10 @@ A necromantic reduction process that strips ghosts of individuality and compress
 - Named term for the hypnotic trance induced by a Wooly Vampire's feeding
 - Cyclic in nature ("Ouroboros is the trance"): the victim enters recursive dream-worlds
 - Escape requires identifying real-world elements bleeding through into the dream layers
+
+### Remote Necromancy via Petitioned Dead
+
+A mancer petitions nearby dead to locate a distant target, then projects their voice through a convenient corpse near the target. Taxing and brief.
 
 ## Environmental Counters
 
@@ -125,7 +132,7 @@ The Grot -- an ancient race of toad-centipede-necromancers who are innately unde
 Standard necromancy animates dead animals as well as humans. Dead cats, for instance, can be raised en masse by a working mancer.
 
 - **Homunculus** -- Fetus grown in a stoppered flask, buried in cow entrails. When uncorked and nursed on mammal blood, turns into a servant of the creator. The greater the mammal, the more powerful the servant.
-- **Golems** -- Wax, Glass, Leather, Stitched Tissue, or Wood. Cannot be created under the sky or sun.
+- **Golems** -- Wax, Glass, Leather, Stitched Tissue, or Wood. Cannot be created under the sky, sun, or stars; the constraint is celestial exposure, not surface location. Underground construction is viable.
 - **Birchmen** -- Bodies of dead birch trees possessed by an evil spirit; feed on blood; can be sedated with subzero temperatures.
 - **Gallowspook** -- May only be summoned under the light of a harridan's moon.
 

@@ -85,6 +85,10 @@ Also flushed from beneath Soulwood gravestones by water. Begs to be escorted to 
 
 A named cultural text documenting facts about Ents (e.g., that Ents dislike all men who touch their bark). Implies a broader tradition of sung encyclopedic lore -- a mythological record-keeping format in which knowledge is preserved and transmitted as numbered songs.
 
+### The Harmonies of Avda
+
+A mythological song cycle encoding creature-lore and historical accounts. "The Harmony of False Seven" is a specific entry documenting The Crawling Silk (see `Mythology/Creatures.md`). Part of the same encyclopedic oral tradition implied by The Third Song of Splywater -- named songs that serve as an in-world bestiary and chronicle.
+
 ---
 
 ## Occupations

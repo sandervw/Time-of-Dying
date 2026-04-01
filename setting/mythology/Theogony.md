@@ -10,7 +10,7 @@ The seven necromancer-gods, once united against the demon kings, turned on one a
 
 An old man locked in eternal sleep in his Sickened Cradle (his tohmb). Bears the gift of perpetual youth united with perpetual sleep. He shares his dreams with his followers. Two distinct iconographic traditions: a silver mask (from the Prophecy/grot tohmb inscriptions) and a plaster mask with flaccid, ill-looking cheeks (from regional shrine representations).
 
-The finding and opening of the Sickened Cradle is a central goal of his followers. Opening it will supposedly unleash a plague that brings final rest to all the living and the dead, inflicting final entropy on the Road of Graves.
+The finding and opening of the Sickened Cradle is a central goal of his followers. Opening it will supposedly unleash a plague that brings final rest to all the living and the dead, inflicting final entropy on the Road of Graves. Secular mancers outside the Thin Man's following have independently pursued his form of eternal life, framing the Sickened Cradle as a coveted prize rather than only a prophetic framework.
 
 ### The Old Man Below (Pride) - God of History and Age
 
@@ -29,6 +29,8 @@ TODO
 ### The Mother of Worms (Lust) - God of Decay
 
 A vampire. Lives off the blood of her consort-followers. Beautiful on the outside, but rotten within. Inspired by Akivasha; always nude, always deadly. Folk or regional traditions name her sin-domain "wanting" rather than lust or decay, suggesting doctrinal drift from formal theology.
+
+Capable of active divine punishment: destroyed six members of a seven-mancer heptad for trespassing on the **Chrypt of the Fermented Princess**, her sacred site. Spared the seventh, then granted him eternal life while simultaneously cursing him to eternal groveling madness -- producing The Crawling Silk (see `Creatures.md`). The paired boon-and-curse matches the setting's pseudo-immortality pattern.
 
 Uhrdgatan ("winter-beast") is a named devoted follower who believes the world ends with insects, and wants to be reborn as a dragonfly.
 
