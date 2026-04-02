@@ -324,33 +324,19 @@ While his narrow eyes sifted the cracking leather, however, Othelmedir's thought
 
 While Othelmedir pondered, Fogg's TINK, TINK, TINK, continued to resound dully in the back of his mind. Birdsey had by now reached the wall of the reservoir, and was circling toward the second exit with his sweeping pattern.
 
-**Pickup**
+A trigger was needed, thought Othelmedir. An augur for the coming of spring; a thaw. What could signal a change in season, in such a place of depth and death? Othelmedir shivered in the cold - a grisly action in a man so lean and tall; too swift, like a hummingbird's flitting wings.
 
-Othelmedir needed some way to trigger the coming of spring, if he was to thaw the ice and treasure. What could signal a change in season, he wondered? He shivered in the cold; a grisly think to see in a man so lean and tall, too swift, like a hummignbirds flitting wings.
+The thought flashed before Othelmedir. Water. All was crusted and frozen in this chamber, but perhaps a sprinkle of liquid form might trigger the change he desired. Othelmedir considered how to bring this about for some minutes. He nearly laughed when he thought of it, but did not, for he never laughed without purpose. He made as if to spit, but stopped. If the environment of the reservoir were as terrible as this, in dead winter, what unpredictable scene would the onset of spring invoke? What storm would the malicious ghost of that ancient year enact?
 
-The thought flashed before Othelmedir: water. All was crusted and frozen in this chamber, but a sprinkling of some kind might trigger the change he desired. Othelmedir considered how to bring this about for some minutes. He nearly laughed when he thought of it, but didn't, for he never laughed without purpose. He made as if to spit, but stopped himself. If the environment of the reservoir were as terrible as this, in dead winter, what unpredictable scene would the onset of spring invoke? What storm would the malicious ghost of the year enact?
-
-The steady TINK, TINK, TINK sounded sharply and more clearly, at that instant, through Othelmedir's pondering. He spun, strode to the door. He looked over to see Fogg still hammering at the ice with his pommel. The position was awkward, the work difficult, and the man was breathing heavily.
+The steady TINK, TINK, TINK sounded sharply and more clearly, at that instant, through Othelmedir's pondering. He turned, strode to the door. He saw Fogg still hammering at the ice with his pommel. The position was awkward, the work difficult, and the man was breathing heavily.
 
 "Fogg, stop," said Othelmedir.
 
-Fogg stopped and turned to look at the mancer. Before Othelmedir could shout a warning, the pale man raised a pale hand to his long black hair, wiped a translucent bead of sweat from his brow, and flicked the moisture to the ship's deck.
+Fogg stopped. He looked back at the mancer. Before Othelmedir could shout a warning, the pale man raised a pale hand to his long black hair, to a brow heavy with sweat, and after wiped a translucent bead, flicked the moisture to the ship's deck.
 
-Lightning flashed, and thunder cracked a signal boom.
+Lightning flashed, thunder cracked a signal gong note. The teal mist disgorged a sharp stinging rain. Within the flash, the ice pool melted.
 
-The teal mist disgorged a sharp stinging rain.
-
-Within the flash, the ice pool melted.
-
-The water was a roiling sea.
-
-The two stalactites unfroze.
-
-Two metal conductors.
-
-Lightning arced, waves crashed.
-
-Fogg's arms windmilled.
+The water was a roiling sea. The two stalactites unfroze. Two metal conductors. Arcing light; wave crash. Fogg's arms windmilled.
 
 One bolt searched.
 
@@ -358,29 +344,37 @@ Saw Fogg.
 
 Struck.
 
-Miraculously, as Fogg stood in place - swaying, smoking, eyes glossy - the direction of his leaning perfectly counteracted the sudden rolling and swaying of the deck beneath him. He remained perfectly upright. Birdsey, meanwhile, had been standing by the second exit when the season shifted. He jumped for one rough-hewn pillars of stone girting the tunnel mouth. Now he screamed, and clung desperately to the stone, as the rain beat his head and shoulders, and the waved hammered against his spine. A howling wind spun through the air, stirring every atom of water into motion. From a scene which had seemed near to absolute zero, so still and entropic had it been, the reservoir had become a place as violent as the heart of any ocean hurricane. The ship was a feather, dancing in a billowing chimney.
+Miraculously as Fogg stood in place - swaying, smoking, eyes glossy - the direction of his leaning precisely counteracted the sudden rolling and swaying of the deck. He remained upright. Birdsey meanwhile had been near the second exit when the season shifted. He leaped for a rough-hewn stone pylon girting the tunnel mouth. Now he screamed, and clung desperately to the stone as the rain beat his head and shoulders, and the waved hammered his spine. A howling wind churned the air, flung every atom of the subterrain lake. From a scene of entropic torpor, the reservoir had become a place as violent as the heart of any ocean hurricane. The ship itself was a dancing feather in a smokestack.
 
-Othelmedir had tried to catch his balance when the storm struck. He'd grabbed for the rail, but had grabbed unconsciously with his injured, dominant arm. Now one specially heavy swell smashed into the port side of the ship. The deck reversed angles entirely. Othelmedir shouted in pain as his grip on the banister broke. The tall man fell like a tumbling sequoia toward the gunnel and the churning foam beyond. Fogg had regain his sensed by that moment. He saw Othelmedir's fall. He leapt out over the swaying deck. The huge man caught Othelmedir' waist in one arm, just as the latter fell over the rail. Hold Tight to Othelmedir's robe Fogg just managed to encase the wooden lip of the rail in his knuckles. The ship bucked, they slammed against the side. Othelmedir nearly passed out from the impact, but shook the blackening tunnel vision away and grabbed Fogg's drenched collar.
+Othelmedir had tried to catch himself on the rail, but had grabbed unconsciously with his injured, dominant arm. Now one specially heavy swell smashed into the port side of the ship. The deck rolled. Othelmedir shouted in pain as his grip gave. The tall man fell like a tumbling sequoia toward the gunnel, toward the churning foam.
 
-There they held, while the rain and waves thrashed. The piled gold had scattered in the impact. Yellow sparks flashed over the sides of the ship, twinkling in the air, or sinking in the water like fallen stars. Othelmedir felt his grip begin to slip. His shoulder throbbed. Another waved slammed the pair against the boars; Fogg gritted his teeth and tightened his grasp on the rail, nearly splintering the wood.
+Fogg had regain his senses. He saw Othelmedir's fall. He leapt across the swaying deck. The huge man caught Othelmedir in one arm, just as the latter pitched over the railing. With his one arm like a locking bar around Othelmedir's waist, Fogg just managed to encase the wooden lip of the rail in his knuckles. The ship bucked, they slammed against the side. Othelmedir nearly passed out from the impact, but shook the blackening tunnel vision away, and clung to Fogg's drenched collar.
 
-Without a osund, the savage muscled warrior heaved with every muscle in his back and arms. He pulled first his chest up over the trail, the flung Othelmedir back onto the deck. The judder of the impact sent new flashed of pain along the mancer's shoulder. Fogg lifted himself up after, then slid down low and pulled himself and Othelmedir up against the angle of the rail and the deck. He hooked an elbow through a baluster, then a foot. Across the water, by the exit, Birdsey had meanwhile gained a firmer spot on the rock. Together and seperately, all three receded as much as they could into themselves, bunchign their necks and tucking their limbs to be as small as possible, while the ocean-sized mass of the storm railed in the too-small enclosure of the Mailed Flayer's tohmb.
+There they held, while the rain and waves thrashed. The piled gold had scattered in the impact. Yellow sparks flashed over the sides of the ship, twinkling in the air, or sinking in the water like fallen stars. Othelmedir's own grip slipped. His shoulder throbbed. Another waved slammed the pair against the boars. Fogg gritted his teeth and tightened his grasp around the rail and the mancer, nearly cracking both.
 
-Long were the rain and the waves in their waning. Never did they recede completely, for the ghost of that Year of the Seasons Terrible held to its spiteful condition through Spring as well as Winter. The initial wrath of the weather faded, however, until the rain only poured instead of bit; and until the Wind was only a constant moan, not a mastication of a gaseous jaw; and until the waves were high dunes of whitecapped water that, nevertheless, held a steady rhythm. Fogg rose, arms aching from the strain of holding himself and Othelmedir in place. Othelmedir, despite the throbbing in his whole arm, managed to stain too, supported on the rocking deck by the rail. In the comparative lull a voice could be heard if it shouted; and they heard Birdsey shouting now, "Sang's bloody loins. I thought the water would smash by bones to jelly. You out there, still full-alive?"
+Then, without a sound, the savage warrior heaved with all the sinews of his demon lats and biceps. He pulled first until his chest was level with, then over the trail, then flung Othelmedir one-armed back onto the deck. The judder of the impact sent flashes of fresh pain through the mancer's shoulder. Fogg dragged his own body over the rail right after, then he slid down low grabbed Othelmedir's collar, and pulled the mancer against the angle of the rail and the deck. He hooked an elbow through a baluster, then a foot.
+
+Across the water, by the exit, Birdsey had meanwhile gained a firmer spot on the rock. 
+
+All three receded as much as they could into themselves, bunching their necks and tucking their limbs to be as small as possible, while the monsoon thrashed in the too-small enclosure of the Mailed Flayer's tohmb.
+
+Long were the rain and the waves in their waning. Never did they disperse entirely, for the ghost of that Year of the Seasons Terrible held to its spiteful condition through Spring as well as Winter. The initial wrath of the weather waned, however, until the rain only poured instead of stabbed; and until the Wind was only a constant moan, not a mastication of a gaseous jaw; and until the waves were high dunes of whitecapped water that, nevertheless, held a rhythm.
+
+Fogg rose, arms aching from the strain of holding himself and Othelmedir in place. Othelmedir, despite the throbbing in his whole left side, managed to stand, supported by the rail. The deck rocked. In the comparative lull the two heard Birdsey shouting. "Sang's bloody loins. I thought the waves would smash my bones to jelly. You out there - still living?"
 
 "Not slain yet," said Fogg in reply.
 
-"Looks like this tunnel goes up. Any gold left?"
+"Looks like this tunnel goes up. Any gold left on that tub?"
 
 Fogg scanned the deck. "Some scattered pieces."
 
 "Grab them and come across."
 
-Othelmedir took a deep breath, drawing his mind back from flaring pain in his shoulder. He urealized that at least some bone was probably fractured. They would need to find a skilled leech when they returned to the surface - or a better mancer than he - to correct the injury. If they returned, he mentally corrected himself. He forced his thoughts to gather on the present. "We should check the cabin," he said. "More of that wealth has likely stayed aboard. Birdsey."
+Othelmedir took a deep breath, drawing his mind back from flaring pain in his shoulder. He realized that some bone was probably fractured. They would need to find a skilled leech when they returned to the surface - or a better mancer than he - to correct the injury. If they returned, he corrected himself. He forced his thoughts to the present. "We should check the cabin," he said. "More of that wealth has likely remained aboard. Birdsey."
 
 "Yes?"
 
-"Is there a boat up your tunnel?"
+"Is there any buoyant material farther up in your tunnel?"
 
 There was a pause - Fogg stagged on the churning boat to the captain's quarter, scooping up some scattered hexes of gold as he went. Presently Birdsey called back, "No boat. Those frozen corpses are floating now though. Make a raft of em, maybe? He, he."
 
