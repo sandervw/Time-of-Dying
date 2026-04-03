@@ -1,15 +1,17 @@
-Hey claude, I need you to run three lore-extractor agents, one for each of the following files:
-- @stories\The-CCK\The-Harridans-Moon.md
-- @stories\The-CCK\The-Alsoburg-Siege.md
-- @stories\The-CCK\The-Scarab-Mines.md
+Hey claude, I need you to run four lore-extractor agents, one for each of the following files:
+- @stories\The-CCK\The-Stone-Cocoon.md
+- @stories\The-CCK\The-Sisterhood-of-the-Yellow-Smile.md.md
+- @stories\The-CCK\The-Weaponmaster.md
+- @stories\The-CCK\The-Court-of-the-Leather-Dragon.md
 
 Each agent should put its extracted lore in a distinct file in the @output\ folder. Questions?
 
 ---
 
-- @output/The-Harridans-Moon-lore-extraction.md
-- @output/The-Alsoburg-Siege-lore-extraction.md
-- @output/The-Scarab-Mines-lore-extraction.md
+- @output\The-Stone-Cocoon-lore-extraction.md
+- @output\The-Sisterhood-of-the-Yellow-Smile-lore-extraction.md
+- @output\The-Weaponmaster-lore-extraction.md
+- @output\The-Court-of-the-Leather-Dragon-lore-extraction.md
 
 Hey claude, I need you to incorporate the new lore in @output/The-Scarab-Mines-lore-extraction.md into the existing lore in @setting\ . This is all new or modified lore for the main mythology.md file, the main folklore.md, and the specific mythology and folklore subfolders.
 
