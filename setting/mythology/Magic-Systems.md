@@ -109,6 +109,8 @@ Treat groups of similar magical effects or undead as a single entity, allowing c
 
 The motif of desire bridges soul, sense, and body. This connection governs soul-sense-body integrity in both living and resurrected persons, not only undead capability. Repeated death and resurrection wears the motif thin until it breaks. The tether is subject to physical attrition -- a person resurrected too many times loses the bridge entirely.
 
+Tether degradation produces visible physical distortion: misconfigured facial features, expressionless half-face, soul "leakage" legible to outside observers. Resurrection normally leaves measurable necromantic residue in bone marrow -- a standard physiological side-effect detectable by a skilled mancer. Its absence in a resurrected person is remarkable. When the tether disintegrates entirely, the person enters a terminal crisis state -- the Shambler (see `Creatures.md`) -- rather than experiencing a clean break.
+
 ### Other Desire Motifs
 
 TODO -- further structural motifs are partially developed.

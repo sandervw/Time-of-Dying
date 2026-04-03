@@ -40,6 +40,17 @@ TODO
 
 ## Monsters and Undead
 
+### Basilisks
+
+- Real creatures in the setting; turn to stone when forced to meet each other's gaze
+- Can be weaponized: the Leather Dragon of Hornwater used forced mutual-gaze to create stone gargoyles for his parapet
+
+### Dragons (Near-Extinct)
+
+- True dragons once existed; now functionally extinct
+- The "last, degenerated dragon" implies terminal physical or spiritual decline of the final specimen
+- A drake soul survives weapon-bound in the Dragon Eye Longsword (see `Magic-Items.md`)
+
 ### The Alien Knight (Undead)
 
 - Undead entity animated by Blind-spot Necromancy; center invisible to naked eyes
@@ -101,8 +112,15 @@ TODO
 
 - Skeletons that rise from the water with a single gasp sound; may retain scraps of clinging flesh
 - Form ice from their toe-phalanges outward
-- Throw rocks from pouches around their necks
+- Throw rocks from pouches around their necks; some variants use arrow barrages instead (e.g., the Vekelhause Marina patrol Gasps rise with a frosted gasp and attack with arrows)
 - Rise in coordinated groups; capable of surrounding, pausing, and launching synchronized barrages
+
+### Gonging Hearse (Undead Carriage Construct)
+
+- Ten-legged, bone-armored undead carriage driven by a mancer; moves like a hunting spider
+- Fast enough to outrun a man
+- A hanging bronze bell clangs with each step, inducing cranial sensory incapacitation over sustained exposure
+- Distinct from The Hearse (a flying dragonfly predator)
 
 ### Gearslave Apes
 
@@ -162,6 +180,15 @@ TODO
 - Colony of grey-eyed humanoids with stitched, variegated flesh
 - Live inside stone lanterns in carved caves; attack on a single gong-note
 - Branded servants of the Red King
+
+### Shambler
+
+- Terminal state of a collapsing resurrected soul; triggered when soul-stitching disintegrates entirely (see `Magic-Systems.md`)
+- Involuntary transformation into a fused living-tissue-and-dying-spirit mass
+- Liquid fire from misshapen eyes; tripled strength; uses broken armor as missiles; ignores severed tendons and broken arms
+- Kill condition: decapitation after tripping
+- Death leaves burned clothing, tissue fragments, and a slag lump
+- Distinct from raised undead -- a collapse event, not a construction
 
 ### Mermaid
 
@@ -367,6 +394,21 @@ TODO
 - Appear as mutated spotted owls with partially human faces and eye-covered feathers
 - Haunt churches, towers, and barns
 - Namesake creatures of the Monks of the Lidless (see `Folklore/Monks-of-the-Lidless.md`)
+
+### Sage Chutes (Fungal Parasite)
+
+- Triggered by demon-tainted sound; grows from the victim's pores as burning tendrils
+- Sensation described as molten lead pouring through the skin
+
+### Glowbugs (Natural Variant)
+
+- Found frozen alive in cave ice-walls, each bug suspended in its own bubble
+- Survive without necromantic intervention; distinct from the mancer-made Glowbug in Amber (see `Magic-Items.md`)
+
+### Spider-Hounds
+
+- Pack animals capable of detecting residual demonic evil by smell
+- Refuse to enter demon-cursed sites; distinct from necromantic corruption detection
 
 ### Other Creatures (Briefly Noted)
 

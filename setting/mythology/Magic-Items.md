@@ -158,6 +158,26 @@ A set of twenty-three alabaster masks, each granting the wearer a false identity
 - Thin silver necklace enchanted with a "spell of Far Speaking"
 - Activated by touch; allows contact with a mancer across long distances
 
+### The Demon King's Claymore
+
+- Pre-Road demon-era artifact found in a hidden snow hollow near demon-king ruins
+- Returns even the most powerful dead to stillness; described as "deeply cursed"
+
+### Dragon Eye Longsword
+
+- Longsword with a serpent-gripping-opal hilt; a mancer filled it with the hatred of the last degenerated dragon
+- The trapped drake soul keeps the blade self-sharpening
+
+### Emerald with Trapped Soul
+
+- A soul-storage vessel found by sifting crystalline cave-floor gravel
+- A new vessel type distinct from wooden Soul Scarabs
+
+### Whispering Cloth
+
+- Paper or thin fabric that whispers in an unknown tongue; found lining walls of ancient demon-era rooms
+- Can be torn off and used as earplugs; effective against deafening supernatural sound attacks
+
 ## Ritual: TODO
 
 TODO

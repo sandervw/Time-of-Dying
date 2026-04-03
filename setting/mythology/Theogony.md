@@ -22,13 +22,11 @@ Has a high, frozen cathedral in his name in the shadow of Thistlecrown. Also bui
 
 ### The Scratcher (Wrath) - God of Blood and Curses
 
-Served by the Mailed Flayer.
-
-TODO
+His instrument is the Lash; his wrath specifically targets speech. Served by the Mailed Flayer. Believers actively pray to have the Scratcher's attention withheld -- divine-gaze aversion as a folk-theological practice.
 
 ### The Mother of Worms (Lust) - God of Decay
 
-A vampire. Lives off the blood of her consort-followers. Beautiful on the outside, but rotten within. Inspired by Akivasha; always nude, always deadly. Folk or regional traditions name her sin-domain "wanting" rather than lust or decay, suggesting doctrinal drift from formal theology.
+A vampire. Lives off the blood of her consort-followers. Beautiful on the outside, but rotten within. Inspired by Akivasha; always nude, always deadly. Folk or regional traditions name her sin-domain "wanting" rather than lust or decay, suggesting doctrinal drift from formal theology. Invoked in everyday speech as a moral observer whose averted gaze is a mercy: *"I must hope that the Mother of Worms averted her eye."*
 
 Capable of active divine punishment: destroyed six members of a seven-mancer heptad for trespassing on the **Chrypt of the Fermented Princess**, her sacred site. Spared the seventh, then granted him eternal life while simultaneously cursing him to eternal groveling madness -- producing The Crawling Silk (see `Creatures.md`). The paired boon-and-curse matches the setting's pseudo-immortality pattern.
 
@@ -62,6 +60,18 @@ Individual gods have dedicated shrines along the Road, known as Pilgrim Tohmbs. 
 
 TODO - rituals of worship associated with the necromancer-gods (or with individual gods).
 
-## Folk Explanation: TODO
+## Folk Explanation: The Founding-War Verse
 
-TODO - the reasons (if they exist) for why people believe the gods lost their full power. The mechanical causes are known (repeated deaths, confused doctrines, lingual drift), but how the dwellers understand and explain this is undeveloped.
+A cosmogonic verse-table circulates among common folk, pairing each necromancer-god with the method by which they slew their share of demon kings during the founding war:
+
+| God                     | Demon-Slaying Method                          |
+| ----------------------- | --------------------------------------------- |
+| **The Thin Man**        | Wasting sickness                              |
+| **The Old Man Below**   | Whispering cowardice into demon hearts        |
+| **The Scratcher**       | Curses                                        |
+| **The Mother of Worms** | Bone-rot inflicted by her naked gaze          |
+| **Gallbladder**         | Summoning the hungry dead                     |
+| **Lady Horsehair**      | Purchased power                               |
+| **The Red King**        | Tearing the throats of his peers              |
+
+This verse is folk theology, not doctrinal canon -- it compresses the founding war into seven neat acts and may reflect popular attitudes toward each god more than historical accuracy.

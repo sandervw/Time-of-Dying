@@ -32,6 +32,14 @@ When a redwood dies, its fibrous structure provides one spirit a temporary refug
 
 The improperly buried fear that a mancer will steal their soul. Those without a spot on the "sacred labelled stones" face this terror on their deathbed. The folk framing is soul theft -- a mancer snatching the unshielded soul -- rather than the more doctrinal concern of undead rising.
 
+### The Uninterred Soul as Raw Material
+
+An uninterred soul becomes raw energy for mancer spells -- fuel to be burned. A first-person folk-theological framing of what the ghost factories process industrially (see `Mythology/Death-Afterlife.md`). Where doctrine describes processing stages and end-products, folk belief reduces it to a single gut-level dread: without a stone, you are consumed.
+
+### "Dragon's Truth or the Erl's Lies"
+
+A named proverbial dichotomy for truth versus deception. Both "the Dragon" and "the Erl" are recognized figures in the setting's moral vocabulary -- the Dragon associated with truth, the Erl with lies. Implies a folk bestiary of moral archetypes beyond the necromancer-gods.
+
 ### Colloquial Invocation of the Seven
 
 Casual expressions like "pray to the seven necromancer-gods" appear in everyday speech as idioms of hope or exasperation. Worship of the necromancer-gods is not only organized ritual but ambient folk practice woven into ordinary language.
@@ -64,6 +72,7 @@ A known formula for a potent sleep toxin: condensed sunflower juice, oxidized co
 
 - **Houses of Maze** -- Multi-city criminal guild network operating out of Middlemoss and beyond. See `Folklore/Houses-of-Maze.md`.
 - **The Monks of the Lidless** -- Monastic order seated at the Tower of Silence in Deep Compost. Identifiable by a shaved scalp and a tattooed small mouth inside a black ink circle. Led by the Senseless King and Queen (unliving, eye-tattooed skulls, iron-hook scepters). Three fighter types: Tuskhands, Man of Dogs, Leaping Monk. Will-o-Wisps bound as tower guards. Not linked to any of the seven necromancer-gods; no epitaphs on the Road of Graves. See `Folklore/Monks-of-the-Lidless.md`.
+- **The Sisterhood of the Yellow Smile** -- Religious order practicing living burial as deliberate soul-vouchsafing. Oaths are cosmologically bound to post-death protection; oath-breaking forfeits the shield. Priories defended by four typed glass illusions. See `Folklore/Sisterhood-of-the-Yellow-Smile.md`.
 
 ---
 
