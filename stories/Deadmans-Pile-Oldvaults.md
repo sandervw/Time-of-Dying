@@ -458,4 +458,4 @@ The two crawled like the first slimy forerunning of prehistoric amphibians, onto
 
 "I could dive for coins after the inferno's doused," suggested Birdsey. "Hate to leave with airy pockets."
 
-Othelmedir reached into a fold of his soaked robe. From a long pocket, he drew a lengthy scroll of leather. He unfurled it, and turned so that the light of the distant flame shone on the surface, where were written Words with Rotten Syllables. And though the mancer's steel eyes betrayed no emotion,
+Othelmedir reached into a fold of his soaked robe. From a long pocket, he drew a lengthy scroll of leather. He unfurled it, and turned so that the light of the distant flame shone on the surface, where were written Words with Rotten Syllables. And though the mancer's steel eyes betrayed no emotion, his bones chuckled.
