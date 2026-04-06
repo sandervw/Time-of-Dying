@@ -26,11 +26,9 @@ His instrument is the Lash; his wrath specifically targets speech. Served by the
 
 ### The Mother of Worms (Lust) - God of Decay
 
-A vampire. Lives off the blood of her consort-followers. Beautiful on the outside, but rotten within. Inspired by Akivasha; always nude, always deadly. Folk or regional traditions name her sin-domain "wanting" rather than lust or decay, suggesting doctrinal drift from formal theology. Invoked in everyday speech as a moral observer whose averted gaze is a mercy: *"I must hope that the Mother of Worms averted her eye."*
+A vampire. Lives off the blood of her consort-followers. Beautiful on the outside, but rotten within. Always nude, always deadly. Folk or regional traditions name her sin-domain "wanting" rather than lust or decay, suggesting doctrinal drift from formal theology. Invoked in everyday speech as a moral observer whose averted gaze is a mercy: *"I must hope that the Mother of Worms averted her eye."*
 
 Capable of active divine punishment: destroyed six members of a seven-mancer heptad for trespassing on the **Chrypt of the Fermented Princess**, her sacred site. Spared the seventh, then granted him eternal life while simultaneously cursing him to eternal groveling madness - producing The Crawling Silk (see `Creatures.md`). The paired boon-and-curse matches the setting's pseudo-immortality pattern.
-
-Uhrdgatan ("winter-beast") is a named devoted follower who believes the world ends with insects, and wants to be reborn as a dragonfly.
 
 ### Gallbladder (Gluttony) - God of Consumption
 
@@ -55,10 +53,6 @@ Individual gods have dedicated shrines along the Road, known as Pilgrim Tohmbs. 
 - **The Fourth Green** (Mother of Worms): beneath a gutted brothel; entry by riddle (answer: "Ginseng")
 - **The Leper Stone** (The Thin Man): a menhir bearing his plaster mask; surrounded by a leper colony
 - **The Wandering Barrow**: entry shifts between five sites each midnight; smell of old death is constant
-
-## Ritual: TODO
-
-TODO - rituals of worship associated with the necromancer-gods (or with individual gods).
 
 ## Folk Explanation: The Founding-War Verse
 

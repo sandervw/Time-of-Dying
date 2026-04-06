@@ -8,7 +8,7 @@ Only the Road of Graves remained.
 
 ### Pre-Road Era
 
-Five thousand years ago - two thousand years before the Time of Dying - demon kings ruled the world, burning and salting each other's kingdoms. Each ruler fielded literal demon armies in uncounted numbers as throngs of war. Their slave-race were half-demons. The Road did not yet exist; in its place lay ordinary mortared cobblestone. The cultural "no before" reflects amnesia, not objective history; the demon-king era predates the Road by two millennia.
+Five thousand years ago - two thousand years before the Time of Dying - demon kings ruled the world, burning and salting each other's kingdoms. Each ruler fielded literal demon armies in uncounted numbers as throngs of war. Their slave-race were humans and half-demons. The Road did not yet exist; in its place lay ordinary mortared cobblestone. The cultural "no before" reflects amnesia, not objective history; the demon-king era predates the Road by two millennia.
 
 ### The Assassination of Surveillance
 
@@ -18,10 +18,6 @@ Surveillance was the first Demon King to die - a master spymaster who elevated m
 
 - **Survivors:** The necromancers and their acolytes, servants, and slaves (the basis of modern man - the dwellers; see `Anthropogeny.md`)
 - **Aftermath:** The world as it exists now - the Road of Graves (see `Cosmology.md`)
-
-## Ritual: TODO
-
-TODO - a specific ritual or rituals associated with the cosmogony
 
 ## Folk Explanation: Despair as Origin
 

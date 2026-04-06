@@ -29,10 +29,6 @@ Industrialized soul-processing operations. Facilities capture, sort, and strip g
 
 Fake Road stones and counterfeit epitaphs arranged in rings around factory chimneys to lure uninterred souls. Exploits the pull of proper interment - wandering ghosts approach what appears to be a resting place and are trapped instead.
 
-## Ritual: TODO
-
-TODO - specific rituals associated with death, burial, and interment on the Road.
-
 ## Cosmological Axioms
 
 ### Real Death is Cold; Real Life is Warm

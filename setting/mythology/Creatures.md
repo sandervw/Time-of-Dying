@@ -10,7 +10,7 @@ The living races of the Road of Graves are few, and most are in decline or alrea
 
 ### Men (Dwellers)
 
-The basis of modern civilization. Dwellers are typically scrawny and pale, and almost all live along the Road of Graves. They descend from the necromancers' acolytes, servants, and slaves.
+The basis of modern civilization. Dwellers almost all live along the Road of Graves. They descend from the necromancers' acolytes, servants, and slaves.
 
 ### Holtsatr (Forest Elves)
 
@@ -45,10 +45,9 @@ TODO
 - Real creatures in the setting; turn to stone when forced to meet each other's gaze
 - Can be weaponized: the Leather Dragon of Hornwater used forced mutual-gaze to create stone gargoyles for his parapet
 
-### Dragons (Near-Extinct)
+### Dragons (Extinct)
 
 - True dragons once existed; now functionally extinct
-- The "last, degenerated dragon" implies terminal physical or spiritual decline of the final specimen
 - A drake soul survives weapon-bound in the Dragon Eye Longsword (see `Magic-Items.md`)
 
 ### The Alien Knight (Undead)
@@ -189,10 +188,6 @@ TODO
 - Kill condition: decapitation after tripping
 - Death leaves burned clothing, tissue fragments, and a slag lump
 - Distinct from raised undead - a collapse event, not a construction
-
-### Mermaid
-
-- Bloated siren; fish-eyed with a positional vulnerability (eyes cannot look downward)
 
 ### Penny Lizard
 
@@ -400,16 +395,6 @@ TODO
 - Triggered by demon-tainted sound; grows from the victim's pores as burning tendrils
 - Sensation described as molten lead pouring through the skin
 
-### Glowbugs (Natural Variant)
-
-- Found frozen alive in cave ice-walls, each bug suspended in its own bubble
-- Survive without necromantic intervention; distinct from the mancer-made Glowbug in Amber (see `Magic-Items.md`)
-
-### Spider-Hounds
-
-- Pack animals capable of detecting residual demonic evil by smell
-- Refuse to enter demon-cursed sites; distinct from necromantic corruption detection
-
 ### Other Creatures (Briefly Noted)
 
 - Chimirae
@@ -420,13 +405,3 @@ TODO
 - Crackling Spiders (found in Meathook Mountain canyons)
 - Old Twothroats
 - Zugg (an evil Wraith-Ogre)
-
----
-
-## Ritual: TODO
-
-TODO
-
-## Folk Explanation: The Restless Dead
-
-Some undead are raised deliberately by necromancers; others rise on their own. The prevalence of undead is highest in the Oldvaults, where forgotten experiments and relics of ancient times persist.

@@ -27,7 +27,6 @@ Necromantic tools, substances, reagents, and curios. Some are crafted deliberate
 - A bright red, long-frilled mushroom sacred to Gallbladder's Distended Hermits
 - Completes songs you begin singing, induces deep sleep, then grows parasitic crimson roots over the victim to feed
 - A smaller variant has a hidden mouth under its cap and sings specifically in the presence of uncontrolled dead, functioning as a detection organism
-- An earlier description references a small fungus with a tiny human mouth that hums Deadspeech fragments; this predatory variant may be the same organism at full size or a related species
 
 ### The Alabaster Masks
 
@@ -35,7 +34,7 @@ A set of twenty-three alabaster masks, each granting the wearer a false identity
 
 ### Necromancer's Shovel
 
-- Enchanted shovel that cracks wood and marble coffins beyond ordinary digging function
+- Shovel that cracks wood and marble coffins beyond ordinary digging function
 
 ### Reflective Ointment
 
@@ -177,11 +176,3 @@ A set of twenty-three alabaster masks, each granting the wearer a false identity
 
 - Paper or thin fabric that whispers in an unknown tongue; found lining walls of ancient demon-era rooms
 - Can be torn off and used as earplugs; effective against deafening supernatural sound attacks
-
-## Ritual: TODO
-
-TODO
-
-## Folk Explanation: TODO
-
-TODO

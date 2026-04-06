@@ -63,10 +63,6 @@ A mancer petitions nearby dead to locate a distant target, then projects their v
 
 Winter is necromancy's season. Ice carries an inherent affinity with necromancy - some undead are stronger in cold, and ice recurs as a motif in preservation and spellwork. First-age necromancers borrowed Winter's breath, installed it in undead hosts, and buried them in deep mountain tohmbs to create permanent self-sustaining cold. This technique is not lost; it remains active in locations like the Meathook Mountains, where glaciers are frozen undead exhaling borrowed Winter breath.
 
-## Folk Explanation: TODO
-
-TODO - why necromancy alone survived the Time of Dying while all other magics perished
-
 ## Shape Motifs (Creational)
 
 Shape Motifs define how an undead creature is created. Summoning words define the what, who, how, and when of undead creation.
@@ -119,24 +115,11 @@ TODO - further structural motifs are partially developed.
 
 TODO - Nature Motifs concern the behavior-of, control-of, and communication-with undead. This category is partially developed.
 
-## Grot Necromancy
-
-The Grot - an ancient race of toad-centipede-necromancers who are innately undead - practice a distinct form of necromancy. They worship crystals rather than the necromancer-gods. Their spells center on mutation and curses of flesh-to-metal.
-
 ## Necromantic Professions
 
 - **Mancer** - Necromancer.
 - **Resurrecter** - Men who dig up graves.
 - **Chryptsacker** - Professionals who loot old tohmbs and chrypts in search of treasure.
-
-## Notable Necromantic Creations
-
-Standard necromancy animates dead animals as well as humans. Dead cats, for instance, can be raised en masse by a working mancer.
-
-- **Homunculus** - Fetus grown in a stoppered flask, buried in cow entrails. When uncorked and nursed on mammal blood, turns into a servant of the creator. The greater the mammal, the more powerful the servant.
-- **Golems** - Wax, Glass, Leather, Stitched Tissue, or Wood. Cannot be created under the sky, sun, or stars; the constraint is celestial exposure, not surface location. Underground construction is viable.
-- **Birchmen** - Bodies of dead birch trees possessed by an evil spirit; feed on blood; can be sedated with subzero temperatures.
-- **Gallowspook** - May only be summoned under the light of a harridan's moon.
 
 ## Necromantic Substances
 

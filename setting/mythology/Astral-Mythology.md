@@ -6,7 +6,7 @@ The sky of the Time of Dying holds a cold, slate-colored sun. The harridan's moo
 
 ## The Slate Sun
 
-The sun provides light but no warmth. It is cold and slate-colored. Certain necromantic creations are restricted by its presence:
+The sun provides light but little warmth. It is cold and slate-colored. Certain necromantic creations are restricted by its presence:
 
 - **Golems** (wax, glass, leather) cannot be created under the sky, sun, or stars. The constraint is celestial exposure; underground construction is viable.
 
@@ -23,11 +23,11 @@ The moon has a humpbacked silhouette. It also casts silver light in non-witch co
 
 ## Comets and Heavenly Signs
 
-Comets and other heavenly signs serve as timing omens for major necromantic workings. The necromancers waited for "signs in the comets and the heavens" before animating the golem Lendendrung. Celestial observation governs the scheduling of large-scale rituals.
+Comets and other heavenly signs serve as timing omens for major necromantic workings. Necromancers wait for "signs in the comets and the heavens" before animating their golems. Celestial observation governs the scheduling of large-scale rituals.
 
 ## Stellar Events
 
-- **The Fifth Star** - When the fifth star blinks into place in the dusk sky, Ents become unsafe to stand on. First known stellar event that governs creature behavior rather than ritual or undead restriction.
+- **The Fifth Star** - When the fifth star blinks into place in the dusk sky, Ents become unsafe to stand on.
 
 ## Constellations
 
@@ -36,10 +36,6 @@ Comets and other heavenly signs serve as timing omens for major necromantic work
 ## Aurora
 
 A celestial phenomenon: swirls of white, blue, purple, and gold across the firmament, likened to a burning phoenix. Observed in the Meathook Mountains region.
-
-## Ritual: [NAME]
-
-TODO - a specific ritual or rituals associated with the astral bodies
 
 ## Folk Explanation: The Green Firebeetle
 

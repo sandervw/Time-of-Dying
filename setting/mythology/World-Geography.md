@@ -39,6 +39,7 @@ The Oldvaults are the ancient dungeons and laboratories of the necromancers. The
 ## The Buried Forest
 
 A named forest where oak root systems have pried apart Road of Graves epitaph stones, leaving cobbles broken and stones crooked. 
+
 ## Landmine Forest
 
 A dense forest where buried poison landmines emit poison that suppresses necromancy and forces undead into dormancy. The road disintegrates to loose stone at its edge.
