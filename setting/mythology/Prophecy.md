@@ -24,4 +24,4 @@ TODO - a specific ritual or rituals associated with this aspect of the mythology
 
 ## Folk Explanation: The Sickened Cradle
 
-The Thin Man's followers actively seek the location of his Sickened Cradle. The prophecy holds that opening it will end the world as it is known -- a final entropy laid upon the Road of Graves, bringing rest to both the living and the undead. For some, this is deliverance from a cursed existence; for others, it is total annihilation. The ambiguity fuels competing interpretations among the Thin Man's faithful.
+The Thin Man's followers actively seek the location of his Sickened Cradle. The prophecy holds that opening it will end the world as it is known - a final entropy laid upon the Road of Graves, bringing rest to both the living and the undead. For some, this is deliverance from a cursed existence; for others, it is total annihilation. The ambiguity fuels competing interpretations among the Thin Man's faithful.

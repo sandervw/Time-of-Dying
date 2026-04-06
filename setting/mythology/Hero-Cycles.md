@@ -2,14 +2,14 @@
 
 ## Overview
 
-Chivalric traditions and quest patterns that recur across the Road of Graves. Much of this is implied rather than codified -- fragments surfacing in individual stories.
+Chivalric traditions and quest patterns that recur across the Road of Graves. Much of this is implied rather than codified - fragments surfacing in individual stories.
 
 ## Oath-Bound Questing
 
 Protagonists may be oath-sworn to a master, questing to retrieve a specific artifact or fulfill a charge. Internal monologue frames pain-endurance as knightly virtue. Suggests a chivalric tradition with sworn service and stoic valor survives in the setting.
 
-- **"Strength and Promise"** -- A paired virtue-formula functioning as a knightly creed or chivalric oath structure
-- **Weapon Hierarchy** -- Certain weapons carry moral weight; the Horned Morning Star is marked as a weapon of men without heart, implying a code of honorable and dishonorable arms
+- **"Strength and Promise"** - A paired virtue-formula functioning as a knightly creed or chivalric oath structure
+- **Weapon Hierarchy** - Certain weapons carry moral weight; the Horned Morning Star is marked as a weapon of men without heart, implying a code of honorable and dishonorable arms
 
 ## The Silver Ring
 
@@ -17,7 +17,7 @@ An artifact described as "a tiny circle of pure moonlight." Sought by the protag
 
 ## Sword-on-Road-Stone (Knightly Epitaph)
 
-A dead knight's weapon is left propped against the oak root touching their gravestone on the Road. This is the warrior's specific form of proper interment and memorial -- distinct from civilian burial, which requires only the epitaph stone and earth beneath it.
+A dead knight's weapon is left propped against the oak root touching their gravestone on the Road. This is the warrior's specific form of proper interment and memorial - distinct from civilian burial, which requires only the epitaph stone and earth beneath it.
 
 ## Noble-Clan Dueling Ceremony
 

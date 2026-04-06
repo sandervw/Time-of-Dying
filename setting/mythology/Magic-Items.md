@@ -6,19 +6,19 @@ Necromantic tools, substances, reagents, and curios. Some are crafted deliberate
 
 ## Substances
 
-- **Violet Jelly** -- Unguent which melts tissue, but not bones. Composed from glazed fir needles, knuckle dust, and two slivers of moose antler, prepared in or near hot scented wax.
-- **Embalming Fluid** -- Transported via pipeline from refineries to outlying necromancer facilities.
-- **Banshee-wax** -- Purpose unspecified; a common field-kit component.
-- **Bone Dust** -- Carried in flour sacks; a common necromantic reagent.
-- **Fabricated Tissue** -- Artificially created biological material, white and marble-like. Can be worn as armor or used as a component. Suggests mancers can grow living-adjacent tissue.
-- **Sewer Worm Silk** -- Rope woven from Sewer Worm silk; stronger than iron. Can restrain a fully armored knight.
-- **Ill Omen's Heart** -- A named necromantic substance carried in labeled vials; associated with medical or necromantic practice. Name suggests ominous or predictive properties.
-- **Tohmbdust** -- Dust harvested from old tohmbs; carries active necromantic or alchemical properties. A tradeable commodity used as a reagent in sleep toxins and other preparations.
-- **Soul Scarabs** -- Wooden phylacteries storing individual souls. Require deep-earth lead environment to prevent soul disintegration; soul released by shattering the scarab. Exist in the Scarab Mines in quantities forming underground rivers. Souls can languish inside for thousands of seasons. Stocked by specialist sellers; stock changes every daybreak.
+- **Violet Jelly** - Unguent which melts tissue, but not bones. Composed from glazed fir needles, knuckle dust, and two slivers of moose antler, prepared in or near hot scented wax.
+- **Embalming Fluid** - Transported via pipeline from refineries to outlying necromancer facilities.
+- **Banshee-wax** - Purpose unspecified; a common field-kit component.
+- **Bone Dust** - Carried in flour sacks; a common necromantic reagent.
+- **Fabricated Tissue** - Artificially created biological material, white and marble-like. Can be worn as armor or used as a component. Suggests mancers can grow living-adjacent tissue.
+- **Sewer Worm Silk** - Rope woven from Sewer Worm silk; stronger than iron. Can restrain a fully armored knight.
+- **Ill Omen's Heart** - A named necromantic substance carried in labeled vials; associated with medical or necromantic practice. Name suggests ominous or predictive properties.
+- **Tohmbdust** - Dust harvested from old tohmbs; carries active necromantic or alchemical properties. A tradeable commodity used as a reagent in sleep toxins and other preparations.
+- **Soul Scarabs** - Wooden phylacteries storing individual souls. Require deep-earth lead environment to prevent soul disintegration; soul released by shattering the scarab. Exist in the Scarab Mines in quantities forming underground rivers. Souls can languish inside for thousands of seasons. Stocked by specialist sellers; stock changes every daybreak.
 
 ## Tools
 
-- **Firebug Lantern** -- A lantern containing living firebugs capable of stinging and killing organisms. Opening the lantern door releases them permanently. Standard mancer field equipment. Light repels giant slugs.
+- **Firebug Lantern** - A lantern containing living firebugs capable of stinging and killing organisms. Opening the lantern door releases them permanently. Standard mancer field equipment. Light repels giant slugs.
 
 ## Curios
 
@@ -74,7 +74,7 @@ A set of twenty-three alabaster masks, each granting the wearer a false identity
 
 - Metal plate lined inside with yellow vellum scrolls covered in a mancer's script
 - Most ghosts will not trouble the wearer
-- Establishes that written Deadspeech inscribed on worn objects can passively deter undead -- distinct from spoken spellwork
+- Establishes that written Deadspeech inscribed on worn objects can passively deter undead - distinct from spoken spellwork
 
 ### Ent-Eye
 

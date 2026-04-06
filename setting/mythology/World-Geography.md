@@ -2,7 +2,7 @@
 
 ## Overview
 
-The World of the Time of Dying consists of zones beyond or beneath the civilized Road of Graves: the End of the Road, the Oldvaults, the Cursed Forest, etc.
+The World of the Time of Dying consists of zones beyond or beneath the civilized Road of Graves: the End of the Road, the Oldvaults, etc.
 
 ## Alternate Names for the Road of Graves
 
@@ -10,7 +10,7 @@ The Road of Graves is also called **The Long Road** (conversational usage) and *
 
 ## The End of the Road
 
-The End of the Road is the place (or concept) from which the Old Man Below issues forth. Whether it is a literal terminus of the Road of Graves, a metaphysical boundary, or something else entirely is unknown. The Old Man Below -- most powerful of the necromancers in life -- is a roving spirit that issues forth from this place, whispering instructions in shadowed corners, conniving and scheming to return to power.
+The End of the Road is the place (or concept) from which the Old Man Below issues forth. Whether it is a literal terminus of the Road of Graves, a metaphysical boundary, or something else entirely is unknown. The Old Man Below - most powerful of the necromancers in life - is a roving spirit that issues forth from this place, whispering instructions in shadowed corners, conniving and scheming to return to power.
 
 ## The Oldvaults
 
@@ -33,22 +33,12 @@ The Oldvaults are the ancient dungeons and laboratories of the necromancers. The
 
 ### Other Notable Oldvault Locations
 
-- The Chrypt of Unconsecrated Ashes -- where sinners were burned, their ashes strewn
+- The Chrypt of Unconsecrated Ashes - where sinners were burned, their ashes strewn
 - The Abbottoir of the Carnivores
 
 ## The Buried Forest
 
-A named forest where oak root systems have pried apart Road of Graves epitaph stones, leaving cobbles broken and stones crooked. Distinct from the Cursed Forest.
-
-## The Cursed Forest
-
-The Cursed Forest is a hostile wilderness beside the Road of Graves. It is a wasteland of trees, poison pools, and roaming undead.
-
-- Trees sprout from the ground rotting and skeletal
-- Leaves do not come from the trees -- they arrive seemingly born on the wind of some faraway plane of forever-autumn, already fallen and colored with decay
-- Lakes are poison pools
-- The only birds are ravens, crows, whip-poor-wills, and vultures
-
+A named forest where oak root systems have pried apart Road of Graves epitaph stones, leaving cobbles broken and stones crooked. 
 ## Landmine Forest
 
 A dense forest where buried poison landmines emit poison that suppresses necromancy and forces undead into dormancy. The road disintegrates to loose stone at its edge.
@@ -73,15 +63,15 @@ A named forest on the Road of Graves, predating the Time of Dying. A demon king 
 - A thin forest of arch trees rising "beyond the dreams of the highest clouds" stands immediately east of the Soulwood's edge
 - Ents occupy the elevated stratum above the cloud line, accessible by climbing the great arch trees. The Ent-land has a defined boundary transitioning to ordinary forest; beyond that border, a tundra with distant white mountains (implied: the Meathook Mountains) stretches out, with the Road of Graves visible as a faint line of paving stones
 - Home to Periwinkle Forest Cats (Bouldsatr-possessed guardians), Scorpion Stoats, Ents, and soul-trapping trees
-- **Soul-trapping trees** -- Trees that trap souls and leak them as sap-wisps to lure travelers. Contact shrinks the victim until small enough for the tree to digest
-- **Blind Eyes** -- Eggshell-colored ponds, waist-deep, with a single hole large enough for a person. The hole leads to an ocean in another place. Faces may appear on the surface
+- **Soul-trapping trees** - Trees that trap souls and leak them as sap-wisps to lure travelers. Contact shrinks the victim until small enough for the tree to digest
+- **Blind Eyes** - Eggshell-colored ponds, waist-deep, with a single hole large enough for a person. The hole leads to an ocean in another place. Faces may appear on the surface
 
 ## Middlemoss
 
-The oldest town in living and dead memory -- even the conversantly-dead recall no older settlement. Known as "The Heart of an endless road." Middlemoss occupies two canyon walls cut through yellow-heather heath. The canyon floor was never settled beyond the reach of refracted sunlight.
+The oldest town in living and dead memory - even the conversantly-dead recall no older settlement. Known as "The Heart of an endless road." Middlemoss occupies two canyon walls cut through yellow-heather heath. The canyon floor was never settled beyond the reach of refracted sunlight.
 
 - The entire town is built from repurposed tohmbs: white marble facades on sandstone terraces, originally layered funerary architecture descending into the canyon. Upper tohmbs became living space over generations; the town grew downward within sunlight's reach
-- **The Athidal** -- A sulfurous gorge physically dividing Middlemoss, crossable on foot. The House of Maze sits on one side
+- **The Athidal** - A sulfurous gorge physically dividing Middlemoss, crossable on foot. The House of Maze sits on one side
 
 ## The Lake of Tomatoes
 
@@ -93,10 +83,10 @@ A mountain, through, around, and over which runs the Road of Graves
 
 ## The Meathook Mountains
 
-A mountain range beyond the gorge. Road-side settlers and giant rat trappers inhabit the approaches. Ten thousand undead legends surround the range. Glaciers here are frozen undead exhaling borrowed Winter breath -- a first-age necromantic technique still active. Quicksnow is a named environmental hazard. The Massy Fane, a lost temple built by the Old Man Below, lies somewhere within.
+A mountain range beyond the gorge. Road-side settlers and giant rat trappers inhabit the approaches. Ten thousand undead legends surround the range. Glaciers here are frozen undead exhaling borrowed Winter breath - a first-age necromantic technique still active. Quicksnow is a named environmental hazard. The Massy Fane, a lost temple built by the Old Man Below, lies somewhere within.
 
-- **Lost Glaciertop** -- A named sub-location within the range
-- **Glacier Canyon** -- A glacier-cut canyon containing Crackling Spiders; one of the approaches to the Tunnel of the Stillbreather
+- **Lost Glaciertop** - A named sub-location within the range
+- **Glacier Canyon** - A glacier-cut canyon containing Crackling Spiders; one of the approaches to the Tunnel of the Stillbreather
 
 Three routes lead south from the Meathooks to Hornwater: the Road of Graves through the Limbichorous Dunes, the Scarab Mines, or the Forest of Candles and Skulls and Roaches and Fungi and Ruptured Capillaries.
 
@@ -104,11 +94,11 @@ Three routes lead south from the Meathooks to Hornwater: the Road of Graves thro
 
 An underground passage through the Meathook Mountains, associated with the Lich known as the Stillbreather. Accessible via two entrances: a glacier route or a canyon route. An Engraved Nautilus Oddboon contains a map through this tunnel.
 
-Interior features: double doors of bronze and moonstone, ice walls with green ambient glow, frozen servants preserved in the walls, a petrified lake, and a frozen castle with a limestone undercroft housing sarcophagi. The Stillbreather's burial chamber is the source of the green light -- an active Lich resting in an open feretory.
+Interior features: double doors of bronze and moonstone, ice walls with green ambient glow, frozen servants preserved in the walls, a petrified lake, and a frozen castle with a limestone undercroft housing sarcophagi. The Stillbreather's burial chamber is the source of the green light - an active Lich resting in an open feretory.
 
 ## Hornwater
 
-A major city south of the Meathook Mountains, anchored on Hornwater Lake. Internal geography includes gondola transit, a canal market district, cherry-tree gardens, distinct burgs, and at least one glass-domed palace. Island fortresses dot the lake, including the Leather Dragon's keep. Governed by three ruling guilds -- the Burning Shells, Guild of Long Knives, and Builder's Guild -- each with a Guildlord, Guildlady, and island palace. The Road of Graves runs close enough to the lakeside to be visible from shore.
+A major city south of the Meathook Mountains, anchored on Hornwater Lake. Internal geography includes gondola transit, a canal market district, cherry-tree gardens, distinct burgs, and at least one glass-domed palace. Island fortresses dot the lake, including the Leather Dragon's keep. Governed by three ruling guilds - the Burning Shells, Guild of Long Knives, and Builder's Guild - each with a Guildlord, Guildlady, and island palace. The Road of Graves runs close enough to the lakeside to be visible from shore.
 
 ## Limbichorous Dunes
 
@@ -138,18 +128,18 @@ A named alternate Road of Graves route. Avoided by travelers; no further descrip
 
 A flat snowfield where a demon palace once stood on a lone hill. The palace is gone, but bones remain embedded in the hillside. A sulfurous hot spring and an intact undercroft survive beneath. Awaiting a canonical name.
 
-The plain retains a structural "habit of hallucinations" -- persistent, physically harmful manifestations generated by the demon-cursed land itself. Known hallucination types:
+The plain retains a structural "habit of hallucinations" - persistent, physically harmful manifestations generated by the demon-cursed land itself. Known hallucination types:
 
-- **Grandmother Snake** -- Paralytic poison
-- **Sittingsmoking** -- Harmless woodsman apparition
+- **Grandmother Snake** - Paralytic poison
+- **Sittingsmoking** - Harmless woodsman apparition
 - **Ruddy Living Bones**
-- **The Spider** -- Spins real webs
-- **Laminated Goblin Knight** -- Armed with a spear; destroyed by cracking ice
-- **Millingmist** -- Grates armor and skin on contact
-- **Voidingmist** -- Causes suffocation; cured by imagining open space
+- **The Spider** - Spins real webs
+- **Laminated Goblin Knight** - Armed with a spear; destroyed by cracking ice
+- **Millingmist** - Grates armor and skin on contact
+- **Voidingmist** - Causes suffocation; cured by imagining open space
 - **The Knife Mother**
-- **Unshadowed Wraith** -- Drains life; dependent on light
-- **Demonheads** -- Deafening scream; countered by whispering-cloth earplugs (see `Magic-Items.md`)
+- **Unshadowed Wraith** - Drains life; dependent on light
+- **Demonheads** - Deafening scream; countered by whispering-cloth earplugs (see `Magic-Items.md`)
 
 ## The Holt of Old Souls
 

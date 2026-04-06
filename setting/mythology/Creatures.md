@@ -2,7 +2,7 @@
 
 ## Overview
 
-The living races of the Road of Graves are few, and most are in decline or already extinct. Men are the dominant species, descended from the necromancers' acolytes, servants, and slaves. Three Satr lineages once shared the world alongside men, but only fragments remain. The Grot are an ancient race of innately undead toad-centipede-necromancers who stand apart from both men and elves. Beyond the living, the Road teems with undead and monstrous fauna -- creatures raised by necromancy, risen on their own, or born of the cursed landscape itself.
+The living races of the Road of Graves are few, and most are in decline or already extinct. Men are the dominant species, descended from the necromancers' acolytes, servants, and slaves. Three Satr lineages once shared the world alongside men, but only fragments remain. The Grot are an ancient race of innately undead toad-centipede-necromancers who stand apart from both men and elves. Beyond the living, the Road teems with undead and monstrous fauna - creatures raised by necromancy, risen on their own, or born of the cursed landscape itself.
 
 ---
 
@@ -188,7 +188,7 @@ TODO
 - Liquid fire from misshapen eyes; tripled strength; uses broken armor as missiles; ignores severed tendons and broken arms
 - Kill condition: decapitation after tripping
 - Death leaves burned clothing, tissue fragments, and a slag lump
-- Distinct from raised undead -- a collapse event, not a construction
+- Distinct from raised undead - a collapse event, not a construction
 
 ### Mermaid
 
@@ -238,7 +238,7 @@ TODO
 - Curses are spoken aloud; known effects include petrification, sleep, and skin rot. A completed curse is likely fatal; interrupting mid-cast is the required counter
 - Can suspend a living victim in stasis: eyes open, color restored, breathing, but wholly unresponsive
 - Can possess or inhabit a living victim's body (skin-taking)
-- Practice the Words of Rotten Syllables -- a "profane" and "antique" magic predating or existing outside necromantic tradition. Capable of curing ills beyond mancer spells. See `Magic-Systems.md` for implications
+- Practice the Words of Rotten Syllables - a "profane" and "antique" magic predating or existing outside necromantic tradition. Capable of curing ills beyond mancer spells. See `Magic-Systems.md` for implications
 
 ### Spider Wolves
 
@@ -271,9 +271,9 @@ TODO
 - A sentient pool in the Glowing Glade of the Old Soulwood; water is dry, brittle, grey, and refuses to reflect the moon
 - Speaks in a boneless, sinusless voice
 - Drives victims to become Will-o-Wisps by forcing combat in one of three chosen forms:
-  - **Form of the Eyeball** -- Slow twenty-foot armored millipede with a socketless eyeball that spews yellow fluid
-  - **Form of the Glass Wasp** -- Near-invisible wasp whose sting curses flesh to glass
-  - **Form of the Padfooted Woodsman** -- Fleet axeman in heavy pelt who cuts through nearly anything
+  - **Form of the Eyeball** - Slow twenty-foot armored millipede with a socketless eyeball that spews yellow fluid
+  - **Form of the Glass Wasp** - Near-invisible wasp whose sting curses flesh to glass
+  - **Form of the Padfooted Woodsman** - Fleet axeman in heavy pelt who cuts through nearly anything
 
 ### False Foe
 
@@ -346,10 +346,10 @@ TODO
 
 - A former human mancer punished by the Mother of Worms with eternal life fused to eternal madness
 - Quadrupedal; triple-stranded spine; hoofed elbows and knees; drags a white beard as a carpet
-- Distinct from golems and undead -- defined by voluntary cursed transformation, not necromantic construction
+- Distinct from golems and undead - defined by voluntary cursed transformation, not necromantic construction
 - Commands human slaves called **Hides**: flay victims, wear skins as clothing, sharpen harvested bones into weapons (spine-sewn flails, femur-spike war picks)
-- **Dream of the Winter Storm** -- Pulls a target into an isolated frozen dream-space via a nod of the scalp. Golems and Hides cannot follow. Movement is slowed; kills by freezing the mind within five minutes. White hair-serpents continuously entangle the victim's feet. Comparable to but distinct from the Wooly Vampire's Katabasis
-- **Hair Cocoon** -- When wounded, encases itself in hardened white hair at marble density. Cannot be cut; must be broken by golem-impact
+- **Dream of the Winter Storm** - Pulls a target into an isolated frozen dream-space via a nod of the scalp. Golems and Hides cannot follow. Movement is slowed; kills by freezing the mind within five minutes. White hair-serpents continuously entangle the victim's feet. Comparable to but distinct from the Wooly Vampire's Katabasis
+- **Hair Cocoon** - When wounded, encases itself in hardened white hair at marble density. Cannot be cut; must be broken by golem-impact
 - Identifiable from the Harmonies of Avda song cycle (see `Folklore.md`)
 
 ### Doppelganger Skeletons (Undead)
@@ -429,4 +429,4 @@ TODO
 
 ## Folk Explanation: The Restless Dead
 
-Some undead are raised deliberately by necromancers; others rise on their own. The prevalence of undead is highest in the Oldvaults, where forgotten experiments and relics of ancient times persist. The Cursed Forest is also thick with roaming undead.
+Some undead are raised deliberately by necromancers; others rise on their own. The prevalence of undead is highest in the Oldvaults, where forgotten experiments and relics of ancient times persist.

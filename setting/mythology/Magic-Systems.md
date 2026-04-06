@@ -4,24 +4,24 @@
 
 Necromancy is the only surviving magic among men in the Time of Dying. All other magics and gods fell during the extinction event 3000 years ago. Only necromancy can persist after death, and only necromancy holds the world together. Practitioners are called Mancers (short for Necromancer).
 
-Witch magic -- the Words of Rotten Syllables -- is a separate surviving tradition: "profane" and "antique," predating or existing outside necromancy. Witches are not human, and their magic is capable of effects beyond mancer spells (e.g., curing ills that necromancy cannot). See `Creatures.md` for witch taxonomy and abilities.
+Witch magic - the Words of Rotten Syllables - is a separate surviving tradition: "profane" and "antique," predating or existing outside necromancy. Witches are not human, and their magic is capable of effects beyond mancer spells (e.g., curing ills that necromancy cannot). See `Creatures.md` for witch taxonomy and abilities.
 
-Necromancy is structured through a system of reusable motifs -- patterns for designing spells and rituals. By using these motifs in incantation design, a mancer creates spells and rituals that may be used in a variety of contexts.
+Necromancy is structured through a system of reusable motifs - patterns for designing spells and rituals. By using these motifs in incantation design, a mancer creates spells and rituals that may be used in a variety of contexts.
 
-Spells are spoken aloud in Deadspeech -- gagging a mancer physically prevents casting. Deadspeech can be recorded in written form (scroll fragments, inscriptions) as a notation system. Written Deadspeech is not independently functional in the way spoken spells are, but inscribed on worn objects (e.g., Scroll-Armor) it can passively deter undead -- a ward rather than a spell. A single spell typically incorporates motifs from multiple categories (Shape, Desire, Nature), worked through sequentially. Interrupting a spell mid-cast does not fizzle it; a partially completed spell can become an uncontrolled, unbounded invitation in Deadspeech, drawing undead without targeting or behavioral constraints.
+Spells are spoken aloud in Deadspeech - gagging a mancer physically prevents casting. Deadspeech can be recorded in written form (scroll fragments, inscriptions) as a notation system. Written Deadspeech is not independently functional in the way spoken spells are, but inscribed on worn objects (e.g., Scroll-Armor) it can passively deter undead - a ward rather than a spell. A single spell typically incorporates motifs from multiple categories (Shape, Desire, Nature), worked through sequentially. Interrupting a spell mid-cast does not fizzle it; a partially completed spell can become an uncontrolled, unbounded invitation in Deadspeech, drawing undead without targeting or behavioral constraints.
 
 ## Ritual: Deadspeech
 
 Deadspeech is the magical language used in necromancy, drawn from Hungarian. Known phrases include:
 
-- "Feher uj sinonak." -- Dead fingernails caress.
-- "elerntees" -- Living touch.
-- "Ures Cezek Metelnek Zellel" -- Empty Cups Fill with Wind
-- "harag naj, gonosz naj; egos at haruva halj," -- Day of wrath, evil day; shall sky and road in ashes lay.
-- "ahoz hjetes az elernt mondj." -- as seven and the living say.
-- "Malyan borznak kell megszall met; amizor a kozalsa Biry talat; es rastald atgesz ember csontjat!" -- What horror must invade the mind; when the approaching silk shall find; and sift the bones of all mankind!
+- "Feher uj sinonak." - Dead fingernails caress.
+- "elerntees" - Living touch.
+- "Ures Cezek Metelnek Zellel" - Empty Cups Fill with Wind
+- "harag naj, gonosz naj; egos at haruva halj," - Day of wrath, evil day; shall sky and road in ashes lay.
+- "ahoz hjetes az elernt mondj." - as seven and the living say.
+- "Malyan borznak kell megszall met; amizor a kozalsa Biry talat; es rastald atgesz ember csontjat!" - What horror must invade the mind; when the approaching silk shall find; and sift the bones of all mankind!
 - Variant translation (from The Crawling Silk's hymn): *"Day of wrath, evil sky; shall all the Road in blackness lie / As Seven bid men's souls to die / What horror must o'ercome the heart; when Mancer Silk shall start / And bids the bones by blackened art."* Differences ("evil sky" vs. "evil day," "blackness" vs. "ashes") reflect doctrinal or regional transmission drift.
-- "Vigyazz" -- Caution. (From Hungarian "vigyazz.")
+- "Vigyazz" - Caution. (From Hungarian "vigyazz.")
 
 ## Named Spells
 
@@ -53,19 +53,19 @@ A mancer petitions nearby dead to locate a distant target, then projects their v
 
 ## Environmental Counters
 
-- **Anti-necromancy zones** -- Certain poisons (e.g., landmine poison) nullify necromancy within a region, forcing undead into dormancy and blocking all necromantic spellwork. The only known hard environmental constraint on necromancy beyond physical gagging.
-- **Autonomous skeleton behavior** -- Undead given standing behavioral orders (guard-states, patrol circuits) can operate indefinitely without active necromantic direction. The orders survive the issuing necromancer.
-- **Heart removal** -- Cutting out the heart of a slain person prevents "common necromancy" from resurrecting them. The qualifier "common" implies higher necromancy may overcome this.
+- **Anti-necromancy zones** - Certain poisons (e.g., landmine poison) nullify necromancy within a region, forcing undead into dormancy and blocking all necromantic spellwork. The only known hard environmental constraint on necromancy beyond physical gagging.
+- **Autonomous skeleton behavior** - Undead given standing behavioral orders (guard-states, patrol circuits) can operate indefinitely without active necromantic direction. The orders survive the issuing necromancer.
+- **Heart removal** - Cutting out the heart of a slain person prevents "common necromancy" from resurrecting them. The qualifier "common" implies higher necromancy may overcome this.
 
 ## Elemental Affinities
 
 ### Winter and Ice
 
-Winter is necromancy's season. Ice carries an inherent affinity with necromancy -- some undead are stronger in cold, and ice recurs as a motif in preservation and spellwork. First-age necromancers borrowed Winter's breath, installed it in undead hosts, and buried them in deep mountain tohmbs to create permanent self-sustaining cold. This technique is not lost; it remains active in locations like the Meathook Mountains, where glaciers are frozen undead exhaling borrowed Winter breath.
+Winter is necromancy's season. Ice carries an inherent affinity with necromancy - some undead are stronger in cold, and ice recurs as a motif in preservation and spellwork. First-age necromancers borrowed Winter's breath, installed it in undead hosts, and buried them in deep mountain tohmbs to create permanent self-sustaining cold. This technique is not lost; it remains active in locations like the Meathook Mountains, where glaciers are frozen undead exhaling borrowed Winter breath.
 
 ## Folk Explanation: TODO
 
-TODO -- why necromancy alone survived the Time of Dying while all other magics perished
+TODO - why necromancy alone survived the Time of Dying while all other magics perished
 
 ## Shape Motifs (Creational)
 
@@ -83,11 +83,11 @@ Creating a complicated undead creature directly within a spell is inflexible. It
 
 ### Assimilators
 
-Creates undead without specifying the exact type to create. Occasionally, it is desirable to summon an undead creature without specifying the specific type of that undead. Suppose a mancer wants to create a spell that conjures a servant with a specific capability: patrolling a city road, or telling the mancer what it knew in life. In this case, the mancer is not concerned with the specific type -- whether it is corporeal or incorporeal -- only that it can perform the desired function. Assimilator Motifs allow this by specifying a function or attribute of the necromancy the mancer wishes to perform, without knowing the details of creature types.
+Creates undead without specifying the exact type to create. Occasionally, it is desirable to summon an undead creature without specifying the specific type of that undead. Suppose a mancer wants to create a spell that conjures a servant with a specific capability: patrolling a city road, or telling the mancer what it knew in life. In this case, the mancer is not concerned with the specific type - whether it is corporeal or incorporeal - only that it can perform the desired function. Assimilator Motifs allow this by specifying a function or attribute of the necromancy the mancer wishes to perform, without knowing the details of creature types.
 
 ### Emulators
 
-TODO -- creates undead by cloning an existing undead.
+TODO - creates undead by cloning an existing undead.
 
 ### True Names
 
@@ -107,40 +107,40 @@ Treat groups of similar magical effects or undead as a single entity, allowing c
 
 ### Soul-to-Sense Tether
 
-The motif of desire bridges soul, sense, and body. This connection governs soul-sense-body integrity in both living and resurrected persons, not only undead capability. Repeated death and resurrection wears the motif thin until it breaks. The tether is subject to physical attrition -- a person resurrected too many times loses the bridge entirely.
+The motif of desire bridges soul, sense, and body. This connection governs soul-sense-body integrity in both living and resurrected persons, not only undead capability. Repeated death and resurrection wears the motif thin until it breaks. The tether is subject to physical attrition - a person resurrected too many times loses the bridge entirely.
 
-Tether degradation produces visible physical distortion: misconfigured facial features, expressionless half-face, soul "leakage" legible to outside observers. Resurrection normally leaves measurable necromantic residue in bone marrow -- a standard physiological side-effect detectable by a skilled mancer. Its absence in a resurrected person is remarkable. When the tether disintegrates entirely, the person enters a terminal crisis state -- the Shambler (see `Creatures.md`) -- rather than experiencing a clean break.
+Tether degradation produces visible physical distortion: misconfigured facial features, expressionless half-face, soul "leakage" legible to outside observers. Resurrection normally leaves measurable necromantic residue in bone marrow - a standard physiological side-effect detectable by a skilled mancer. Its absence in a resurrected person is remarkable. When the tether disintegrates entirely, the person enters a terminal crisis state - the Shambler (see `Creatures.md`) - rather than experiencing a clean break.
 
 ### Other Desire Motifs
 
-TODO -- further structural motifs are partially developed.
+TODO - further structural motifs are partially developed.
 
 ## Nature Motifs (Behavioral)
 
-TODO -- Nature Motifs concern the behavior-of, control-of, and communication-with undead. This category is partially developed.
+TODO - Nature Motifs concern the behavior-of, control-of, and communication-with undead. This category is partially developed.
 
 ## Grot Necromancy
 
-The Grot -- an ancient race of toad-centipede-necromancers who are innately undead -- practice a distinct form of necromancy. They worship crystals rather than the necromancer-gods. Their spells center on mutation and curses of flesh-to-metal.
+The Grot - an ancient race of toad-centipede-necromancers who are innately undead - practice a distinct form of necromancy. They worship crystals rather than the necromancer-gods. Their spells center on mutation and curses of flesh-to-metal.
 
 ## Necromantic Professions
 
-- **Mancer** -- Necromancer.
-- **Resurrecter** -- Men who dig up graves.
-- **Chryptsacker** -- Professionals who loot old tohmbs and chrypts in search of treasure.
+- **Mancer** - Necromancer.
+- **Resurrecter** - Men who dig up graves.
+- **Chryptsacker** - Professionals who loot old tohmbs and chrypts in search of treasure.
 
 ## Notable Necromantic Creations
 
 Standard necromancy animates dead animals as well as humans. Dead cats, for instance, can be raised en masse by a working mancer.
 
-- **Homunculus** -- Fetus grown in a stoppered flask, buried in cow entrails. When uncorked and nursed on mammal blood, turns into a servant of the creator. The greater the mammal, the more powerful the servant.
-- **Golems** -- Wax, Glass, Leather, Stitched Tissue, or Wood. Cannot be created under the sky, sun, or stars; the constraint is celestial exposure, not surface location. Underground construction is viable.
-- **Birchmen** -- Bodies of dead birch trees possessed by an evil spirit; feed on blood; can be sedated with subzero temperatures.
-- **Gallowspook** -- May only be summoned under the light of a harridan's moon.
+- **Homunculus** - Fetus grown in a stoppered flask, buried in cow entrails. When uncorked and nursed on mammal blood, turns into a servant of the creator. The greater the mammal, the more powerful the servant.
+- **Golems** - Wax, Glass, Leather, Stitched Tissue, or Wood. Cannot be created under the sky, sun, or stars; the constraint is celestial exposure, not surface location. Underground construction is viable.
+- **Birchmen** - Bodies of dead birch trees possessed by an evil spirit; feed on blood; can be sedated with subzero temperatures.
+- **Gallowspook** - May only be summoned under the light of a harridan's moon.
 
 ## Necromantic Substances
 
-- **Violet Jelly** -- Unguent which melts tissue, but not bones.
-- **Embalming Fluid** -- Transported via pipeline from refineries to outlying necromancer facilities.
+- **Violet Jelly** - Unguent which melts tissue, but not bones.
+- **Embalming Fluid** - Transported via pipeline from refineries to outlying necromancer facilities.
 
 For a full catalogue of necromantic items, substances, and tools, see `Mythology/Magic-Items.md`.

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The world is the Road of Graves -- an endless road paved with the gravestones of every person who has ever died. It runs in one main course without ends; over mountains and under rivers; across bridges of its own paving stones; through forests, caves, and castles; sometimes curving, rarely straight. The Road is ever-expanding. When any man dies, his gravestone is added to the cobbles of the Road.
+The world is the Road of Graves - an endless road paved with the gravestones of every person who has ever died. It runs in one main course without ends; over mountains and under rivers; across bridges of its own paving stones; through forests, caves, and castles; sometimes curving, rarely straight. The Road is ever-expanding. When any man dies, his gravestone is added to the cobbles of the Road.
 
 The sun is cold and slate-colored.
 
