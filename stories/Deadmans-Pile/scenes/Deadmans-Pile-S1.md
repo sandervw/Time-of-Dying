@@ -1,6 +1,6 @@
 # The Oldvaults Under Deadman's Pile
 
-*"I might swim more often in Leper's Branch Lake, if it weren't for the bonefish swimming under it's surface. Damned spikers killed my grandpa, when I threw him in with stones tied around his ankles as a joke."*
+*"I might swim more often in Leper's Branch Lake, if it weren't for the bonefish swimming under its surface. Damned spikers killed my grandpa, when I threw him in with stones tied around his ankles as a joke."*
 
 *"Hands off that cup!"*
 
@@ -18,19 +18,19 @@ Even so the man took pains to be inconspicuous. As he skulked, wringing his fing
 
 Thusly punctuated did the man's silent footsteps carry him from the inn, up the tangled cobblestone ways, to his home's door of barbed iron.
 
-As the man opened this barrier of bars with a squeal of metal, stepped through, and squealed it shut behind, he underwent a metamorphosis. Cold comfort though such a portal might have seemed to any ordinary living man, for the old it seemed a signal of hypnosis. A peace relaxed the muscles on his face. His mutters ceased. He went to and lit a candle on a nearby ledge. He stared at the reflection of himself in a mirror. Then reached for a basin of water to wash some grave dirt off his chin.
+As the man opened this barrier with a squeal of metal and squealed it shut behind him, something shifted in his face. Cold comfort though such a portal might have seemed to any ordinary living man, for the old man it worked like a word of hypnosis. A peace relaxed his muscles. His mutters ceased. He went and lit a candle on a nearby ledge, then stood before a mirror and stared at himself. His hands found the basin. He set his thumbs against the rim and leaned toward the water to wash some grave dirt off his chin.
 
 So relaxed had the man become that he did not see the deformation of shadow in the corner by the bedslab - not until this deformation had stolen up behind his shoulder in the reflection. The old man jerked instinctively. but he stopped short of turning. He held perfectly still, as he felt the cold promise of a deep cut, just under the spot of dirt on his chin. In the mirror the razor gleamed.
 
-"Don't move," spoke the hooded man who held the old one. The voice was deep but somehow nasally also. "Don't blink. Don't even breath except by way of reply. One breath shall stand for yes. Two breaths, for no. Do you understand?"
+"Don't move," spoke the hooded man who held the old one. The voice was deep but somehow nasally also. "Don't blink. Don't even breathe except by way of reply. One breath shall stand for yes. Two breaths, for no. Do you understand?"
 
 The man breathed once. The moment he completed his respiration the knife - which had relaxed - closed back to his throat. To inhale again now would amount to suicide.
 
-"I saw where you buried the map," the deep-voiced man went on. "Out of the crevice, up on the crags. Two rows of headstones rising from the parched heath, like the skin of a mummy, topped with tongue-colored heather fronds waving in the breath of the wind. But I didn't see this: which grave did you bury it in? Too dark at night. I don't want to waste my time digging them all. You resurrecter's will have pulled the wares from any stones under the sky already. Oh dearie me, you're turning purple. I'd better ask a yes-er or a no-er. Now don't lie! Did you bury the map in the westernmost grave in the northmost row of the headstones on the parched heath?"
+"I saw where you buried the map," the deep-voiced man went on. "Out of the crevice, up on the crags. Two rows of headstones rising from the parched heath, like the skin of a mummy, topped with tongue-colored heather fronds waving in the wind. But I didn't see this: which grave did you bury it in? Too dark at night. I don't want to waste my time digging them all. You resurrectors will have pulled the wares from any stones under the sky already. Oh dearie me, you're turning purple. I'd better ask a yes-er or a no-er. Now don't lie! Did you bury the map in the westernmost grave in the northmost row of the headstones on the parched heath?"
 
 The old man took two gasping breaths.
 
-So went the interrogation. The man with the knife asked after each headstone on the parched heath in its turn. Then the knife would come away from the old resurrecter's throat, giving him a chance to breath his reply. Each time his gasps came as a pair of twins - no. Then the knife would close once more, that razorous shining edge at his wrinkled neck.
+So went the interrogation. The man with the knife asked after each headstone on the parched heath in its turn. Then the knife would come away from the old resurrecter's throat, giving him a chance to breathe his reply. Each time his gasps came as a pair of twins - no. Then the knife would close once more, that razorous shining edge at his wrinkled neck.
 
 "And what about 'Onion Darling - 37 years, Little Comfort'," the hooded man went on. "Three stones from the west on the bottom row?"
 
@@ -38,7 +38,7 @@ The old man drew in one deep rasp, exhaled, then hesitated on the second.
 
 In a flash the knife closed with the throat. In the shadow's reflection on the mirror, teeth flashed in a grin. The shadow tisked. "You aught to be ashamed of yourself. Getting snuck by Killing Birds with Rocks. 'Birdsey' to my friends. My friend Othelmedir, he's the linguist. The master mancer. And Fogg - be glad I'm not Fogg. I'm just the little stewboy of the crew. Though I must give myself credit where credit is due: I do throw a mean stone. You've been had by lowly fodder, you old gravedigger."
 
-As he spoke the shadow unconsciously loosened the razor-edge of the knife from the bared throat. A man of action might have throw his shoulderblades against his soliloquizing antagonist. But the 'old gravedigger' was by nature a coward. And a fool. He said, "You're' mushroom food, Birdsey."
+As he spoke the shadow unconsciously loosened the razor-edge of the knife from the bared throat. A man of action might have thrown his shoulderblades against his soliloquizing antagonist. But the old gravedigger was by nature a coward. And a fool. He said, "You're mushroom food, Birdsey."
 
 "Hmm?" asked Birdsey.
 

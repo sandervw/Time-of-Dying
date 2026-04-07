@@ -1,4 +1,4 @@
-A man with the mien of a redwood tree comenced an act of kneeling a tiled corridor floor. So proudly stood this man's height over the masonry of the corridor, that it seemed an aeon passed in the span of time it took his left knee joint to bend, his right to touch the ground. The two iron-colored eyes set in black skin seemed celestial - like the only pair of stars in an otherwise dying sky. Those stars scanned the merely-terrestrial stone. In his hand the man cupped a glowing blue ball of thin strands, like a ball of yarn woven from the stuff beneath a fire's coals, and this shed the only light in the dusty passage. When the tall man's right knee finally reached terra-firma, he gently pushed the wisp of light forward along the tiles. Shadows danced on the walls from heaps of bones. Before it reached the end of the darkened passage, the momentum of the ball expired.
+A man with the mien of a redwood tree commenced an act of kneeling on a tiled corridor floor. So proudly stood this man's height over the masonry of the corridor that it seemed an aeon passed in the span of time it took his left knee joint to bend, his right to touch the ground. The two iron-colored eyes set in black skin seemed celestial, like the only pair of stars in an otherwise dying sky. Those stars scanned the merely-terrestrial stone. In his hand the man cupped a glowing blue ball of thin strands, like yarn woven from the stuff beneath a fire's coals, and this shed the only light in the dusty passage. When the tall man's right knee finally reached terra-firma, he gently pushed the wisp of light forward along the tiles. Shadows danced on the walls from heaps of bones. Before it reached the end of the darkened passage, the momentum of the ball expired.
 
 "I can't figure north from south on this map," said a voice from behind the tall man. Killing Birds with Rocks - Birdsey - stepped into view. Birdsey was a small and wiry man, especially beside the monolith currently occupying the corridor, and he hunched now with his sideburns bristling down over an unfurled scroll of leather. "It's unlike any catacombs I ever sacked. Good sir Othelmedir, do those bones have any pointers?"
 
@@ -6,7 +6,7 @@ Othelmedir rubbed a hand through the salt and pepper of his short, cropped curls
 
 "A waste of my air," spoke a third voice; a deep voice, and the body to which that voice surely belonged thundered into the light of the glowing trail. Fogg, third man, emerged like a mammoth. Fogg's skin was alabaster white, and sheathed muscles that looked as if they went beyond the scope of natural man. Fogg's clothes were woven with tusks and ribs from a variety of animals (human among them) with each rib or tusk filed to a serrated shape. Fogg's two-handed sword wagged by his hip. Fogg's enormous quadricep, following his eye as it noticed a skull among a nearby strewage of bone, stamped the skull to powder.
 
-"Not wasted yet," Birdsey countered. He turned so that the glowing trail limned the map more clearly to his eyes. "He, he. If the scratches on this leather usher us to a genuine trove - a little gravediggery is small fare."
+"Not wasted yet," Birdsey countered. He turned so that the glowing trail limned the map more clearly. "He, he. If the scratches on this leather usher us to a genuine trove, a little gravediggery is small fare."
 
 Othelmedir raised one sharp eyebrow a fraction of a millimeter. The primordial man said, "Waste. Just full-dead and marauded dust. No souls." He glared up at Othelmedir (though Fogg was tall, Othelmedir was yet taller) as if daring a rebuke.
 
@@ -30,7 +30,7 @@ The three men followed the line left by Othelmedir's orb. Othelmedir bent and pi
 
 "If."
 
-"Three seperate accounts corroborated the myth of the ship in the frozen tomb," said Othelmedir. "We had it from both Little Comfort and Lower Trestle; from the living and un-living. The story is real. Finding the old roads drawn in the leather map will be our difficulty. Finding the road, and circumventing whatever protects the Mailed Flayer's remains."
+"Three separate accounts corroborated the myth of the ship in the frozen tohmb," said Othelmedir. "We had it from both Little Comfort and Lower Trestle; from the living and the un-living. The story is real. Finding the old roads drawn in the leather map will be our difficulty. Finding the road, and circumventing whatever protects the Mailed Flayer's remains."
 
 "Mailed Flayer?" Birdsey's ensuing laugh shifted up an octave. "He, He. I never heard about what was interred in this tohmb."
 
@@ -44,7 +44,7 @@ The three men followed the line left by Othelmedir's orb. Othelmedir bent and pi
 
 "Bones can be crushed." To emphasize his point, Fogg's two-handed sword returned to its sheath, Fogg's one-handed morningstar emerged from its loop, and Fogg's sledgehammer arm crushed another skull in another hollow.
 
-Othelmedir marched to the exact middle of four pillars, where his glowing orb had stalled. Fogg's cold blue eyes, Birdsey's narrow ones, and the empty sockets of a score of skulls stared at the tall and thin mancer, underlit in the faint glow of sapphire. Othelmedir intoned; a phrase spoken over and over, deadspeech, language of the dead and the scholars. "Fehér uj sinonak. Fehér uj sinonak. Fehér uj sinonak."
+Othelmedir marched to the exact middle of four pillars, where his glowing orb had stalled. Fogg's cold blue eyes, Birdsey's narrow ones, and the empty sockets of a score of skulls all stared at the tall and thin mancer, underlit in the faint glow of sapphire. Othelmedir intoned, the same phrase spoken over and over, deadspeech, the language of the dead and the scholars. "Fehér uj sinonak. Fehér uj sinonak. Fehér uj sinonak."
 
 With Othelmedir's understanding and orb lighting their way, the three walked a short time later into a smaller round room. This room was an intersection of five paths. Four large byways opened into cardinal directions, the three men having entered from the east. The fifth way was down. A railless hole spanned most of the floor. As Othelmedir leaned over the lip - and he could lean far indeed - the mancer saw a narrow stairway. Little more than a foot in width, this stair descended beyond sight.
 
@@ -60,7 +60,7 @@ As the three dropped foot by foot to this lower epoch of the Oldvaults, they sen
 
 "So it would seem." The cant of Othelmedir's words broadened as the three stepped down the last round of the stairs, and plumbed an open space. The floor was flat, unmortared stone. The walls showed some working. Huge iron stakes covered in flaking rust were driven sporadically into the various rock faces, in clusters of eight.
 
-"Not likely we'll meet other looters," Birdsey mused. Othelmedir lifted his orb and picked a passage to follow. "These cavities might be a thousand years old; the looting of them, a hundred years."
+"Not likely we'll meet other looters," Birdsey mused as Othelmedir lifted his orb and picked a passage to follow. "These cavities might be a thousand years old; the looting of them, a hundred years."
 
 The last word of each of Birdsey's sentences reverberated ahead of them in the silence. "Looters... looters... looters... Years... years... years..."
 

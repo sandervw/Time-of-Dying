@@ -16,7 +16,9 @@ Hey claude, I need you to help me break down @stories\Deadmans-Pile\Deadmans-Pil
 1. Help me identify the natural breakpoints in the story that lend themselves to splitting it into 4-5 (roughly even) pieces
 2. split the story into its seperate files (IE. Deadman's-Pile-S1.md), and put them in the subfolder
 
-## Ruthless-pruner
+## (DONE) Ruthless-pruner
+
+*Mixed success: agent kept falling back to small cuts, or cuts that made it confusing; **may work better w. LLM prose***
 
 Need to create this agent: combination of text-trimmer and draft-editor
 - Reduce to 80% - cut clauses, sentences, and paragraphs, not words
