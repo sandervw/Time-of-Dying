@@ -16,15 +16,15 @@ Another rumble shook the floor. Then the blackness seemed to fall permanently st
 
 Birdsey stumbled over some loose rocks to where he heard Othelmedir's pained hissing. He groped blindly until he felt a sharpness that was elbow rather than stone. He helped the tall mancer drape a long arm around his shoulder, then led the way back to Fogg, guided by a clicking sound Fogg was making. Birdsey caught hold of the collar of Fogg's leather coat. With the savage leading, they descended.
 
-Fogg found the wall soon enough, and after the three had stumbled past the debris of the collapsed door, they found the terrain smooth for walking, even blind. Othelmedir's breath evened; he withdrew his arm from Birdsey and began to walk unsupported. They all felt the chill in the air. They shivered, and surely their breath misted, though they could not see it.
+Fogg found the wall soon enough, and after the three had stumbled past the debris of the collapsed door, the terrain smoothed for walking, even blind. Othelmedir's breath evened. He withdrew his arm from Birdsey and began to walk unsupported, and all three felt the chill settling into their clothes. They shivered, and surely their breath misted, though they could not see it.
 
 As they went blindly on, however, they found that they *could* see the misting breaths. Their eyes adjusted to the dark, but how? How in a sepulcher completely without light? They slowly understood that a thin vapor shed soft light in the tunnel, which continued to curve gradually but inexorably down. The vapor, which must have been heavier than air, thickened into an even brighter glow as they descended; not so bright as the sun, yet brighter than the yellow light of a full harridan's moon, and teal.
 
-The tunnel had given the three space to walk abreast. Now it widened to five meters form wall-to-wall, then six, then they saw ahead that it opened out broadly. Othelmedir raised his good arm with a flat palm. They proceeded slowly, noticing a strange glimmering texture of the floor where the tunnel terminated.
+The tunnel had given the three space to walk abreast. Now it widened to five meters from wall-to-wall, then six, then they saw ahead that it opened out broadly. Othelmedir raised his good arm with a flat palm. They proceeded slowly, noticing a strange glimmering texture of the floor where the tunnel terminated.
 
-They realized, as they stepped out and into the wide space, that this glimmer was the shine of the teal vapor off of a floor of ice. They had entered a huge, frozen reservoir, deep in the catacombs. And at the heart of this resevoir, there was a frozen ship.
+They realized, as they stepped out and into the wide space, that this glimmer was the shine of the teal vapor off of a floor of ice. They had entered a huge, frozen reservoir, deep in the catacombs. And at the heart of this reservoir, there was a frozen ship.
 
-A long vessel of three masts, tarred and tallowed to watertightness, lay locked in the center of the frozen pool. Blue-white powder rimed every board and line of the ship. The double-set of rowlock holes on the side that faced the three were frozen over with draping curtains of icicles. Two more enormous icicles, oddly symmetrical and perfect, dangled over the ship from the roof of the resevoir, nearly even at their tips with the crow's-nest of the center. The ship seemed to the three plunderers more like the abstract realization of a ship than a concrete one; a vessel in service to one of the seven dead gods, carting souls for the deity's malign ends; so silently did it lay, crusted and motionless in the teal fog. This was not full silence, but the silence of the frozen lake, crackling liek a dead thunderstorm. The air tasted antiseptic.
+A long vessel of three masts, tarred and tallowed to watertightness, lay locked in the center of the frozen pool. Blue-white powder rimed every board and line of the ship. The double-set of rowlock holes on the side that faced the three were frozen over with draping curtains of icicles. Two more enormous icicles, oddly symmetrical and perfect, dangled over the ship from the roof of the reservoir, nearly even at their tips with the crow's-nest of the center mast. The ship seemed to the three plunderers more like the abstract realization of a ship than a concrete one; a vessel in service to one of the seven dead gods, carting souls for the deity's malign ends, so silently did it lay, crusted and motionless in the teal fog. This was not full silence, but the silence of a frozen lake crackling like a dead thunderstorm. The air tasted antiseptic.
 
 "Guess this is it, he, he," said Birdsey. He glanced at Othelmedir. The mancer's iron eyes shone like steel as they stared across the frozen expanse.
 
@@ -42,11 +42,11 @@ Othelmedir whispered something. Then he said, "Their souls are gone, at least."
 
 As they progressed through the mist, Birdsey spotted something else. "Look." He pointed. "On the far wall I see another opening. He, he. Maybe we aren't trapped."
 
-As they reached it, the side of the vessel presented their first obstacle, for the frosted surface was smooth and outward-facing. He spotted some small holes, gaps in the frosted-over rowholes, and chiseling grooves in the wood and ice with a knife. The pale man started up, and soon slipped over the gunnels. The two heard a quick intake of breath.
+As they reached the vessel, its frosted hull presented their first obstacle, for the surface was smooth and outward-facing. Fogg spotted some small pits where the rowholes had not fully frozen over, and began chiseling grooves in the wood and ice with a knife. The pale man started up, and soon slipped over the gunnels. The two below heard a quick intake of breath.
 
 "What do you see?" asked Othelmedir.
 
-"Treasure?" asked Birdsey?
+"Treasure?" asked Birdsey.
 
 Fogg tossed down a knotted rope. Birdsey climbed easily, and together he and Fogg hauled in the injured mancer.
 
@@ -62,11 +62,11 @@ Othelmedir said, "The frost is some manner of curse or enchantment."
 
 Othelmedir had noticed the door to what would have been the captain's quarters. He walked across to it. He tried the knob, but it was frozen stiff, and the door would not open. He glanced at Fogg.
 
-The door exploded into fragments when Fogg's two-handed sword smote it's face.
+The door exploded into fragments when Fogg's two-handed sword smote its face.
 
 Within, in a high-backed chair at a long table of black wood, with acolytes arranged down either side, they beheld the Mailed Flayer.
 
-The servant of Sang. They flayer and his acolytes were completely frozen; their faces pale as ghosts and marked with thousands of small, cat-like scratches; their eyes closed as if in prayer. The acolytes wore black robes with red sashes. The Flayer wore a steel cuirass gilt in silver, and had laid on the table before him a three-headed scourge. He looked to have been about two-hundred years of age, before the magic of this reservoir had stopped his aging in-perpetuity. More gold, fine tableware of silver and bronze, jeweled weapons, other works of art - all was frozen to the surface of the table, or stacked upon the various shelves. Othelmedir's iron eyes locked on one shelf in particular, where he saw half-a-dozen furled scrolls of leather.
+The servant of Sang. The Flayer and his acolytes were completely frozen; their faces pale as ghosts and marked with thousands of small, cat-like scratches; their eyes closed as if in prayer. The acolytes wore black robes with red sashes. The Flayer wore a steel cuirass gilt in silver, and had laid on the table before him a three-headed scourge. He looked to have been about two-hundred years of age, before the magic of this reservoir had stopped his aging in-perpetuity. More gold, fine tableware of silver and bronze, jeweled weapons, other works of art - all was frozen to the surface of the table, or stacked upon the various shelves. Othelmedir's iron eyes locked on one shelf in particular, where he saw half-a-dozen furled scrolls of leather.
 
 At this scene of the profanely pious, Birdsey stiffened. Othelmedir recognized the suspicions working Birdsey's brain, and said, "They are true-dead. I would have heard the deadspeech of a servant of Sang the instant we entered the tohmb, were such a soul present."
 
@@ -80,13 +80,13 @@ The pommel of Fogg's two-handed sword let out a note that echoed over the ice an
 
 Othelmedir had remained in the cabin with the dead. He drifted toward the shelf of leather scrolls. The flimsy teal light from the frost-coated window cast his tall shadow over the scrolls; he unfurled and read each in silence. The *tink*, *tink*, *tink* of Fogg's two-handed sword sounded faintly from without. Some of the scrolls Othelmedir examined were only instructions for rites sacred to Sang, The Scratcher. Others were perhaps more useful, having grooved upon their surfaces the words of witches, The Words with Rotten Syllables.
 
-While his narrow eyes sifted the cracking leather, however, Othelmedir's thoughts hung upon the outer chamber. That the frost was not the result of crystalline machinery, he was certain. He had read somewhere of this kind of enchantment, and Othelmedir now cast his mind back into books that had no names for an answer. The cold in this cave was, he thought, perhaps brought about by the captured ghost of a terrible winter. A whole terrible year of weather's ghost - the idea struck him, for he recalled in a flash the name of The Blizzard that Flayed the Road; and he recalled that the winter of that blizard, recorded centuries and centuries past, had been a year of a terrible Spring blooming, a baking summer; and of course all autumns were dead on The Road of Graves. Still, Othelmedir believed that the captured ghost of that year now waxed in winter, here in the present, in this Mailed Flayer's tohmb.
+While his narrow eyes sifted the cracking leather, however, Othelmedir's thoughts hung upon the outer chamber. That the frost was not the result of crystalline machinery, he was certain. He had read somewhere of this kind of enchantment, and Othelmedir now cast his mind back into books that had no names for an answer. The cold in this cave was, he thought, perhaps brought about by the captured ghost of a terrible winter. A whole terrible year of weather's ghost - the idea struck him, for he recalled in a flash the name of The Blizzard that Flayed the Road; and he recalled that the winter of that blizzard, recorded centuries and centuries past, had been a year of a terrible Spring blooming, a baking summer; and of course all autumns were dead on The Road of Graves. Still, Othelmedir believed that the captured ghost of that year now waxed in winter, here in the present, in this Mailed Flayer's tohmb.
 
 While Othelmedir pondered, Fogg's TINK, TINK, TINK, continued to resound dully in the back of his mind. Birdsey had by now reached the wall of the reservoir, and was circling toward the second exit with his sweeping pattern.
 
 A trigger was needed, thought Othelmedir. An augur for the coming of spring; a thaw. What could signal a change in season, in such a place of depth and death? Othelmedir shivered in the cold - a grisly action in a man so lean and tall; too swift, like a hummingbird's flitting wings.
 
-The thought flashed before Othelmedir. Water. All was crusted and frozen in this chamber, but perhaps a sprinkle of liquid form might trigger the change he desired. Othelmedir considered how to bring this about for some minutes. He nearly laughed when he thought of it, but did not, for he never laughed without purpose. He made as if to spit, but stopped. If the environment of the reservoir were as terrible as this, in dead winter, what unpredictable scene would the onset of spring invoke? What storm would the malicious ghost of that ancient year enact?
+Water. The answer surfaced unbidden. All was crusted and frozen in this chamber, but perhaps a sprinkle of liquid form might trigger the change he desired. Othelmedir considered how to bring this about for some minutes. He nearly laughed when he thought of it, but did not, for he never laughed without purpose. He made as if to spit, but stopped. If the environment of the reservoir were as terrible as this, in dead winter, what unpredictable scene would the onset of spring invoke? What storm would the malicious ghost of that ancient year enact?
 
 The steady TINK, TINK, TINK sounded sharply and more clearly, at that instant, through Othelmedir's pondering. He turned, strode to the door. He saw Fogg still hammering at the ice with his pommel. The position was awkward, the work difficult, and the man was breathing heavily.
 
@@ -104,7 +104,7 @@ Saw Fogg.
 
 Struck.
 
-Miraculously as Fogg stood in place - swaying, smoking, eyes glossy - the direction of his leaning precisely counteracted the sudden rolling and swaying of the deck. He remained upright. Birdsey meanwhile had been near the second exit when the season shifted. He leaped for a rough-hewn stone pylon girting the tunnel mouth. Now he screamed, and clung desperately to the stone as the rain beat his head and shoulders, and the waved hammered his spine. A howling wind churned the air, flung every atom of the subterrain lake. From a scene of entropic torpor, the reservoir had become a place as violent as the heart of any ocean hurricane. The ship itself was a dancing feather in a smokestack.
+Miraculously as Fogg stood in place - swaying, smoking, eyes glossy - the direction of his leaning precisely counteracted the sudden rolling and swaying of the deck. He remained upright. Birdsey meanwhile had been near the second exit when the season shifted. He leaped for a rough-hewn stone pylon girting the tunnel mouth. Now he screamed, and clung desperately to the stone as the rain beat his head and shoulders, and the waves hammered his spine. A howling wind churned the air, flung every atom of the subterranean lake. From a scene of entropic torpor, the reservoir had become a place as violent as the heart of any ocean hurricane. The ship itself was a dancing feather in a smokestack.
 
 Othelmedir had tried to catch himself on the rail, but had grabbed unconsciously with his injured, dominant arm. Now one specially heavy swell smashed into the port side of the ship. The deck rolled. Othelmedir shouted in pain as his grip gave. The tall man fell like a tumbling sequoia toward the gunnel, toward the churning foam.
 
