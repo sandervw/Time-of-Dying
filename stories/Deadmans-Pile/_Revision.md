@@ -12,7 +12,9 @@ Focus on:
 
 ## Breakdown Into Scenes
 
-TODO
+Hey claude, I need you to help me break down @stories\Deadmans-Pile\Deadmans-Pile-Draft1.md . I want to split it into 4-5 distinct "scenes" or "sections" for automatic/llm-based editing purposes. The seperate sections should dropped into a subfolder in the current directory, called 'scenes'. Your job is to:
+1. Help me identify the natural breakpoints in the story that lend themselves to splitting it into 4-5 (roughly even) pieces
+2. split the story into its seperate files (IE. Deadman's-Pile-S1.md), and put them in the subfolder
 
 ## Prose-pruner
 
@@ -21,6 +23,12 @@ TODO
 ## Draft-editor
 
 (basic analysis+cleanup)
+
+Draft-editing enhancements:
+- Text transplant (take metaphors/similes, 1 character dialogue, etc; extract to seperate file; look at it in isolation)
+- Sensory scan (how much was each of the five senses used in the chapter?)
+- Middle-scene start (pick one scene/section from the middle of story, and start the book with that instead; non-chronological storytelling)
+- Take out beginnings/ends of every chapter, isolate them (text transplant) - how do they look in isolation
 
 ## (Optional) Voice Revision
 

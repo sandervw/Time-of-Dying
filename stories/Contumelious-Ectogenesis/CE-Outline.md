@@ -16,3 +16,9 @@ The Septic Bathhouse
 Experiments formerly kept alive in the baths of columbine water - util the Lerch escaped
 
 Othelmedir, Grot the Golem... and who else? (Head-heart, Grot (a machine), and a heart-stomach? Head-stomach?)
+
+Othelmedir is overpowered by another muscle-mancer, forced to go along on adventure because only he can control Grot - other mancer needs grot to overcome whatever is within the bathhouse
+
+**Cobberland:** - the place where the bathhouse lies
+
+**Structure:** Rite of Spring

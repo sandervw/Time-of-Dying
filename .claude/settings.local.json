@@ -15,7 +15,7 @@
       "Read(~\\.claude\\skills\\**)",
       "Bash(pip install:*)",
       "Skill(claude-developer-platform)",
-      "Bash(cd \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying\" && python3 -c \"\nfrom docx import Document\ndoc = Document\\('input/The CCK.docx'\\)\nfor i, p in enumerate\\(doc.paragraphs[:80]\\):\n    if p.style.name.startswith\\('Heading'\\):\n        print\\(f'{i}: [{p.style.name}] {p.text[:80]}'\\)\n\")"
+      "Bash(wc:*)"
     ],
     "deny": [],
     "ask": []
