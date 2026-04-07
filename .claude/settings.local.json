@@ -15,7 +15,8 @@
       "Read(~\\.claude\\skills\\**)",
       "Bash(pip install:*)",
       "Skill(claude-developer-platform)",
-      "Bash(wc:*)"
+      "Bash(wc:*)",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": []

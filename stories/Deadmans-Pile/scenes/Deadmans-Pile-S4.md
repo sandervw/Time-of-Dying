@@ -1,8 +1,8 @@
-The groaning of the stonework faded in starts and stops, like the death-throes of a bull-ox when an axe is driven through it's neck. Amidst the darkness and dust, men's voices sputtered.
+The groaning of the stonework faded in starts and stops. Amidst the darkness and dust, men's voices sputtered.
 
 Finally Birdsey's voice softly coughed: "Who's living still?"
 
-The reply came as another groan. This was the deep, scratched voice of Othelmedir, somewhere to Birdsey's left. Then Fogg barked just beside Birdsey, "I'm alive."
+Fogg barked just beside Birdsey, "I'm alive."
 
 "Othelmedir? You hurt?"
 
@@ -14,7 +14,7 @@ Othelmedir said hoarsely, "My shoulder is smashed."
 
 Another rumble shook the floor. Then the blackness seemed to fall permanently still. Fogg said, "The air feels cool and open ahead. Birdsey, help the mancer. Then grab a hold on my shirt."
 
-Birdsey stumbled over some loose rocks to where he heard Othelmedir's pained hissing. He groped blindly until he felt a sharpness that was elbow rather than stone. He helped the tall mancer drape a long arm around his shoulder, then led the way back to Fogg, guided by a clicking sound the latter was making in imitation of a bat. Birdsey caught hold of the collar of Fogg's leather coat. With the savage leading, they descended.
+Birdsey stumbled over some loose rocks to where he heard Othelmedir's pained hissing. He groped blindly until he felt a sharpness that was elbow rather than stone. He helped the tall mancer drape a long arm around his shoulder, then led the way back to Fogg, guided by a clicking sound Fogg was making. Birdsey caught hold of the collar of Fogg's leather coat. With the savage leading, they descended.
 
 Fogg found the wall soon enough, and after the three had stumbled past the debris of the collapsed door, they found the terrain smooth for walking, even blind. Othelmedir's breath evened; he withdrew his arm from Birdsey and began to walk unsupported. They all felt the chill in the air. They shivered, and surely their breath misted, though they could not see it.
 
@@ -34,7 +34,7 @@ Othelmedir said, "Let us cross."
 
 Birdsey happened to glance down as they stepped carefully over the frozen pool. He squinted, bent and wiped a hand through the light spackle of frost that covered the surface, then jumped back. "There's dead below."
 
-Fogg and Othelmedir turned and saw where he was looking. Othelmedir used his good arm to unclasp his cape and sweep it about. He uncovered, a foot below the surface, locked in near-perfectly transparent crystal, half-a-dozen frozen men. They were wholly composed, with not a flake of rot scarring their upturned, pale faces; faces frozen in the last moments of terror and death; lifeless eyes wide, and seeming to follow the three.
+Othelmedir used his good arm to unclasp his cape and sweep it about. He uncovered, a foot below the surface, locked in near-perfectly transparent crystal, half-a-dozen frozen men. They were wholly composed, with not a flake of rot scarring their upturned, pale faces; faces frozen in the last moments of terror and death; lifeless eyes wide, and seeming to follow the three.
 
 Othelmedir whispered something. Then he said, "Their souls are gone, at least."
 
@@ -42,17 +42,17 @@ Othelmedir whispered something. Then he said, "Their souls are gone, at least."
 
 As they progressed through the mist, Birdsey spotted something else. "Look." He pointed. "On the far wall I see another opening. He, he. Maybe we aren't trapped."
 
-As they reached it, the side of the vessel presented their first obstacle, for the frosted surface was smooth and outward-facing. Fogg overcame this. He spotted some small holes, gaps in the frosted-over rowholes, and chiseling grooves in the wood and ice with a knife. The pale man started up, and soon slipped over the gunnels. The two heard a quick intake of breath.
+As they reached it, the side of the vessel presented their first obstacle, for the frosted surface was smooth and outward-facing. He spotted some small holes, gaps in the frosted-over rowholes, and chiseling grooves in the wood and ice with a knife. The pale man started up, and soon slipped over the gunnels. The two heard a quick intake of breath.
 
 "What do you see?" asked Othelmedir.
 
 "Treasure?" asked Birdsey?
 
-In response Fogg tossed down a knotted rope. Birdsey climbed easily, and together he and Fogg hauled in the injured mancer.
+Fogg tossed down a knotted rope. Birdsey climbed easily, and together he and Fogg hauled in the injured mancer.
 
 The three stopped and stared. The deck was barren - covered in the same rime of frost - except for a few pieces of coiled rigging, and except for three thickly-frozen rings around the three masts. The rings were each under a thick but translucent layer of pure ice. And under this ice, hexagonal, golden coins sparkled. Birdsey's eyes especially seemed to reflect the gold.
 
-Othelmedir, though the sparkle had drawn his initial attention, quickly paid closer mind to the masts. They were not sawn and carved pieces of timber, but birch trees; whole birch trees, with bark, and with thin sere sails hanging from their branches. Fogg noticed the masts too. He noticed also that, on the deckboards surrounding the masts and their three rings of treasure, scratches gouged the wood. The scratched were deep enough that the ice patina did not conceal them.
+Othelmedir, though the sparkle had drawn his initial attention, quickly paid closer mind to the masts. They were not sawn and carved pieces of timber, but birch trees; whole birch trees, with bark, and with thin sere sails hanging from their branches. On the deckboards surrounding the masts and their three rings of treasure, scratches gouged the wood. The scratches were deep enough that the ice patina did not conceal them.
 
 "Sang's bloody loins." said Birdsey with a whistle. "That's a fine-ish pile. Who'd have thought a trove like this'd lie untouched, only some rotten worm to guard it? I wonder if there more below? We might find a barrel to pile these golden hexes in, and roll everything out of this pit. Blast me, but this air's colder than a hag's tit."
 
@@ -76,7 +76,7 @@ Birdsey relaxed. "Is there necromancy to crack ice?" he asked.
 
 "Come on, Fogg." Birdsey spun back out of the door and walked to the rail where they had left the knotted rope. "I'm going onto the lake. I'll look for this freezing-machine; it's got to be in the water. You try to crack one of those ice-rings around the masts."
 
-The pommel of Fogg's two-handed sword let out a note that echoed over the ice and resounded within the chamber, as he banged the weapon against one of the crusted rings. Birdsey scampered deftly down the ship. He then began wide arcs upon the ice, sweeping the surface frost, shuddering whenever he met the upturned eyes of a body, yet squinting back all the same as he for the means by which the chamber was encrusted.
+The pommel of Fogg's two-handed sword let out a note that echoed over the ice and resounded within the chamber, as he banged the weapon against one of the crusted rings. Birdsey scampered deftly down the ship. He then began wide arcs upon the ice, sweeping the surface frost, shuddering whenever he met the upturned eyes of a body.
 
 Othelmedir had remained in the cabin with the dead. He drifted toward the shelf of leather scrolls. The flimsy teal light from the frost-coated window cast his tall shadow over the scrolls; he unfurled and read each in silence. The *tink*, *tink*, *tink* of Fogg's two-handed sword sounded faintly from without. Some of the scrolls Othelmedir examined were only instructions for rites sacred to Sang, The Scratcher. Others were perhaps more useful, having grooved upon their surfaces the words of witches, The Words with Rotten Syllables.
 
@@ -108,13 +108,12 @@ Miraculously as Fogg stood in place - swaying, smoking, eyes glossy - the direct
 
 Othelmedir had tried to catch himself on the rail, but had grabbed unconsciously with his injured, dominant arm. Now one specially heavy swell smashed into the port side of the ship. The deck rolled. Othelmedir shouted in pain as his grip gave. The tall man fell like a tumbling sequoia toward the gunnel, toward the churning foam.
 
-Fogg had regain his senses. He saw Othelmedir's fall. He leapt across the swaying deck. The huge man caught Othelmedir in one arm, just as the latter pitched over the railing. With his one arm like a locking bar around Othelmedir's waist, Fogg just managed to encase the wooden lip of the rail in his knuckles. The ship bucked, they slammed against the side. Othelmedir nearly passed out from the impact, but shook the blackening tunnel vision away, and clung to Fogg's drenched collar.
+Fogg had regained his senses. He leapt across the swaying deck and caught Othelmedir in one arm, just as the latter pitched over the railing. Fogg just managed to encase the wooden lip of the rail in his knuckles. The ship bucked, they slammed against the side. Othelmedir nearly passed out from the impact, but shook the blackening tunnel vision away, and clung to Fogg's drenched collar.
 
-There they held, while the rain and waves thrashed. The piled gold had scattered in the impact. Yellow sparks flashed over the sides of the ship, twinkling in the air, or sinking in the water like fallen stars. Othelmedir's own grip slipped. His shoulder throbbed. Another waved slammed the pair against the boars. Fogg gritted his teeth and tightened his grasp around the rail and the mancer, nearly cracking both.
+There they held, while the rain and waves thrashed. The piled gold had scattered in the impact. Yellow sparks flashed over the sides of the ship, twinkling in the air, or sinking in the water like fallen stars. Othelmedir's own grip slipped. His shoulder throbbed. Fogg gritted his teeth and tightened his grasp around the rail and the mancer, nearly cracking both.
 
-Then, without a sound, the savage warrior heaved with all the sinews of his demon lats and biceps. He pulled first until his chest was level with, then over the trail, then flung Othelmedir one-armed back onto the deck. The judder of the impact sent flashes of fresh pain through the mancer's shoulder. Fogg dragged his own body over the rail right after, then he slid down low grabbed Othelmedir's collar, and pulled the mancer against the angle of the rail and the deck. He hooked an elbow through a baluster, then a foot.
+Then, without a sound, the savage warrior heaved with all the sinews of his demon lats and biceps. He pulled first until his chest was level with, then over the rail, then flung Othelmedir one-armed back onto the deck. The judder of the impact sent flashes of fresh pain through the mancer's shoulder. Fogg hooked an elbow through a baluster, then a foot.
 
-Across the water, by the exit, Birdsey had meanwhile gained a firmer spot on the rock. 
+Across the water, by the exit, Birdsey had meanwhile gained a firmer spot on the rock.
 
 All three receded as much as they could into themselves, bunching their necks and tucking their limbs to be as small as possible, while the monsoon thrashed in the too-small enclosure of the Mailed Flayer's tohmb.
-

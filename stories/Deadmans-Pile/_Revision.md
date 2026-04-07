@@ -10,15 +10,16 @@ Focus on:
 - Character Personality
 - Movement/Action
 
-## Breakdown Into Scenes
+## (DONE) Breakdown Into Scenes
 
 Hey claude, I need you to help me break down @stories\Deadmans-Pile\Deadmans-Pile-Draft1.md . I want to split it into 4-5 distinct "scenes" or "sections" for automatic/llm-based editing purposes. The seperate sections should dropped into a subfolder in the current directory, called 'scenes'. Your job is to:
 1. Help me identify the natural breakpoints in the story that lend themselves to splitting it into 4-5 (roughly even) pieces
 2. split the story into its seperate files (IE. Deadman's-Pile-S1.md), and put them in the subfolder
 
-## Prose-pruner
+## Ruthless-pruner
 
-(reduce to 80% - cut clauses, sentences, andparagraphs, not words)
+Need to create this agent: combination of text-trimmer and draft-editor
+- Reduce to 80% - cut clauses, sentences, and paragraphs, not words
 
 ## Draft-editor
 
