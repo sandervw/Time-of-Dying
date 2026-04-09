@@ -10,7 +10,7 @@
 
 In the town of Little Comfort's, within its most frequented chrypt, the voices of the regular patrons repeated themselves in the ears of a hunched old man as he plied a path along the row of columns least-limned in the light of the long fire. "Bonefish... fish... fish..." echoed one. "From the grave... the grave... grave..." trailed another.
 
-The man had heard the voices and their echoes often enough. He passed through the same vault - Little Comfort's *Last Rest* - every day of his adult life. His own tohmb, scarcely more than a carved hollow in the chief crag of the town, could only be reached by passing through The Last Rest. The only way for any wayfarer to enter Little Comfort proper; Little Comfort, with its repurposed Tohmbs, it's headstone tents, all set under the shadows of high cliffs, with terse brown grass and dead shrub yards; the only passage into this harbor of the living was through that convivial house of marble.
+The man had heard the voices and their echoes often enough. He passed through the same vault - Little Comfort's *Last Rest* - every day of his adult life. His own tohmb, scarcely more than a carved hollow in the chief crag of the town, could only be reached by passing through The Last Rest. The only way for any wayfarer to enter Little Comfort proper; Little Comfort, with its repurposed Tohmbs, its headstone tents, all set under the shadows of high cliffs, with terse brown grass and dead shrub yards; the only passage into this harbor of the living was through that convivial house of marble.
 
 Even so the man took pains to be inconspicuous. As he skulked, wringing his fingers to a dryness so sparky that it endangered his sere clothes, he mumbled clipped fragments of sentences:
 
@@ -20,7 +20,7 @@ Thusly punctuated did the man's silent footsteps carry him from the inn, up the 
 
 As the man opened this barrier with a squeal of metal and squealed it shut behind him, something shifted in his face. Cold comfort though such a portal might have seemed to any ordinary living man, for the old man it functioned like a word of hypnosis. A peace slackened his muscles. His mutters ceased. He went and lit a taper on a nearby ledge, then stood before a mirror and stared at himself. His hands found the basin. He set his thumbs against the rim and leaned toward the water to wash some grave dirt off his chin.
 
-So relaxed had the man become that he did not see the deformation of shadow in the corner by the bedslab - not until this deformation had stolen up behind his shoulder in the reflection. The old man jerked instinctively. but he stopped short of turning. He held perfectly still, as he felt the cold promise of a deep cut, just under the spot of dirt on his chin. In the mirror the razor gleamed.
+So relaxed had the man become that he did not see the deformation of shadow in the corner by the bedslab - not until this deformation had stolen up behind his shoulder in the reflection. The old man jerked instinctively. But he stopped short of turning. He held perfectly still, as he felt the cold promise of a deep cut, just under the spot of dirt on his chin. In the mirror the razor gleamed.
 
 "Don't move," spoke the hooded man who held the old one. The voice was deep but somehow nasally also. "Don't blink. Don't even breathe except by way of reply. One breath shall stand for yes. Two breaths, for no. Do you understand?"
 
@@ -36,7 +36,7 @@ So went the interrogation. The man with the knife asked after each headstone on 
 
 The old man drew in one deep rasp, exhaled, then hesitated on the second.
 
-In a flash the knife closed with the throat. In the shadow's reflection on the mirror, teeth flashed in a grin. The shadow tisked. "You aught to be ashamed of yourself. Getting snuck by Killing Birds with Rocks. 'Birdsey' to my friends. My friend Othelmedir, he's the linguist. The master mancer. And Fogg - be glad I'm not Fogg. I'm just the little stewboy of the crew. Though I must give myself credit where credit is due: I do throw a mean stone. You've been had by lowly fodder, you old gravedigger."
+In a flash the knife closed with the throat. In the shadow's reflection on the mirror, teeth flashed in a grin. The shadow tisked. "You ought to be ashamed of yourself. Getting snuck by Killing Birds with Rocks. 'Birdsey' to my friends. My friend Othelmedir, he's the linguist. The master mancer. And Fogg - be glad I'm not Fogg. I'm just the little stewboy of the crew. Though I must give myself credit where credit is due: I do throw a mean stone. You've been had by lowly fodder, you old gravedigger."
 
 As he spoke the shadow unconsciously loosened the razor-edge of the knife from the bared throat. A man of action might have thrown his shoulderblades against his soliloquizing antagonist. But the old gravedigger was by nature a poltroon. And a fool. He said, "You're mushroom food, Birdsey."
 

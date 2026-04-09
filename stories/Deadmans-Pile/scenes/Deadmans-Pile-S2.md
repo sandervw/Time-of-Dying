@@ -24,7 +24,7 @@ The three men followed the line left by Othelmedir's orb. Othelmedir bent and re
 
 "Slurs? Insults?"
 
-"Ghosts this deep are cracked, brittle as driftwood." Othelmedir shrugged. "I cannot comprehend the speech, but I would recognize a threat."
+"Ghosts this deep are cracked, brittle as driftwood." Othelmedir shrugged. "The speech defies comprehension, but a threat carries its own signature."
 
 "Nothing shiny," Fogg grumbled as he tossed a skull from an alcove and squinted in the vacant space. "Not one sparkling disc. It's all been combed."
 
@@ -32,11 +32,11 @@ The three men followed the line left by Othelmedir's orb. Othelmedir bent and re
 
 "If."
 
-"Three separate accounts corroborated the myth of the ship in the frozen tohmb," said Othelmedir. "We had it from both Little Comfort and Lower Trestle; from the living and the un-living. The story is real. Locating the old roads drawn in the leather map will be our difficulty. Locating the road, and circumventing whatever protects the Mailed Flayer's remains."
+"Three separate accounts corroborated the myth of the ship in the frozen tohmb," said Othelmedir. "The testimony came from both Little Comfort and Lower Trestle; from the living and the un-living. The story holds. Locating the old roads drawn in the leather map presents our difficulty. Locating the road, and circumventing whatever protects the Mailed Flayer's remains."
 
 "Mailed Flayer?" Birdsey's ensuing laugh shifted up an octave. "heh, heh. I never heard about what was interred in this tohmb."
 
-"Perhaps it is not a flayer. That was the rumor from the ghost. A Mail Flayer named Angstlich; holy and unholy servant of Sang, The Scratcher."
+"Perhaps the title misleads. That was the rumor from the ghost. A Mail Flayer named Angstlich; holy and unholy servant of Sang, The Scratcher."
 
 "heh, heh."
 
@@ -54,13 +54,13 @@ Othelmedir extended his arm and released his orb. It plummeted, leaving a midair
 
 As the three dropped foot by foot to this lower epoch of the Oldvaults, they sensed a change in atmosphere. The dwellers on Deadman's Pile had long ago inundated themselves to the various odors of the various states of decay, from fresh blood, to the first bloated stages of rot, to desiccation. This new odor was not unfamiliar, but nor was it common. It was a smell like the memory of some primordial species of mildew, mildew that had been the apex of a fungal world in an older Time. The stairs and the walls of the hole transitioned from the cold grey of bland stone, to a fuzzy whitish texture of dead moss; then to coal-black, covered in soot and deeply shelved.
 
-"Othelmedir," said Birdsey, his echo slowly moving away below and above him. "your magic ball has been only a fleck in the black for long moments. I think it swells again at last."
+"Othelmedir," said Birdsey, his echo slowly moving away below and above him. "Your magic ball has been only a fleck in the black for long moments. I think it swells again at last."
 
-"We have descended many centuries," said Othelmedir.
+"The descent spans many centuries," said Othelmedir.
 
 "All the way to the Foundation?"
 
-"So it would seem." The cant of Othelmedir's words broadened as the three stepped down the last round of the stairs, and plumbed an open space. The floor was flat, unmortared stone. The walls showed some working. Huge iron stakes covered in flaking rust were driven sporadically into the various rock faces, in clusters of eight.
+"So the stone suggests." The cant of Othelmedir's words broadened as the three stepped down the last round of the stairs, and plumbed an open space. The floor was flat, unmortared stone. The walls showed some working. Huge iron stakes covered in flaking rust were driven sporadically into the various rock faces, in clusters of eight.
 
 "Not likely we'll meet other looters," Birdsey mused as Othelmedir lifted his orb and picked a passage to follow. "These cavities might be a thousand years old; the looting of them, a hundred years."
 
@@ -82,7 +82,7 @@ Birdsey cast the pale giant a puzzled glance. "Why?"
 
 "Tohmb... tohmb... tohmb..."
 
-Othelmedir had been walking with eyes closed, murmuring his other language. Now the iron eyes opened, looked back at his comrades, and saw the nerves on Birdsey's face. "You watch for the mechanical traps," he warned. "I will ensure we cross no rune or curse."
+Othelmedir had been walking with eyes closed, murmuring his other language. Now the iron eyes opened, looked back at his comrades, and saw the nerves on Birdsey's face. "Watch for the mechanical traps," he warned. "My attention goes to runes and curses."
 
 "Traps... traps... traps... Curse... curse... curse..."
 

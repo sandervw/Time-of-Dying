@@ -8,11 +8,11 @@ Fogg barked just beside Birdsey, "I'm alive."
 
 "Othelmedir? You hurt?"
 
-Othelmedir said hoarsely, "My shoulder is smashed."
+Othelmedir said hoarsely, "This shoulder has been smashed."
 
 "Conjure a globe so-" Fogg began. A fit of coughing dust interrupted him, before he resumed, "So we can take stock."
 
-"I can't- cannot focus. The pain, agh."
+"No focus. The pain, agh."
 
 Another rumble shook the floor. Then the blackness seemed to fall permanently still. Fogg said, "The air feels cool and open ahead. Birdsey, help the mancer. Then grab a hold on my shirt."
 
@@ -32,21 +32,21 @@ A long vessel of three masts, tarred and tallowed to watertightness, lay locked 
 
 "Seems solid," said Fogg, stamping at the ice's edge.
 
-Othelmedir said, "Let us cross."
+Othelmedir said, "We cross."
 
 Birdsey happened to glance down as they stepped carefully over the frozen pool. He squinted, bent and wiped a hand through the light spackle of frost that covered the surface, then jumped back. "There's dead below."
 
 Othelmedir used his good arm to unclasp his cape and sweep it about. He uncovered, a foot below the surface, locked in near-perfectly transparent crystal, half-a-dozen frozen men. They were wholly composed, with not a flake of rot scarring their upturned, pale faces; faces frozen in the last moments of terror and death; lifeless eyes wide, and seeming to follow the three.
 
-Othelmedir whispered something. Then he said, "Their souls are gone, at least."
+Othelmedir whispered something. Then he said, "The souls have departed, at least."
 
 "Let's get to the ship," said Fogg.
 
-As they progressed through the mist, Birdsey spotted something else. "Look." He pointed. "On the far wall I see another opening. heh, heh. Maybe we aren't trapped."
+As they progressed through the mist, Birdsey spotted something else. "Look." He pointed. "On the far wall I see another opening, heh, heh. Maybe we aren't trapped."
 
 As they reached the vessel, its frosted hull presented their first obstacle, for the surface was smooth and outward-facing. Fogg spotted some small pits where the rowholes had not fully frozen over, and began chiseling grooves in the wood and ice with a knife. The pale man started up, and soon slipped over the gunnels. The two below heard a quick intake of breath.
 
-"What do you see?" asked Othelmedir.
+"What lies above?" asked Othelmedir.
 
 "Treasure?" asked Birdsey.
 
@@ -56,9 +56,9 @@ The three stopped and stared. The deck was barren - covered in the same rime of 
 
 Othelmedir, though the sparkle had drawn his initial attention, quickly paid closer mind to the masts. They were not sawn and carved pieces of timber, but birch trees; whole birch trees, with bark, and with thin sere sails hanging from their branches. On the deckboards surrounding the masts and their three rings of treasure, scratches gouged the wood. The scratches were deep enough that the ice patina did not conceal them.
 
-"Sang's red ribs." said Birdsey with a whistle. "That's a fine-ish pile. Who'd have thought a trove like this'd lie untouched, only some rotten worm to guard it? I wonder if there more below? We might find a barrel to pile these golden hexes in, and roll everything out of this pit. Blast me, but this air's colder than a harridan's teats."
+"Sang's red ribs," said Birdsey with a whistle. "That's a fine-ish pile. Who'd have thought a trove like this'd lie untouched, only some rotten worm to guard it? I wonder if there are more below? We might find a barrel to pile these golden hexes in, and roll everything out of this pit. Blast me, but this air's colder than a harridan's teats."
 
-Othelmedir said, "The frost is some manner of curse or enchantment."
+Othelmedir said, "The frost suggests some manner of curse or enchantment."
 
 "Not a bit. Five of those shiny pieces says it's some crystal machine."
 
@@ -70,11 +70,11 @@ Within, in a high-backed chair at a long table of black wood, with acolytes arra
 
 The servant of Sang. The Flayer and his acolytes were completely frozen; their faces pale as ghosts and marked with thousands of small, cat-like scratches; their eyes closed as if in prayer. The acolytes wore black robes with red sashes. The Flayer wore a steel cuirass gilt in silver, and had laid on the table before him a three-headed scourge. He appeared to have been about two-hundred years of age, before the magic of this reservoir had arrested his aging in-perpetuity. More gold, fine tableware of silver and bronze, jeweled weapons, other works of art - all was frozen to the surface of the table, or stacked upon the various shelves. Othelmedir's iron eyes locked on one shelf in particular, where he saw half-a-dozen furled scrolls of leather.
 
-At this scene of the profanely pious, Birdsey stiffened. Othelmedir recognized the suspicions working Birdsey's brain, and said, "They are true-dead. I would have heard the deadspeech of a servant of Sang the instant we entered the tohmb, were such a soul present."
+At this scene of the profanely pious, Birdsey stiffened. Othelmedir recognized the suspicions working Birdsey's brain, and said, "True-dead, every one. The deadspeech of a servant of Sang would have reached me the instant we entered the tohmb, were such a soul present."
 
 Birdsey relaxed. "Is there necromancy to crack ice?" he asked.
 
-"None that I am proficient in."
+"None within my proficiency."
 
 "Come on, Fogg." Birdsey spun back out of the door and walked to the rail where they had left the knotted rope. "I'm going onto the lake. I'll hunt for this freezing-machine; it's got to be in the water. You try to crack one of those ice-rings around the masts."
 
@@ -94,7 +94,7 @@ The steady TINK, TINK, TINK sounded sharply and more clearly, at that instant, t
 
 "Fogg, stop," said Othelmedir.
 
-Fogg stopped. He looked back at the mancer. Before Othelmedir could shout a warning, the pale man raised a pale hand to his long black hair, to a brow heavy with sweat, and after wiped a translucent bead, flicked the moisture to the ship's deck.
+Fogg stopped. He looked back at the mancer. Before Othelmedir could shout a warning, the pale man raised a pale hand to his long black hair, to a brow heavy with sweat, and after wiping a translucent bead, flicked the moisture to the ship's deck.
 
 Lightning flashed, thunder cracked a signal gong note. The teal mist disgorged a sharp stinging rain. Within the flash, the ice pool melted.
 

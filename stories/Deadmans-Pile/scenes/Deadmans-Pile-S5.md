@@ -2,7 +2,7 @@
 
 Long were the rain and the waves in their waning. Never did they disperse entirely, for the ghost of that Year of the Seasons Terrible clung to its spiteful condition through Spring as well as Winter. The initial wrath of the weather waned, however, until the rain only streamed instead of stabbed; and until the Wind was only a constant moan, not a mastication of a gaseous jaw; and until the waves were high dunes of whitecapped water that, nevertheless, held a rhythm.
 
-Fogg rose, arms aching from the strain of holding himself and Othelmedir in place. Othelmedir, despite the throbbing in his whole left side, managed to stand, supported by the rail. The deck rocked. In the comparative lull the two heard Birdsey shouting. "Sang's bloody loins. I thought the waves would smash my bones to jelly. You out there - still living?"
+Fogg rose, arms aching from the strain of holding himself and Othelmedir in place. Othelmedir, despite the throbbing in his whole left side, managed to stand, supported by the rail. The deck rocked. In the comparative lull the two heard Birdsey shouting. "Sang's red ribs. I thought the waves would smash my bones to jelly. You out there - still living?"
 
 "Not slain yet," said Fogg in reply.
 
@@ -12,15 +12,15 @@ Fogg scanned the deck. "Some scattered pieces."
 
 "Grab them and come across."
 
-Othelmedir took a deep breath, drawing his mind back from flaring pain in his shoulder. They would need to find a skilled leech when they returned to the surface - or a better mancer than he - to correct the injury. He forced his thoughts to the present. "We should check the cabin," he said. "More of that wealth has likely remained aboard. Birdsey."
+Othelmedir took a deep breath, drawing his mind back from flaring pain in his shoulder. They would need to find a skilled leech when they returned to the surface - or a better mancer than he - to correct the injury. He forced his thoughts to the present. "The cabin warrants inspection," he said. "More of that wealth has likely remained aboard. Birdsey."
 
 "Yes?"
 
-"Is there perhaps a boat, or raft, farther up in your tunnel?"
+"Have you found a boat, or raft, farther up in your tunnel?"
 
 There was a pause. Fogg staggered across the rolling deck to the captain's quarter, scooping up some scattered hexes of gold as he went. Presently Birdsey was heard to cry, "No boat. But those frozen corpses are floating now. Make a raft of 'em, maybe? heh, heh."
 
-"Don't be a fool," Othelmedir rejoined. "We will need to fashion something from the ship's material. Fogg?"
+"Spare me the foolishness," Othelmedir rejoined. "Something must be fashioned from the ship's material. Fogg?"
 
 Fogg grunted. "That captain's table. I'll-"
 
@@ -36,7 +36,7 @@ Birchmen were nigh-impervious to man's implements of bloodshed - being made of w
 
 Fogg tracked the sweeping of the aft mast's long roots with his black eyes for a moment longer. The masts began to shuffle across the decking, and he saw that he must move or eventually be caught in its path. He began to pick a route to Othelmedir, carefully avoided the scattered spackle of glinting yellow on the deck. The rain poured on still; the ship rocked. Othelmedir held perfectly still at the rail, watching his companion tiptoe toward him. The Birchmen ranged farther. Fogg stopped at a fallen line of rigging, which spanned the deck, and terminated in a coiled pile at the bow side. He picked up the cordage at its end. He continued to sway carefully over the shifting pieces of coin, meanwhile knotting his end of the rope into a loop, by which he meant to tie a harness so that he and Othelmedir could descend the ship's side in silence. All this time the three Birchmen roved. Though each continued to sweep the scattered gold back into rings, the unabating waves only undid their work.
 
-"What's taking?" Birdsey's cry echoed in the hollow room, above the hiss of rain and sliding coins. One of Birchmen instantly swiveled, the tattered sails on its limbs fluttering with the sudden motion. With alarming speed (any speed was alarming to witness in a tree) the things rushed to the rail upon its writhing tangle of roots, like the tall standard of some dead king carried upright on a tumbleweed. Othelmedir and Fogg stood without breath or motion. Othelmedir went into his mind. He found some words of Deadspeech, and made them soundlessly with his lips and tongue. Though his voice produced no noise, Birdsey - who still stood by the mouth of the tunnel, squinting through the downpour - heard the mancer's ghastly deadvoice in his mind: "Keep utterly silent!" He did so, and waited.
+"What's taking?" Birdsey's cry echoed in the hollow room, above the hiss of rain and sliding coins. One of the Birchmen instantly swiveled, the tattered sails on its limbs fluttering with the sudden motion. With alarming speed (any speed was alarming to witness in a tree) the things rushed to the rail upon its writhing tangle of roots, like the tall standard of some dead king carried upright on a tumbleweed. Othelmedir and Fogg stood without breath or motion. Othelmedir went into his mind. He found some words of Deadspeech, and made them soundlessly with his lips and tongue. Though his voice produced no noise, Birdsey - who still stood by the mouth of the tunnel, squinting through the downpour - heard the mancer's ghastly deadvoice in his mind: "Keep utterly silent!" He did so, and waited.
 
 On the ship, Fogg and Othelmedir watched as the alerted Birchman gradually tumbled back to the rings of gold.
 
@@ -92,7 +92,7 @@ Othelmedir did not remain unconscious for long. He woke to water burning its way
 
 The pale dead men who had been frozen in the water floated past Othelmedir's vision. He felt another sharp tug, and understood that Fogg was in the water with him, a hand hooked under Othelmedir's shoulder, paddling them through the water.
 
-The two crawled like the first slimy forerunning of prehistoric amphibians, onto the cold tunnel shore. There Birdsey waited. Fogg rose, and Birdsey took Othelmedir's other shoulder. Together, they brought the towering mancer all the way to his feet. Othelmedir swayed for a moment. He turned and stared back, watching the burning ship of the Mailed Flayer as it sank into the water. The two Birchmen had caught fire too; they heard the unearthly scream of splitting, burning wood..
+The two crawled like the first slimy forerunning of prehistoric amphibians, onto the cold tunnel shore. There Birdsey waited. Fogg rose, and Birdsey took Othelmedir's other shoulder. Together, they brought the towering mancer all the way to his feet. Othelmedir swayed for a moment. He turned and stared back, watching the burning ship of the Mailed Flayer as it sank into the water. The two Birchmen had caught fire too; they heard the unearthly scream of splitting, burning wood.
 
 "Left my morningstar," said Fogg.
 
