@@ -1,6 +1,6 @@
-# The Oldvaults Under Deadman's Pile
+## Scene 1
 
-*"I might swim more often in Leper's Branch Lake, if it weren't for the bonefish swimming under its surface. Damned spikers killed my grandpa, when I threw him in with stones tied around his ankles as a joke."*
+*"I might swim more often in Leper's Branch Lake, if it weren't for the bonefish swimming under its surface. Damned spikers killed my grandpa, when I tossed him in with stones tied around his ankles as a joke."*
 
 *"Hands off that cup!"*
 
@@ -8,17 +8,17 @@
 
 *"Old Murg sells more or less the same garters as always. Too much the same. He buys his stuff too fresh from the grave; the worms haven't had the chance to clean the last man's-"*
 
-In the town of Little Comfort's, within its most frequented chrypt, the voices of the regular patrons repeated themselves in the ears of a hunched old man as he plied a path along the row of columns least-limned in the light of the long fire. "Bonefish... fish... fish..." echoed one. "From the grave... the grave... grave..." came another.
+In the town of Little Comfort's, within its most frequented chrypt, the voices of the regular patrons repeated themselves in the ears of a hunched old man as he plied a path along the row of columns least-limned in the light of the long fire. "Bonefish... fish... fish..." echoed one. "From the grave... the grave... grave..." trailed another.
 
-The man had heard the voices and their echoes often enough. He passed through the same vault - Little Comfort's *Last Rest* - every day of his adult life. His own tohmb, scarcely more than a carved hollow in the chief crag of the town, could only be reached by passing through The Last Rest. The only way for any traveller to enter Little Comfort proper; Little Comfort, with its repurposed Tohmbs, it's headstone tents, all set under the shadows of high cliffs, with terse brown grass and dead shrub yards; the only passage into this harbor of the living was through that happy house of marble.
+The man had heard the voices and their echoes often enough. He passed through the same vault - Little Comfort's *Last Rest* - every day of his adult life. His own tohmb, scarcely more than a carved hollow in the chief crag of the town, could only be reached by passing through The Last Rest. The only way for any wayfarer to enter Little Comfort proper; Little Comfort, with its repurposed Tohmbs, it's headstone tents, all set under the shadows of high cliffs, with terse brown grass and dead shrub yards; the only passage into this harbor of the living was through that convivial house of marble.
 
 Even so the man took pains to be inconspicuous. As he skulked, wringing his fingers to a dryness so sparky that it endangered his sere clothes, he mumbled clipped fragments of sentences:
 
-"Never saw me go. Won't see me come. Hid it nice. No one finds. My best treasure. Dug from one hole. Buried in another. Now, a buyer. Quiet. No one must find. My treasure. Buy a better tohmb. Maybe find a mance. Buy a new body."
+"Never saw me go. Won't see me come. Hid it nice. No one finds. My finest treasure. Dug from one hole. Buried in another. Now, a buyer. Quiet. No one must find. My treasure. Buy a better tohmb. Maybe find a mance. Buy a new body."
 
 Thusly punctuated did the man's silent footsteps carry him from the inn, up the tangled cobblestone ways, to his home's door of barbed iron.
 
-As the man opened this barrier with a squeal of metal and squealed it shut behind him, something shifted in his face. Cold comfort though such a portal might have seemed to any ordinary living man, for the old man it worked like a word of hypnosis. A peace relaxed his muscles. His mutters ceased. He went and lit a candle on a nearby ledge, then stood before a mirror and stared at himself. His hands found the basin. He set his thumbs against the rim and leaned toward the water to wash some grave dirt off his chin.
+As the man opened this barrier with a squeal of metal and squealed it shut behind him, something shifted in his face. Cold comfort though such a portal might have seemed to any ordinary living man, for the old man it functioned like a word of hypnosis. A peace slackened his muscles. His mutters ceased. He went and lit a taper on a nearby ledge, then stood before a mirror and stared at himself. His hands found the basin. He set his thumbs against the rim and leaned toward the water to wash some grave dirt off his chin.
 
 So relaxed had the man become that he did not see the deformation of shadow in the corner by the bedslab - not until this deformation had stolen up behind his shoulder in the reflection. The old man jerked instinctively. but he stopped short of turning. He held perfectly still, as he felt the cold promise of a deep cut, just under the spot of dirt on his chin. In the mirror the razor gleamed.
 
@@ -38,15 +38,15 @@ The old man drew in one deep rasp, exhaled, then hesitated on the second.
 
 In a flash the knife closed with the throat. In the shadow's reflection on the mirror, teeth flashed in a grin. The shadow tisked. "You aught to be ashamed of yourself. Getting snuck by Killing Birds with Rocks. 'Birdsey' to my friends. My friend Othelmedir, he's the linguist. The master mancer. And Fogg - be glad I'm not Fogg. I'm just the little stewboy of the crew. Though I must give myself credit where credit is due: I do throw a mean stone. You've been had by lowly fodder, you old gravedigger."
 
-As he spoke the shadow unconsciously loosened the razor-edge of the knife from the bared throat. A man of action might have thrown his shoulderblades against his soliloquizing antagonist. But the old gravedigger was by nature a coward. And a fool. He said, "You're mushroom food, Birdsey."
+As he spoke the shadow unconsciously loosened the razor-edge of the knife from the bared throat. A man of action might have thrown his shoulderblades against his soliloquizing antagonist. But the old gravedigger was by nature a poltroon. And a fool. He said, "You're mushroom food, Birdsey."
 
 "Hmm?" asked Birdsey.
 
-"Map goes to the Foundation. Place for dead. Not living. You'll die."
+"Map goes to the Foundation. Place for dead. Not living. You'll perish."
 
-Birdsey seemed to ponder. He drew his knife away. The old man shifted forward and to the side to extricate himself, but a flash of shadow and steel came quicker. The old man felt pain on his temple. Then the little candle, and the reflection, and consciousness, vanished.
+Birdsey seemed to ponder. He drew his knife away. The old man shifted forward and to the side to extricate himself, but a flash of shadow and steel came quicker. The old man felt pain on his temple. Then the little taper, and the reflection, and consciousness, vanished.
 
-"Perhaps you're right, he, he," said Birdsey. "It'd be a shame to cut that old throat now. Firstly, because you were so obedient - up till that last word. Second, because you've made a long life on this mountain. Ahhh, but Fogg will pull out my fingernails if I leave you breathing."
+"Perhaps you're right, heh, heh," said Birdsey. "It'd be a shame to cut that old throat now. Firstly, because you were so obedient - up till that last word. Second, because you've made a long life on this mountain. Ahhh, but Fogg will pull out my fingernails if I leave you breathing."
 
 Birdsey cut the old man's throat.
 
