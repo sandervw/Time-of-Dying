@@ -10,7 +10,7 @@
 
 *"Old Murg sells more or less the same garters as always. Too much the same. He buys his stuff too fresh from the grave; the worms haven't had the chance to clean the last man's-"*
 
-In the town of Little Comfort's, within its most frequented chrypt, the voices of the regular patrons repeated themselves in the ears of a hunched old man as he plied a path along the row of columns least-limned in the light of the long fire. "Bonefish... fish... fish..." echoed one. "From the grave... the grave... grave..." trailed another.
+In the town of Little Comfort, within its most frequented chrypt, the voices of the regular patrons repeated themselves in the ears of a hunched old man as he plied a path along the row of columns least-limned in the light of the long fire. "Bonefish... fish... fish..." echoed one. "From the grave... the grave... grave..." trailed another.
 
 The man had heard the voices and their echoes often enough. He passed through the same vault - Little Comfort's *Last Rest* - every day of his adult life. His own tohmb, scarcely more than a carved hollow in the chief crag of the town, could only be reached by passing through The Last Rest. The only way for any wayfarer to enter Little Comfort proper; Little Comfort, with its repurposed Tohmbs, its headstone tents, all set under the shadows of high cliffs, with terse brown grass and dead shrub yards; the only passage into this harbor of the living was through that convivial house of marble.
 
@@ -91,7 +91,7 @@ The three men followed the line left by Othelmedir's orb. Othelmedir bent and re
 
 "Mailed Flayer?" Birdsey's ensuing laugh shifted up an octave. "heh, heh. I never heard about what was interred in this tohmb."
 
-"Perhaps the title misleads. That was the rumor from the ghost. A Mail Flayer named Angstlich; holy and unholy servant of Sang, The Scratcher."
+"Perhaps the title misleads. That was the rumor from the ghost. A Mailed Flayer named Angstlich; holy and unholy servant of Sang, The Scratcher."
 
 "heh, heh."
 
@@ -101,13 +101,13 @@ The three men followed the line left by Othelmedir's orb. Othelmedir bent and re
 
 "Bones can be crushed." To emphasize his point, Fogg's two-handed sword returned to its sheath, Fogg's one-handed morningstar emerged from its loop, and Fogg's sledgehammer arm pulverized another skull in another hollow.
 
-Othelmedir marched to the exact middle of four pillars, where his glowing orb had stalled. Fogg's cold blue eyes, Birdsey's narrow ones, and the empty sockets of a score of skulls all stared at the tall and thin mancer, underlit in the faint glow of sapphire. Othelmedir intoned, the same phrase spoken over and over, deadspeech, the language of the dead and the scholars. "Fehér uj sinonak. Fehér uj sinonak. Fehér uj sinonak."
+Othelmedir marched to the exact middle of four pillars, where his glowing orb had stalled. Fogg's black eyes, Birdsey's narrow ones, and the empty sockets of a score of skulls all stared at the tall and thin mancer, underlit in the faint glow of sapphire. Othelmedir intoned, the same phrase spoken over and over, deadspeech, the language of the dead and the scholars. "Fehér uj sinonak. Fehér uj sinonak. Fehér uj sinonak."
 
 With Othelmedir's understanding and orb lighting their way, the three walked a short time later into a smaller round room. This room was an intersection of five paths. Four large byways opened into cardinal directions, the three men having entered from the east. The fifth way was down. A railless aperture spanned most of the floor. As Othelmedir leaned over the lip - and he could lean far indeed - the mancer descried a narrow stairway. Little more than a foot in width, this stair descended beyond sight.
 
 Othelmedir extended his arm and released his orb. It plummeted, leaving a midair streak of blue. It was still falling as Othelmedir, then Birdsey, then Fogg set their feet on the narrow descending steps.
 
-As the three dropped foot by foot to this lower epoch of the Oldvaults, they sensed a change in atmosphere. The dwellers on Deadman's Pile had long ago inundated themselves to the various odors of the various states of decay, from fresh blood, to the first bloated stages of rot, to desiccation. This new odor was not unfamiliar, but nor was it common. It was a smell like the memory of some primordial species of mildew, mildew that had been the apex of a fungal world in an older Time. The stairs and the walls of the hole transitioned from the cold grey of bland stone, to a fuzzy whitish texture of dead moss; then to coal-black, covered in soot and deeply shelved.
+As the three dropped foot by foot to this lower epoch of the Oldvaults, they sensed a change in atmosphere. The dwellers on Deadman's Pile had long ago inured themselves to the various odors of the various states of decay, from fresh blood, to the first bloated stages of rot, to desiccation. This new odor was not unfamiliar, but nor was it common. It was a smell like the memory of some primordial species of mildew, mildew that had been the apex of a fungal world in an older Time. The stairs and the walls of the hole transitioned from the cold grey of bland stone, to a fuzzy whitish texture of dead moss; then to coal-black, covered in soot and deeply shelved.
 
 "Othelmedir," said Birdsey, his echo slowly moving away below and above him. "Your magic ball has been only a fleck in the black for long moments. I think it swells again at last."
 
