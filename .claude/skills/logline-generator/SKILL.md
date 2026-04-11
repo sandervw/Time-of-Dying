@@ -23,12 +23,10 @@ Use your full list of generated combinations in the next step.
 
 Read `references/bisociation.md`.
 
-Use your top 4-7 collisions in the next step.
+Use your top 4-7 loglines in the next step.
 
 ### Step 3: Format Output
 
-Read the template at `assets/output-template.md`. For each of the 4-7 selected collisions, write a logline: a 25-50 word pitch of the story (no more, no less per logline). Leave each logline's framing open — variety is the point.
-
-Write the completed loglines to a new markdown file using that template. Name the file descriptively based on the two input elements (e.g., `loglines-concierge-x-cannibals.md`). Save to `Output/` unless the user specifies otherwise.
+Read the template at `assets/output-template.md`. Write the completed set of loglines to a new markdown file using that template. Name the file descriptively based on the two input elements (e.g., `loglines-concierge-x-cannibals.md`). Save to `Output/` unless the user specifies otherwise.
 
 Save the file and present it to the user.

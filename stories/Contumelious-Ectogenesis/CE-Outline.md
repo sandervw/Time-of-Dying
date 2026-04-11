@@ -15,6 +15,17 @@ Like CCK - broken up into **blobs**, but the blobs are more-diegetic:
 - **Action-verse** - like text messages written by a learned necromancer in Ashton-Smithian dialogue
 - **Literary essay** - like Dario's AI essays
 - **Interview questions** - Othelmedir poses brief question fragments, character gives dialogue answer; always preceded by a header with character name and optional circumstances
+
+### Story Ideas
+
+1. **Interview Under Fire** - A forensic mancer is hired to identify the predator loose in an abandoned, subterranean ore-railway. Proper interrogation of the dead takes twelve hours per corpse. The thing in the tunnels finds a new body every forty minutes. He works faster, or becomes one.
+2. **The Szalt** - Hired to strip the crashed skyship *Szalt* of its cargo of soul scarabs, Othelmedir finds the dead crew refusing his Deadspeech. Something older aboard answers instead.
+3. **Mother Jugular** - Three rival mancer-guilds converge on the derelict cadaver-barge, *Mother Jugular*, each contracted to claim her sealed hold. While the guildmen hunt each other in the corridors, the hold unseals itself from within.
+4. **The Boneclock of Maltenwaith** - A town clocktower whose pendulum is a cage of cursed severed heads tolling hours in muttered curses.
+5. **The Cherrywidow's Night Dock** - An unmarked Hornwater pier where a veiled widow ferries only the dying, payment one freely given tooth.
+6. **Rodfall Priory of the Sodden Litany** - A flood-drowned Sisterhood priory where cracked burial jars pickle oath-broken sisters in conscious black brine.
+7. **The Mincer's Maw** - A Lake of Tomatoes harvest barge whose nets drag up more than flesh-fruit every ninth haul.
+
 ### Random Ideas
 
 The abominable rites (another name for necromancy)

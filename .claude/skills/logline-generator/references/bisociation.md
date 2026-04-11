@@ -20,11 +20,10 @@ From all the combinations that produce friction, select the **top 4-7** based on
 2. Memorable
 3. Specific/Unique
 
-Frame each collision as a numbered "What if?" question, followed by a short one-sentence explanation of where the friction comes from:
+Frame each collision as a numbered "logline": an under-30-word, 1-2 sentence pitch for a story based on that collision. The loglines should capture the inherent friction of each collision.
 
 ```
-"1. What if [situation created by the collision]?"
-   Friction: [which traits collide and why the result is charged]
+1 - [1-2 sentence loglines less than 30 words - capturing inherent friction between two traits.]
 ```
 
-These top 4-7 collisions will each be developed into a logline in the next step.
+These top 4-7 loglines will be used in the next step
