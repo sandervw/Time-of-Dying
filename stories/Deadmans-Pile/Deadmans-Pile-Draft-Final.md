@@ -1,7 +1,5 @@
 # The Oldvaults Under Deadman's Pile
 
-## Scene 1
-
 *"I might swim more often in Leper's Branch Lake, if it weren't for the bonefish swimming under its surface. Damned spikers killed my grandpa, when I tossed him in with stones tied around his ankles as a joke."*
 
 *"Hands off that cup!"*
@@ -53,7 +51,6 @@ Birdsey seemed to ponder. He drew his knife away. The old man shifted forward an
 Birdsey cut the old man's throat.
 
 ---
-## Scene 2
 
 A man with the mien of a redwood tree commenced an act of kneeling on a tiled corridor floor. So proudly stood this man's height over the masonry of the corridor that it seemed an aeon passed in the span of time it took his left knee joint to bend, his right to touch the ground. His two iron-colored eyes were set in black skin. They scanned the merely-terrestrial stone. In his hand the man cupped a glowing blue ball of thin strands, like yarn woven from the stuff beneath a fire's coals, and this shed the only light in the dusty passage. When the tall man's right knee finally reached terra-firma, he gently pushed the wisp of light forward along the tiles. Shadows danced on the walls from heaps of ossature. Before it reached the end of the darkened passage, the momentum of the ball expired.
 
@@ -142,7 +139,6 @@ Othelmedir had been walking with eyes closed, murmuring his other language. Now 
 "Traps... traps... traps... Curse... curse... curse..."
 
 All of these echoes seemed to spend a very long time in dying, as if the trio could follow them as fast as the echoes could move away. These repetitions seemed to acquire a tone of their own as they went. "Curse" faded like the last gasp of spite from the lips of a dying man.
-## Scene 3
 
 They traversed several more lengths of corridor. The next moment of intrigue for Birdsey came when they entered a passage where the walls had been more finely chiseled. As Othelmedir's ball rolled down its length, the blue line revealed ten perfectly spaced alcoves, five on each side. Small holes in the walls were common enough, but these were too diminutive and too low to the ground to serve for interment. Othelmedir held a palm high in warning. They stepped warily to within a few yards of the first set of niches. Othelmedir bent with torturous slowness to the niche on the left. Birdsey did the same on the right. Each hollow contained a simple pewter plate. The plates were brown and undamaged, probably lustrous beneath the layer of dust that precluded reflection.
 
@@ -237,7 +233,6 @@ Birdsey tried to slam one of the heavy bronze doors. He abandoned the effort and
 The three chryptsackers fell back as rubble and dust crashed in curtains over the shape of the leatherwyrm. The door arch buckled. Thunder like a sea storm boomed as they stumbled down the curving slope. Othelmedir's light flickered as great dust plumes blew past and around them. Then there was one final, terrific crash like a gong. A loose piece of ceiling rock blasted Othelmedir in the shoulder. The light winked out in an instant, and all three were plunged into a cold and storming blackness.
 
 ---
-## Scene 4
 
 The groaning of the stonework faded in starts and stops. Amidst the darkness and dust, men's voices sputtered.
 
@@ -358,7 +353,6 @@ Then, without a sound, the savage warrior heaved with all the sinews of his back
 Across the water, by the exit, Birdsey had meanwhile gained a firmer spot on the rock.
 
 All three receded as much as they could into themselves, bunching their necks and tucking their limbs to be as small as possible, while the monsoon thrashed in the too-small enclosure of the Mailed Flayer's tohmb.
-## Scene 5
 
 Long were the rain and the waves in their waning. Never did they disperse entirely, for the ghost of that Year of the Seasons Terrible clung to its spiteful condition through Spring as well as Winter. The initial wrath of the weather waned, however, until the rain only streamed instead of stabbed; and until the Wind was only a constant moan, not a mastication of a gaseous jaw; and until the waves were high dunes of whitecapped water that, nevertheless, held a rhythm.
 
