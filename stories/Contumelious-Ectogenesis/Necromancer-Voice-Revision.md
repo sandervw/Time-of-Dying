@@ -14,92 +14,53 @@ Rewrite dialogue and narration in the voice of Othelmedir: a learned necromancer
 
 ## Sentence Structure
 
-### Signature Pattern 1: The Preamble with Buried Fact
-A sentence begins with a self-identifying credential or statement of context, pivots through a qualifier, and delivers its actual content in the final clause.
-
-> "I, whose craft has opened more tohmbs than plague, have been asked to set down this account of a thing that is not yet resolved, nor likely to be."
-
-**Pattern:** [Self-credentialing identification] + [formal occasion] + [understated horror or transaction as the payload]
-
-The information the reader actually needs arrives last, after the speaker has established his authority to deliver it.
-
-### Signature Pattern 2: Polysyndetic Chains
-Long sentences built by stringing independent clauses with "and," refusing the modern instinct to break them up. Semicolons handle the heavier joints.
-
-> "The day had vanished, fading unaware; and the long summer eve, without moon, had thickened to a still and eldritch darkness ere I approached the gates."
-
-The rhythm should feel cumulative, almost liturgical. A sentence with three or four "and" junctions is normal. Never replace "and" with bullet points or staccato fragments.
-
-### Signature Pattern 3: The Inverted Clause and Fronted Adverbial
-Clauses open with time, place, or condition before the subject arrives. Word order is often reversed from modern usage, so the verb or object lands early for weight.
-
-> "To me, for reasons that shall presently become apparent, was it first given to examine the remains."
-
-> "Verily, they said, a thing from beyond the Road was abroad."
-
-**Pattern:** [Fronted prepositional or adverbial phrase] + [inverted verb/subject] + [the actual content]
-
-Modern order ("It was first given to me to examine the remains") kills the voice. Always consider whether the sentence can be turned inside out.
-
-### Signature Pattern 4: The Hedged Assertion
-Statements of fact are softened by measured qualifiers or modal verbs that preserve the speaker's intellectual precision.
-
-> "Some hold that the horror came from beyond the Road, borne on an air that no living mouth had breathed."
-
-> "As for me, I must deem that the creature is a thing insufficiently dead."
-
-Phrases like "it may be that," "I must deem," "some hold," "by my reckoning," "if this be so," "as it appeared," and "so it is reported" are load-bearing. Direct assertions feel bald and imprecise in this voice.
-
-### Signature Pattern 5: The Embedded Relative Clause
-Nouns are regularly extended by a trailing "which" or "whose" clause that qualifies, elaborates, or darkens them.
-
-> "the new bones, which seemed to watch me as I worked"
-
-> "a wide gash that had laid bare the spine from neck to tail; and the spine itself had been shattered and the white marrow sucked therefrom"
-
-The relative clause is where horror detail lives. Never front-load the horror; trail it behind a dignified noun.
+TODO
 
 ## Diction
 
 ### Register: Archaic-Scholarly
 The baseline is the English of a 19th-century pastiche of a 14th-century scholar: not actual Middle English, but a literary register that sounds old to a modern ear without becoming unreadable. The effect comes from the gap between this elevated register and whatever banal or horrible content it is describing.
 
-**Fixed canon (mandatory spellings):** Deadspeech, Chrypt, Tohmb, Pilgrim Tohmb, the Road of Graves, the Slate Sun, the Words of Rotten Syllables, the Seven.
+**Fixed canon (mandatory spellings):** TODO
 
-**Avoid:** contractions, modern slang, casual intensifiers ("really," "very," "pretty"), emotional directness ("I felt sad," "I was scared"), phrasal verbs where a single Latinate verb will do.
+**Avoid:** contractions, modern slang, casual intensifiers ("really," "very," "pretty"), emotional directness ("I felt sad," "I was scared"), clinical or technical jargon from after 1900, phrasal verbs where a single Latinate verb will do.
 
 ### Generative Pattern: Compound Adjective Coinage
 Hyphenated compound adjectives that yoke a concrete noun to a modifier. Formula: [noun]-[adjective/participle] or [adjective]-[noun-derived adjective]. Coin them freely.
 
-> "flame-blent ooze," "bough-black night," "pit-deep shadows"
+Samples (for reference only):
+- TODO
 
 ### Generative Pattern: Setting-Term Coinage
-Build new terms from body/craft compounds, decay/container compounds, and color/substance compounds. The vocabulary of necromantic practice generates itself from these roots.
+Build new terms from TODO
 
-> body/craft: "bone-stitcher," "marrow-reader," "sinew-wright"
-> decay/container: "rot-cask," "worm-reliquary," "mold-cellar"
-> color/substance: "grey-tallow," "black-salve," "amber-ichor"
+Samples (for reference only):
+- TODO
 
 ### Generative Pattern: Epithet Construction
-Recurring entities (gods, the Road, necromantic concepts) receive epithets built from [definite article] + [adjective/noun] + [of/on] + [archaic noun]. Never reuse the same epithet twice in a session.
+Recurring entities (gods, the Road, necromantic concepts) receive epithets built from TODO. Never reuse the same epithet twice in a session.
 
-> "the Keeper of Rotten Terms," "the Long Silence beneath the Stones," "the Seventh and Most Loathly"
+Samples (for reference only):
+- TODO
 
 ### Generative Pattern: Circumlocution for the Mundane
 Horrible or mundane things are described with dignified circumlocution rather than plain speech. Construct these from the necromantic metaphorical well by reframing actions through death, decay, craft, or contract. Never reuse a fixed mapping.
 
-> Frame physical harm as professional assessment. Frame bodily functions as scholarly observation. Frame emotion as necromantic phenomenon.
+Samples (for reference only):
+- TODO
 
 ### Generative Pattern: Necromantic Gloss
-Ordinary things are described through a vocabulary of death, decay, and necromantic practice. This is the voice's default metaphorical well. Reframe any event in terms of death, the Road, necromantic craft, or the legacy of the Seven. Construct fresh metaphors each time from these domains rather than reusing fixed substitutions.
+Ordinary things are described through a vocabulary of death, decay, and necromantic practice. This is the voice's default metaphorical well.
+
+Samples (for reference only):
+- TODO
 
 ## Rhetorical Tactics
 
-1. **Authority framing.** Open with credentials or professional context. "I, whose craft has shown me..." "A necromancer of my standing will have seen..."
-2. **Attribution laundering.** Uncertain claims get attributed to "some say," "it is rumored," "the common report," so the speaker never quite owns them.
-3. **Necromantic gloss.** The mundane explanation is always subordinated to the scholarly one.
-4. **The pivot on "yet" or "natheless."** Introduce counter-evidence with an archaic adversative, never with "but" alone where a loftier connector will serve.
-5. **Temporal distancing.** Even recent events are framed as already past and almost legendary: "it was on that occasion that...," "ere the summer had waned..."
+1. **Authority framing.** Open with credentials or professional context. TODO - Examples
+2. **Attribution laundering.** Uncertain claims get attributed to common sources, so the speaker never quite owns them. TODO - Examples
+3. **The archaic pivot** Introduce counter-evidence with an archaic adversative, never with "but" alone where a loftier connector will serve. TODO - Examples like yet, natheless
+4. **Temporal distancing.** Even recent events are framed as already past and almost legendary. TODO - Examples
 
 ## Figurative Language
 

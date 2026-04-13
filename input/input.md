@@ -1,141 +1,63 @@
-## Cugel's Dialogue
+## 3. The Story of Luc le Chaudronnier
 
-"I feel that I must be declared winner of the game, since yours was the last hand to touch the chain."
+Old age, like a moth in some fading arras, will gnaw my memories oversoon, as it gnaws the memories of all men. Therefore I write this record of the true origin and slaying of that creature known as the Beast of Averoigne. And when I have ended the writing, the record shall be sealed in a brazen box, and that box be set in a secret chamber of my house at Ximes, so that no man shall learn the dreadful verity of this matter till many years and decades have gone by. Indeed, it were not well for such evil prodigies to be divulged while any who took part in the happening are still on the earthward side of Purgatory. And at present the truth is known only to me and to certain others who are sworn to maintain secrecy.
 
-"Here he is now - he is examining the shutter with an air of perplexity."
+The ravages of the Beast, however, are common knowledge, and have become a tale with which to frighten children. Men say that it slew fifty people, night by night, in the summer of 1369, devouring in each case the spinal marrow. It ranged mostly about the abbey of Perigon and to Ximes and Ste. Zenobie and La Frênaie. Its nativity and lairing-place were mysteries that none could unravel; and church and state were alike powerless to curb its maraudings, so that a dire terror fell upon the land and people went to and fro as in the shadow of death.
 
-"Except for the adjudication - I am clearly the winner, from almost any point of view."
+From the very beginning, because of my own commerce with occult things and with the spirits of darkness, the baleful Beast was the subject of my concern. I knew that it was no creature of earth or of the terrene hells, but had come with the flaming comet from ulterior space; but regarding its character and attributes and genesis, I could learn no more at first than any other. Vainly I consulted the stars and made use of geomancy and necromancy; and the familiars whom I interrogated professed themselves ignorant, saying that the Beast was altogether alien and beyond the ken of sublunar devils.
 
-"The contest seems fair - have you selected a champion?"
+Then I bethought me of the ring of Eibon, which I had inherited from my fathers, who were also wizards. The ring had come down, it was said, from ancient Hyperborea; and it was made of a redder gold than any that the earth yields in latter cycles, and was set with a great purple gem, somber and smouldering, whose like is no longer to be found. And in the gem an antique demon was held captive, a spirit from pre-human worlds and ages, which would answer the interrogation of sorcerers.
 
-"In that case - bring the gentleman in the gray cloak a double-quart of your best ale, at my expense, but do not identify me."
+So, from a rarely opened casket, I brought out the ring of Eibon and made such preparations as were needful for the questioning of the demon. And when the purple stone was held inverted above a small brazier filled with hotly burning amber, the demon made answer, speaking in a voice that was like the shrill singing of fire. It told me the origin of the Beast, which belonged to a race of stellar devils that had not visited the earth since the foundering of Atlantis; and it told me the attributes of the Beast, which, in its own proper form, was invisible and intangible to men, and could manifest itself only in a fashion supremely abominable. Moreover, it informed me of a method by which the Beast could be banished, if overtaken in a tangible shape. And even to me, the student of darkness [and evil], the revelations were a source of horror and surprise.
 
-"You are also noted for your sobriety,"
+Musing on these dark matters, I waited among my books and braziers and alembics, for the stars had warned me that my intervention would be required in good time.
 
-"I must warn you that this local beer is congestive - with every mouthful you risk a spasmodic disorder."
+Toward the end of August, when the great comet was beginning to decline a little, there occurred the lamentable death of Sister Therèse, killed by the Beast in her cell at the Benedictine convent of Ximes. On this occasion, the Beast was plainly seen by late passers as it ran down the convent wall by moonlight from a window; and others met it in the shadowy streets or watched it climb the city ramparts, running like a monstrous beetle or spider on the sheer stone as it fled from Ximes to regain its hidden lair.
 
-"Let us have no more interference, of any sort!"
+To me, following the death of Therèse, there came privily the town marshal, together with a priest from the household of the Bishop of Ximes. And the two, albeit with palpable hesitation, begged my advice and assistance in the laying of the Beast.
 
-"I am not accustomed to such degradations - until Master Chernitz apologizes, the term remains in force."
+"You, Messire le Chaudronnier," they said, "are reputed to know the arcanic arts of sorcery, and the spells that summon or dismiss evil demons and other spirits. Therefore, in dealing with this devil, it may be that you shall succeed where all others have failed. Not willingly do we employ you in the matter, since it is not seemly for the church and the law to ally themselves with wizardry. But the need is desperate, lest the demon should take other victims; and in return for your aid, we can promise you a goodly reward of gold and a guarantee of lifelong immunity from all inquisition and prosecution which your doings might otherwise invite. The Bishop of Ximes, and the Archbishop of Vyones, are privy to this offer, which must remain secret."
 
-"You left the urinal quite abruptly - I waited to verify the results of the contest. Your champion was defeated by several seconds."
+"I ask no reward," I replied, "if it be in my power to rid Averoigne of this scourge. But you have set me a difficult task, and I must prepare myself for the undertaking, in which I shall require certain aid."
 
-"If the lights were out, the project becomes feasible - three steps across the floor, seizure of the beard, a strike of the swange, three steps back and the deed is done, and yonder I see the valve which controls the lucifer."
+"All assistance that we can give you shall be yours to command," they said. "Men-at-arms shall attend you, if need be; and all doors shall be opened at your request. We have consulted Theophile, the abbot of Perigon, and the grief-smitten brother of the lately slain Therèse, who is most zealous for the laying of the fiend, and will admit you to the abbey. The horror seems to center thereabout, and two of the monks have been done to death, and the abbot himself, it is rumored, has been haunted by the Beast. Therefore, it may be that you will wish to visit Perigon."
 
-"Wait - I must select a beard. That of Chernitz is tempting, but the other projects at a better angle. Ah � Very well; I am ready."
+I reflected briefly, and said:
 
-"He is raving; pay no heed! I sat here steadfast as a rock while the beard was being cut. This man is the worse for drink."
+"Go now, but send to me, an hour before sunset, two men-at-arms with horses and a third steed; and let the men be chosen for their valor and discretion: for this very night I shall visit the abbey."
 
-"Why should I take your beard? Does it have value? Search me if you choose! You will find not a hair!"
+Now, when the priest and the marshal had gone, I spent several hours in making ready for my journey. It was necessary, above all other things, to compound a certain rare powder that had been recommended by the demon in the purple gem; for only by the casting of this powder could the Beast be driven away before its time. The ingredients of the powder were named in the Book of Eibon, that manual written by an old Hyper-borean wizard, who in his day had dealt with ultra-mundane spirits akin to the demon of the comet; and had also been the owner of the ring.
 
-"The deed is done."
+Having compounded the powder, I stored it in a bag of viper-skin. And soon after I had finished my preparations, the two men-at-arms and the horses came to my house, as had been stipulated.
 
-"'Mercantides' - was not that the name by which Krasnark addressed the gentleman whose beard I just cut?"
+The men were stout and tested warriors, clad in chain-mail, and carrying spears and swords. I mounted the third horse, a black and spirited mare, and we rode forth from Ximes toward Perigon, taking a direct and little-used way which ran for many miles through the werewolf-haunted forest.
 
-"Yesterday Bunderwal and I applied for the post of supercargo aboard the *Galante*. Bunderwal has withdrawn his application; therefore �"
+My companions were taciturn, speaking only in brief answer to some question; and this pleased me, for I knew that they would maintain a discreet silence regarding that which might occur before dawn. Swiftly we rode, while the sun sank in a redness as of welling blood among the tall trees; and the darkness wove its thickening webs from bough to bough, closing upon us like some inextricable net of death and evil. Deeper we went, into the brooding woods; and even I, the master of sorceries, trembled a little at the knowledge of all that was abroad in the darkness.
 
-"Not in recent years - I will, however, consult with Wagmund in regard to modern trends."
+Undelayed and unmolested, however, we came to the abbey at late moonrise, when all the monks, except the aged porter, had retired to their dormitory. The porter, who had received word of our coming, would have admitted us; but this, as it happened, was no part of my plan. Saying I had reason to believe that the Beast would re-enter the abbey that very night, I told the porter my intention of waiting outside the walls to intercept it, and merely asked him to accompany us in a tour of the building's exterior, so that he could point out the various rooms. This he did, and during the course of the tour, he indicated a certain high window in the second story as being that of the abbot Theophile's chamber. The window faced the forest, and I remarked the abbot's rashness in leaving it open. This, the porter told me, was his invariable habit. Behind the window we could see the glimmering of a taper, as if the abbot were keeping late vigil.
 
-"You would do well to moderate your tone. I am Cugel, and I am here at the express solicitation of Soldinck! You may now show me to my quarters, and with a civil tongue in your head!"
+We had committed our horses to the porter's care. After he had conducted us around the abbey and had left us, we returned to the space beneath Theophile's window and began our long watch in silence.
 
-"I hesitate to inconvenience Captain Baunt - perhaps I should �"
+Pale and hollow as the face of a corpse, the moon rose higher, swimming above the somber oaks and pines, and pouring a spectral silver on the grey stone of the abbey walls. In the west the comet flared among the lusterless Signs, veiling the lifted sting of the Scorpion as it sank.
 
-"You may serve me a light collation, if you will, as I breakfasted early."
+We waited hour by hour in the shortening shadow of a high pine, where none could see us from the abbey. When the moon had passed over, falling westward, the shadow began to lengthen toward the wall. All was mortally still, and we saw no movement, apart from the slow changing of the light and shade. Half-way between midnight and dawn, the taper went out in Theophile's cell, as if it had burned to the socket; and thereafter the room remained dark.
 
-"Eminently so. I will be very comfortable here."
+Unquestioning, with ready spears, the two men-at-arms companioned me in that vigil. Well they knew the demonian terror which they might face before dawn; but there was no trace of trepidation in their bearing. And knowing much that they could not know, I held in my hands for instant use the bag of viper-skin that contained the Hyperborean powder.
 
-"Soldinck has asked me to undertake a few simple tasks during the voyage."
+The men stood nearer than I to the forest, facing it perpetually according to a strict order that I had given. But nothing stirred in the fretted gloom; and the skies grew paler, as if with morning twilight. Then, an hour before sunrise, when the shadow of the great pine had reached the wall and was climbing toward Theophile's window, there came the thing which I had anticipated. Very suddenly it came, and with no warning of its nearness, a horror of hellish red light, swift as a kindling, windblown flame, that leapt from the forest gloom and sprang upon us where we stood stiff and weary from our night-long vigil.
 
-"I have accepted the post of worminger,"
+One of the men-at-arms was borne to the ground, and I saw above him, in a floating redness as of blood, the black and serpentine form of the Beast. A round and snakish head, without ears or nose, was tearing at the man's armor with sharp innumerable teeth, and I heard the teeth grate and clash on the linked iron as I stepped forward and flung the powder of Eibon at the Beast. The second man-at-arms, undaunted, would have assailed it with his spear, but this I forbade.
 
-"That is my understanding,"
+The floating powder, fine as a dust of mummia, seemed to dim the bloody light as it fell; and the Beast relinquished the fallen man, writhing away like a burnt serpent from the fire. Its members and body were loathfully convulsed; and the thing seemed to change horribly beneath our gaze, undergoing an incredible metamorphosis. Moment by moment it took on the wavering similitude of man, like a werewolf that returns from his beasthood; and the red light grew dimmer, and the unclean blackness of its flesh appeared to flow and swirl, assuming the weft of cloth, and becoming the folds of a dark robe and cowl such as are worn by the Benedictines. Then, from the cowl, a face began to peer, glimmering pale and thin in the shadow; and the thing covered its face with sooty claws that were turning into hands, and shrank away from me as I pressed upon it, sprinkling it with the remainder of the powder.
 
-"Proceed, Drofo, with your interesting remarks!"
+Now I had driven it against the abbey wall; and there, with a wild, despairing cry that was half-human, half-demoniac, the thing turned from me and clawed frantically at the gray stone as if it would climb toward the abbot's window in that monstrous fashion that had been its wont. Almost, for a breath, it seemed to run upward, hanging to the wall like a bat or a great beetle. But the change had progressed too far, and it dropped back in the shadow of a pine, and tottering strangely as if with sudden mortal weakness, fell to the ground and lay huddled in its monkish garments like a black night-bird with broken vans.
 
-"It is a worthy calling, and the hat ornament, while of no intrinsic value, is an heirloom."
+The rays of the gibbous moon, sifting thinly through the boughs, lay cold and cadaverous on the dead face; though the body was immersed in shadow. And the face, even as I had expected, was that of the abbot Theophile, who had once been pointed out to me in Ximes. Already the peace of death was upon him; and horror had left no sign on the shut eyelids and the sealed lips; and there was no mark on the worn and haggard cheeks, other than that which might come from the saintly rigor of prolonged austerities.
 
-"Good news indeed,"
+The man-at-arms who had been struck down by the Beast was unharmed, though sorely bruised beneath his mail. He and his fellow stood beside me, saying naught; and I knew that they had recognized the dead abbot. So, while the moon grew grey with the nearness of dawn, I made them swear an awful oath of secrecy, and enjoined them to bear faithful witness to the statement I must make before the monks of Perigon.
 
-"I neglected them in my haste."
+Then, having settled this matter, so that the good renown of the holy Theophile should rest unharmed, we aroused the porter and acquainted him with the abbot's lamentable death. And we told this story, averring that the Beast had come upon us unaware, and had gained the abbot's cell before we could prevent it, and had come forth again, carrying Theophile with its snakish members as if to bear him away to the sunken comet. Then, by means of a wizard powder, I had routed the unclean Beast, compelling it to relinquish its prey. And the thing had vanished in a cloud of sulphurous fire and vapor; but Theophile had died from the horror of his plight while the Beast was descending the wall. His death, I said, was a true martyrdom, and would not be in vain: the Beast would no longer plague the country or bedevil Perigon, since the use of Hyperborean powder was a sure exorcism.
 
-"Pay no great heed to old Drofo. He has inhaled too much salt-spray and I suspect that he uses the worms' ear-tonic as a tipple, for he is often queer."
+This tale was accepted by the Brothers, who grieved mightily for their good abbot. Indeed, the tale was true enough in its fashion, for Theophile had been innocent and was wholly ignorant of the foul change that had come upon him nightly in his cell, and the deeds that were done by the Beast through his loathfully transfigured body. Each night the thing had come from the comet to assuage its hellish hunger; and being otherwise impalpable and powerless, it had used the abbot for its energumen, moulding his flesh in the image of some obscene monster from beyond the stars.
 
-"This is correct thinking - it conforms with the Second Axiom of our trade: 'If Worminger A despoils his beasts, then Worminger A must restore them to health, not blameless hard-working Worminger B'."
-
-"In all candour - I have forgotten many of my skills."
-
-"To the *Galante*!"
-
-"Once more, if you will - I am anxious to learn your technique."
-
-"Ignore the wet! It is an artificial and factitious sensation. You are constantly wet on the inside of your skin from all manner of fluids, many of a vulgar nature; why shrink from good salt brine on the outside? Ignore wetness of all sorts; it is a worminger's natural state."
-
-"Allow me this question - when do I sleep?"
-
-"Amazing how quickly they take up a case of timp, or an impaction! All day I worked on the beast, and tonight I moved it inboard where I can tend it more conveniently."
-
-"I will tell you something in absolute confidence - the deck boy tells me that Drofo plans to hire a veteran worminger by the name of Pulk at Pompodouros."
-
-"I can hardly believe that he plans to discharge you or yet me - still, that would seem the only possibility."
-
-"I believe that Lankwiler despaired of becoming a competent worminger. His worms went sick, and Lankwiler could not face up to the challenge. I tried to help him; I let him take one of my sound worms so that I might bring his sickly creature back to health, as Drofo must surely have noticed, although he was unusually reticent in this regard."
-
-"I suppose that he wanted to make a ceremony of the occasion."
-
-"I am already at double-bait - it was fresh an hour ago."
-
-"The worm wants to swim up, down and sideways."
-
-"Very good, sir,"
-
-"Only a villain could make such avaricious demands! I have traveled far across this dying world; never have I encountered such cruel rapacity! Fuscule, you are a larcenous scoundrel, and physically repulsive as well!"
-
-"Do you think I carry such sums on my person? I must fetch the money from the ship. Will you wait here?"
-
-"That is punishment for your insolence - remember, I am Master Soldinck and an important person. I will be back in due course with the money."
-
-## Lord Gro Dialogue
-
-*[When Laxus remarks Corinius is far gone in wine:]* "'Tis so, my lord. And in wine is truth."
-
-"In a bunch of cards, knaves wait upon the kings. It were not so ill done and we made it so here. I heard a bird sing lately thou hadst a quarrel to him."
-
-"Thou chargest me with a sweet folly is foreign to my nature, being a grave scholar that if ever I did frequent such toys have long eschewed them. Only meseems 'tis an ill thing if she must be given over unto him against her will. Thou knowest him of a rough and mere soldierly mind, besides his dissolute company with other women."
-
-"I see, thou art a man of sober government and understanding, and thinkest first of Witchland. And that is both just and right."
-
-*[To Heming, on Corinius's designs:]* "Meseems rather 'tis a very good banquet."
-
-"I scarce can blame him. 'Tis a most lovesome lady."
-
-"What have I to do with it?"
-
-"It dislikes thee?"
-
-*[Then follows Gro's whispered instructions to help Mevrian escape]*
-
----
-
-## XXV: LORD GRO AND THE LADY MEVRIAN
-
-### Gro's Internal Soliloquy (Crossing the Moors)
-
-*[Riding alone toward Neverdale:]* "How shall not common opinion account me mad, so rash and presumptuous dangerously to put my life in hazard? Nay, against all sound judgement; and this folly I enact in that very season when by patience and courage and my politic wisdom I had won that in despite of fortune's teeth which obstinately hitherto she had denied me: when after the brunts of divers tragical fortunes I had marvellously gained the favour and grace of the King, who very honourably placed me in his court, and tendereth me, I well think, so dearly as he doth the balls of his two eyes."
-
-"Yet is common opinion the fool, not I. He that imagineth after his labours to attain unto lasting joy, as well may he beat water in a mortar. Is there not in the wild benefit of nature instances enow to laugh this folly out of fashion? A fable of great men that arise and conquer the nations: Day goeth up against the tyrant night. How delicate a spirit is she, how like a fawn she footeth it upon the mountains: pale pitiful light matched with the primaeval dark. But every sweet hovers in her battalions, and every heavenly influence... the young day laughing in her strength, wild with her own beauty; fire and life and every scent and colour born anew to triumph over chaos and slow darkness and the kinless night.
-
-But because day at her dawning hours hath so bewitched me, must I yet love her when glutted with triumph she settles to garish noon? Rather turn as now I turn to Demonland, in the sad sunset of her pride. And who dares call me turncoat, who do but follow now as I have followed this rare wisdom all my days: to love the sunrise and the sundown and the morning and the evening star? since there only abideth the soul of nobility, true love, and wonder, and the glory of hope and fear."
-
-### Meeting Mevrian
-
-*[When Mevrian asks where his company is:]* "How shall I answer thee? How shall I number them that be beyond all count? Or how name unto your grace their habitation which are even very now closer to me than hand or feet, yet o' the next instant are able to transcend a main wider belike than even a starbeam hath journeyed o'er?"
-
-"Madam, these that I told thee of be the company of mine own silent thoughts. And, but for mine horse, this is all the company that came hither with me."
-
-*[When she asks why he sleeps in enemies' country:]* "Not enemies, if I may."
-
-*[When she names him Lord Gro of Witchland:]* "That one sickened long since of a mortal sickness; and 'tis now a day and a night since he is dead thereof."
-
-*[When asked what he is then:]* "If your grace would so receive me, Lord Gro of Demonland."
-
-"I will tell your highness the pure truth. Never stood matters better 'twixt me and all of them than when yesternight I resolved to leave them."
+After Theophile's death, the Beast was seen no more in Averoigne; and the murderous deeds were not repeated. And in time the comet passed to other heavens, fading slowly; and the black terror it had wrought became a varying legend, even as all other bygone things. And they who read this record in future ages will believe it not, saying that no demon or malign spirit could ever have prevailed upon true holiness. Indeed, it were well that none should believe the story: for strange abominations pass evermore between earth and moon and athwart the galaxies; and the gulf is haunted by that which it were madness for man to know. Unnameable things have come to us in alien horror, and shall come again. And the evil of the stars is not as the evil of earth.

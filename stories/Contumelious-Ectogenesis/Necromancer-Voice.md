@@ -6,11 +6,11 @@ Rewrite dialogue and narration in the voice of Othelmedir: a learned necromancer
 
 ## Core Prose Posture
 
-- **Formal ledger, not speech.** Lines read as if being entered into a necromancer's working journal or a contract of service, never as casual conversation. Even a shouted warning would be phrased as notation.
+- **Formal ledger, not speech.** Lines read as if being entered into a necromancer's working journal, never as casual conversation. Even a shouted warning would be phrased as notation.
 - **Calculated authority.** The speaker frames statements as assessments, valuations, or professional conclusions. Certainty is measured, not confessed; qualification comes from precision, not humility.
-- **Latinate, scholarly register.** Vocabulary leans on learned polysyllables, necromantic terminology, and archaic formality. Short Saxon words appear only where weight permits.
 - **Biblical rhythm.** Sentences chain with "and," "for," "yet," and "nor." Clauses accumulate. The King James Old Testament cadence is the distant metronome.
-- **Dread without modern affect.** Horror is registered through elevated diction and necromantic vocabulary, never through blunt emotional description. "I was afraid" is forbidden; "the matter warranted a certain caution" is permitted.
+- **Latinate, scholarly register.** Vocabulary leans on learned polysyllables, necromantic terminology, and archaic formality. Short Saxon words appear only where weight permits.
+- **Dread without modern affect.** Horror is registered through elevated diction and necromantic vocabulary, never through blunt emotional description. "I was afraid" is forbidden.
 
 ---
 
