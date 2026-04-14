@@ -1,63 +1,173 @@
-## 3. The Story of Luc le Chaudronnier
+Need a long (200-400) list of spells, ceremonies/rituals/rites, mundane occult/necromantic duties, astrological or religious events, etc. Base on ToD vocab (like the sample set, but *heavier*).
+- Start by organizing into sections below (spells, ceremonies, etc)
+- For spells specifically, provide deadspeech translation
+- After generation, add functions/definitions to each item
 
-Old age, like a moth in some fading arras, will gnaw my memories oversoon, as it gnaws the memories of all men. Therefore I write this record of the true origin and slaying of that creature known as the Beast of Averoigne. And when I have ended the writing, the record shall be sealed in a brazen box, and that box be set in a secret chamber of my house at Ximes, so that no man shall learn the dreadful verity of this matter till many years and decades have gone by. Indeed, it were not well for such evil prodigies to be divulged while any who took part in the happening are still on the earthward side of Purgatory. And at present the truth is known only to me and to certain others who are sworn to maintain secrecy.
-
-The ravages of the Beast, however, are common knowledge, and have become a tale with which to frighten children. Men say that it slew fifty people, night by night, in the summer of 1369, devouring in each case the spinal marrow. It ranged mostly about the abbey of Perigon and to Ximes and Ste. Zenobie and La Frênaie. Its nativity and lairing-place were mysteries that none could unravel; and church and state were alike powerless to curb its maraudings, so that a dire terror fell upon the land and people went to and fro as in the shadow of death.
-
-From the very beginning, because of my own commerce with occult things and with the spirits of darkness, the baleful Beast was the subject of my concern. I knew that it was no creature of earth or of the terrene hells, but had come with the flaming comet from ulterior space; but regarding its character and attributes and genesis, I could learn no more at first than any other. Vainly I consulted the stars and made use of geomancy and necromancy; and the familiars whom I interrogated professed themselves ignorant, saying that the Beast was altogether alien and beyond the ken of sublunar devils.
-
-Then I bethought me of the ring of Eibon, which I had inherited from my fathers, who were also wizards. The ring had come down, it was said, from ancient Hyperborea; and it was made of a redder gold than any that the earth yields in latter cycles, and was set with a great purple gem, somber and smouldering, whose like is no longer to be found. And in the gem an antique demon was held captive, a spirit from pre-human worlds and ages, which would answer the interrogation of sorcerers.
-
-So, from a rarely opened casket, I brought out the ring of Eibon and made such preparations as were needful for the questioning of the demon. And when the purple stone was held inverted above a small brazier filled with hotly burning amber, the demon made answer, speaking in a voice that was like the shrill singing of fire. It told me the origin of the Beast, which belonged to a race of stellar devils that had not visited the earth since the foundering of Atlantis; and it told me the attributes of the Beast, which, in its own proper form, was invisible and intangible to men, and could manifest itself only in a fashion supremely abominable. Moreover, it informed me of a method by which the Beast could be banished, if overtaken in a tangible shape. And even to me, the student of darkness [and evil], the revelations were a source of horror and surprise.
-
-Musing on these dark matters, I waited among my books and braziers and alembics, for the stars had warned me that my intervention would be required in good time.
-
-Toward the end of August, when the great comet was beginning to decline a little, there occurred the lamentable death of Sister Therèse, killed by the Beast in her cell at the Benedictine convent of Ximes. On this occasion, the Beast was plainly seen by late passers as it ran down the convent wall by moonlight from a window; and others met it in the shadowy streets or watched it climb the city ramparts, running like a monstrous beetle or spider on the sheer stone as it fled from Ximes to regain its hidden lair.
-
-To me, following the death of Therèse, there came privily the town marshal, together with a priest from the household of the Bishop of Ximes. And the two, albeit with palpable hesitation, begged my advice and assistance in the laying of the Beast.
-
-"You, Messire le Chaudronnier," they said, "are reputed to know the arcanic arts of sorcery, and the spells that summon or dismiss evil demons and other spirits. Therefore, in dealing with this devil, it may be that you shall succeed where all others have failed. Not willingly do we employ you in the matter, since it is not seemly for the church and the law to ally themselves with wizardry. But the need is desperate, lest the demon should take other victims; and in return for your aid, we can promise you a goodly reward of gold and a guarantee of lifelong immunity from all inquisition and prosecution which your doings might otherwise invite. The Bishop of Ximes, and the Archbishop of Vyones, are privy to this offer, which must remain secret."
-
-"I ask no reward," I replied, "if it be in my power to rid Averoigne of this scourge. But you have set me a difficult task, and I must prepare myself for the undertaking, in which I shall require certain aid."
-
-"All assistance that we can give you shall be yours to command," they said. "Men-at-arms shall attend you, if need be; and all doors shall be opened at your request. We have consulted Theophile, the abbot of Perigon, and the grief-smitten brother of the lately slain Therèse, who is most zealous for the laying of the fiend, and will admit you to the abbey. The horror seems to center thereabout, and two of the monks have been done to death, and the abbot himself, it is rumored, has been haunted by the Beast. Therefore, it may be that you will wish to visit Perigon."
-
-I reflected briefly, and said:
-
-"Go now, but send to me, an hour before sunset, two men-at-arms with horses and a third steed; and let the men be chosen for their valor and discretion: for this very night I shall visit the abbey."
-
-Now, when the priest and the marshal had gone, I spent several hours in making ready for my journey. It was necessary, above all other things, to compound a certain rare powder that had been recommended by the demon in the purple gem; for only by the casting of this powder could the Beast be driven away before its time. The ingredients of the powder were named in the Book of Eibon, that manual written by an old Hyper-borean wizard, who in his day had dealt with ultra-mundane spirits akin to the demon of the comet; and had also been the owner of the ring.
-
-Having compounded the powder, I stored it in a bag of viper-skin. And soon after I had finished my preparations, the two men-at-arms and the horses came to my house, as had been stipulated.
-
-The men were stout and tested warriors, clad in chain-mail, and carrying spears and swords. I mounted the third horse, a black and spirited mare, and we rode forth from Ximes toward Perigon, taking a direct and little-used way which ran for many miles through the werewolf-haunted forest.
-
-My companions were taciturn, speaking only in brief answer to some question; and this pleased me, for I knew that they would maintain a discreet silence regarding that which might occur before dawn. Swiftly we rode, while the sun sank in a redness as of welling blood among the tall trees; and the darkness wove its thickening webs from bough to bough, closing upon us like some inextricable net of death and evil. Deeper we went, into the brooding woods; and even I, the master of sorceries, trembled a little at the knowledge of all that was abroad in the darkness.
-
-Undelayed and unmolested, however, we came to the abbey at late moonrise, when all the monks, except the aged porter, had retired to their dormitory. The porter, who had received word of our coming, would have admitted us; but this, as it happened, was no part of my plan. Saying I had reason to believe that the Beast would re-enter the abbey that very night, I told the porter my intention of waiting outside the walls to intercept it, and merely asked him to accompany us in a tour of the building's exterior, so that he could point out the various rooms. This he did, and during the course of the tour, he indicated a certain high window in the second story as being that of the abbot Theophile's chamber. The window faced the forest, and I remarked the abbot's rashness in leaving it open. This, the porter told me, was his invariable habit. Behind the window we could see the glimmering of a taper, as if the abbot were keeping late vigil.
-
-We had committed our horses to the porter's care. After he had conducted us around the abbey and had left us, we returned to the space beneath Theophile's window and began our long watch in silence.
-
-Pale and hollow as the face of a corpse, the moon rose higher, swimming above the somber oaks and pines, and pouring a spectral silver on the grey stone of the abbey walls. In the west the comet flared among the lusterless Signs, veiling the lifted sting of the Scorpion as it sank.
-
-We waited hour by hour in the shortening shadow of a high pine, where none could see us from the abbey. When the moon had passed over, falling westward, the shadow began to lengthen toward the wall. All was mortally still, and we saw no movement, apart from the slow changing of the light and shade. Half-way between midnight and dawn, the taper went out in Theophile's cell, as if it had burned to the socket; and thereafter the room remained dark.
-
-Unquestioning, with ready spears, the two men-at-arms companioned me in that vigil. Well they knew the demonian terror which they might face before dawn; but there was no trace of trepidation in their bearing. And knowing much that they could not know, I held in my hands for instant use the bag of viper-skin that contained the Hyperborean powder.
-
-The men stood nearer than I to the forest, facing it perpetually according to a strict order that I had given. But nothing stirred in the fretted gloom; and the skies grew paler, as if with morning twilight. Then, an hour before sunrise, when the shadow of the great pine had reached the wall and was climbing toward Theophile's window, there came the thing which I had anticipated. Very suddenly it came, and with no warning of its nearness, a horror of hellish red light, swift as a kindling, windblown flame, that leapt from the forest gloom and sprang upon us where we stood stiff and weary from our night-long vigil.
-
-One of the men-at-arms was borne to the ground, and I saw above him, in a floating redness as of blood, the black and serpentine form of the Beast. A round and snakish head, without ears or nose, was tearing at the man's armor with sharp innumerable teeth, and I heard the teeth grate and clash on the linked iron as I stepped forward and flung the powder of Eibon at the Beast. The second man-at-arms, undaunted, would have assailed it with his spear, but this I forbade.
-
-The floating powder, fine as a dust of mummia, seemed to dim the bloody light as it fell; and the Beast relinquished the fallen man, writhing away like a burnt serpent from the fire. Its members and body were loathfully convulsed; and the thing seemed to change horribly beneath our gaze, undergoing an incredible metamorphosis. Moment by moment it took on the wavering similitude of man, like a werewolf that returns from his beasthood; and the red light grew dimmer, and the unclean blackness of its flesh appeared to flow and swirl, assuming the weft of cloth, and becoming the folds of a dark robe and cowl such as are worn by the Benedictines. Then, from the cowl, a face began to peer, glimmering pale and thin in the shadow; and the thing covered its face with sooty claws that were turning into hands, and shrank away from me as I pressed upon it, sprinkling it with the remainder of the powder.
-
-Now I had driven it against the abbey wall; and there, with a wild, despairing cry that was half-human, half-demoniac, the thing turned from me and clawed frantically at the gray stone as if it would climb toward the abbot's window in that monstrous fashion that had been its wont. Almost, for a breath, it seemed to run upward, hanging to the wall like a bat or a great beetle. But the change had progressed too far, and it dropped back in the shadow of a pine, and tottering strangely as if with sudden mortal weakness, fell to the ground and lay huddled in its monkish garments like a black night-bird with broken vans.
-
-The rays of the gibbous moon, sifting thinly through the boughs, lay cold and cadaverous on the dead face; though the body was immersed in shadow. And the face, even as I had expected, was that of the abbot Theophile, who had once been pointed out to me in Ximes. Already the peace of death was upon him; and horror had left no sign on the shut eyelids and the sealed lips; and there was no mark on the worn and haggard cheeks, other than that which might come from the saintly rigor of prolonged austerities.
-
-The man-at-arms who had been struck down by the Beast was unharmed, though sorely bruised beneath his mail. He and his fellow stood beside me, saying naught; and I knew that they had recognized the dead abbot. So, while the moon grew grey with the nearness of dawn, I made them swear an awful oath of secrecy, and enjoined them to bear faithful witness to the statement I must make before the monks of Perigon.
-
-Then, having settled this matter, so that the good renown of the holy Theophile should rest unharmed, we aroused the porter and acquainted him with the abbot's lamentable death. And we told this story, averring that the Beast had come upon us unaware, and had gained the abbot's cell before we could prevent it, and had come forth again, carrying Theophile with its snakish members as if to bear him away to the sunken comet. Then, by means of a wizard powder, I had routed the unclean Beast, compelling it to relinquish its prey. And the thing had vanished in a cloud of sulphurous fire and vapor; but Theophile had died from the horror of his plight while the Beast was descending the wall. His death, I said, was a true martyrdom, and would not be in vain: the Beast would no longer plague the country or bedevil Perigon, since the use of Hyperborean powder was a sure exorcism.
-
-This tale was accepted by the Brothers, who grieved mightily for their good abbot. Indeed, the tale was true enough in its fashion, for Theophile had been innocent and was wholly ignorant of the foul change that had come upon him nightly in his cell, and the deeds that were done by the Beast through his loathfully transfigured body. Each night the thing had come from the comet to assuage its hellish hunger; and being otherwise impalpable and powerless, it had used the abbot for its energumen, moulding his flesh in the image of some obscene monster from beyond the stars.
-
-After Theophile's death, the Beast was seen no more in Averoigne; and the murderous deeds were not repeated. And in time the comet passed to other heavens, fading slowly; and the black terror it had wrought became a varying legend, even as all other bygone things. And they who read this record in future ages will believe it not, saying that no demon or malign spirit could ever have prevailed upon true holiness. Indeed, it were well that none should believe the story: for strange abominations pass evermore between earth and moon and athwart the galaxies; and the gulf is haunted by that which it were madness for man to know. Unnameable things have come to us in alien horror, and shall come again. And the evil of the stars is not as the evil of earth.
+  "spells": [
+    "*Nagaire's spell of the Swallowing Sword*",
+    "*Halottmester's Hanging-Shape*",
+    "*The Osculum Formula*",
+    "*Face-Song of Nine Angles*",
+    "*The Gummy Syllable*",
+    "*Fifth Tongue*",
+    "*The Bone Flute Orison*",
+    "*Wiege's Cradling of the Stillborn Word*",
+    "*The Organ-Siphon Formula*",
+    "*A Kriecher's Gutter-Name*",
+    "*The Suppurating Sign*",
+    "*Black Laryngeal*",
+    "*The Teeth-in-Teeth Incantation*",
+    "*Lich's Choking Psalm*",
+    "*Féregnyelv's Bile-Litany*",
+    "*The Degloved-Tongue Word*",
+    "*Wicking Utterance*",
+    "*The Ninefold Weeping Shape*",
+    "*Drowning Diagram*",
+    "*The Varrat Formula of Stitches*",
+    "*Scab-Split Chant*",
+    "*Kukacbeszéd's Seventh Cough*",
+    "*The Pus-Whistle*",
+    "*A Daughter's Invocation*",
+    "*The Wormlight Figure*",
+    "*Halotttánc Shape*",
+    "*Vérszáj's Kissing-Formula*",
+    "*The Orphan Syllable*",
+    "*Chokestone Surprise*",
+    "*The Blueveined Orison*",
+    "*Szemfedő's Closing-Song*",
+    "*Maggot-Count*",
+    "*Gristlesinger's First Words*",
+    "*The Lung-Opening Canticle of the Children of Ratwater*",
+    "*A Widowflesh Sign*",
+    "*Foulcradle's Lullabywork*",
+    "*The Splintered Psalm*",
+    "*Csontsuttogás, the Meaty Whisper*",
+    "*The Softening of Velvet Organs*",
+    "*Rothadásdal's Eleventh Symphony*"
+  ],
+  "ceremonies_rituals_rites": [
+    "*The Csontvár Ritual*",
+    "*Mother of Worms' Wedding-Call*",
+    "*A Harridan's Third Anointing*",
+    "*The Opening of the Sickened Cradle*",
+    "*Law Three and One Half*",
+    "*Szürkevér's Hood-Drawing*",
+    "*Todtwäscher's Ninefold Scouring*",
+    "*The Midwife-Corpse's Seating*",
+    "*Rite Seventeen-B*",
+    "*Ordinance of the Fourth Gut*",
+    "*Statute Nine, Subclause of Ash*",
+    "*Kenotaph III: Weeping*",
+    "*Csontvár II: Reprise*",
+    "*Húskapu IV: Threshold*",
+    "*Do Not Wake the Ash-Mother*",
+    "*Kiss the Second Tooth*",
+    "*Bring Down the Heifer's Daughter*",
+    "*Leave the Window Open for Him*",
+    "*Sepulchration*",
+    "*Embalmwake*",
+    "*Undergrafting*",
+    "*The Widowing of the Eldest Son*",
+    "*The Flensing of the Borrowed Skin*",
+    "*The Quieting of the Orphan Hour*",
+    "*Vespers of Ash and Navel*",
+    "*Matins Below the Ribcage*",
+    "*Compline of the Second Bride*",
+    "*The Black Supper of the Weeping Mother of the Ditch*",
+    "*The Little Mass of Salt, Hair, and Failing Breath*",
+    "*Small Sunday*",
+    "*Red Wednesday*",
+    "*Wet Feast*",
+    "*Thrashwake*",
+    "*Mournfeast*",
+    "*Gallowsvigil*",
+    "*Chryptcrawling*",
+    "*The Second Splinter*",
+    "*A Fourth Flensing*",
+    "*The Eleventh Mourning*",
+    "*The Children's Unburial*"
+  ],
+  "curses_affliction": [
+    "*Greyblood Working*",
+    "*Softspine*",
+    "*Slow Weeping*",
+    "*The Black Pus of the Fifth Son of the Fifth Son*",
+    "*The Dumb Ache of the Hanged Wife*",
+    "*The Sweetmilk of the Well*",
+    "*Third Yellowing*",
+    "*A Ninth Suppuration*",
+    "*Breath-of-Sevens*",
+    "*Fourteenth Wound*",
+    "*The First Wetness*",
+    "*Laughing Sores*",
+    "*Blue Plague*",
+    "*Coppercough*",
+    "*The Mute Belly Aching*",
+    "*Womb of yellow*",
+    "*Toad-Lungs*",
+    "*Hex of Nine Nails*",
+    "*Mark of the Spilled Womb*",
+    "*Brand of the Hungry Saint*",
+    "*The Gift That Feeds*",
+    "*Sour Mercy*",
+    "*The Kindness From Below*",
+    "*Malison of the Weasand*",
+    "*Murrain of the Fifth Ditchling*",
+    "*Frore Pate*",
+    "*Sallow Shrift*",
+    "*Wizened Dugs*",
+    "*Ichor-Thirst*",
+    "*Cerement-Itch*",
+    "*Sour Leman*",
+    "*Bane From the Cistern*",
+    "*Lockjaw Gift*",
+    "*Knuckle-Mildew*",
+    "*Clavicle Hiss*",
+    "*Tallowed-Skin*",
+    "*Eleventh Bedsore*",
+    "*The Grievous Stoop*",
+    "*The Ague of Twain Dawns*",
+    "*Obsequy Rot*"
+  ],
+  "mundane_necromantic_duties": [
+    "*Sour Compaction*",
+    "*Casting the Runes*",
+    "*The Six Reluctancies*",
+    "*The Price*",
+    "*Charnel-Hair-Weaving*",
+    "*Stitching of the Burlap Wound*",
+    "*Count the Loose Teeth*",
+    "*Rendering of Cold Fat*",
+    "*Marrowlaving*",
+    "*Gristlework*",
+    "*Bonecartage*",
+    "*Chrypcartage*",
+    "*Ninth Scouring*",
+    "*The Seventeenth Silence*",
+    "*A Fourth Hour Counterprayer*",
+    "*Thirty-First Culling*",
+    "*Tally the Fingers*",
+    "*Salt the Mouths*",
+    "*Bind the Eyelids Shut*",
+    "*Empty the Third Vessel Before Matins*",
+    "*Writ Eleven*",
+    "*Ordinance Seventeen, Minor*",
+    "*Clause Two of the Midnight Obligations*",
+    "*The Forty-Second Toll: in K-major*",
+    "*Bone-Oiling*",
+    "*Trimming Draughts*",
+    "*Weasand-Clearing*",
+    "*Body-Lading*",
+    "*Tally of Sixteen Mouths*",
+    "*The Seven-Count of Hair*",
+    "*Keeping of the Hairshirts*",
+    "*A Nail Census*",
+    "*Threshing the Old*",
+    "*Cleaning Bones*",
+    "*Combing the Chrypt-Lanes*",
+    "*Undressing the Unclaimed*",
+    "*Wormwatch*",
+    "*Coldwatch*",
+    "*Thirdwatch*",
+    "*Daywatch*"
+  ],
