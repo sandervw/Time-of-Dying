@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Time of Dying is a collaborative fiction project built for iterative composition with Claude AI. The setting is a post-apocalyptic necromantic world born from seven necromancers who destroyed all other life, magic, and gods three thousand years ago. Civilization clings to the Road of Graves, an ever-expanding road paved with gravestones of the dead, while the seven necromancer-gods, each bound to a deadly sin and cursed with degraded pseudo-immortality, are still worshipped. Necromancy (called the Words of Rotten Syllables, spoken in Deadspeech) is the only surviving magic, and the restless dead roam freely beyond the Road.
+Time of Dying is a collaborative fiction project built for iterative composition with Claude AI. The setting is a necromantic world born from seven necromancers who destroyed all other life, magic, and gods three thousand years ago. Civilization clings to the Road of Graves, an ever-expanding road paved with gravestones of the dead, while the seven necromancer-gods, each bound to a deadly sin and cursed with pseudo-immortality, are still worshipped. Necromancy (called Deadspeech) is the only surviving magic, and the restless dead are varied and common.
 
 ## Content Structure
 
@@ -44,14 +44,9 @@ When generating or editing setting/story content:
 
 ### Naming
 
-- **Character names** use one of these patterns:
-  - Compound descriptive phrases as proper names: "Killing Birds with Rocks," "Woman of the Eye," "The Dire Womb," "Skull Honey Bee"
-  - Germanic/Old English roots: Nohr, Murg, Wiege, Kriecher, Angstlich, Lerch
-  - Animals or animal-adjacent words used as names: Octopus, Orca, Manfisher
-  - Dark irony or oxymoron: Darling, Lover, Velvet Soap, Lieutenant-general Princess
-  - Compound neologisms fusing body/violence/intimacy: Winterdemon, Lovecorpse, Soulhacker
-- **Object/item names** run `python sampling.py necromancy_supplies 7` for a random sampling of items. Avoid generic fantasy naming.
-- **Spell/magic naming** run `python sampling.py spells 7` for a random sampling of spells
+- **Character names** can take varied forms: compound descriptive phrases, Germanic/Old English roots, animal-adjacent words, dark irony or oxymoron, Compound neologisms, etc. Run `python sampling.py names 20`. This your inspiration - create NEW names from this model.
+- **Object/item names** run `python sampling.py necromancy_supplies 7`. This your inspiration - create NEW names from this model.
+- **Spell/magic naming** run `python sampling.py spells 7`. This your inspiration - create NEW names from this model.
 - **Setting-specific spellings:** "Chrypt" replaces "Crypt" and "Tohmb" replaces "Tomb" in all setting content.
 
 ### Tone and Aesthetic
