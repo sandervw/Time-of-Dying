@@ -22,6 +22,22 @@ Setting documents are organized hierarchically:
 
 **IMPORTANT:** after creating a new document, ask the user if they want you to run a text-trimmer or draft-editor subagent on the result document.
 
+## Vocabulary Lookups
+
+Before reading full markdown files in `setting/`, check whether the info you need matches one of the array headers in `setting/vocabulary.json`. If it does, run the sampling script from the `setting/` folder instead of reading the JSON directly. **Never read the full `vocabulary.json` file.** Use the sampling script to pull the full array for the one term you need.
+
+- Spells: `python sampling.py spells`
+- Ceremonies, Rituals, Rites: `python sampling.py ceremonies_rituals_rites`
+- Curses, Afflictions: `python sampling.py curses_affliction`
+- Mundane Necromantic Duties: `python sampling.py mundane_necromantic_duties`
+- Astrological/Religious Events: `python sampling.py astrological_religious_events`
+- Titles, Roles: `python sampling.py titles_roles`
+- Necromancy Supplies: `python sampling.py necromancy_supplies`
+- Locations: `python sampling.py locations`
+- Undead: `python sampling.py undead`
+- Cosmologisms: `python sampling.py cosmologisms`
+- Epithets: `python sampling.py epithets`
+
 ## Writing Conventions
 
 When generating or editing setting/story content:
@@ -34,8 +50,8 @@ When generating or editing setting/story content:
   - Animals or animal-adjacent words used as names: Octopus, Orca, Manfisher
   - Dark irony or oxymoron: Darling, Lover, Velvet Soap, Lieutenant-general Princess
   - Compound neologisms fusing body/violence/intimacy: Winterdemon, Lovecorpse, Soulhacker
-- **Object/item names** are descriptive-literal with a sinister twist: Razorshell (frag grenade shaped like a mollusk), Violet Jelly (tissue-melting unguent), Burnbottles (molotovs), Woundwool, Jugflower. Avoid generic fantasy naming. Name things by what they do or look like, then let the horror speak for itself.
-- **Spell/magic naming** follows "Words with Rotten Syllables" pattern: decay-flavored, visceral, linguistic corruption.
+- **Object/item names** run `python sampling.py necromancy_supplies 7` for a random sampling of items. Avoid generic fantasy naming.
+- **Spell/magic naming** run `python sampling.py spells 7` for a random sampling of spells
 - **Setting-specific spellings:** "Chrypt" replaces "Crypt" and "Tohmb" replaces "Tomb" in all setting content.
 
 ### Tone and Aesthetic

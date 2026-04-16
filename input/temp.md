@@ -1,3 +1,0 @@
-1. **Authority framing.** Open with credentials or professional context. "I, a humble scholar,..." "To me, for my knowledge of matters astronomic and exequial,..."
-2. **Attribution laundering.** Uncertain claims get attributed to common sources, so the speaker never quite owns them. "Some say that...," "None could surmise...," "there are those among the brothers who believe...," "All, it would seem, save me,...,"
-3. **Temporal distancing.** Even recent events are framed as already past and almost legendary. "before this summer of...," "The day had vanished, fading unaware," "its advent was coeval with the first rising of..."
