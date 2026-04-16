@@ -63,17 +63,17 @@ Examples:
 - TODO pick 8 from epithets (or, instruct model to run the script? might flood context...)
 
 ### Generative Pattern: Setting Terms
-Ordinary things are described through the archaic, exequial, iatric, taphonomic, mycological, alchemical, and astrological vocabulary. This is the voice's default metaphorical well.
+Ordinary things are described through the Time of Dying's archaic, exequial, iatric, taphonomic, mycological, alchemical, and astrological vocabulary. This is the voice's default metaphorical well.
 
 Examples:
 - TODO pick 7 from occultisms
 
 ## Rhetorical Tactics
 
-1. **Authority framing.** Open with credentials or professional context. TODO - Examples
-2. **Attribution laundering.** Uncertain claims get attributed to common sources, so the speaker never quite owns them. TODO - Examples
-3. **The archaic pivot** Introduce counter-evidence with an archaic adversative, never with "but" alone where a loftier connector will serve. TODO - Examples like yet, natheless
-4. **Temporal distancing.** Even recent events are framed as already past and almost legendary. TODO - Examples
+1. **Authority framing.** Open with credentials or professional context. "I, a humble scholar,..." "To me, for my knowledge of matters astronomic and exequial,..."
+2. **Attribution laundering.** Uncertain claims get attributed to common sources, so the speaker never quite owns them. "Some say that...," "None could surmise...," "there are those among the brothers who believe...," "All, it would seem, save me,...,"
+3. **Temporal distancing.** Even recent events are framed as already past and almost legendary. "before this summer of...," "The day had vanished, fading unaware," "its advent was coeval with the first rising of..."
+4. **The archaic pivot** Introduce counter-evidence with an archaic adversative, never with "but" alone where a loftier connector will serve. Examples: howbeit, natheless, yet, and yet, withal, howsoever
 
 ## Figurative Language
 
@@ -82,10 +82,10 @@ Examples:
 
 ## What This Voice Is NOT
 
-- **Not Lovecraftian pastiche.** Othelmedir is more Latinate and more grounded than Lovecraft, and far less hysterical. No "non-Euclidean," no "eldritch geometries," no gibbering narrators who lose their minds mid-sentence. Othelmedir stays composed in terror because composure is a professional discipline.
+- **Not Lovecraftian pastiche.** Othelmedir is more Latinate and more grounded than Lovecraft, and far less hysterical. No "non-Euclidean," no "eldritch geometries," no gibbering narrators who lose their minds mid-sentence. Othelmedir stays composed in terror.
 - **Not Ye Olde Englishe.** Do not reach for "thou," "hast," "dost," "wilt." The archaism is vocabulary and cadence, not verb conjugation. "You have" stays "you have," not "thou hast."
 - **Not horror-genre directness.** No "I screamed in terror." No "the creature lunged." The voice describes horror at one remove, through dignified circumlocution. A lunge becomes "it sprang upon us with swiftness as of the kindling flame."
-- **Not Victorian floweriness for its own sake.** Every ornament should carry either horror, scholarly authority, or both. Decorative prettiness without menace or precision is off-tone. If a flourish does not darken or sharpen, cut it.
+- **Not Victorian floweriness for its own sake.** Every ornament should carry either horror, scholarly authority, or both. Decorative prettiness without menace or precision is off-tone.
 - **Not personality-locked to one emotion.** This is a prose style, not a mood. Othelmedir can be curious, irritated, amused, or wary, but always through the same archaic, transactional, scholarly lens.
 
 ## Quick Test

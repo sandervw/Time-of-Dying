@@ -1,207 +1,71 @@
-  "ceremonies_rituals_rites": [
-    "*Matins Below the Ribcage* - Dawn prayer sung through a slit sternum.",
-    "*The Quieting of the Orphan Hour* - Hushing hour when ghost-children cry unfed.",
-    "*Kiss the Second Tooth* - Child's pact sealed on a molar.",
-    "*Csontvár II: Reprise* - Bone-castle reconsecration after structural marrow-shift.",
-    "*Compline of the Second Bride* - Widower's vespers for wife who replaces wife.",
-    "*Thrashwake* - Violent mourning dance that exhausts the grief.",
-    "*The Midwife-Corpse's Seating* - Installing a dead midwife to receive unborn.",
-    "*Leave the Window Open for Him* - Household rite inviting the Old Man Below.",
-    "*Do Not Wake the Ash-Mother* - Silent vigil by a crone's cold hearth.",
-    "*The Little Mass of Salt, Hair, and Failing Breath* - Hedge-witch blessing spoken over a dying infant.",
-    "*Embalmwake* - Drunken vigil held inside fluid-pipeline cisterns.",
-    "*Small Sunday* - Weekly child-sized sabbath observed between the true Sundays.",
-    "*A Fourth Flensing* - Skinning performed once prior three have failed.",
-    "*Kenotaph III: Weeping* - Third visit to an empty grave, weeping required.",
-    "*The Widowing of the Eldest Son* - Son ritually mourned as his mother's new husband.",
-    "*Húskapu IV: Threshold* - Fourth passage through a door of bound meat.",
-    "*Undergrafting* - Sewing living tissue onto buried corpse-kin.",
-    "*Mournfeast* - Gorging performed while naming each dead aloud.",
-    "*Mother of Worms' Wedding-Call* - Summons issued to would-be consorts at dusk.",
-    "*Szürkevér's Hood-Drawing* - Greyblood initiate's cowl lowered over new eyes.",
-    "*The Csontvár Ritual* - Bone-tower consecration using seven mourners' teeth.",
-    "*Chryptcrawling* - Pilgrimage made knee-walking through sacked vaults.",
-    "*The Second Splinter* - Removing the splinter a dying man left behind.",
-    "*Red Wednesday* - Midweek bloodletting honoring the Red King.",
-    "*Sepulchration* - Rite sealing a grave against resurrecters' shovels.",
-    "*Ordinance of the Fourth Gut* - Legal butchery reserved for the colon.",
-    "*Rite Seventeen-B* - Bureaucratic backup ritual when Rite Seventeen fails.",
-    "*Wet Feast* - Uncooked meal eaten weeping over the platter.",
-    "*Vespers of Ash and Navel* - Evensong whispered into a mother's belly-button.",
-    "*Gallowsvigil* - Night spent guarding a hanged man's sway.",
-    "*Todtwäscher's Ninefold Scouring* - Corpse-washer scrubs the dead nine consecutive times.",
-    "*The Black Supper of the Weeping Mother of the Ditch* - Roadside meal laid out for a drowning ghost.",
-    "*The Opening of the Sickened Cradle* - Heretical attempt to unseal the Thin Man's tohmb.",
-    "*Bring Down the Heifer's Daughter* - Slaughter of a calf born to slaughtered kine.",
-    "*Statute Nine, Subclause of Ash* - Legal recitation required before cremating a stranger.",
-    "*The Flensing of the Borrowed Skin* - Returning stolen hide to its original owner.",
-    "*The Eleventh Mourning* - Grief cycle observed eleven full years after death.",
-    "*A Harridan's Third Anointing* - Old woman oiled thrice to defer her passing.",
-    "*Law Three and One Half* - Half-statute invoked between two contradictory rites.",
-    "*The Children's Unburial* - Parents digging up small graves by moonlight."
-  ],
-  "curses_affliction": [
-    "*Coppercough* - Sputum tastes of pennies; lungs slowly verdigris inside.",
-    "*Cerement-Itch* - Skin crawls as if bound in unseen graveclothes.",
-    "*Laughing Sores* - Open wounds giggle softly at passing strangers.",
-    "*The Sweetmilk of the Well* - Drawn water curdles sugary; drinkers birth pale worms.",
-    "*Lockjaw Gift* - Teeth seal shut, yet prophecies leak through gums.",
-    "*The Gift That Feeds* - An extra mouth opens somewhere private, demanding meals.",
-    "*Bane From the Cistern* - Bathwater remembers the victim, drowning them nightly in dreams.",
-    "*Sour Mercy* - Healing wounds turn vinegar; every kindness festers afterward.",
-    "*Tallowed-Skin* - Flesh softens to candle-fat; body weeps warm drippings.",
-    "*Breath-of-Sevens* - Each exhalation counts down; seventh breath kills.",
-    "*The Ague of Twain Dawns* - Fever returns every second sunrise, never truly lifting.",
-    "*Sallow Shrift* - Confession yellows the tongue, leaving truth permanently jaundiced.",
-    "*Knuckle-Mildew* - Grey mold blooms between fingers; grips rot loose.",
-    "*Blue Plague* - Capillaries map cobalt across the living face.",
-    "*Obsequy Rot* - Corpse decomposes during its own funeral, finishing before burial.",
-    "*Frore Pate* - Skull remains glacier-cold; thoughts freeze mid-sentence.",
-    "*Third Yellowing* - After two jaundices, a third gilds the eyes shut.",
-    "*The Dumb Ache of the Hanged Wife* - Throat bruise appears with a silent, grieving pressure.",
-    "*Eleventh Bedsore* - Tenth heals clean; the eleventh never does.",
-    "*Softspine* - Vertebrae turn to wet cartilage; victim droops like wilted stalk.",
-    "*Malison of the Weasand* - Gullet narrows until only graveyard soil passes down.",
-    "*Ichor-Thirst* - Craving for black blood overrides all other hungers.",
-    "*The First Wetness* - An unexplained dampness blooms, preceding every subsequent illness.",
-    "*Wizened Dugs* - Breasts shrivel to fig-leather; milk runs grey.",
-    "*Brand of the Hungry Saint* - Starvation mark burns on ribs; food passes through untouched.",
-    "*Slow Weeping* - One tear yearly, carrying a year's griefs.",
-    "*Hex of Nine Nails* - Fingernails fall serially; the tenth never grows.",
-    "*Greyblood Working* - Blood thickens ashen, clots reluctantly, and chills the limbs.",
-    "*A Ninth Suppuration* - Eight boils heal; the ninth bursts worms.",
-    "*Murrain of the Fifth Ditchling* - Fifthborn child spreads a rot through livestock and kin.",
-    "*Sour Leman* - Lovers taste rancid; affection curdles upon contact.",
-    "*Mark of the Spilled Womb* - Belly scar weeps monthly, though no womb remains.",
-    "*Fourteenth Wound* - Thirteen cuts survive; the fourteenth always kills.",
-    "*Clavicle Hiss* - A whispered curse escapes the collarbone at night.",
-    "*The Grievous Stoop* - Spine folds under the weight of inherited guilt.",
-    "*Toad-Lungs* - Breath bubbles wetly; victim croaks instead of speaks.",
-    "*Womb of yellow* - Unborn children gestate jaundiced, stillborn, and sulfur-smelling.",
-    "*The Kindness From Below* - Buried dead offer gentle dreams, then claim the dreamer.",
-    "*The Mute Belly Aching* - Silent gut cramps that never surface as sound.",
-    "*The Black Pus of the Fifth Son of the Fifth Son* - Tar weeps from every pore of that doomed lineage."
-  ],
-  "mundane_necromantic_duties": [
-    "*Daywatch* - Sunlit vigil keeping fresh corpses from waking early.",
-    "*Tally the Fingers* - Counting severed digits in the reagent barrels.",
-    "*Cleaning Bones* - Scraping cartilage and gristle from harvested skeletons.",
-    "*Charnel-Hair-Weaving* - Braiding scalp hair into wards against uninterred souls.",
-    "*Marrowlaving* - Rinsing marrow cavities to flush necromantic residue.",
-    "*Ordinance Seventeen, Minor* - Resealing any chrypt lid opened before dusk.",
-    "*Wormwatch* - Guarding Coldsoil pots against escaping corpse-worms.",
-    "*Salt the Mouths* - Packing coarse salt behind the teeth of the freshly dead.",
-    "*Casting the Runes* - Scratching warding Deadspeech onto threshold stones nightly.",
-    "*Chrypcartage* - Hauling sealed chrypt-caskets between vault and road.",
-    "*Gristlework* - Trimming tendon-scraps into cordage for lesser bindings.",
-    "*A Nail Census* - Cataloguing every fingernail dropped during Shriving.",
-    "*Writ Eleven* - Inking a bone-slip for each soul shriven that shift.",
-    "*Coldwatch* - Tending the ice that keeps mancer tohmbs dormant.",
-    "*Trimming Draughts* - Skimming rind from vats of embalming fluid.",
-    "*Bind the Eyelids Shut* - Suturing the lids of cadavers before viewing hours.",
-    "*The Seven-Count of Hair* - Counting scalp strands in sevens, discarding stray counts.",
-    "*Threshing the Old* - Breaking dry ancestor-bones into dust-sack reagent.",
-    "*Sour Compaction* - Pressing fermented ghost-foam into brick for transport.",
-    "*Thirdwatch* - The bleak hour-shift between matins and dawnlight.",
-    "*A Fourth Hour Counterprayer* - Whispered rebuke against prayers the dead might answer.",
-    "*Keeping of the Hairshirts* - Laundering the bristled vestments of junior resurrecters.",
-    "*Body-Lading* - Loading carted corpses in proper head-to-foot order.",
-    "*Tally of Sixteen Mouths* - Feeding sixteen skull-jaws their nightly spoonful of jelly.",
-    "*Bonecartage* - Wheeling barrows of picked skeletons to the shriving house.",
-    "*Undressing the Unclaimed* - Stripping the nameless dead for the Tailors.",
-    "*The Six Reluctancies* - Reading aloud the six spells no apprentice wants recited.",
-    "*Stitching of the Burlap Wound* - Sewing sackcloth shrouds over torn chest cavities.",
-    "*The Price* - Surrendering a personal memory to quiet a restless patrol-skeleton.",
-    "*Rendering of Cold Fat* - Boiling down corpse-suet into tallow for banshee-wax.",
-    "*Empty the Third Vessel Before Matins* - Pouring the third censer-jar out before first bell.",
-    "*Clause Two of the Midnight Obligations* - Reading the dead the hour and their own epitaphs.",
-    "*The Forty-Second Toll: in K-major* - Striking the bone-bell in its proper cracked key.",
-    "*Combing the Chrypt-Lanes* - Walking the vault corridors, gathering what wandered loose.",
-    "*Thirty-First Culling* - Putting down the month's final batch of failed raisings.",
-    "*Count the Loose Teeth* - Sorting shed molars from the charnel-floor sweepings.",
-    "*Bone-Oiling* - Greasing joint-sockets of working skeletons against winter seize.",
-    "*Ninth Scouring* - The ninth and final scrub of the altar slab before dawn.",
-    "*Weasand-Clearing* - Pulling stoppage from corpse-throats so Deadspeech carries clean.",
-    "*The Seventeenth Silence* - Holding the seventeenth breath-pause in the night's summoning liturgy."
-  ],
-  "astrological_religious_events": [
-    "*Hálókő Eclipse* - Slate sun eaten; golems wake beneath earth.",
-    "*Bleedmoon* - Harridan's moon runs red; wounds refuse clotting.",
-    "*Chimaera V: Conduit* - Fifth star opens a throat between planes.",
-    "*Rozsda Vigil* - Night spent scouring rust from family bones.",
-    "*The Gibbet Alignment* - Seven stars hang like nooses in procession.",
-    "*Feast of the Breathing Wound* - Cultists eat through holes cut in neighbors.",
-    "*Vespers of the Cracked Gut* - Evening prayers sung while fasting unto rupture.",
-    "*The Shrike Market Hour* - Dead birds barter names for unborn grudges.",
-    "*Gristmill Hour* - Dream-hour when ancestors grind teeth into flour.",
-    "*Black Milk Tide* - Wet-nurses weep ink; infants born already literate.",
-    "*Hour of the Kneeling Pig* - Livestock bow toward the Lake of Tomatoes.",
-    "*The Wroth Procession* - Flayer's parade; speakers flayed for each syllable.",
-    "*Szemfény's Harvest* - Eye-shine reaps truth from the honest sleeper.",
-    "*Lampreygate* - River-mouths open; the drowned swim upstream home.",
-    "*Sallowsolstice* - Longest jaundiced day; livers quail inside pilgrims.",
-    "*Mass of the Fetid Bell* - Cathedral bell tolls pus across three parishes.",
-    "*Chimaera IX: Vestibule* - Ninth star's antechamber admits only barefoot corpses.",
-    "*Night of the Inverted Choir* - Throats sing downward; melody exits through anus.",
-    "*Tűzbéka's Mating* - Firetoads couple; swamps ignite with spawning heat.",
-    "*The Grinning Aperture* - A sky-hole opens, teeth ringed around it.",
-    "*The Rust Nativity* - Iron statues bleed oil; wrought-iron saints whelp nails.",
-    "*The Unspooling of Grandmother Rib* - Ancestral cage unwinds, thread by thread, through descendants.",
-    "*Vigil of the Weeping Marrow* - Long bones seep; vigilkeepers catch the discharge.",
-    "*The Electric Oval* - Aurora narrows; hair stands on every grave.",
-    "*The Kidneystone Vigil* - Pilgrims pass stones aloud before the altar.",
-    "*Eve of Split* - Pregnant animals birth twins already quarreling.",
-    "*The Offal Vespers* - Priests recite while sorting yesterday's entrails.",
-    "*Groin-Lantern Night* - Hung guts glow; brothels douse their honest candles.",
-    "*Sputum: The Conjunction* - Two stars kiss; consumptives cough matched phlegm.",
-    "*Chimaera VII: Larynx* - Seventh star hums; every sung oath becomes binding.",
-    "*Suture's Equinox* - Day and night stitched; old scars twitch open.",
-    "*Feast of Nine Goiters* - Nine afflicted pilgrims fed; their swellings speak counsel.",
-    "*Viscera Matins* - Dawn prayers mumbled through a freshly opened belly.",
-    "*The Cataract Ascendant* - Blind stars rise; seers go milky for hours.",
-    "*Seventh Wound of the Sky* - A fixed gash weeps slate-colored rain all day.",
-    "*Procession of Seven Mouths* - Seven heralds shout one word, one apiece, westward.",
-    "*Lurid Day* - Sun flares yellow; skin blisters into rude colors.",
-    "*Káoszkő's Resonance* - A buried stone hums; compasses forget which way.",
-    "*Őrlőkő's Descent* - Millstone star sinks; bread refuses to rise.",
-    "*The Umbilic Transit* - A cord of light crosses noon; mothers remember severed kin."
-  ],
-  "titles_roles": [
-    "*Gland-Taster* - Samples endocrine juices to diagnose a corpse's sins.",
-    "*Cantor Vérskéz* - Chants blood-hymns that thicken fresh wounds into scripture.",
-    "*Deacon Rags* - Launders vestments stained by sacramental flaying ceremonies.",
-    "*Weenlighter* - Lights candles made from rendered stillborn fat.",
-    "*The Tongue* - Speaks for a mancer who forbade his own mouth.",
-    "*Cutter of Lesser Ligaments* - Prepares corpses by severing the unneeded sinews.",
-    "*Mage of Flies* - Commands maggot-swarms that shrive souls into useful pulp.",
-    "*Singer of the Long Teeth* - Lulls harridans' hounds with molar-note lullabies.",
-    "*Curate of the Box* - Tends the reliquary coffin housing a Thin-Man splinter.",
-    "*Tooth-Warden* - Inventories the molars harvested from executed debtors.",
-    "*Sub-prior Würgbein* - Junior abbot who interrogates prisoners via throat-bones.",
-    "*Rib-Usher* - Parts cadaver ribcages to seat arriving congregants.",
-    "*Polite Flayer of Honored Guests* - Skins visiting dignitaries with practiced, courteous precision.",
-    "*Almoner of the Slow Pus* - Doles festering salves to lepers outside the Leper Stone.",
-    "*The Barren Obstetrix* - Midwife who delivers nothing but stillborn homunculi.",
-    "*Jackal* - Outrunner who scavenges battlefields for still-warm mancer material.",
-    "*The Chancellor of Opened Graves* - Notarizes every exhumation warrant issued along the Road.",
-    "*Groom of the Black Stall* - Feeds and grooms the chapel's undead stallions.",
-    "*Meatnurse* - Suckles torture victims back to sufferable consciousness.",
-    "*Lord Chamberlain of Kindnesses* - Oversees mercy killings within noble households.",
-    "*Nail-Confessor* - Hears final confessions while driving iron through palms.",
-    "*Spleenreeve* - Assesses spleen-tithes owed by each parish household.",
-    "*Friar of the Crooked Leg* - Mendicant monk whose shattered knee grants prophecy.",
-    "*Liver-Herald* - Proclaims daily omens read from fresh-split livers.",
-    "*Gutkeep* - Warden tasked with guarding chrypt-buried entrails overnight.",
-    "*Midwife of Sore* - Coaxes boils and abscesses into ripe weeping.",
-    "*Reeve Knochenfleisch* - Magistrate who settles disputes with bonemeal weregild.",
-    "*Squire of Leaking Rooms* - Attends a knight whose wounds never stop seeping.",
-    "*Baron of the Sixth Mouth* - Minor noble who feeds a surplus parasitic maw.",
-    "*Vulture Captain* - Leads a company of corpse-scouring conscripts.",
-    "*Archdeacon Bleedhand* - Senior cleric whose palms weep consecrated blood nightly.",
-    "*The Tender of Forgotten Wounds* - Dresses injuries the wounded themselves cannot remember.",
-    "*Skullgrubber* - Digs battlefield skulls free for the lichen-farmers' hymns.",
-    "*The Ninth Widow* - Ritual mourner married successively to eight dead mancers.",
-    "*Minister of the Furnishing* - Arranges tohmb interiors with the wealthy dead's belongings.",
-    "*Wombwright* - Shapes artificial wombs from leather, wax, and prayer.",
-    "*Warden of the Open Chest* - Guards a saint's eternally-splayed ribcage relic."
-  ]
+## 1. The Deposition of Brother Gerome
+
+I, a poor scrivener and the humblest monk of the Benedictine Abbey of Perigon, have been asked by our abbot Theophile to write down this record of a strange evil that is still rampant, still unquelled. And, ere I have done writing, it may be that the evil shall come forth again from its lurking-place, and again be manifest.
+
+We, the friars of Perigon, and all others who have knowledge of this thing, agree that its advent was coeval with the first rising of the red comet which still burns nightly, a flying balefire, above the moonless hills. Like Satan's rutilant hair, trailing on the wind of Gehenna as he hastens worldward, it rose below the Dragon in early summer; and now it follows the Scorpion toward the western woods. Some say that the horror came from the comet, flying without wings to earth across the stars. And truly, before this summer of 1369, and the lifting of that red, disastrous scourge upon the heavens, there was no rumor or legend of such a thing in all Averoigne.
+
+As for me, I must deem that the beast is a spawn of the seventh hell, a foulness born of the bubbling, flame-blent ooze; for it has no likeness to the beasts of earth, to the creatures of air and water. And the comet may well have been the fiery vehicle of its coming.
+
+To me, for my sins and unworthiness, was it first given to behold the beast. Surely the sight thereof was a warning of those ways which lead to perdition: for on that occasion I had broken the rule of St. Benedict which forbids eating during a one-day's errand away from the monastery. I had tarried late, after bearing a letter from Theophile to the good priest of Ste. Zenobie, though I should have been back well before evensong. And also, apart from eating, I had drunk the mellow white wine of Ste. Zenobie with its kindly people. Doubtless because I had done these things, I met the nameless, night-born terror in the woods behind the abbey when I returned.
+
+The day had vanished, fading unaware; and the long summer eve, without moon, had thickened to a still and eldritch darkness ere I approached the abbey postern. And hurrying along the forest path, I felt an eerie fear of the gnarled, hunchback oaks and their pit-deep shadows. And when I saw between their antic boughs the vengefully streaming fire of the new comet, which seemed to pursue me as I went, the goodly warmth of the wine died out and I began to regret my truancy. For I knew that the comet was a harbinger of ill, an omen of death and Satanry to come.
+
+Now, as I passed among the ancient trees that tower thickly, growing toward the postern, I thought that I beheld a light from one of the abbey windows and was much cheered thereby. But, going on, I saw that the light was near at hand, beneath a lowering bough beside my path; and moreover, it moved as with the flitting of a restless fenfire, and was wholly dissimilar to the honest glow of a lamp, lantern or taper. And the light was of changeable color, being pale as a corposant, or ruddy as new-spilled blood, or green as the poisonous distillation that surrounds the moon.
+
+Then, with ineffable terror, I beheld the thing to which the light clung like a hellish nimbus, moving as it moved, and revealing dimly the black abomination of head and limbs that were not those of any creature wrought by God. The horror stood erect, rising to the height of a tall man, and it moved with the swaying of a great serpent, and its members undulated as if they were boneless. The round black head, having no visible ears or hair, was thrust foreward on a neck of snakish length. Two eyes, small and lidless, glowing hotly as coals from a wizard's brazier, were set low and near together in the noseless face above the serrate gleaming of bat-like teeth.
+
+This much I saw, and no more, ere the thing went past me with the strange nimbus flaring from venomous green to a wrathful red. Of its actual shape, and the number of its limbs, I could form no just notion. It uttered no sound, and its motion was altogether silent. Running and slithering rapidly, it disappeared in the bough-black night, among the antique oaks; and I saw the hellish light no more.
+
+I was nigh dead with fear when I reached the abbey and sought admittance at the postern. And the porter who came at last to admit me, after I had knocked many times, forbore to chide me for my tardiness when I told him of that which I had seen in the moonless wood.
+
+On the morrow, I was called before Theophile, who rebuked me sternly for my breach of discipline, and imposed a penance of daylong solitude. Being forbidden to hold speech with the others, I did not hear till the second morn of the thing that was found before nones in the wood behind Perigon, where I had met the nameless beast.
+
+The thing was a great stag which had been slain in some ungodly fashion, not by wolf or hunter or poacher. It was unmarked by any wound, other than a wide gash that had laid bare the spine from neck to tail; and the spine itself had been shattered and the white marrow sucked therefrom; but no other portion of the stag had been devoured. None could surmise the nature of the beast that slew and ravened in such a manner; but many, for the first time, began to credit my tale, which the abbot and the brothers had hitherto looked upon as a sort of drunken dream. Verily, they said, a creature from the Pit was abroad, and this creature had killed the stag and had sucked the marrow from its broken spine. And I, aghast with the recollection of that loathly vision, marveled at the mercy of God, which had permitted me to escape the doom of the stag.
+
+None other, it seemed, had beheld the monster on that occasion; for all the monks, save me, had been asleep in the dormitory; and Theophile had retired early to his cell. But, during the nights that followed the slaying of the stag, the presence of this baleful thing was made manifest to all.
+
+Now, night by night, the comet greatened, burning like an evil mist of blood and fire, while the stars bleached before it and terror shadowed the thoughts of men. And in our prayers, from prime to evensong, we sought to deprecate the unknown ills which the comet would bring in its train. And day by day, from peasants, priests, woodcutters and others who came to visit the abbey, we heard the tale of fearsome and mysterious depredations, similar in all ways to the killing of the stag.
+
+Dead wolves were found with their chines laid open and the spinal marrow gone; and an ox and a horse were treated in like fashion. Then, it would seem, the beast grew bolder—or else it wearied of such humble prey as deer and wolves, horses and oxen.
+
+At first, it did not strike at living men, but assailed the helpless dead like some foul eater of carrion. Two freshly buried corpses were found lying in the cemetery at Ste. Zenobie, where the thing had dug them from their graves and had laid open their vertebrae. In each case, only a little of the marrow had been eaten; but as if in rage or disappointment, the cadavers had been torn into shreds from crown to heel, and the tatters of their flesh were mixed inextricably with the rags of their cerements. From this, it would seem that only the spinal marrow of creatures newly killed was pleasing to the monster.
+
+Thereafter the dead were not molested; but a grievous toll was taken from the living. On the night following the desecration of the graves, two charcoal-burners, who plied their trade in the forest at a distance of no more than a mile from Perigon, were slain foully in their hut. Other charcoal-burners, dwelling nearby, head the shrill screams that fell to sudden silence; and peering fearfully through the chinks of their bolted doors, they saw anon in the grey starlight the departure of a black, obscenely glowing shape that issued from the hut. Not till dawn did they dare to verify the fate of their hapless fellows, who, they then discovered, had been served in the same manner as the wolves and other victims of the beast.
+
+When the tale of this happening was brought to the abbey, Theophile called me before him and questioned me closely anent the apparition which I had encountered. He, like the others, had doubted me first, deeming that I was frightened by a shadow or by some furtive creature of the wood. But, after the series of atrocious maraudings, it was plain to all that a fiendish thing such as had never been fabled in Averoigne, was abroad and ravening through the summer woods. And moreover it was plain that this thing was the same which I had beheld on the eve of my return from Ste. Zenobie.
+
+Our good abbot was greatly exercised over this evil, which had chosen to manifest itself in the neighborhood of the abbey, and whose depredations were all committed within a five-hours' journey of Perigon. Pale from his over-strict austerities and vigils, with hollow cheeks and burning eyes, Theophile called me before him and made me tell my story over and over, listening as one who flagellates himself for a fancied sin. And though I, like all others, was deeply sensible of this hellish horror and the scandal of its presence, I marvelled somewhat at the godly wrath and indignation of our abbot, in whom blazed a martial ardor against the minions of Asmodai. "Truly," he said, "there is a great devil among us, that has risen with the comet from Malebolge. We, the monks of Perigon, must go forth with cross and holy water to hunt the devil in its hidden lair, which lies haply at our very portals."
+
+So, on the afternoon of that same day, Theophile, together with myself and six others chosen for their hardihood, sallied forth from the abbey and made search of the mighty forest for miles around, entering with lifted crosses, by torchlight, the deep caves to which we came, but finding no fiercer thing than wolf or badger. Also, we searched the vaults of the ruined castle of Faussesflammes, which is said to be haunted by vampires. But nowhere could we trace the sable monster, or find any sign of its lairing.
+
+Since then, the middle summer has gone by with nightly deeds of terror, beneath the blasting of the comet. Beasts, men, children, women, have been done to death by the monster, which, though seeming to haunt mainly the environs of the abbey, has ranged afield even to the shores of the river Isoile and the gates of La Frênaie and Ximes. And some have beheld the monster at night, a black and slithering foulness clad in changeable luminescence; but no man has ever beheld it by day.
+
+Thrice has the horror been seen in the woods behind the abbey; and once, by full moonlight, a brother peering from his window descried it in the abbey garden, as it glided between the rows of peas and turnips, going toward the forest. And all agree that the thing is silent, uttering no sound, and is swifter in its motion than the weaving viper.
+
+Much have these occurrences preyed on our abbot, who keeps to his cell in unremitting prayer and vigil, and comes forth no longer, as was his wont, to dine and hold converse with the guests of the abbey. Pale and meager as a dying saint he grows, and a strange illness devours him as if with perpetual fever; and he mortifies the flesh till he totters with weakness. And we others, living in the fear of God, and abhorring the deeds of Satan, can only pray that the unknown scourge be lifted from the land, and pass with the passing of the comet.
+
+*NOTE. Soon after the above deposition, Brother Gerome was found dead in his cell. His body was in the same condition, had been served in the same manner, as the other victims of the Beast.*
+
+## 2. The Letter of Theophile to Sister Therèse
+
+... To you, my sister in God as well as by consanguinity, I must ease my mind (if this be possible) by writing again of the dread thing that harbors close to Perigon: for this thing has struck once more within the abbey walls, coming in darkness and without sound or other ostent than the Phlegethonian luster that surrounds its body and members.
+
+I have told you of the death of Brother Gerome, slain at evening, in his cell, while he was copying an Alexandrian manuscript. Now the fiend has become even bolder; for last night it entered the dormitory, where the brothers sleep in their robes, girded and ready to arise instantly. And without waking the others, on whom it must have cast a Lethean spell, it took Brother Augustin, slumbering on his pallet at the end of the row. And the fell deed was not discovered fill daybreak, when the monk who slept nearest to Augustin awakened and saw his body, which lay face downward with the back of the robe and the flesh beneath a mass of bloody tatters.
+
+On this occasion, the Beast was not beheld by anyone; but at other times, full often, it has been seen around the abbey; and its craftiness and hardihood are beyond belief, except as those of an arch-devil. And I know not where the horror will end; for exorcisms and the sprinkling of holy water at all doors and windows have failed to prevent the intrusion of the Beast; and God and Christ and all the holy Saints are deaf to our prayers.
+
+Of the terror laid upon Averoigne by this thing, and the bale and mischief it has wrought outside the abbey, I need not tell, since all this will have come to you as a matter of common report. But here, at Perigon, there is much that I would not have rumored publicly, lest the good fame of the abbey should suffer. I deem it an humiliating thing, and a derogation and pollution of our sanctity, that a foul fiend should have ingress to our halls unhindered and at will.
+
+There are strange whispers among the brothers, who believe that Satan himself has risen to haunt us. Several have met the Beast even in the chapel, where it has left an unspeakably blasphemous sign of its presence. Bolts and locks are vain against it; and vain is the lifted cross to drive it away. It comes and goes at its own choosing; and they who behold it flee in irrestrainable terror. None knows where it will strike next; and there are those among the brothers who believe it menaces me, the elected abbot of Perigon; since many have seen it gliding along the hall outside my cell. And Brother Constantin, the cellarer, who returned late from a visit to Vyones not long ago, swears that he saw it by moonlight as it climbed the wall toward that window of my cell which faces the great forest. And seeing Constantin, the thing dropped to the ground like a huge ape and vanished among the trees.
+
+All, it would seem, save me, have beheld the monster. And now, my sister, I must confess a strange thing, which above all else would attest the influential power of Hell in this matter, and the hovering of the wings of Asmodai about Perigon.
+
+Each night, since the coming of the comet and the Beast, I have retired early to my cell, with the intention of spending the nocturnal hours in vigil and prayer, as I am universally believed to do. And each night a stupor falls upon me as I kneel before Christ on the silver crucifix; and oblivion steeps my senses in its poppy; and I lie without dreams on the cold floor till dawn. Of that which goes on in the abbey I know nothing; and all the brothers might be done to death by the Beast, and their spines broken and sucked as is its invariable fashion, without my knowledge.
+
+Haircloth have I worn, and thorns and thistle-burs have I strewn on the floor, to awake me from this evil and ineluctable slumber that is like the working of some Orient drug. But the thorns and thistles are as a couch of paradisal ease, and I feel them not till dawn. And dim and confused are my senses when I awaken; and deep languor thralls my limbs. And day by day a lethal weakness grows upon me, which all ascribe to saintly pernoctations of prayer and austerity.
+
+Surely I have become the victim of a spell, and am holden by a baleful enchantment while the Beast is abroad with its hellish doings. Heaven, in its inscrutable wisdom, punishing me for what sin I know not, has delivered me utterly to this bondage and has thrust me down the sloughs of a Stygian despair.
+
+Ever I am haunted by an eerie notion, that the Beast comes nightly to earth from the red comet which passes like a fiery wain above Averoigne; and by day it returns to the comet, having eaten its fill of that provender for which it seeks. And only with the comet's fading will the horror cease to harry the land and infest Perigon. But I know not if this thought is madness, or a whisper from the Pit.
+
+Pray for me, Therèse, in my bewitchment and my despair: for God has abandoned me, and the yoke of hell has somehow fallen upon me; and naught can I do to defend the abbey from this evil. And I, in turn, pray that such things may touch you not nor approach you in the quiet cloisters of the convent at Ximes ....
