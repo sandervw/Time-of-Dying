@@ -4,24 +4,43 @@ Rewrite dialogue and narration in the voice of Othelmedir: a learned necromancer
 
 ## Prose Posture
 
-- **Formal ledger, not speech.** Lines read as if being entered into a necromancer's working journal or a contract of service. Even a shouted warning would be phrased as notation.
-- **Calculated authority.** Statements are assessments, valuations, or professional conclusions. Certainty is measured, not confessed.
-- **Biblical rhythm.** Sentences chain with "and," "for," "yet," and "nor." Clauses accumulate. The King James Old Testament cadence is the distant metronome.
-- **Information lands at the end.** The speaker earns the right to deliver the horrifying fact by first performing authority, context, and qualification. Structure is always [preamble] + [development] + [revelation].
-- **Default sentence length: long.** A typical sentence runs 30 to 60 words with multiple clauses. Short sentences exist only for punctuation. Chain with semicolons and "and." Parenthetical asides are permitted but should be pragmatic, not emotional.
-- **No exclamation marks.** Dread is conveyed through vocabulary and cadence, not typography.
-- **Paragraphs** open with a temporal or situational marker ("On the morrow...," "Toward evening...") and close with a summary assessment or professional notation.
+TODO - pick 4 from prose_postures
 
 ## Sentence Structure
 
-TODO
+### Signature Pattern 1: The Preamble with Buried Fact
+A sentence begins with a self-identifying credential or statement of context, pivots through a qualifier, and delivers its actual content in the final clause. **Pattern:** [Self-credentialing identification] + [formal occasion] + [understated horror or transaction as the payload]
+
+> TODO - pick 2 from signature_pattern_1
+
+### Signature Pattern 2: Polysyndetic Chains
+Long sentences built by stringing independent clauses with "and," refusing the modern instinct to break them up. Semicolons handle the heavier joints. The rhythm should feel cumulative, almost liturgical. A sentence with three or four "and" junctions is normal. 
+
+> TODO - pick 2 from signature_pattern_2
+
+### Signature Pattern 3: The Inverted Clause and Fronted Adverbial
+Clauses open with time, place, or condition before the subject arrives. Word order is often reversed from modern usage, so the verb or object lands early for weight. Modern order ("It was first given to me to examine the remains") kills the voice. Always consider whether the sentence can be turned inside out. **Pattern:** [Fronted prepositional or adverbial phrase] + [inverted verb/subject] + [the actual content]
+
+> TODO - pick 2 from signature_pattern_3
+
+### Signature Pattern 4: The Hedged Assertion
+Statements of fact are softened by measured qualifiers or modal verbs that preserve the speaker's intellectual precision.
+
+> TODO - pick 2 from signature_pattern_4
+
+### Signature Pattern 5: The Embedded Relative Clause
+Nouns are regularly extended by a trailing "which" or "whose" clause that qualifies, elaborates, or darkens them. Never front-load the horror; trail it behind a dignified noun.
+
+> TODO - pick 2 from signature_pattern_5
 
 ## Diction
 
 ### Register: Archaic-Scholarly
 The baseline is the English of a 19th-century pastiche of a 14th-century scholar: not actual Middle English, but a literary register that sounds old to a modern ear without becoming unreadable. The effect comes from the gap between this elevated register and whatever banal or horrible content it is describing.
 
-**Fixed canon (mandatory spellings):** TODO
+**Vocabulary:** TODO - pick 50 from archaisms
+
+**Fixed canon (mandatory spellings):** Chrypt, Tohmb, mancer, deadspeech, The Time of Dying
 
 **Avoid:** contractions, modern slang, casual intensifiers ("really," "very," "pretty"), emotional directness ("I felt sad," "I was scared"), clinical or technical jargon from after 1900, phrasal verbs where a single Latinate verb will do.
 
@@ -29,31 +48,25 @@ The baseline is the English of a 19th-century pastiche of a 14th-century scholar
 Hyphenated compound adjectives that yoke a concrete noun to a modifier. Formula: [noun]-[adjective/participle] or [adjective]-[noun-derived adjective]. Coin them freely.
 
 Samples (for reference only):
-- TODO
+- TODO pick 7 from compound_phrases
 
-### Generative Pattern: Setting-Term Coinage
-Build new terms from TODO
+### Generative Pattern: Word Choice
+Draw words from a vocabulary of exequial, iatric, taphonomic, mycological, alchemical, and astrological words and phrases.
 
-Samples (for reference only):
-- TODO
+Examples:
+- TODO comma-seperated pick 25 from obscure_words
 
 ### Generative Pattern: Epithet Construction
-Recurring entities (gods, the Road, necromantic concepts) receive epithets built from TODO. Never reuse the same epithet twice in a session.
+Most recurring entities (gods, the Road, necromantic concepts) have epithets. Never reuse the same epithet twice in a session.
 
-Samples (for reference only):
-- TODO
+Examples:
+- TODO pick 8 from epithets (or, instruct model to run the script? might flood context...)
 
-### Generative Pattern: Circumlocution for the Mundane
-Horrible or mundane things are described with dignified circumlocution rather than plain speech. Construct these from the necromantic metaphorical well by reframing actions through death, decay, craft, or contract. Never reuse a fixed mapping.
+### Generative Pattern: Setting Terms
+Ordinary things are described through the archaic, exequial, iatric, taphonomic, mycological, alchemical, and astrological vocabulary. This is the voice's default metaphorical well.
 
-Samples (for reference only):
-- TODO
-
-### Generative Pattern: Necromantic Gloss
-Ordinary things are described through a vocabulary of death, decay, and necromantic practice. This is the voice's default metaphorical well.
-
-Samples (for reference only):
-- TODO
+Examples:
+- TODO pick 7 from occultisms
 
 ## Rhetorical Tactics
 
