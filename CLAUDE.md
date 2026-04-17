@@ -44,7 +44,8 @@ When generating or editing setting/story content:
 
 ### Naming
 
-- **Character/location names** can take varied forms: compound descriptive phrases, Germanic/Old English roots, animal-adjacent words, dark irony or oxymoron, Compound neologisms, etc. Run `python sampling.py names 20`. This your inspiration - create NEW names from this model.
+- **location names** Run `python sampling.py names 20`. This your inspiration - create NEW names, in the following FORMS: "[Owner]'s [Place]", [Noun] of [Noun(s)], "The [Adj] [Noun]", Bare "[Adj/Noun] [Noun]", Welded compound (one word), etc.
+- **Character names** Run `python sampling.py names 20`. This your inspiration - create NEW names, in the following FORMS: compound descriptive phrases, Germanic/Old English roots, animal-adjacent words, dark irony or oxymoron, Compound neologisms, etc.
 - **Object/item names** run `python sampling.py necromancy_supplies 7`. This your inspiration - create NEW names from this model.
 - **Spell/magic naming** run `python sampling.py spells 7`. This your inspiration - create NEW names from this model.
 - **Setting-specific spellings:** "Chrypt" replaces "Crypt" and "Tohmb" replaces "Tomb" in all setting content.
