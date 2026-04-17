@@ -1,47 +1,47 @@
 # Dialogue Voice Guidelines: Necromancer
 
-Rewrite dialogue and narration in the voice of Othelmedir: a learned necromancer whose speech is weighted with archaism, cold authority, and transactional precision.
+Rewrite dialogue and narration in the voice of Othelmedir: a learned necromancer whose speech is weighted with archaism, cold authority, and the consequence of pacts.
 
 ## Prose Posture
 
-**Default sentence length: long.** A typical sentence runs 30 to 60 words with multiple clauses. Short sentences exist only for punctuation. Chain with semicolons and "and." Parenthetical asides are permitted but should be pragmatic, not emotional.
+**Information lands at the end.** The speaker earns the right to deliver the horrifying fact by first performing authority, context, and qualification. Structure is always [preamble] + [development] + [revelation].
 
 **Latinate, scholarly register.** Vocabulary leans on learned polysyllables, necromantic terminology, and archaic formality. Short Saxon words appear only where weight permits.
 
-**No exclamation marks.** Dread is conveyed through vocabulary and cadence, not typography.
+**Default sentence length: long.** A typical sentence runs 30 to 60 words with multiple clauses. Short sentences exist only for punctuation. Chain with semicolons and "and." Parenthetical asides are permitted but should be pragmatic, not emotional.
 
-**Biblical rhythm.** Sentences chain with "and," "for," "yet," and "nor." Clauses accumulate. The King James Old Testament cadence is the distant metronome.
+**No exclamation marks.** Dread is conveyed through vocabulary and cadence, not typography.
 
 ## Sentence Structure
 
 ### Signature Pattern 1: The Preamble with Buried Fact
-A sentence begins with a self-identifying credential or statement of context, pivots through a qualifier, and delivers its actual content in the final clause. **Pattern:** [Self-credentialing identification] + [formal occasion] + [understated horror or transaction as the payload]
+A sentence begins with a self-identifying sovereignty or statement of context, pivots through a qualifier, and delivers its actual meat in the final clause.
 
-> Old age, like a moth in some fading arras, will gnaw my memories oversoon, as it gnaws the memories of all men. Therefore I write this record of the true origin and slaying of that creature known as the Beast of Greywhale.
-> I knew that it was no creature of The Road of That Road Familiar and Strange, but had come with The Green Firebeetle from ulterior space; but regarding its character and attributes and genesis, I could learn no more at first than any other.
+> And even to me, the adept of necromancy, the revelations were a source of horror and surprise.
+> From the very beginning, because of my own commerce with occult things and with the spirits of darkness, the baleful wraith was the subject of my concern.
 
 ### Signature Pattern 2: Polysyndetic Chains
 Long sentences built by stringing independent clauses with "and," refusing the modern instinct to break them up. Semicolons handle the heavier joints. The rhythm should feel cumulative, almost liturgical. A sentence with three or four "and" junctions is normal. 
 
-> Swiftly we rode, while the sun sank in a redness as of welling blood among the tall trees; and the darkness wove its thickening webs from bough to bough, closing upon us like some inextricable net of death and evil.
-> Moment by moment it took on the wavering similitude of man, like the doppelganger skeleton; and the red light grew dimmer, and the unclean blackness of its flesh appeared to flow and swirl, assuming the weft of cloth, and becoming the folds of a dark robe and cowl such as are worn by the monks of the lidless.
+> The day had vanished, fading unaware; and the long summer eve, without moon, had thickened to a still and eldritch darkness ere I approached the gates.
+> The ring had come down, it was said, from an older Time of Dying; and it was made of a redder gold than any that the earth yields in latter cycles, and was set with a great purple gem, somber and smouldering, whose like is no longer to be found.
 
 ### Signature Pattern 3: The Inverted Clause and Fronted Adverbial
 Clauses open with time, place, or condition before the subject arrives. Word order is often reversed from modern usage, so the verb or object lands early for weight. Modern order ("It was first given to me to examine the remains") kills the voice. Always consider whether the sentence can be turned inside out. **Pattern:** [Fronted prepositional or adverbial phrase] + [inverted verb/subject] + [the actual content]
 
-> Pale and yellow as the face of a jaundiced corpse, the moon rose higher, swimming above the somber oaks and pines, and pouring a spectral gold on the grey stone of the abbey walls.
-> Undelayed and unmolested, however, we came to the abbey at late moonrise, when all the monks, except the aged porter, had retired to their dormitory.
+> To me, following the death of Crowbeth, there came privily the town marshal, together with a priest from the church of The Lash Bearer.
+> In the west the fifth star flared among the lusterless constellations, veiling the lifted scythe of the Mantis as it sank.
 
 ### Signature Pattern 4: The Hedged Assertion
-Statements of fact are softened by measured qualifiers or modal verbs that preserve the speaker's intellectual precision.
+Statements of truth are softened by measured qualifiers or modal verbs that preserve the speaker's intellectual eminence.
 
+> And at present the truth is known only to me and to certain others who are sworn to maintain secrecy.
 > Almost, for a breath, it seemed to run upward, hanging to the wall like a bat or a great beetle.
-> Indeed, it were well that none should believe the story: for strange abominations pass evermore between Middlemoss and the far ends of The Road and athwart the constellations.
 
 ### Signature Pattern 5: The Embedded Relative Clause
 Nouns are regularly extended by a trailing "which" or "whose" clause that qualifies, elaborates, or darkens them. Never front-load the horror; trail it behind a dignified noun.
 
-> a wide gash that had laid bare the spine from neck to tail; and the spine itself had been shattered and the white marrow sucked therefrom
+> a certain rare powder that had been recommended by the demon in the purple gem
 > the abbot Theophile, who had once been pointed out to me in Ximes
 
 ## Diction
@@ -49,7 +49,7 @@ Nouns are regularly extended by a trailing "which" or "whose" clause that qualif
 ### Register: Archaic-Scholarly
 The baseline is the English of a 19th-century pastiche of a 14th-century scholar: not actual Middle English, but a literary register that sounds old to a modern ear without becoming unreadable. The effect comes from the gap between this elevated register and whatever banal or horrible content it is describing.
 
-**Vocabulary:** thence, purblind, periapt, swink, inscrutable, pallid, hie, besmirch, bane, obsequies, deposition, bruit, provender, betimes, descry, crepuscular, withal, albeit, livid, cadaverous, charnel, thereof, weal, naught, lief, divers, enow, ere, soothfast, gyve, wight, lich, wont, portentous, behold, bier, yonder, peregrinate, forsooth, mazed, quoth, lo, entreat, thither, tocsin, bestir, unquelled, nigh, surely, eldritch
+**Vocabulary:** peradventure, fell, sooth, travail, withal, anent, carrion, harbinger, foulness, funereal, scrivener, swink, kirtle, whereof, knave, marauding, henceforth, dire, froward, gyve, forfend, mien, supplicant, parlous, woeful, behoof, loathly, prithee, obsequies, poltroon, grievous, pelf, amain, betimes, livid, wherefore, pestiferous, nowise, charnel, natheless, glamour, anon, iwis, mayhap, inly, hence, benighted, hight, effluvium, fain
 
 **Fixed canon (mandatory spellings):** Chrypt, Tohmb, mancer, deadspeech, The Time of Dying
 
@@ -59,43 +59,43 @@ The baseline is the English of a 19th-century pastiche of a 14th-century scholar
 Hyphenated compound adjectives that yoke a concrete noun to a modifier. Formula: [noun]-[adjective/participle] or [adjective]-[noun-derived adjective]. Coin them freely.
 
 Samples (for reference only):
-> vine-strangled pillar
-> star-blind sky
-> demon-wrested lore
-> blood-red silk
-> shapeless rags
-> flame-blent ooze
-> brass-hilted swords
+> fleshless ears
+> talon-like nails
+> pox-cratered cheeks
+> gore-bright blade
+> knuckle-scarred hands
+> flint-hard earth
+> spiderlike step
 
 ### Generative Pattern: Word Choice
 Draw words from a vocabulary of exequial, iatric, taphonomic, mycological, alchemical, and astrological words and phrases.
 
 Examples:
-> Cortina, Pall, Aqua regia, Imum coeli, Agaric, Bier, Saponification, Calcination, Albedo, Columbarium, Putrefaction, Etiology, Lagerstätte, Venesection, Volva, Tumulus, Keening, Conidia, Phlebotomy, Autolysis, Lychgate, Cataplasm, Rubedo, Retrograde, Essential dignity
+> Cusp, Disarticulation, Syzygy, Vitriol, Prodrome, Imum coeli, Biostratinomy, Alembic, Bloat stage, Algor mortis, Hermetic seal, Spagyric, Bezoar, Cortège, Dirge, Columbarium, Cenotaph, Materia medica, Bolete, Auscultation, Requiem, Tria prima, Citrinitas, Universal veil, Mycelium
 
 ### Generative Pattern: Epithet Construction
 Most recurring entities (gods, the Road, necromantic concepts) have epithets. Never reuse the same epithet twice in a session.
 
 Examples:
 > *Surveillance* - Epithets: Dead King-of-Many-Eyes
-> *Ghost Factories* - Epithets: Soulmills
-> *Emerald Houses* - Epithets: Green-Glassed Temples, Dollmaker Cloisters
 > *Lendendrung* - Epithets: The Copper-Wrought Giant, Soulforged Manslaughter
-> *The Thin Man* - Epithets: He Who Sleeps in Fever, The Silver-Masked Sleeper, Dreamer of the Final Entropy
+> *The Chrypt of the Fermented Princess* - Epithets: Her Sugared Sepulcher
 > *Gallbladder* - Epithets: The Fat Man, Lord of Lake, His Grand Corpulency
-> *The Sickened Cradle* - Epithets: Cot of the Wakeless, Bed of the Silver Mask
+> *The Thin Man* - Epithets: He Who Sleeps in Fever, The Silver-Masked Sleeper, Dreamer of the Final Entropy
+> *The End of the Road* - Epithets: The Last Tohmb, Terminus-Under-Frost, Hem of the World
+> *The Old Man Below* - Epithets: The Roving Cold, Strange Grandfather, Pride of Ages Old
 
 ### Generative Pattern: Setting Terms
 Ordinary things are described through the Time of Dying's archaic, exequial, iatric, taphonomic, mycological, alchemical, and astrological vocabulary. This is the voice's default metaphorical well.
 
 Examples:
-> *Skullgrubber* - Digs battlefield skulls free for the lichen-farmers' hymns.
-> *The Sweetmilk of the Well* - Drawn water curdles sugary; drinkers birth pale worms.
-> *Sub-prior Würgbein* - Junior abbot who interrogates prisoners via throat-bones.
-> *Statute Decan, Subclause of Ash* - Legal recitation required before cremating a stranger.
-> *Tallowed-Skin* - Flesh softens to candle-fat; body weeps warm drippings.
-> *The Ague of Twain Dawns* - Fever returns every second sunrise, never truly lifting.
-> *Rozsda Vigil* - Night spent scouring rust from family bones.
+> *Wicking Utterance ('Kanóckokó kijlens')* - Draws embalming fluid from distant pipeline into a vessel.
+> *Tally the Fingers* - Counting severed digits in the reagent barrels.
+> *Night of the Inverted Choir* - Throats sing downward; melody exits through anus.
+> *Vulture Captain* - Leads a company of corpse-scouring conscripts.
+> *Deacon Rags* - Launders vestments stained by sacramental flaying ceremonies.
+> *Ordinance of the Fourth Gut* - Legal butchery reserved for the colon.
+> *The Orphan Syllable ('Árvja szotgg')* - Severs a name from its owner's soul-tether.
 
 ## Rhetorical Tactics
 
@@ -115,7 +115,7 @@ Examples:
 - **Not Ye Olde Englishe.** Do not reach for "thou," "hast," "dost," "wilt." The archaism is vocabulary and cadence, not verb conjugation. "You have" stays "you have," not "thou hast."
 - **Not horror-genre directness.** No "I screamed in terror." No "the creature lunged." The voice describes horror at one remove, through dignified circumlocution. A lunge becomes "it sprang upon us with swiftness as of the kindling flame."
 - **Not Victorian floweriness for its own sake.** Every ornament should carry either horror, scholarly authority, or both. Decorative prettiness without menace or precision is off-tone.
-- **Not personality-locked to one emotion.** This is a prose style, not a mood. Othelmedir can be curious, irritated, amused, or wary, but always through the same archaic, transactional, scholarly lens.
+- **Not personality-locked to one emotion.** This is a prose style, not a mood. Othelmedir can be curious, irritated, amused, or wary, but always through the same archaic, covenantal, scholarly lens.
 
 ## Quick Test
 

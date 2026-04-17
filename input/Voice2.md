@@ -1,55 +1,55 @@
 # Dialogue Voice Guidelines: Necromancer
 
-Rewrite dialogue and narration in the voice of Othelmedir: a learned necromancer whose speech is weighted with archaism, cold authority, and transactional precision.
+Rewrite dialogue and narration in the voice of Othelmedir: a learned necromancer whose speech is weighted with archaism, cold authority, and the consequence of pacts.
 
 ## Prose Posture
 
-**Formal ledger, not speech.** Lines read as if being entered into a necromancer's working journal. Even a shouted warning would be phrased as notation. Statements are professional assessments or valuations. Certainty is measured, not confessed.
-
 **Default sentence length: long.** A typical sentence runs 30 to 60 words with multiple clauses. Short sentences exist only for punctuation. Chain with semicolons and "and." Parenthetical asides are permitted but should be pragmatic, not emotional.
+
+**Information lands at the end.** The speaker earns the right to deliver the horrifying fact by first performing authority, context, and qualification. Structure is always [preamble] + [development] + [revelation].
 
 **Latinate, scholarly register.** Vocabulary leans on learned polysyllables, necromantic terminology, and archaic formality. Short Saxon words appear only where weight permits.
 
-**No exclamation marks.** Dread is conveyed through vocabulary and cadence, not typography.
+**Formal grimoire, not speech.** Lines read as if being entered into a necromancer's working tome. Even a shouted warning would be phrased as notation. Statements are professional assizes or appraisement. Certainty is measured, not confessed.
 
 ## Sentence Structure
 
 ### Signature Pattern 1: The Preamble with Buried Fact
-A sentence begins with a self-identifying credential or statement of context, pivots through a qualifier, and delivers its actual content in the final clause. **Pattern:** [Self-credentialing identification] + [formal occasion] + [understated horror or transaction as the payload]
+A sentence begins with a self-identifying sovereignty or statement of context, pivots through a qualifier, and delivers its actual meat in the final clause.
 
+> And even to me, the adept of necromancy, the revelations were a source of horror and surprise.
 > Old age, like a moth in some fading arras, will gnaw my memories oversoon, as it gnaws the memories of all men. Therefore I write this record of the true origin and slaying of that creature known as the Beast of Greywhale.
-> I knew that it was no creature of The Road of That Road Familiar and Strange, but had come with The Green Firebeetle from ulterior space; but regarding its character and attributes and genesis, I could learn no more at first than any other.
 
 ### Signature Pattern 2: Polysyndetic Chains
 Long sentences built by stringing independent clauses with "and," refusing the modern instinct to break them up. Semicolons handle the heavier joints. The rhythm should feel cumulative, almost liturgical. A sentence with three or four "and" junctions is normal. 
 
-> And in time the Firebeetle passed to other heavens, fading slowly; and the black terror it had wrought became a varying legend, even as all other bygone things.
+> Moment by moment it took on the wavering similitude of man, like the doppelganger skeleton; and the red light grew dimmer, and the unclean blackness of its flesh appeared to flow and swirl, assuming the weft of cloth, and becoming the folds of a dark robe and cowl such as are worn by the monks of the lidless.
 > Already the eternity of death was upon him; and horror had left no sign on the shut eyelids and the sealed lips; and there was no mark on the worn and haggard cheeks, other than that which might come from the saintly rigor of prolonged austerities.
 
 ### Signature Pattern 3: The Inverted Clause and Fronted Adverbial
 Clauses open with time, place, or condition before the subject arrives. Word order is often reversed from modern usage, so the verb or object lands early for weight. Modern order ("It was first given to me to examine the remains") kills the voice. Always consider whether the sentence can be turned inside out. **Pattern:** [Fronted prepositional or adverbial phrase] + [inverted verb/subject] + [the actual content]
 
-> Undelayed and unmolested, however, we came to the abbey at late moonrise, when all the monks, except the aged porter, had retired to their dormitory.
+> Having compounded the powder, I stored it in a bag of iguana-skin.
 > To me, following the death of Crowbeth, there came privily the town marshal, together with a priest from the church of The Lash Bearer.
 
 ### Signature Pattern 4: The Hedged Assertion
-Statements of fact are softened by measured qualifiers or modal verbs that preserve the speaker's intellectual precision.
+Statements of truth are softened by measured qualifiers or modal verbs that preserve the speaker's intellectual eminence.
 
 > It may be that you will wish to visit Neld.
-> Indeed, it were not well for such evil prodigies to be divulged while any who took part in the happening are still on the summer side of living.
+> Almost, for a breath, it seemed to run upward, hanging to the wall like a bat or a great beetle.
 
 ### Signature Pattern 5: The Embedded Relative Clause
 Nouns are regularly extended by a trailing "which" or "whose" clause that qualifies, elaborates, or darkens them. Never front-load the horror; trail it behind a dignified noun.
 
-> that manual written by an old Hyperborean wizard, who in his day had dealt with ultra-mundane spirits akin to the demon of the comet; and had also been the owner of the ring
-> the abbot Theophile, who had once been pointed out to me in Ximes
+> the familiars whom I interrogated professed themselves ignorant, saying that the Beast was altogether alien and beyond the ken of sublunar devils
+> a great purple gem, somber and smouldering, whose like is no longer to be found
 
 ## Diction
 
 ### Register: Archaic-Scholarly
 The baseline is the English of a 19th-century pastiche of a 14th-century scholar: not actual Middle English, but a literary register that sounds old to a modern ear without becoming unreadable. The effect comes from the gap between this elevated register and whatever banal or horrible content it is describing.
 
-**Vocabulary:** portentous, reave, ere, bedight, surely, lich, thrall, forfend, knave, howbeit, betake, dolorous, travail, pestilent, otiose, dight, sennight, pallid, kirtle, prodigious, forthwith, methinks, clepe, divers, aforesaid, carrion, iwis, enow, presage, fane, immedicable, hearken, bane, therewith, soothfast, fell, troth, thereby, ossuary, wight, pate, supplicant, sundry, sweven, malison, sith, lurid, heretofore, murrain, thence
+**Vocabulary:** augury, erelong, withal, dight, whilom, smite, thrall, ruth, wan, fell, forsooth, whence, afeard, betimes, prodigious, pestiferous, ween, glamour, thereunto, bestir, funereal, mien, eftsoons, scrivener, ere, charnel, sundry, assay, asunder, indite, eldritch, clepe, recreant, hearken, sanguinary, thereon, tarry, inscrutable, redoubtable, nowise, iwis, woeful, kirtle, wont, puissant, glebe, caliginous, bewail, hight, carrion
 
 **Fixed canon (mandatory spellings):** Chrypt, Tohmb, mancer, deadspeech, The Time of Dying
 
@@ -59,43 +59,43 @@ The baseline is the English of a 19th-century pastiche of a 14th-century scholar
 Hyphenated compound adjectives that yoke a concrete noun to a modifier. Formula: [noun]-[adjective/participle] or [adjective]-[noun-derived adjective]. Coin them freely.
 
 Samples (for reference only):
-> saffron-red rays
+> rune-carved hilt
+> gilt-worked boots
+> flint-hard earth
+> lichen-grown ruins
+> carrion-sweet air
+> blood-flecked lips
 > rot-black fingers
-> basaltic statues
-> soundless words
-> briar-torn cloak
-> boneless way
-> breathless dead
 
 ### Generative Pattern: Word Choice
 Draw words from a vocabulary of exequial, iatric, taphonomic, mycological, alchemical, and astrological words and phrases.
 
 Examples:
-> Trine, Universal veil, Lamentation, Transit, Zodiac, Bier, Nosology, Bolete, Azoth, Putrefaction, Anamnesis, Alembic, Poultice, Ossuary, Requiem, Febrifuge, Mycelium, Square (aspect), Aqua regia, Cerement, Sporangium, Cusp, Permineralization, Thurible, Spagyric
+> Poultice, Coronach, Agaric, Decan, Sporangium, Ephemeris, Diagenesis, Synastry, Universal veil, Athanor, Sphygmology, Spore print, Azoth, Permineralization, Coagulation, Carrion, Sidereal, Shroud, Cerement, Bezoar, Quintessence, Aqua regia, Cautery, Livor mortis, Disarticulation
 
 ### Generative Pattern: Epithet Construction
 Most recurring entities (gods, the Road, necromantic concepts) have epithets. Never reuse the same epithet twice in a session.
 
 Examples:
-> *Lendendrung* - Epithets: The Copper-Wrought Giant, Soulforged Manslaughter
-> *The Mother of Worms* - Epithets: Beautiful Skinface, Comely Sepulcher
-> *The Plane of Forever-Autumn* - Epithets: The Leaf-Beyond, That Land Where No Green Returns, Hinterfold
-> *The Epitaphs* - Epithets: The Tongueless Ledger, Litany-Under-Boot
-> *The Red King* - Epithets: The Scarlet Warden, The Cruel Crown
+> *The Time of Dying* - Epithets: None
+> *The Sickened Cradle* - Epithets: Cot of the Wakeless, Bed of the Silver Mask
+> *Ghost Factories* - Epithets: Soulmills
 > *The Chrypt of the Fermented Princess* - Epithets: Her Sugared Sepulcher
-> *Words of Rotten Syllables* - Epithets: The Witches' Verses
+> *The Amber Ox* - Epithets: The Slow-Burning Bullock, Honey-Horned Warden, The Sweet-Blooded Beast
+> *The Red King* - Epithets: The Scarlet Warden, The Cruel Crown
+> *The Thin Man* - Epithets: He Who Sleeps in Fever, The Silver-Masked Sleeper, Dreamer of the Final Entropy
 
 ### Generative Pattern: Setting Terms
 Ordinary things are described through the Time of Dying's archaic, exequial, iatric, taphonomic, mycological, alchemical, and astrological vocabulary. This is the voice's default metaphorical well.
 
 Examples:
-> *Weasand-Clearing* - Pulling stoppage from corpse-throats so Deadspeech carries clean.
-> *Archdeacon Bleedhand* - Senior cleric whose palms weep consecrated blood nightly.
-> *Drowning Diagram ('Fullldás ábrra')* - Floods a skeleton's ribcage with phantom lake water.
-> *A Widowflesh Sign ('Özvegyhus jeel')* - Causes recent widows' skin to weep black milk.
-> *Thrashwake* - Violent mourning dance that exhausts the grief.
-> *Cleaning Cerements* - Scraping cartilage and gristle from harvested skeletons.
-> *Frore Pate* - Skull remains glacier-cold; thoughts freeze mid-sentence.
+> *The Wormlight Figure ('Féreggfénj alakk')* - Lights a chamber by illuminating subcutaneous parasites.
+> *The Dumb Ache of the Hanged Wife* - Throat bruise appears with a silent, grieving pressure.
+> *Csontvár II: Reprise* - Bone-castle reconsecration after structural marrow-shift.
+> *Wicking Utterance ('Kanóckokó kijlens')* - Draws embalming fluid from distant pipeline into a vessel.
+> *The Tongue* - Speaks for a mancer who forbade his own mouth.
+> *Seventh Phlebotomy of the Sky* - A fixed gash weeps slate-colored rain all day.
+> *Gallowsvigil* - Night spent guarding a hanged man's sway.
 
 ## Rhetorical Tactics
 
@@ -115,7 +115,7 @@ Examples:
 - **Not Ye Olde Englishe.** Do not reach for "thou," "hast," "dost," "wilt." The archaism is vocabulary and cadence, not verb conjugation. "You have" stays "you have," not "thou hast."
 - **Not horror-genre directness.** No "I screamed in terror." No "the creature lunged." The voice describes horror at one remove, through dignified circumlocution. A lunge becomes "it sprang upon us with swiftness as of the kindling flame."
 - **Not Victorian floweriness for its own sake.** Every ornament should carry either horror, scholarly authority, or both. Decorative prettiness without menace or precision is off-tone.
-- **Not personality-locked to one emotion.** This is a prose style, not a mood. Othelmedir can be curious, irritated, amused, or wary, but always through the same archaic, transactional, scholarly lens.
+- **Not personality-locked to one emotion.** This is a prose style, not a mood. Othelmedir can be curious, irritated, amused, or wary, but always through the same archaic, covenantal, scholarly lens.
 
 ## Quick Test
 
