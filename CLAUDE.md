@@ -24,7 +24,7 @@ Setting documents are organized hierarchically:
 
 ## Vocabulary Lookups
 
-Before reading full markdown files in `setting/`, check whether the info you need matches one of the array headers in `setting/vocabulary.json`. If it does, run the sampling script from the `setting/` folder instead of reading the JSON directly. **Never read the full `vocabulary.json` file.** Use the sampling script to pull the full array for the one term you need.
+Before reading full markdown files in `setting/`, check whether the info you need matches one of the array headers in `setting/vocabulary.json`. If it does, run the sampling script from the `setting/` folder. **Never read the full `vocabulary.json` file.** Use the sampling script to pull the full array for the term you need.
 
 - Spells: `python sampling.py spells`
 - Ceremonies, Rituals, Rites: `python sampling.py ceremonies_rituals_rites`
@@ -44,7 +44,7 @@ When generating or editing setting/story content:
 
 ### Naming
 
-- **location names** Run `python sampling.py names 20`. This your inspiration - create NEW names, in the following FORMS: "[Owner]'s [Place]", [Noun] of [Noun(s)], "The [Adj] [Noun]", Bare "[Adj/Noun] [Noun]", Welded compound (one word), etc.
+- **location names** Run `python sampling.py names 20`. This your inspiration - create NEW names, in the following FORMS: "[Owner]'s [Place]", "[Noun] of [Noun(s)]", "The [Adj] [Noun]", Bare "[Adj/Noun] [Noun]", Welded compound (one word), etc.
 - **Character names** Run `python sampling.py names 20`. This your inspiration - create NEW names, in the following FORMS: compound descriptive phrases, Germanic/Old English roots, animal-adjacent words, dark irony or oxymoron, Compound neologisms, etc.
 - **Object/item names** run `python sampling.py necromancy_supplies 7`. This your inspiration - create NEW names from this model.
 - **Spell/magic naming** run `python sampling.py spells 7`. This your inspiration - create NEW names from this model.

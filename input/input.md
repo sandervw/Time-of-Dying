@@ -25,4 +25,6 @@
 **Starting prompt (paste into a fresh chat):**
 
 Hey Claude, I'm generating new short story ideas for my Contumelious Ectogenesis (CE) sequence in the Time of Dying setting, which follows Othelmedir the necromancer. Start by running `sampling.py locations for a list of current setting locations. You are forbidden from reusing any towns or specific geographic zones for a story. See @stories\Contumelious-Ectogenesis\CE-Outline.md for existing story ideas, and the blob-style format.
-I want brief pitches, 1 to 3 sentences each, not fleshed-out briefs. Shoot for 4 to 7 ideas, and each should feature a unique specific location.
+I want you to generate brief pitches of story ideas to add to my list. They should 1 to 3 sentences each, not fleshed-out briefs. Shoot for 4 to 7 ideas, and each should feature a unique specific location.
+For the purposes of this round of idea generation: I want you to do 3 ideas, basing the structure/pacing of your ideas on three Clark Ashton Smith stories: *The Seven Geases*, *The God of the Asteroid*, and *The Colossus of Ylourgne*. Use these as the structure inspiration, but reframe the stories to the Time of Dying setting. Othelmedir's POV should be used for all three (and he should live through all three).
+Do you have any questions before you start?
