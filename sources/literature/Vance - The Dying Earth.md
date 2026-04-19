@@ -1,6 +1,6 @@
 # The Dying Earth - Jack Vance
 
-## Turjan Of Mitr
+## Turjan Of Mir
 
 TURJAN SAT in his workroom, legs sprawled out from the stool, back against and elbows on the bench. Across the room was a cage; into this “Turjan gazed with rueful vexation. The creature in the cage returned the pee al! with emotions beyond conjecture.
 

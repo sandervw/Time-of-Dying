@@ -4,10 +4,13 @@
 
 ## Ideas
 
-### Overall Concept: Othelmedir's "Black Book"
+### Overall Concept: "The Black Scholastics of Othelmedir the Mortal"
 
 A large selection of random ToD stories, this time based upon the **necromantic learnings and adventures of Othelmedir**
 - Title based on one of the stories (see below)
+
+**Overarching Theme:** Othelmedir is "The only mortal in a world of immortals, the dead, and the un-living" (hyperbole). His *master goal* I to create life - a whole, perfect human-being. A beautiful young woman, with a beautiful soul from scratch.
+- *Think Divayth Fyr from Morrowind, or Tsain/tsais from Dying Earth*
 
 Like *The CCK* - collection is broken up into **blobs**, but the blobs are more-diegetic:
 - The blobs read like scraps/clipping from a tome of forbidden magic and learning (**Necronomicon Blobs**)
@@ -37,7 +40,7 @@ Like *The CCK* - collection is broken up into **blobs**, but the blobs are more-
 14. **Liminal Diver** - A sunken tomb traversable only by a soul briefly separated from its body. Othelmedir drowns himself three times in columbine water, solving a different maze layer as a ghost each pass, while Grot guards his body topside. Complication: something in the ghost-layer remembers him between drownings.
 15. **Bregganyard's Waltzing Epitaphs** - A churchyard where gravestones shift at night in a repeating pattern; the solved configuration opens a sealed crypt below. Othelmedir maps the dance across several nights, using raised watchers as markers. Another solver is sabotaging his markers, and one of the resurrected dead in the yard is lying about what it saw.
 16. **Saint Abbattoir** - A meat-chrypt whose door opens only when a carcass of specific carving is hung on a moving chain-hook line in the correct order of cuts. Othelmedir must reverse-engineer a butchery sequence from a half-erased liturgy on the walls.
-17. **The Sleepless Tithe of Grausam** - A Road-village near a sealed chrypt-tower suffers waking nightmares: residents lose memories nightly, replaced by someone else's death-visions. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled the tower when a rival mancer guild breached the walls and his own circle released a necromantic miasma to buy time, sealing everyone inside as dreaming undead. Now he hires a sellsword and returns to destroy the siphon before the village forgets itself entirely. Problem: the miasma preserved his old colleagues too, and they wake up as he enters. (Based on: https://en.uesp.net/wiki/Skyrim:Waking_Nightmare)
+17. **The Dreamcatchers** - A Road-village near a sealed chrypt-tower suffers waking nightmares: residents lose memories nightly, replaced by someone else's death-visions. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled the tower when a rival mancer guild breached the walls and his own circle released a necromantic miasma to buy time, sealing everyone inside as dreaming undead. Now he hires a sellsword, Weirmoth (think Charles from fable 2, a bally brave adventurer, irritatingly chipper and entheusiastic), returns to destroy the siphon before the village forgets itself entirely. Problem: the miasma preserved his old colleagues too, and they wake up as he enters. (Based on: https://en.uesp.net/wiki/Skyrim:Waking_Nightmare)
 18. **Contumelious Ectogenesis** - TODO
 	1. Takes place in *Gobberland*, a land in "a distant quarter of the road", in an abandoned *Septic Bathhouse*
 	2. Othelmedir is overpowered by another muscle-mancer, forced to go along on adventure because only he can control Grot - other mancer needs grot to overcome whatever is within the bathhouse; The enemy mancer primarily wants to take over the bathhouse because it is a 'marvelous tissue deposit' (like mineral, but flesh); he needs othelmedir both for Grot, and for the latter's fleshshaping expertise; Othelmedir, Grot the Golem... and who else? (Head-heart, Grot (a machine), and a heart-stomach? Head-stomach?)
@@ -46,13 +49,11 @@ Like *The CCK* - collection is broken up into **blobs**, but the blobs are more-
 		1. Essentially human; but "born in bathwater, outside a woman's womb"; dresses in mangy dogfurs
 		2. Experiments formerly kept alive in the baths of columbine water - until the Lerch escaped
 	5. *Story Structure:* Rite of Spring
-19. **The Plunge at Haggat** - Dream-pilgrimaging to the Seven-Throated Well at Haggat to petition release from an undeath-bond, Othelmedir is judged unappetizing by the Stomach-God, dull by the Eye-God, unpronounceable by the Jaw-God, and passed god to god. He wakes spat back up the well still bound, three fingers shorter, and owing a tax to a god he has never heard of.
-20. **Blacklord of Widowbrand** - Sole survivor of a gale-wrecked skyship, Othelmedir is marooned on Widowbrand, a cindered islet in a becalmed cadaver-sea whose starving fishfolk mistake his blistered descent for divine nativity and install him as their foretold Blacklord. He preaches invented scripture nightly while rigging Grot into an escape-raft; the fishfolk eat two of their own as a naming-offering before he casts off.
-21. **The Clobberbone Colossus** - Corpses vanish nightly from every boneyard within a hundred leagues of Clobberbone Keep, where Othelmedir's rival Wenslow Bleak stitches the stolen dead into a siege-colossus to house his transferred soul. Contracted by the robbed mancer-guilds, Othelmedir must ascend through the giant's hollow knee, hip, and belly to the skull, where the rivalry resumes in a chamber itself alive and listening.
+19. **The Plunge at Haggat** - Dream-pilgrimaging to the Seven-Throated Well at Haggat to petition release from an undeath-bond, Othelmedir is judged unappetizing by Gallbladder, dull by the The Mother of Worms, weak by The Red King, and passed god to god. He wakes spat back up the well still bound, and owing a tax to a god he has never heard of. Based on *The Seven Geases*.
+20. **Blacklord of Widowbrand** - Sole survivor of a gale-wrecked ship, Othelmedir is marooned on Widowbrand, a cindered islet in a becalmed sea whose starving fishfolk mistake his blistered descent for divine nativity and install him as their foretold Blacklord. He preaches invented scripture nightly while rigging Grot into an escape-raft. Based on *The God of the Asteroid*.
+21. **Abominable Wenslow** - Corpses vanish nightly from every boneyard within a hundred leagues of Clobberbone Keep, where Othelmedir's rival Wenslow Bleak stitches the stolen dead into a titanic abomination to house his transferred soul. Contracted by the robbed mancer-guilds, Othelmedir must ascend through the giant's hollow knee, hip, and belly to the skull, where the rivalry resumes in a chamber of living tissue. Based on *The Colossus of Ylourgne*.
 22. Some story where Othelmedir puts several potential apprentices through trials of necromancy: think Gorice and Lord Gro in the Conjuring in the Black Tower chapter of *Ouroboros*
 
 ### Random Ideas
-
-The abominable rites (another name for necromancy)
 
 One of Othelmedir gadgets - a 'raider's coffer/reliquary' - necrospores in bottom, immunity drugs in secret top compartment, looks like ordinary jewel box, keeps key in lock, depress crosier lever on top to block spores and reveal immunity potion
