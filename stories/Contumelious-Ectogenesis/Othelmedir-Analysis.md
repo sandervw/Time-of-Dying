@@ -17,3 +17,4 @@ run `TODO`
 
 Examples:
 - Start of collection: *"And so I, Othelmedir the Mancer, master of the Abominable Rites, being neither un-living, nor eternally-lived, do hereby commit this latest understanding of my mortality to writing, that it may not perish with my flesh."*
+- *"To some his necromancy gives oblivion, to others, tormenting nostalgia."*

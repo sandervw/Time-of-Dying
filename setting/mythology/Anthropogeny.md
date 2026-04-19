@@ -23,6 +23,7 @@ Almost all places of the living are built along the Road. Notable settlements:
 - **Mance/Mancer** - necromancer
 - **Squeaker** - a man who traps giant forest rats for meat; has a home-base plus several outlying safety lodges, warded against undead
 - **Leech** - mundane healer
+- **bedmeister** - Innkeepr
 
 ## Culture
 
