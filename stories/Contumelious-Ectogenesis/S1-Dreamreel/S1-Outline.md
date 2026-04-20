@@ -1,4 +1,4 @@
-# Othelmedir's Black Scholastics: Story 1
+# # Dreamreel - Full Outline
 
 ## Anti-Repetition Protocol (read before every scene session)
 
@@ -20,17 +20,17 @@ The "withheld" bullet matters most. It forces planning backwards, so scene 3 doe
 
 ---
 
-**Overall Premise:** The story is part of a large selection of random ToD stories, based upon the **learnings and adventures of Othelmedir**, the necromancer.
+## Outline - "Dreamreel"
 
-## Outline - "The Dreamcatchers"
+**Overall Premise:** The story is part of a large selection of random ToD stories, based upon the learnings and adventures of Othelmedir, the necromancer: *Othelmedir's 'Black Scholastics'*.
 
-In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of the Attercop*, residents live other lives at night, their dreams replaced by the death-visions of an old cult. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled *The Tower* when a rival mancer cabal breached the walls and his own circle released a necromantic gas to buy time, sealing everyone inside as dreaming undead. Now he hires a sellsword, Weirmoth, returns to destroy the cauldron producing the gas before the villagers' memories are entirely replaced by those of the dreaming dead. Problem: the gas preserved his old colleagues too, and they wake up as he enters.
+In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of the Attercop*, residents live other lives at night, their dreams replaced by the death-visions of an old cult. They call it 'The Dreamreel'. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled *The Tower* when a rival mancer cabal breached the walls and his own circle released a necromantic gas to buy time, sealing everyone inside as dreaming undead. Now he hires a sellsword, Weirmoth, returns to destroy the cauldron producing the gas before the villagers' memories are entirely replaced by those of the dreaming dead. Problem: the gas preserved his old colleagues too, and they wake up as he enters.
 
 ## Plot
 
 *Based on: https://en.uesp.net/wiki/Skyrim:Waking_Nightmare*
 
-**1. Arrival in Sulky Wend.** Othelmedir enters the road-village. Grot is absent from this adventure. Residents are sullen, sleep-starved. A sleepwalking child recites a funeral rite she cannot possibly know. The local bedmeister, Noseman Under Eaves, speaks with Weirmoth, explaining the problem; the living dream the deaths of the dead. He begs Weirdmoth for help; Othelmedir overhears their conversation.
+**1. Arrival in Sulky Wend.** Othelmedir enters the road-village. (Grot is absent from this adventure.) Residents are sullen, sleep-starved. A sleepwalking child recites a funeral rite she cannot possibly know. The local bedmeister, Noseman Under Eaves, speaks with Weirmoth, explaining the problem; the living dream the deaths of the dead. He begs Weirdmoth for help; Othelmedir overhears their conversation.
 
 **2. Teammates.** Othelmedir presents himself as a specialist in dream-mancy. Weirmoth accepts the aid without probing, and takes the bedmeister's coin. They ride out toward the Tower of the Attercop on its bluff.
 
