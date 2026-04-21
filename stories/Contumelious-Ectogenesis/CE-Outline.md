@@ -19,9 +19,8 @@ Like *The CCK* - collection is broken up into **blobs**, but the blobs are more-
 - **Action-verse** - like a series of text messages written by a learned necromancer in Ashton-Smithian dialogue; *replacement for ACTION*
 - **Literary essay** - like Dario's AI essays; *replacement for DESCRIPTION*
 - **Interview questions** - Othelmedir poses brief question fragments, character gives dialogue answer; always preceded by a header with character name and optional circumstances; *replacement for DIALOGUE*
-- **Epitaphs/Obituaries** - exactly how it sounds; obituaries allows for more text; epitaphs would keep it punchier; *possible replacement for TABLE*
-- **Advertisements?** - what would ToD "ads" look like?; *alternate possible replacement for TABLE*
-
+- **Epitaphs/Obituaries** - exactly how it sounds; obituaries allows for more text; epitaphs would keep it punchier; *replacement for REFLECTION*
+- **Lemma** - A single encyclopedia entry: monsters, locaitons, spells, diseases, items, whatever - possibly, always accompanied by an image; *replacement for TABLE*
 ### Story Ideas
 
 1. **Interview Under Fire** - Othelmedir, acting as a forensic mancer, is hired to identify the predator loose in an abandoned, subterranean ore-railway. Proper interrogation of the dead takes twelve hours per corpse. The thing in the tunnels finds a new body every forty minutes.
@@ -57,3 +56,7 @@ Like *The CCK* - collection is broken up into **blobs**, but the blobs are more-
 ### Random Ideas
 
 One of Othelmedir gadgets - a 'raider's coffer/reliquary' - necrospores in bottom, immunity drugs in secret top compartment, looks like ordinary jewel box, keeps key in lock, depress crosier lever on top to block spores and reveal immunity potion
+
+**Ending Idea:**
+- Penultimate story: Othelmedir realizes, or has proven, that his vision of creating life is impossible - bitterly
+- Final story: Othelmedir achieves the love he has been seeking accidentally (though not without final trial) - think *The Enchantress of Sylaire* by CAS - unexpected happy ending

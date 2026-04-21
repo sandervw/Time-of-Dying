@@ -14,15 +14,17 @@ Explicitly Allowed files:
 
 In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of the Attercop*, residents live other lives at night, their dreams replaced by the death-visions of an old cult. They call it 'The Dreamreel' Othelmedir knows the cause because he built it. Years ago, under a different name, he fled *The Tower* when a rival mancer cabal breached the walls and his own circle released a necromantic gas to buy time, sealing everyone inside as dreaming undead. Now he hires a sellsword, Weirmoth, returns to destroy the cauldron producing the gas before the villagers' memories are entirely replaced by those of the dreaming dead. Problem: the gas preserved his old colleagues too, and they wake up as he enters.
 
-## Plot
+### Plot
 
 *Based on: https://en.uesp.net/wiki/Skyrim:Waking_Nightmare*
 
-**1. Arrival in Sulky Wend.** Othelmedir enters the road-village. Grot is absent from this adventure. Residents are sullen, sleep-starved. A sleepwalking child recites a funeral rite she cannot possibly know. The local bedmeister, Noseman Under Eaves, speaks with Weirmoth, explaining the problem; the living dream the deaths of the dead. He begs Weirdmoth for help; Othelmedir overhears their conversation.
+(*Grot is absent from this adventure.*)
 
-**2. Teammates.** Othelmedir presents himself as a specialist in dream-mancy. Weirmoth accepts the aid without probing, and takes the bedmeister's coin. They ride out toward the Tower of the Attercop on its bluff.
+**1. Arrival in Sulky Wend.** Othelmedir enters the sole boarding house of Sulky Wend (TODO - name). He observes the clientele. Residents are sullen, sleep-starved. A sleepwalking child recites a funeral rite she cannot possibly know (*good place for a `lemma`-type blob*). Meanwhile, the local bedmeister is busy talking to another client. Othelmedir recalls that he had lived near Sulky Wend before, for a time - but he rarely visited the town proper. His reflection does not elaborate.
 
-**3. The Seal of TODO (name).** Outside the chrypt, Othelmedir disables the magic seal with a spell (todo - spell name). Cobweb dreamcatchers quiver inside, fat with stolen visions. Spiders stir.
+**2. Teammates.** The local bedmeister, Noseman Under Eaves, speaks with Weirmoth, a 'dashing adventurer'. The bedmeister explains the problem: the living dream the deaths of the dead. He says they call it 'Dreamreel'. He describes it as like a nagging worry one has when trying to fall asleep; the sleeper tries to think of other things, but the death-visions return until they consume the dream. He begs Weirmoth for help. Othelmedir, having overheard this conversation, presents himself as a specialist in dream-mancy. Weirmoth accepts the aid without probing, and takes the bedmeister's coin. They agree to ride in the morning.
+
+**3. The Seal of (TODO - name).** The two approach the Tower of the Attercop on its bluff (*`literary-essay`, or `obituaries` on Road of Graves epitaphs along the way - use to describe tower*). Weirmoth admits he slept poorly. Outside the chrypt, Othelmedir disables the magic seal with a spell (TODO - spell name; *good place for `action-verse`*). Cobweb dreamcatchers quiver inside. Spiders stir. A hideous, visible gas begin to pour forth. The two step back, waiting for the initial fume to dissipate. Weirmoth speaks of his background (*`interview` blob here*).
 
 **4. The Waking Halls.** Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. Weirmoth notes how Othelmedir seems to know every corridor.
 
