@@ -4,7 +4,7 @@
 
 **Overall Premise:** The story is part of a large selection of random ToD stories, based upon the learnings and adventures of Othelmedir, the necromancer: *Othelmedir's 'Black Scholastics'*.
 
-In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of the Attercop*, residents live other lives at night, their dreams replaced by the death-visions of an old cult. They call it 'The Dreamreel'. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled *The Tower* when a rival mancer cabal breached the walls and his own circle released a necromantic gas to buy time, sealing everyone inside as dreaming undead. Now he hires a sellsword, Weirmoth, returns to destroy the cauldron producing the gas before the villagers' memories are entirely replaced by those of the dreaming dead. Problem: the gas preserved his old colleagues too, and they wake up as he enters.
+In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of the Attercop*, residents live other lives at night, their dreams replaced by the death-visions of an old cabal. They call it 'The Dreamreel'. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled *The Tower* when a rival mancer cabal breached the walls and his own circle released a necromantic gas to buy time, sealing everyone inside as dreaming undead. Now he hires a sellsword, Weirmoth, returns to destroy the cauldron producing the gas before the villagers' memories are entirely replaced by those of the dreaming dead. Problem: the gas preserved his old colleagues too, and they wake up as he enters.
 
 ### Plot
 
@@ -21,10 +21,11 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 - (withheld) Noseman Under knows or suspects about Othelmedir, but he conspicuously does not elaborate to Weirmoth
 
 **3. The Seal of (TODO - name).** The two approach the Tower of the Attercop on its bluff (*`literary-essay`, or `obituaries` on Road of Graves epitaphs along the way - use to describe tower*). Weirmoth admits he slept poorly. Outside the chrypt, Othelmedir disables the magic seal with a spell (TODO - spell name; *good place for `action-verse`*). A hideous, visible gas begin to pour forth. The two step back, waiting for the initial fume to dissipate. Weirmoth speaks of his background (*`interview` blob here*).
+- Othelmedir explains that, based on his 'historic knowledge' - if the dream-deaths are allowed to continue, the villagers' memories will be entirely replaced by those of the ones who died (he doesn't yet reveal his specific knowledge of the dead in this case)
 - Cobwebs quiver inside; spiders stir
 - (lore) TODO - names and backgrounds/specialities of the tower cabal and rival cabal
 
-**4. The Waking Halls.** Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. Weirmoth notes how Othelmedir seems to know every corridor.
+**4. The Waking Halls.** Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. Weirmoth notes how Othelmedir seems to know every corridor. They encounter a "muscle-wall" a barrier of flesh woven over the passage to the lower sanctums of the tower; preventing the further release of the gas, and further progress.
 - Gas pools knee-deep in low corners, pale green, smelling of rosewater and spoiled meat
 - Every surface wears a velvet patina of spider silk; footsteps leave dark bruises behind
 - Mail rusted into the flesh of the invaders, still gripping the weapons; mouths work silently, reciting breach-orders
@@ -39,12 +40,14 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 - (withheld for this scene) The name the cabal used for Othelmedir, and why these corpses murmur it
 
 **5. The Scriptorium.** They breach a library of rotted codices. Othelmedir retrieves a treatise on necromancy draughts he helped author decades ago. He does not say so.
+- Othelmedir explains the gas, the 'dreamreel'; explaining how it comes from the cauldron; it is stoppered, but certain of the elements seep outward, causing the death-memories of the townfolk
 
-**6. The Still-Room.** In the alchemy wing they brew a death-vision draught. Only one who is unhabituated to the strange energies of necromancy can drink it safely. Weirmoth qualifies.
+**6. The Still-Room.** In the alchemy wing they begin to brew a poison which can breaxh the flesh barrior. But Othelmedir only knows ten of the eleven (named) reagents. The final one must be retrieved from a dream-memory - and so Othelmedir has brewed a second potion to enter the dream-memory of the rising dead in these halls. Only one who is unhabituated to the strange energies of necromancy can drink it safely. Weirmoth qualifies.
 
-**7. The Dreamer and the Watcher.** Weirmoth drinks and goes under. Othelmedir stands over the sleeping body, listening to the mercenary murmur the old cabal's names. Internal monologue: the night of the breach, his hand on the release chain, the colleagues he sealed inside. He knows precisely what Weirmoth is witnessing, and what the mercenary will wake knowing.
+**7. The Dreamer and the Watcher.** Weirmoth drinks and goes under. Othelmedir stands over the sleeping body, listening to the mercenary murmur the names of the old tower cabal's members. Othelmedir internal monologue: the night of the breach; his hand on the lever that will unseal the lidded cauldron, releasing the gas; the colleagues he sealed inside. He knows precisely what Weirmoth is witnessing, and what the mercenary will know when he wakes.
 
-**8. The Cauldron Chamber.** The barrier drops. They descend toward the cauldron still spewing its slow gas. His old colleagues stir in their alcoves, speaking his true name.
+**8. The Cauldron Chamber.** The barrier drops. They descend toward the cauldron still spewing its slow gas. His old colleagues stir in their alcoves, speaking his true name. Vicious, excrutiatingly-specific fighting takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoh.
+- Two named, now-undead former comrades reveal Othelmedir's betrayal and identity; Weirmoth helps slay them
 
 **9. Resolution.** TODO / TBD.
 
