@@ -7,7 +7,7 @@ When writing this story scene-by-scene, repetition happens because each scene st
 **2. Pre-scene Allocation (before writing each scene).** Fill out these bullets *before* drafting, so the scene contributes something new:
 - **New sensory detail** of the location (smell, texture, sound unique to this room)
 - **New character beat** for Othelmedir (a gesture, tell, or memory not shown yet)
-- **New Weirmoth note** (his cadence, a specific Fable-Charles-ism)
+- **New Weirmoth note** (his cadence, a specific Burton/Wash-ism)
 - **One fresh piece of lore** revealed (cabal name, a ritual, a rival mancer)
 - **An object** introduced (tool, book, corpse) that earns its page time
 - **What is withheld** (what readers still don't know, to keep the next scene hungry)
