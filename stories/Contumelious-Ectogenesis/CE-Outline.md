@@ -15,12 +15,7 @@ A large selection of random ToD stories, this time based upon the **necromantic 
 Like *The CCK* - collection is broken up into **blobs**, but the blobs are more-diegetic:
 - The blobs read like scraps/clipping from a tome of forbidden magic and learning (**Necronomicon Blobs**)
 
-4-5 Different blob styles:
-- **Action-verse** - like a series of text messages written by a learned necromancer in Ashton-Smithian dialogue; *replacement for ACTION*
-- **Literary essay** - like Dario's AI essays; *replacement for DESCRIPTION*
-- **Interview questions** - Othelmedir poses brief question fragments, character gives dialogue answer; always preceded by a header with character name and optional circumstances; *replacement for DIALOGUE*
-- **Epitaphs/Obituaries** - exactly how it sounds; obituaries allows for more text; epitaphs would keep it punchier; *replacement for REFLECTION*
-- **Lemma** - A single encyclopedia entry: monsters, locaitons, spells, diseases, items, whatever - possibly, always accompanied by an image; *replacement for TABLE*
+
 ### Story Ideas
 
 1. **Interview Under Fire** - Othelmedir, acting as a forensic mancer, is hired to identify the predator loose in an abandoned, subterranean ore-railway. Proper interrogation of the dead takes twelve hours per corpse. The thing in the tunnels finds a new body every forty minutes.

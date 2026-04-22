@@ -23,6 +23,7 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 **3. The Seal of (TODO - name).** The two approach the Tower of the Attercop on its bluff (*`literary-essay`, or `obituaries` on Road of Graves epitaphs along the way - use to describe tower*). Weirmoth admits he slept poorly. Outside the chrypt, Othelmedir disables the magic seal with a spell (TODO - spell name; *good place for `action-verse`*). A hideous, visible gas begin to pour forth. The two step back, waiting for the initial fume to dissipate. Weirmoth speaks of his background (*`interview` blob here*).
 - Othelmedir explains that, based on his 'historic knowledge' - if the dream-deaths are allowed to continue, the villagers' memories will be entirely replaced by those of the ones who died (he doesn't yet reveal his specific knowledge of the dead in this case)
 - Cobwebs quiver inside; spiders stir
+- Describe Weirmoth somewhere in this scene
 - (lore) TODO - names and backgrounds/specialities of the tower cabal and rival cabal
 
 **4. The Waking Halls.** Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. Weirmoth notes how Othelmedir seems to know every corridor. They encounter a "muscle-wall" a barrier of flesh woven over the passage to the lower sanctums of the tower; preventing the further release of the gas, and further progress.
@@ -41,15 +42,27 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 
 **5. The Scriptorium.** They breach a library of rotted codices. Othelmedir retrieves a treatise on necromancy draughts he helped author decades ago. He does not say so.
 - Othelmedir explains the gas, the 'dreamreel'; explaining how it comes from the cauldron; it is stoppered, but certain of the elements seep outward, causing the death-memories of the townfolk
+- Three floors with an open central balcony-area overlooking a dead garden; several gravestones and plots where former cabal members were buried (*Good place for epitaph style*); the false sun globe above is dead and dim
+- Books are moldering, covered in a verdigris patina from the gas
 
-**6. The Still-Room.** In the alchemy wing they begin to brew a poison which can breaxh the flesh barrior. But Othelmedir only knows ten of the eleven (named) reagents. The final one must be retrieved from a dream-memory - and so Othelmedir has brewed a second potion to enter the dream-memory of the rising dead in these halls. Only one who is unhabituated to the strange energies of necromancy can drink it safely. Weirmoth qualifies.
+**6. The Still-Room.** In the alchemy wing Weirmoth quickly cuts down the guardian dead-dreamer. They begin to brew a poison which can breach the flesh barrior. But Othelmedir only knows ten of the eleven (named) reagents. The final one must be retrieved from a dream-memory - and so Othelmedir has brewed a second potion to enter the dream-memory of the rising dead in these halls. Only one who is unhabituated to the strange energies of necromancy can drink it safely. Weirmoth qualifies.
+- Describe room layout
+- Various *new* alchemical ingredients; Othelmedir takes some of these, which makes Weirmoth suspecious
+- Necromantic diagrams and charts on the walls
+- Weirmoth begins to distrust Othelmedir, but Othelmedir uses some kind of deception to get him to drink the potion (What kind of deception works? *good place for `interview` blob*)
 
 **7. The Dreamer and the Watcher.** Weirmoth drinks and goes under. Othelmedir stands over the sleeping body, listening to the mercenary murmur the names of the old tower cabal's members. Othelmedir internal monologue: the night of the breach; his hand on the lever that will unseal the lidded cauldron, releasing the gas; the colleagues he sealed inside. He knows precisely what Weirmoth is witnessing, and what the mercenary will know when he wakes.
+- (Internal monologue - othelmedir's memory) Weirmoth relives the original attack through the eyes of Othelmedir; the mancer cabals and their necromancies in brutal combat
+- (Internal monologue - othelmedir's memory) Othelmedir's former colleages instruct him to release the gas
+- (Internal monologue - othelmedir's memory) Othelmedir pulls the release lever, dooming the original occupants to endless sleep
+- While Weirmoth is dreaming Othelmedir brews up another potion (foreshadow resolution)
 
-**8. The Cauldron Chamber.** The barrier drops. They descend toward the cauldron still spewing its slow gas. His old colleagues stir in their alcoves, speaking his true name. Vicious, excrutiatingly-specific fighting takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoh.
+**8. The Descent to the Cauldron.** Othelmedir has already brewed the potion and destroyed the muscle-wall by the time Weirmoth awakens. They descend toward the cauldron still spewing its slow gas; fighting through several members of both cabals. The identification of Othelmedir and the old name he wore is made clear. Vicious, excrutiatingly-specific fighting takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoth. The scene ends with the two arriving the Cauldren Chamber.
+- Dining hall description; the food rotten and dessicate, the chairs overturned, the candles burnt to numbs
+- They pass by a ritual circle, where formerly the rituals of necromancy were performed by the tower cabal
 - Two named, now-undead former comrades reveal Othelmedir's betrayal and identity; Weirmoth helps slay them
 
-**9. Resolution.** TODO / TBD.
+**9. Resolution.** The Cauldron Chamber. Othelmedir and Weirmoth approach. Before Othelmedir can speak, Weirmoth tells him that he will not interfere, allowing Othelmedir to perform his task. Othelmedir emptied a third bottle (a potion he brewed in the the laboratory) into the cauldron. It hisses, but he intones deadspeech over it, and it eventually turns to a cauldron of muck. Weirmoth has spear ready when Othelmedir turns; he ponders killing the mancer. Othelmedir argues that his cabal did not evil deed; that the plight of the townfolk was a result of the rivals' disruption; that he kept the secret to himself to avoid persecution caused by ignorance of these circumstances; and finally, that he himself is guilty only of that former cowardice, which he has now rectified. Weirmoth assents, but forces Othelmedir to turn over his stolen alchemy reagents. Othelmedir agrees to this fair bargain, and hands over the ingredients - but he keeps secret the stolen cult pendent he took earlier...
 
 ## Characters
 
@@ -63,7 +76,7 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 - Brags he "never dreams" (not a dreamer).
 - Competent in a fight, lost in chrypt arcana.
 - Signature spear with a fabricated origin myth.
-- Drops the patter for one quiet line before drinking.
+- Drops the patter for one quiet line before drinking Othelmedir's potion.
 
 ## Locations
 
