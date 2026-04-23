@@ -14,7 +14,7 @@ Structure stories and scenes as sequences of typed "blobs" — short text blocks
 | **Verse** | 1st-person, action scrawls | Like a string of action-focused texts from a scholarly, eloquent necromancer. |
 | **Essay** | discursive 1st-person | Like a serious nonfiction essay, but describes/argues a specific fiction element.  |
 | **Interview** | candid, conversational 1st-person | A framed monologue where prompts stand in for the interviewer. |
-| **Memorials** | formal, compressed 2nd/3rd-person | 2-4 epitaphs. Aimed at honoring the dead or addressing passers-by. |
+| **Memorials** | formal, compressed 2nd/3rd-person | 2-4 memorials. Aimed at honoring the dead or addressing passers-by. |
 | **Lemma** | 3rd-person omniscient | Encyclopedia entry for a fictional element: items, locations, monsters, etc. |
 
 ## Mode Detection
@@ -40,12 +40,12 @@ Determine mode from user request:
 - **Read**: `references/interview-reference.md`
 
 **Memorials mode**:
-- Triggers: TODO
-- **Read**: `TODO.md`
+- Triggers: "write memorials", "write memorial blobs", "memorials mode", "draft the memorials", "generate memorial blob(s)", "write the epitaphs", or any request to write Memorials-style content for an existing breakdown
+- **Read**: `references/memorials-reference.md`
 
 **Lemma mode**:
-- Triggers: TODO
-- **Read**: `TODO.md`
+- Triggers: "write lemma blobs", "lemma mode", "draft the lemmas", "generate lemma blob(s)", "write the encyclopedia entries", or any request to write Lemma-style content for an existing breakdown
+- **Read**: `references/lemma-reference.md`
 
 If ambiguous, ask user which mode.
 
