@@ -32,8 +32,8 @@ Determine mode from user request:
 - **Read**: `TODO.md`
 
 **Essay mode**:
-- Triggers: TODO
-- **Read**: `TODO.md`
+- Triggers: "write essay blobs", "essay mode", "draft the essays", "generate essay blob(s)", or any request to write Essay-style content for an existing breakdown
+- **Read**: `references/essay-reference.md`
 
 **Interview mode**:
 - Triggers: TODO

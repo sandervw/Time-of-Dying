@@ -1,1 +1,10 @@
-Then sprang Gro forth to the table, and against it sprawling, for now was the great keep of Carcë shaken anew as one shaketh a dice box, and lightnings opened the heavens, and the thunder roared unceasingly, and the sound of waters stunned the ear in that chamber, and still that laughter pealed above the turmoil. And Gro knew that it was now with the King even as it had been with Gorice VII. in years gone by, when his strength gave forth and the spirit tare him and plastered those chamber-walls with his blood. Yet was Gro mindful, even in that hideous storm of terror, of the ninety-seventh page whereon the King had shown him the word of dismissal, and he wrenched the book from the King’s palsied grasp and turned to the page. Scarce had his eye found the word, when a whirlwind of hail and sleet swept into the chamber, and the candles were blown out and the tables overset. And in the plunging darkness beneath the crashing of the thunder Gro pitching headlong felt claws clasp his head and body. He cried in his agony the word, that was the word TRIPSARECOPSEM, and so fell a-swooning.
+## Essay
+
+Voice: First-person reflective-argumentative. The writer is present as a thinking human — hedging ("I think," "perhaps"), conceding counterpoints, marking their own uncertainty, occasionally digressing. Intellectual but personal; the tone sits between a lecture and a long letter. Direct address to the reader ("you") is common.
+POV: First-person singular (I), often sliding into first-person plural (we) when invoking shared human stakes, with occasional second-person (you) to bring the reader in.
+Tense: Present-dominant, with past tense for historical examples and future/conditional (will, would, could) for speculation and argument. The tense shifts are fluid — the essayist moves between "here's what I think now," "here's what happened," and "here's what might happen" without ceremony.
+One-liner: An essay is a mind thinking through a question in public — the prose of a person reasoning openly, not a voice pronouncing conclusions.
+
+```
+Example: 'Machines of Loving Grace' by Dario Amodei 
+```
