@@ -20,7 +20,7 @@ Carry an archaic-scholarly register. For full voice guidance (diction, cadence, 
 When writing multiple Essay blobs for one scene, vary word counts significantly. An 85-word aftermath blob and a 190-word speculative blob can coexist in the same scene. Monotonous lengths flatten the rhythm.
 
 ### Content
-5. **First person mandatory.** The essayist is always "I." Slide into "we" when invoking shared stakes. Never drift into third-person omniscient — that is Lemma's job.
+5. **First person mandatory.** The essayist is always "I." Slide into "we" when invoking shared stakes. Never drift into third-person omniscient.
 6. **At least one hedge or uncertainty marker per blob.** "I think," "perhaps," "I suspect," "it may be that," "methinks," "howbeit." Measured uncertainty is the defining move of essay voice.
 7. **At least one concession, counterpoint, or digression per blob.** The writer concedes a counter-position, notes an aside, or lets the mind wander before returning. Thinking in public, not pronouncing.
 8. **At least one concrete setting anchor per blob.** A named place, creature, spell, artifact, rite, or sensation. Abstract reasoning without grounding is not Essay.

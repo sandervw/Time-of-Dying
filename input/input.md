@@ -1,10 +1,16 @@
 ## Essay
 
-Voice: First-person reflective-argumentative. The writer is present as a thinking human — hedging ("I think," "perhaps"), conceding counterpoints, marking their own uncertainty, occasionally digressing. Intellectual but personal; the tone sits between a lecture and a long letter. Direct address to the reader ("you") is common.
-POV: First-person singular (I), often sliding into first-person plural (we) when invoking shared human stakes, with occasional second-person (you) to bring the reader in.
-Tense: Present-dominant, with past tense for historical examples and future/conditional (will, would, could) for speculation and argument. The tense shifts are fluid — the essayist moves between "here's what I think now," "here's what happened," and "here's what might happen" without ceremony.
-One-liner: An essay is a mind thinking through a question in public — the prose of a person reasoning openly, not a voice pronouncing conclusions.
+**interview** - Necromancer poses brief question fragments, character gives dialogue answer; always preceded by a header with character name and optional circumstances; *replacement for DIALOGUE*
+
+## Interview
+
+Voice: Conversational, candid, often colloquial — the respondent's natural speaking register, with verbal tics, asides, and digressions preserved. Think transcribed speech more than composed prose.
+POV: First-person (the respondent), with an implied second-person frame — the bolded header stands in for an unseen interviewer. The reader eavesdrops rather than being addressed directly.
+Tense: Anchored in the present (the moment of answering), with past-tense excursions for anecdote and occasional future for speculation. Mixed, but the "now" of the interview is the stable ground.
+One-line: A framed monologue where bolded prompts stand in for an unseen interviewer, and the subject answers in candid, present-tense first-person speech.
 
 ```
-Example: 'Machines of Loving Grace' by Dario Amodei 
+Example:
+**Sources of inspiration?**
+[Respondant's answer - IE. something like, "Well I always loved westerns when I was a kid. My dad..."]
 ```

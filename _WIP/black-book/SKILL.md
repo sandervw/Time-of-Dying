@@ -36,8 +36,8 @@ Determine mode from user request:
 - **Read**: `references/essay-reference.md`
 
 **Interview mode**:
-- Triggers: TODO
-- **Read**: `TODO.md`
+- Triggers: "write interview blobs", "interview mode", "draft the interviews", "generate interview blob(s)", or any request to write Interview-style content for an existing breakdown
+- **Read**: `references/interview-reference.md`
 
 **Memorials mode**:
 - Triggers: TODO
