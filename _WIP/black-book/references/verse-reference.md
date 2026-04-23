@@ -1,4 +1,4 @@
-# Verse-Blob Rules (Voice Overlay, Clause-Split Format)
+# Verse-Blob Rules (General ideas)
 
 ## Hard Rules
 

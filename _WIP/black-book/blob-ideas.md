@@ -9,12 +9,7 @@
 
 ## Verse
 
-
-
-```
-Example:
-
-```
+See verse reference doc: _WIP\black-book\references\verse-reference.md
 
 ## Essay
 
