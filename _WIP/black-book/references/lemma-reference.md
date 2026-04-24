@@ -19,15 +19,15 @@ These are non-negotiable. Violate none of them.
 ### Structure
 1. **One entity per blob.** The entity name matches the breakdown header exactly (`## N. LEMMA — [Entity Name]`).
 2. **Two allowed formats**: paragraph (a single prose block, no labels) or structured fields (a short list of labeled keys).
-3. **Structured-field labels must vary per entity.** There is NO fixed menu. A creature may use `Range / Diet / Signs`; a weapon may use `Origin / Bearer / Effect`; a spell may use `Incantation / Components / Risks`; a disease may use `Symptoms / Spread / Cure`. Do NOT reuse the same field set across unrelated entities in the same scene.
-4. Choice between paragraph and structured format is a judgment call. Let the entity decide.
+3. **Structured-field labels must vary per entity.** There is NO fixed menu. Do NOT reuse the same field set across entities in the same scene.
+4. Choice between paragraph and structured format is a judgment call.
 
 ### Word Limits
 5. **Per lemma**: 40-120 words total. This is a ceiling, not a target. Let the content dictate length. Terse is good.
 6. **Vary lengths across lemmas in a scene.** If multiple lemmas appear, do not cluster them at the same word count. Mix a lean 45-word entry with a fuller 110-word entry.
 
 ### Tense
-7. Apply the present/past rule above. Origin sentences are past; description sentences are present. Do not drift to future tense.
+7. Apply the present/past rule above. Origin sentences are past; description sentences are present. Do use future tense.
 
 ### Image
 8. **Every lemma carries an image placeholder** immediately below the header, in this format:
@@ -44,13 +44,7 @@ These are non-negotiable. Violate none of them.
 
 ## What Lemma Blobs Cover
 
-Lemmas catalog a single canonical entity. Use them as punctuation, anchoring information about something the reader has just encountered.
-
-- **Creatures**: monsters, beasts, undead, species
-- **Artifacts**: weapons, relics, cursed items, tools
-- **Locations**: named places, chrypts, tohmbs, landmarks, regions
-- **Phenomena**: spells, rituals, curses, diseases, astrological events
-- **Materials**: plants, minerals, substances, reagents
+Lemmas catalog a single canonical entity: creatures, items, locations, phenomena, materials, etc, etc. Use them as punctuation, anchoring information about something the reader has just encountered.
 
 If the entity is generic or has no name, it probably belongs in an Essay, not a Lemma.
 

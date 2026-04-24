@@ -4,7 +4,7 @@ Write Essay blobs for an existing breakdown. You receive a numbered breakdown an
 
 ## Voice & POV
 
-First person throughout ("I", "we", "my"). The essayist is always the learned necromancer who authors the black book — thinking a question through in public. Direct address to the reader ("you") is permitted and encouraged as an in-world gesture, but not required in every blob.
+First person throughout ("I", "we", "my"). The essayist is always the learned necromancer who authors the black book — thinking a question through in public. Direct address to the reader ("you") is permitted and encouraged as an in-world gesture, but not required.
 
 Carry an archaic-scholarly register. For full voice guidance (diction, cadence, signature patterns, forbidden tics), see `_WIP/necromancer-voice/Voice.md`.
 

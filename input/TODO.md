@@ -11,10 +11,10 @@ Study those files carefully. Let me know when you have a good understanding of h
 ---
 
 
-Great job. This skill is based off a working skill you have (stratguide-scribe), but adapted to new blobs/styles. As you can probably guess, we're going to be implementing specific blob styles. This session, we will focus on *lemma*.
-First, read @.claude\skills\stratguide-scribe\references\table-reference.md . This is the model we're going for from the straguide skill.
-Now, read @input/input.md . This is the general tone or style I want to achieve in the new skill.
-Your objective is to come up with the workflow, hard-rules/formatting, and any other necessary conversion-information, and implement the 'lemma-reference.md' file. Let me know your thoughts, questions, and any suggestion you have before implementing.
+Great job. This skill is based off a working skill you have (stratguide-scribe), but adapted to new blobs/styles. As you can probably guess, we're going to be implementing specific blob styles. This session, we will focus on *verse*.
+First, read @.claude\skills\stratguide-scribe\references\action-reference.md . This is the model we're going for from the straguide skill.
+Now, read @input/input.md . This is the general tone or style I want to achieve in the new skill. As you can see, I have a good start
+Your objective is to come up with the workflow, hard-rules/formatting, and any other necessary conversion-information, and implement the 'action-reference.md' file. Let me know your thoughts, questions, and any suggestion you have before implementing.
 
 ## Question Answers
 

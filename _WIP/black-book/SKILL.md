@@ -28,8 +28,8 @@ Determine mode from user request:
 - **Read**: `references/breakdown-reference.md`
 
 **Verse mode**:
-- Triggers: TODO
-- **Read**: `TODO.md`
+- Triggers: "write verse blobs", "verse mode", "draft the verses", "generate verse blob(s)", or any request to write Verse-style content for an existing breakdown
+- **Read**: `references/verse-reference.md`
 
 **Essay mode**:
 - Triggers: "write essay blobs", "essay mode", "draft the essays", "generate essay blob(s)", or any request to write Essay-style content for an existing breakdown
