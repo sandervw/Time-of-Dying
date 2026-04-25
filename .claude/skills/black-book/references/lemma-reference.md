@@ -92,31 +92,3 @@ Paragraph lemma text, 40-120 words.
 The output file should be named `[Scene-Title]-Lemma-Blobs.md`.
 
 **CRITICAL:** Output ONLY Lemma blobs. Do not write blobs for any other style. Do not renumber — preserve the exact numbers from the input breakdown.
-
-## Examples
-
-### Example 1: Paragraph location lemma
-
-## 4. LEMMA — The Old Soulwood
-
-![IMAGE: dense juniper forest rooted in stacked gravestones, half-rotted canopy, dawn fog](images/old-soulwood.png)
-
-A named forest on the Road of Graves, predating the Time of Dying. A demon king willed his field to his human-slave concubine on death. The necromancer-gods, unable to kill a human, drove the Road of Graves through her land instead. She planted magic juniper berries atop the first epitaphs; these rooted into stone and spread into an unstoppable forest. The Bouldsatr later settled it before being hunted to extinction.
-
-### Example 2: Paragraph artifact lemma
-
-## 6. LEMMA — Dragon Eye Longsword
-
-![IMAGE: ornate longsword, serpent-shaped hilt biting a gleaming opal, black velvet backing](images/dragon-eye-longsword.png)
-
-This fabulous weapon's hilt is the shape of a serpent, with its fangs wrapped around a gleaming opal. It was made by a nameless mancer, who is said to have filled it with the hatred borne against mankind by the last, degenerated dragon. The Great Wyrm of The Leather Dragon is its bearer.
-
-### Example 3: Structured-field creature lemma
-
-## 9. LEMMA — Periwinkle Forest Cat
-
-![IMAGE: enormous sinewy forest cat, pale violet fur, long limbs, flat face, perched on a mossy branch](images/periwinkle-forest-cat.png)
-
-**Taxon:** *Felis animosilva major*.
-**Build:** 4.3-4.5 meters in length; shoulder height 2.2-2.3 meters; reach near 3 meters. Limbs unusually long and sinewy, permitting agile sprinting and arboreal climbing. Face flat, jaw underpowered relative to mass. Typical weight exceeds two tons.
-**Range:** The Soulwood and its quarters.

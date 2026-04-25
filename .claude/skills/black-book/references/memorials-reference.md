@@ -25,7 +25,7 @@ Tense rules:
 
 ### Structure
 1. Epitaph count matches the `(N)` in the breakdown header exactly (2, 3, or 4).
-2. Epitaphs are separated by `---` horizontal rules. Nothing else between them.
+2. Epitaphs are separated by `...` horizontal rules. Nothing else between them.
 3. Each epitaph is **5-60 words**.
 4. **Total blob word count: up to 150 words.**
 5. Format per epitaph is free: line-broken verse OR a single prose paragraph. Mix within a blob.
@@ -85,11 +85,11 @@ Memorials is **not** for:
 
 [Epitaph 1, verse or prose, 5-60 words.]
 
----
+...
 
 [Epitaph 2.]
 
----
+...
 
 [Epitaph 3.]
 ```
@@ -97,33 +97,3 @@ Memorials is **not** for:
 Name the output file `[Scene-Title]-Memorials-Blobs.md`.
 
 **CRITICAL:** Output ONLY Memorials blobs. Do not write other blob types. Do not renumber.
-
-## Examples
-
-### Example A — 2 epitaphs, Eulogy + Wayfarer, length contrast
-
-## 5. MEMORIALS (2)
-
-Flatbrethe, slain by a nickel-beetle, aged nineteen. Buried by her sister.
-
----
-
-It is improvident to regard something as a trifle just because it fails to catch the eye: one should never judge a book by its cover or one may miss at least one marvel. Look deeper, wayfarer.
-
-### Example B — 3 epitaphs, rhymed eulogy + two others (demonstrating variety)
-
-## 7. MEMORIALS (3)
-
-Here drink to the dead of the Eighth Gate Thievers' Guild:
-Thom who stole fruit from the stawberry patch,
-Red Una the brawler, whose could crack any latch,
-Quiet Sib, whose hair was the color of thatch.
-None of them lived to enjoy their last snatch.
-
----
-
-Gromal the Flenser served two mancers and neither remember his name. He is buried under the work he did for them.
-
----
-
-Wayfarer, read no further. The next stone is a lie.

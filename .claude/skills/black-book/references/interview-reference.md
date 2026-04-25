@@ -4,7 +4,9 @@ Write Interview blobs for an existing breakdown. You receive a numbered breakdow
 
 ## Voice & POV
 
-First person throughout — the named NPC speaks. The main character ("you") **never** answers; the bolded prompts stand in for the unseen interviewer. The reader eavesdrops rather than being addressed directly.
+First person throughout — the named NPC speaks. **The main character (the protagonist necromancer) is always the interviewer**; the bolded prompts are their abbreviated questions, never spoken aloud by any other party. The main character ("you") **never** answers and is never the interviewee. The reader eavesdrops rather than being addressed directly.
+
+If the breakdown header names the protagonist as the interviewee, that header is wrong — flag it and skip the blob, or convert it into Essay before writing.
 
 Register is **candid and colloquial** — transcribed speech, not composed prose. This is the key split from Essay: Essay is the scholarly necromancer-author reasoning in public; Interview is any NPC talking in their own voice, tics and all. The register shifts per character (learned, blunt, broken, etc.).
 
@@ -26,13 +28,11 @@ Tense is anchored in the present (the moment of answering), with past-tense excu
 7. **First person mandatory.** Never drift to third-person omniscient.
 8. **At least one verbal tic, hesitation, or digression per blob.** "Well," "I mean," "in sooth," trailing off, self-interruption, an aside that wanders before returning. The blob must read as *spoken*.
 9. **The NPC must have an agenda.** Confession, complaint, boast, warning, evasion, pitch.
-10. **The main character never speaks.** No quoted speech from "you" — the bolded prompts are the only intrusion.
-11. **No stage directions or narration.** No "he said," no action beats, no description of the speaker between lines.
-12. **No meta-dialogue.** No "as I was saying," "let me explain," "listen carefully." The NPC just speaks.
-13. **"I" dominates over "you."** The respondent is revealing themselves or the world, not addressing the interviewer as the subject.
-
-### Consecutive Interview Blobs
-14. Interview has an adjacency limit of 2 in the breakdown. If the breakdown places three or more Interview blobs back-to-back, flag it.
+10. **The main character is always the interviewer, never the interviewee.** The bolded prompts represent the protagonist's abbreviated questions; the answering voice belongs to a named NPC. If a beat requires the protagonist to speak at length (confess, persuade, lie, monologue), use Essay, not Interview.
+11. **The main character never speaks aloud on the page.** No quoted speech from "you" — the bolded prompts are the only intrusion.
+12. **No stage directions or narration.** No "he said," no action beats, no description of the speaker between lines.
+13. **No meta-dialogue.** No "as I was saying," "let me explain," "listen carefully." The NPC just speaks.
+14. **"I" dominates over "you."** The respondent is revealing themselves or the world, not addressing the interviewer as the subject.
 
 ## What Interview Blobs Cover
 
@@ -88,30 +88,3 @@ Third response.
 Name the output file `[Scene-Title]-Interview-Blobs.md`.
 
 **CRITICAL:** Output ONLY Interview blobs. Do not write other blob types. Do not renumber.
-
-## Examples
-
-## 7. INTERVIEW (3) — Brack the Grave-digger, end of shift
-
-**The day's toils**
-Aye. Three pits and a reburial, and the reburial were the old trader what they pulled face-down out of the marsh-run. You know the one. I had to use the hook.
-
-**The hook?**
-The flensing hook, aye.
-
-**Trouble in the trade**
-No trouble from him. His hands were all knit up with bloodroot. From his widow, maybe. She's coming at dawn with the priest, and she'll want to see the face. Good luck to her.
-
-## 11. INTERVIEW (4) — Ollet, who sits in the rear pew
-
-**Name**
-My name is Ollet.
-
-**A keepsake?**
-Do you want to see what I have in my pocket? I have a thing. A tooth. A big one, not mine. Mine are all still in, see? But this one came out of the wall by the altar, and I keep it and I keep it.
-
-**Sleep**
-Sometimes I sleep when the big shadow isn't walking.
-
-**Shadow?**
-It walks a lot. It walked last night, and I didn't, and now my head is full of quiet wasps.

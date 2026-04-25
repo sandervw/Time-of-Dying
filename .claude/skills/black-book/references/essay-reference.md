@@ -72,25 +72,3 @@ Another essay blob, preserving the original number.
 Name the output file `[Scene-Title]-Essay-Blobs.md`.
 
 **CRITICAL:** Output ONLY Essay blobs. Do not write other blob types. Do not renumber.
-
-## Examples
-
-**Aftermath reflection (2 paragraphs, ~90 words):**
-
-The body accepts the soul back unevenly after such a rite. My left hand has tingled since the second dawn, and I suspect the tingling will persist until I next lie down to sleep.
-
-Whether this is the price of the Remembering Drowned's attention, or merely the body's own confusion at rejoining so late, I cannot yet decide. The literature offers no guide. I will descend once more before the month is out, regardless. The reader may judge my wisdom; I have stopped judging it myself.
-
-**Mechanism with hedged speculation (2 paragraphs, ~90 words):**
-
-Columbine water parts soul from body where common drownings merely end them; the distinction, I think, is not chemical but covenantal. I have descended three times this month into the pool at Ushen's Grove, and each time the water has risen to meet me with what I can only call recognition.
-
-Whether this is the god's residual attention, or the pool's own long practice, I cannot say. Past divers are unreliable witnesses. Howbeit, the tally is plain: four names surrendered to the rite so far, and memory thins by measurable weight with each descent.
-
-**Speculation with concession (3 paragraphs, ~125 words):**
-
-The Thin Man's dreamers are said to wake once, if at all, before the entropy takes them. I have examined two such wakings in my time on the Road, and neither offered the revelation the witch-brothers promised. Both subjects spoke briefly, both named a single object, and both were dead before the third bell.
-
-Perhaps the oracle is sound and I have been unlucky. Perhaps the brothers mistake coincidence for canon. I lean, reluctantly, toward the latter, though I will not publish the opinion while the elder mancers still watch my doorway.
-
-What I can say with some certainty is that the objects named were never the same. One spoke of a gate; the other of a jar. If there is a map hidden in these wakings, I cannot read it. You may have better eyes.
