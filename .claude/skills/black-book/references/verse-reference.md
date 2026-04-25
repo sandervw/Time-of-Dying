@@ -2,11 +2,18 @@
 
 Write the Verse blobs for an existing breakdown. You are given a numbered breakdown file and must produce only the Verse-style blobs, preserving their original numbers.
 
-## Voice & POV
+This skill runs in two stages. **Do not skip stage 1.**
 
-First person, past tense throughout. The necromancer is recounting action after-the-fact — never livetexting mid-crisis. The reader eavesdrops on a scholar's post-hoc scrawl, not a play-by-play.
+## Stage 1: Load the Voice
 
-Register is **archaic-scholarly** in the Ashton-Smithian vein: inverted syntax, archaic connectives, Latinate vocabulary, biblical/high-fantasy cadence. For full voice guidance  **read `_WIP/necromancer-voice/Voice.md`** before drafting.
+Before anything else:
+
+1. Run `.claude/skills/black-book/assets/build_voice.py` (regenerates the voice file with a fresh randomized vocabulary draw). Use the `python` command, not `python3`.
+2. Read and fully internalize `.claude/skills/black-book/assets/Voice.md`. This is your Voice & POV reference for diction, cadence, signature sentence patterns, vocabulary, rhetorical tactics, and forbidden tics.
+
+Only proceed to Stage 2 after Voice.md has been read this session.
+
+## Stage 2: Write the Verse Blobs
 
 ## Hard Rules
 
@@ -71,8 +78,8 @@ A Verse blob passes if:
 
 ## Workflow
 
-1. **Read the full breakdown** to understand scene arc and where Verse blobs sit.
-2. **Read `_WIP/necromancer-voice/Voice.md`** for full register guidance.
+1. **Confirm Stage 1 is complete:** `build_voice.py` has been run and `Voice.md` has been read this session.
+2. **Read the full breakdown** to understand scene arc and where Verse blobs sit.
 3. **For each Verse blob in the breakdown**, draft the prose from the bullet content, then split into bubbles per the hard rules.
 4. **Verify every hard rule** (bubble length, group length, blob length, group count, tense, POV, formatting separators).
 5. **Output only the Verse blobs**, each under its original numbered header.

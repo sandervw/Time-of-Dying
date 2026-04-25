@@ -2,11 +2,18 @@
 
 Write Essay blobs for an existing breakdown. You receive a numbered breakdown and must produce only the Essay-style blobs, preserving original numbers.
 
-## Voice & POV
+This skill runs in two stages. **Do not skip stage 1.**
 
-First person throughout ("I", "we", "my"). The essayist is always the learned necromancer who authors the black book — thinking a question through in public. Direct address to the reader ("you") is permitted and encouraged as an in-world gesture, but not required.
+## Stage 1: Load the Voice
 
-Carry an archaic-scholarly register. For full voice guidance (diction, cadence, signature patterns, forbidden tics), see `_WIP/necromancer-voice/Voice.md`.
+Before anything else:
+
+1. Run `.claude/skills/black-book/assets/build_voice.py` (regenerates the voice file with a fresh randomized vocabulary draw). Use the `python` command, not `python3`.
+2. Read and fully internalize `.claude/skills/black-book/assets/Voice.md`. This is your Voice & POV reference for diction, cadence, signature sentence patterns, vocabulary, rhetorical tactics, and forbidden tics.
+
+Only proceed to Stage 2 after Voice.md has been read this session.
+
+## Stage 2: Write the Essay Blobs
 
 ## Hard Rules
 
@@ -41,11 +48,12 @@ Avoid:
 
 ## Workflow
 
-1. Read the full breakdown to understand the scene arc.
-2. For each Essay blob, use the breakdown bullets as a content guide. The bullets say *what* to argue or reflect on; you decide *how* to render it as prose.
-3. Decide paragraph count (2–4) based on the number of argumentative turns. A single reflection may take two; a hedged speculation with counterpoint may need four.
-4. Verify every hard rule: word count, sentence count, first-person voice, hedge marker, concession/digression, setting anchor, no dialogue, no action beats, no cross-blob reference.
-5. Output only the Essay blobs under their original numbered headers.
+1. Confirm Stage 1 is complete: `build_voice.py` has been run and `Voice.md` has been read this session.
+2. Read the full breakdown to understand the scene arc.
+3. For each Essay blob, use the breakdown bullets as a content guide. The bullets say *what* to argue or reflect on; you decide *how* to render it as prose.
+4. Decide paragraph count (2–4) based on the number of argumentative turns. A single reflection may take two; a hedged speculation with counterpoint may need four.
+5. Verify every hard rule: word count, sentence count, first-person voice, hedge marker, concession/digression, setting anchor, no dialogue, no action beats, no cross-blob reference.
+6. Output only the Essay blobs under their original numbered headers.
 
 ## Output Format
 
