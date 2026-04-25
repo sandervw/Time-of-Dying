@@ -8,10 +8,6 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 
 ### Plot
 
-*Based on: https://en.uesp.net/wiki/Skyrim:Waking_Nightmare*
-
-(*Grot is absent from this adventure.*)
-
 **1. Arrival in Sulky Wend.** Othelmedir enters the sole boarding house of Sulky Wend (TODO - name). He observes the clientele. Residents are sullen, sleep-starved. A sleepwalking child recites a funeral rite she cannot possibly know (*good place for a `lemma`-type blob*). Meanwhile, the local bedmeister is busy talking to another client. Othelmedir recalls that he had lived near Sulky Wend before, for a time - but he rarely visited the town proper. His reflection does not elaborate.
 - (Othelmedir) Tall as a redwood, thin as a reed; iron eyes, broad dark face, cropped curls, salt-and-pepper beard
 - (Othelmedir) Oxblood velvet cloak; full white prosthetic left arm hangs lifeless (read as a maiming)
@@ -25,6 +21,11 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 - (Othelmedir) Fronts as a modest, wandering scholar
 - (Othelmedir) Lets Weirmoth and Noseman name terms first; never states his cut up front
 - (Othelmedir) Drops a line: he works by barter and oath, not coin
+- (Weirmoth) Roadman/grave-carter by trade; bluffs the mystic work
+- (Weirmoth) Chipper, self-mythologizing picaro; banters with the bedmeister
+- (Weirmoth) Cloak patched from salvaged funeral shrouds
+- (Weirmoth) Signature spear leaned at the table; spins a fabricated origin myth for it
+- (Weirmoth) Brags he "never dreams" (groundwork for the irony in scene 3)
 - (lore) Dream-mancy is a dead specialism; no licensed practitioners remain
 - (withheld) Noseman Under knows or suspects about Othelmedir, but he conspicuously does not elaborate to Weirmoth
 
@@ -34,7 +35,9 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 - (Othelmedir) Imply his real strength is knowledge; he set this seal himself
 - (Othelmedir) Carries no visible weapon; Weirmoth notes this uneasily
 - Cobwebs quiver inside; spiders stir
-- Describe Weirmoth somewhere in this scene
+- (Weirmoth) Admits he slept poorly, contradicting his "never dreams" brag from the night before
+- (Weirmoth) Hidden warmth surfaces under the banter during his background interview
+- (Weirmoth) Pulls the preserved canary from his cloak; talks to it like a confidant
 - (lore) TODO - names and backgrounds/specialities of the tower cabal and rival cabal
 
 **4. The Waking Halls.** Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. Weirmoth notes how Othelmedir seems to know every corridor. They encounter a "muscle-wall" a barrier of flesh woven over the passage to the lower sanctums of the tower; preventing the further release of the gas, and further progress.
@@ -49,6 +52,8 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 - (Othelmedir) Never reaches for a weapon when corpses lunge; Weirmoth does the killing
 - Othelmedir straightens a crooked wall sconce without lookin (an old habit from nightly rounds)
 - Weirmoth greets the first corpse-invader like a tavern acquaintance; the banter thins by the third
+- (Weirmoth) Competent in the fight; spear-work is clean and unflashy
+- (Weirmoth) Lost in the chrypt arcana; defers to Othelmedir on every sigil and lock
 - The preserved canary in Weirmoth's pocket goes silent; he taps its cage, but it says nothing
 - (lore) A rival mancer, Ostrobone the Rook, led the breach wearing a mask of hornet husks
 - (withheld for this scene) The name the cabal used for Othelmedir, and why these corpses murmur it
@@ -69,6 +74,7 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 - Weirmoth begins to distrust Othelmedir, but Othelmedir uses some kind of deception to get him to drink the potion (What kind of deception works? *good place for `interview` blob*)
 - (Othelmedir) Frames the potion-drinking as a fair exchange; his terms sound fair when set from advantage
 - (Othelmedir) Speaks in precise, formal cadence throughout
+- (Weirmoth) Drops the patter for one quiet line before drinking; the picaro mask slips, hidden warmth shows
 
 **7. The Dreamer and the Watcher.** Weirmoth drinks and goes under. Othelmedir stands over the sleeping body, listening to the mercenary murmur the names of the old tower cabal's members. Othelmedir internal monologue: the night of the breach; his hand on the lever that will unseal the lidded cauldron, releasing the gas; the colleagues he sealed inside. He knows precisely what Weirmoth is witnessing, and what the mercenary will know when he wakes.
 - (Internal monologue - othelmedir's memory) Weirmoth relives the original attack through the eyes of Othelmedir; the mancer cabals and their necromancies in brutal combat
@@ -86,17 +92,3 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 **9. Resolution.** The Cauldron Chamber. Othelmedir and Weirmoth approach. Before Othelmedir can speak, Weirmoth tells him that he will not interfere, allowing Othelmedir to perform his task. Othelmedir emptied a third bottle (a potion he brewed in the the laboratory) into the cauldron. It hisses, but he intones deadspeech over it, and it eventually turns to a cauldron of muck. Weirmoth has spear ready when Othelmedir turns; he ponders killing the mancer. Othelmedir argues that his cabal did not evil deed; that the plight of the townfolk was a result of the rivals' disruption; that he kept the secret to himself to avoid persecution caused by ignorance of these circumstances; and finally, that he himself is guilty only of that former cowardice, which he has now rectified. Weirmoth assents, but forces Othelmedir to turn over his stolen alchemy reagents. Othelmedir agrees to this fair bargain, and hands over the ingredients - but he keeps secret the stolen cult pendent he took earlier...
 - (Othelmedir) Yields the reagents (bargain calls for it); keeps the pendant (bargain did not name it)
 - (Othelmedir) Closing speech in formal, archaic cadence; not pleading, stating terms
-
-## Characters
-
-**Othelmedir:** See `\stories\Contumelious-Ectogenesis\Othelmedir-Analysis.md` for character context.
-
-**Weirmoth:** *Inspiration: Jack Burton (Big Trouble in Little China) meets Wash (Firefly)* A "bally brave adventurer", irritatingly chipper and enthusiastic. Outwardly a self-mythologizing picaro and banterer, with a hidden genuine warmth underneath.
-
-- Roadman/grave-carter by trade; bluffs the mystic work.
-- Carries a partially-alive preserved canary he talks to.
-- Cloak patched from salvaged funeral shrouds.
-- Brags he "never dreams" (not a dreamer).
-- Competent in a fight, lost in chrypt arcana.
-- Signature spear with a fabricated origin myth.
-- Drops the patter for one quiet line before drinking Othelmedir's potion.
