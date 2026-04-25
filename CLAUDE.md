@@ -22,22 +22,6 @@ Setting documents are organized hierarchically:
 
 **IMPORTANT:** after creating a new document, ask the user if they want you to run a text-trimmer or draft-editor subagent on the result document.
 
-## Vocabulary Lookups
-
-Before reading full markdown files in `setting/`, check whether the info you need matches one of the array headers in `setting/vocabulary.json`. If it does, run the sampling script from the `setting/` folder. **Never read the full `vocabulary.json` file.** Use the sampling script to pull the full array for the term you need.
-
-- Spells: `python sampling.py spells`
-- Ceremonies, Rituals, Rites: `python sampling.py ceremonies_rituals_rites`
-- Curses, Afflictions: `python sampling.py curses_affliction`
-- Mundane Necromantic Duties: `python sampling.py mundane_necromantic_duties`
-- Astrological/Religious Events: `python sampling.py astrological_religious_events`
-- Titles, Roles: `python sampling.py titles_roles`
-- Necromancy Supplies: `python sampling.py necromancy_supplies`
-- Locations: `python sampling.py locations`
-- Undead: `python sampling.py undead`
-- Cosmologisms: `python sampling.py cosmologisms`
-- Epithets: `python sampling.py epithets`
-
 ## Writing Conventions
 
 When generating or editing setting/story content:
@@ -53,12 +37,27 @@ When generating or editing setting/story content:
 
 ### Tone and Aesthetic
 
-- **Visceral sensory detail across all five senses.** Always ground horror in specific sensations: cartilage crunch, sweet sweat, burned hair, chalky cracked teeth, slimy greens, arrhythmic heart pounding. Never settle for abstract "it was terrifying."
-- **Body horror meets domestic familiarity.** Kitchen knives, carpets of rat skins, roaches over moldy meat, a pig giving birth to a cat. The grotesque lives in everyday objects and spaces, not just monsters.
-- **Industrial decay fused with organic rot.** Rusty nails alongside fungus through flesh. Wrought-iron gates beside melting trees. Metal and bone occupy the same register.
-- **Dark humor threaded through horror.** Speech Cheese, Snot Waffle, Toke Eater. The setting allows absurdity and irony without breaking tone. Comedy and horror coexist; neither cancels the other.
-- **No sanitizing, no euphemism.** Call things what they are. Severed heads, ruptured capillaries, organ harvesting. The language is direct, blunt, and unflinching.
-- **Never use em-dashes.**
+- Visceral sensory detail across all five senses.
+- Body horror meets domestic familiarity.
+- Industrial decay fused with organic rot.
+- Dark humor threaded through horror.
+- No sanitizing, no euphemism.
+
+## Vocabulary Lookups
+
+Before reading full markdown files in `setting/`, check whether the info you need matches one of the array headers in `setting/vocabulary.json`. If it does, run the sampling script from the `setting/` folder. **Never read the full `vocabulary.json` file.** Use the sampling script to pull the full array for the term you need.
+
+- Spells: `python sampling.py spells`
+- Ceremonies, Rituals, Rites: `python sampling.py ceremonies_rituals_rites`
+- Curses, Afflictions: `python sampling.py curses_affliction`
+- Mundane Necromantic Duties: `python sampling.py mundane_necromantic_duties`
+- Astrological/Religious Events: `python sampling.py astrological_religious_events`
+- Titles, Roles: `python sampling.py titles_roles`
+- Necromancy Supplies: `python sampling.py necromancy_supplies`
+- Locations: `python sampling.py locations`
+- Undead: `python sampling.py undead`
+- Cosmologisms: `python sampling.py cosmologisms`
+- Epithets: `python sampling.py epithets`
 
 ## Agents (.claude/agents/)
 
