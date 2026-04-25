@@ -16,7 +16,9 @@
       "Bash(pip install:*)",
       "Skill(claude-developer-platform)",
       "Bash(wc:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Read(//c/Users/Sander/.claude/memory/**)",
+      "Read(//c/Users/Sander/.claude/**)"
     ],
     "deny": [],
     "ask": []
