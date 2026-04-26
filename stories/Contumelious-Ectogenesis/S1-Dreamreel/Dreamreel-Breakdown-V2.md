@@ -2,44 +2,43 @@
 
 ## 1. ESSAY
 - Othelmedir's voice; reflection on returning to Sulky Wend after years
-- Lived nearby once, under another name; rarely entered the village proper
-- The Dreamreel as a debt finally come due, framed as quiet errand
+- Lived nearby once (don't specify place), under another name; rarely entered the village; doesn't elaborate
+- Reflects on the static nature of hamlets on The Road of Graves
+- A man flees a place for decades, and finds it the same on return
 - Hedges what the reader assumes about cowardice versus craft
-- His own reflection refuses to elaborate when pressed
-- Closes by gesturing at the Hooded Pillow, his first stop
+- Closes with the Hooded Pillow (boarding house, his first stop)
 
 ## 2. VERSE
-- Step through the boarding-house door, oxblood cloak heavy with road dust
-- Common room dim; residents slack-jawed, sleep-starved, eyes drifting past
+- Step through the boarding-house door
+- Catches himself in the mirror; wipes sweat from broad dark face and cropped curls, pats road dust from oxblood cloak
+- Common room dim; residents slack-jawed, eyes drifting past
 - A child sleepwalks down the stair, reciting a funeral rite
-- The bedmeister's curtain drawn, voices low behind it
-- Clock a strong neck on a boy, clean teeth on a girl serving cups
-- Steady the dead prosthetic at the side; resume the count
+- The bedmeister's not visible, in chamber behind counter, voices low beyond
+- Othelmedir picks out a strong neck on a boy, clean teeth on a girl serving cups
+- Shifts cloak to cover the full marble prosthetic left arm
 
 ## 3. LEMMA — The Little Mass of Failing Lamps
 - Define the rite: a closed-house funeral spoken only by the bereaved
-- Origin within tower cabals, drafted for the burial of inner members
-- Form: thirteen verses, each closing on an extinguished lamp
-- Restricted use; never taught outside vow, never written in common books
-- The disquiet of hearing it from a child who could not know it
-- Hint at whose death it secretly attends in this story
+- Origin within mancer guilds, drafted for the burial of inner members
+- Form: thirteen verses, each closing on an extinguished taper
+- Restricted use; specific to each guild, never written in common books
 
 ## 4. ESSAY
 - The boarding house's history as Tower staff lodging
 - The ledger bound in attercop silk, a former gift of the Tower mancers
-- Othelmedir surveys residents as material, as tissue, as future stock
-- Argues the line between hospitality and harvest is thinner than guests think
-- Withholds the funeral rite's significance from the reader
-- Notes the bedmeister will be a customer, not a colleague
+- Argues the line between hospitality and exploitation is thinner than guests think
+- Notes that no smart bedmeister runs a boarding house for purely altruistic reason
+- Claims most people want money, bedmeisters no different
+- Ends with question; is an exchange of gold really the most useful kind? Doesn't it limit the agency of both parties?
 
 ## 5. INTERVIEW (4) — Bedmeister Noseman Under Eaves, behind the curtain
 - Q on what ails the village; A: a worry at sleep's edge, every night
 - Q on the visions; A: deaths of strangers crowding out his own dreams
-- Q on remedies tried; A: prayer, poppy, salt under the pillow, all useless
-- Q on payment; A: he names the village's pooled coin without flinching
+- Q on remedies tried; A: prayer to The Silver-Masked Sleeper, poppy, salt under the pillow, all useless
+- Q on payment; A: he names a price in square gold coins
 
 ## 6. ESSAY
-- Othelmedir steps from shadow and presents himself as a wandering scholar
+- Othelmedir presents himself as a wandering scholar
 - Speaks of dream-mancy as a dead specialism, no licensed practitioners remaining
 - Hedges that he works by barter and oath, not coin
 - Lets Weirmoth and Noseman set terms first, an old negotiator's trick

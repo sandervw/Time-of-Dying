@@ -10,7 +10,7 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt called *The Tower of t
 
 **1. Arrival in Sulky Wend.** Othelmedir enters 'The Hooded Pillow', the village boarding house. Residents are sullen, sleep-starved. A sleepwalking child recites a funeral rite she cannot know: 'The Little Mass of Failing Lamps'. (*`lemma` blob*). The local bedmeister is occupied with another client. Othelmedir notes he lived near Sulky Wend before but rarely visited the town. His reflection does not elaborate.
 - (Othelmedir) Tall as a redwood, thin as a reed; iron eyes, broad dark face, cropped curls, salt-and-pepper beard
-- (Othelmedir) Oxblood velvet cloak; full white prosthetic left arm hangs lifeless
+- (Othelmedir) Oxblood velvet cloak; full marble prosthetic left arm hangs lifeless
 - (Othelmedir) Sees residents as material: notes a strong neck, clean teeth on a boy
 - (lore) The boarding house once housed Tower staff; its ledger is still bound in attercop silk, a former gift of the tower's mancers
 - (withheld) The significance of that specific funeral rite, and whose death it marks
