@@ -125,7 +125,7 @@
 ## 18. ESSAY
 - Othelmedir explains the gas, the 'dreamreel'; explaining how it comes from the cauldron
 - Cauldron is stoppered, but certain of the elements seep outward, causing the death-memories of the townfolk
-- Names ten of eleven reagents needed to brew the breach-poison: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats
+- Names ten of eleven reagents needed to brew a decoction to pass the flesh wall: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats
 - The eleventh is an ingredient Othelmedir does not know; the book names it 'Respiration from a Silver Dream'; must be drawn from a memory
 - A second potion lets one enter that memory; who is unhabituated to the strange energies of necromancy can drink it safely
 - Weirmoth is qualified; Othelmedir is not
@@ -141,49 +141,47 @@
 - Q prepared to witness death?; A: Weirmoth is okay with it, just as long as it is as Othelmedir explains; an anonymous witness to events, whose memory can only be seen by the unhabituated
 - Q on terms; A: Weirmoth drops the patter, complains they favor Othelmedir, but he's down here now - come this far - in for a copper
 
-**Pickup**
-
 ## 21. ESSAY
-- Othelmedir stands over the sleeping Weirmoth, listening to murmured names
-- Internal voice slips into archaic, self-mythologizing register
-- The night of the breach: the rival cabal at the gates, calm colleagues
-- His hand on the lever, the lidded cauldron, the seal closing
-- Treats the act as cowardice, not crime; cerebral, no grief
-- In parallel, brews the Lidd Decoction at the bench, one-handed and steady
+- Othelmedir sets up scene: standing over the sleeping Weirmoth, listening to murmured names
+- Reflects, jumps back in history: the night of the breach, the rival cabal at the gates, calm colleagues
+- Recalls his hand on the lever, the lidded cauldron, the seal closing
+- Agrues the act as cowardice, not crime; cerebral, no grief
+- He explains that Weirmoth is witnessing this betrayal now, as the mercenary searches for the final ingredient
+- As Othelmedir watches, he describes a slight felaxing of the face; he gives a whisper of deadspeech, and claims that knowledge is his
+- Describes brewing the potion of eleven reagents at the bench, one-handed and steady - plus, another secret
 
 ## 22. VERSE
-- Paint the Lidd Decoction across the muscle-wall's seams
+- Weirmoth awakes, to find the potion compelte, himself beside the wall, Othelmedir already in action
+- Othelmedir has just painted the potion of eleven reagents across the muscle-wall's seams
 - The flesh shudders, lips of the weave parting like a slow yawn
-- Step through; the silk sighs shut behind, then opens for Weirmoth
-- The mercenary surfaces, eyes wet; Othelmedir hands him the spear
-- They descend past the dining hall: rotten food, overturned chairs
+- Othelmedir hands Weirmoth his spear
+- They descend past the dining hall: the food rotten and dessicate, the chairs overturned, the candles burnt to numbs
 
 ## 23. INTERVIEW (3) — Fellow Sourbell, between exchanged blows in the dining hall
-- Q on who he was; A: tower cabalist, Red Pew, sealed by his own
-- Q on who sealed him; A: 'Fellow Liddick, who walks beside you'
-- Q on what he wants; A: not vengeance, only that the name be spoken aloud
+- Q on who he was; A: Lengthy monologue - a tower cabalist, Red Pew, sealed by his own fellows
+- Q on who sealed him; A: Fellow Liddick - "you yourself" (addresses the interviewer)
+- Q on what he wants; A: laughingly in a dead voice, not vengeance, only that the fate of his fellows at last be shared by fellow Liddick
 
 ## 24. VERSE
-- Fellow Alder the Lank from the far doorway, jaw working on the same name
-- Sourbell lunges; Weirmoth pivots, spear under the ribs
-- Othelmedir cuts deadspeech across Alder's tongue mid-syllable
-- Alder collapses, the name unfinished in his mouth
+- Fellow Alder the Lank from the far doorway, jaw working on the same name, 'Liddick'
+- Sourbell lunges; Weirmoth pivots, spear under the ribs;  Extended, *Excrutiating detail* of violence - what specific maneuvers do opponents use, what are the specific movements, how many are their number, how are their bodies affected affected?
+- Othelmedir whispered deadspeech causes a curious echo, a tonal hum amplified by a nearby ritual circle, where formerly the rituals of necromancy were performed by the tower cabal
+- Alder stunned, disrupted in his own necromancy; Weirmoth finishes him off
 - Reach the Cauldron Chamber's threshold; the pendant hums against the ribs
 
 ## 25. LEMMA — The Lidd Decoction
-- The breach-poison Othelmedir brewed, named for his old self
-- Reagent list: Widowwine, Priest's Quicklime, Honey, and the rest
+- A cauldorn-nullifying poison which Othelmedir brewed, named for his old self
 - Intended target: the cauldron, not flesh
 - How it resolves a stoppered cauldron to muck
-- Notes on naming: a thing named for a man it is meant to absolve
 
 ## 26. ESSAY
+- General description of events by Othelmedir
 - Inside the Cauldron Chamber, before he speaks
 - Weirmoth says he will not interfere; the bargain still holds
 - Empty the decoction into the cauldron; hiss, then long sigh
 - Intone deadspeech until the contents resolve to muck and go still
-- Closing argument in formal, archaic cadence; not pleading, stating terms
-- Yields the stolen reagents jar by jar; the pendant stays against the ribs
+- Yields the stolen reagents jar by jar
+- Secretly, Othelmedir kept the pendent he took earlier, which Weirmoth forgot
 
 ## 27. MEMORIALS (2)
 - Epitaph for a traveler taken by bandits on the road
