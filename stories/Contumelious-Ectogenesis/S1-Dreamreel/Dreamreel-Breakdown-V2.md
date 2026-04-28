@@ -90,7 +90,7 @@
 - Weirmoth's spear takes one through the throat, clean and unflashy
 - Othelmedir straightens a crooked sconce without looking
 - Knee-deep gas pools in the low corners, misting over their boots
-- Weirmoth fighting other dead; extreme, hyper-specfic description of exact counts, maneuvers, and violence
+- Weirmoth fighting other dead: Extended, *Excrutiating detail* of violence - what specific maneuvers do opponents use, what are the specific movements, how many are their number, how are their bodies affected affected?
 - A low sweet rot like overripe peaches
 
 ## 14. ESSAY
@@ -100,52 +100,48 @@
 - Switches openings: A lectern where three common books sit open to the same page, spines cracked: 'On the Conduct of Sealed Houses', 'Compendium of Threshold Speech', and 'A Practitioner's Almanac'
 - Ponders that, while the knowledge in books will crumble, tissues renew themselves in cycles
 - Switches for last time: The muscle-wall blocking the lower sanctums, woven across the passage
-- Argues the wall is both seal and tumor, the Tower's last immune response
-
-**Pickup**
+- Argues the wall is both seal and tumor, the Tower's last immune response, and a symbiosis of the Artificial and the Biological
 
 ## 15. VERSE
-- Deeper hall: a pendant on an invader, hammered tin, lidded cauldron sigil
-- Pocket it without comment; single open eye on the lid, tear-shape below
-- Two more invaders pull free of the silk, half-formed orders on dead lips
+- Deeper halls: othelmedir notices a pendant on one invader; hammered tin; lidded cauldron sigil, single open eye on lid, flat-tear shape
+- Othelmedir pockets it; Weirmoth starts to comment, but is immediately distracted by fighting
+- Two more invaders pull free of the silk: Extended, *Excrutiating detail* of violence - what specific maneuvers do opponents use, what are the specific movements, how many are their number, how are their bodies affected affected?
 - Weirmoth's banter has thinned to nothing; Mister Ribbon goes silent
-- A corpse murmurs a name as it falls; Othelmedir does not turn
+- Othelmedir meanwhile has picked out another passage, rubbed out a line of chalk marking a necromatic trap on the floor, leads on
 
 ## 16. ESSAY
-- The Scriptorium: three floors, open central balcony, dead false sun globe
+- Open with description of The Scriptorium: three floors, open central balcony, dead and dim false sun globe above
 - Books verdigris-patinaed by the gas, codices moldering on shelves
-- Othelmedir loses minutes inside 'Potions and Poisons of Eleven Reagents'
-- Internal: these texts are worth more than the village, certainly more than Weirmoth
-- Does not mention he helped author the treatise in his hands
-- Weirmoth's first question about Othelmedir's source goes politely unanswered
+- Othelmedir reflects on one volume of priceless value in particular: 'Potions and Poisons of Eleven Reagents'
+- Brings it back to the general: these texts are worth more than the village, certainly more than Weirmoth
+- Claims in this essay that the sources of *most* of these texts are unknown, though some were authored in the modern age (foreshadowing)
 
 ## 17. MEMORIALS (4)
 - Garden gravestone for a former Red Pew cabalist, addressing successors
 - Gravestone for a junior mancer, with a craft-warning to apprentices
-- Gravestone for a master who refused the gas-plan, reproachful in tone
+- Gravestone for a master who voted against the establishing of the gas-plan, reproachful in tone
 - Gravestone left blank, awaiting its inhabitant
 
 ## 18. ESSAY
-- Othelmedir explains the cauldron's leak: stoppered, yet seeping
-- Elements escape outward and reach village sleepers as the Dreamreel
-- Names ten of eleven reagents needed to brew the breach-poison
-- The eleventh, Respiration from a Silver Dream, must be drawn from a memory
-- A second potion lets one enter that memory; only the unhabituated may drink
-- Hedges: frames Weirmoth's qualification as a happy accident
+- Othelmedir explains the gas, the 'dreamreel'; explaining how it comes from the cauldron
+- Cauldron is stoppered, but certain of the elements seep outward, causing the death-memories of the townfolk
+- Names ten of eleven reagents needed to brew the breach-poison: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats
+- The eleventh is an ingredient Othelmedir does not know; the book names it 'Respiration from a Silver Dream'; must be drawn from a memory
+- A second potion lets one enter that memory; who is unhabituated to the strange energies of necromancy can drink it safely
+- Weirmoth is qualified; Othelmedir is not
 
 ## 19. VERSE
-- Still-Room: cold benches, copper coils, a stoppered alembic line
-- The dead-dreamer guardian uncoils from a brewing-bench, mouth full of cooled tallow
-- Long limbs, eyes brewing-blind, jaw working on nothing
-- Weirmoth's spear takes it under the jaw, twists, withdraws
-- Othelmedir already laying out reagents on a clean cloth
-- Pockets a few extra ingredients while Weirmoth watches
+- The Still-Room: cold benches, copper coils, a stoppered alembic line; Necromantic diagrams and charts on the walls
+- The dead-dreamer guardian uncoils from a brewing-bench, long limbs, eyes brewing-blind
+- Extended, *Excrutiating detail* of violence - what specific maneuvers do opponents use, what are the specific movements; Weirmoth's spear takes it under the jaw, twists, withdraws
+- Othelmedir already laying out reagents on a clean cloth; Pockets a few extra ingredients while Weirmoth watches
 
-## 20. INTERVIEW (4) — Weirmoth, suspicion rising across the brewing-bench
-- Q on the pocketed reagents; A: distrust sharpening, asks what they are for
-- Q on the dream-potion's risks; A: Othelmedir delivers the Generic-Witness lie
-- Q on whose death he will witness; A: 'an anonymous invader, the first to fall'
-- Q on terms; A: Weirmoth drops the patter, the picaro mask slips one line
+## 20. INTERVIEW (3) — Weirmoth, suspicion rising across the brewing-bench
+- Q on the pocketed reagents; A: Asks a question back; what they are for?
+- Q prepared to witness death?; A: Weirmoth is okay with it, just as long as it is as Othelmedir explains; an anonymous witness to events, whose memory can only be seen by the unhabituated
+- Q on terms; A: Weirmoth drops the patter, complains they favor Othelmedir, but he's down here now - come this far - in for a copper
+
+**Pickup**
 
 ## 21. ESSAY
 - Othelmedir stands over the sleeping Weirmoth, listening to murmured names
