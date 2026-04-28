@@ -40,64 +40,69 @@
 ## 6. ESSAY
 - Othelmedir presents himself as a wandering scholar
 - Speaks of dream-mancy as a dead specialism, no licensed practitioners remaining
-- Hedges that he works by barter and oath, not coin
-- Lets Weirmoth and Noseman set terms first, an old negotiator's trick
-- Notes Noseman's flicker of recognition, and his pointed silence
-- Closes the bargain; ride at dawn for the bluff above the village
+- Asserts that the best value may be gained from barter or oath, not currency
+- Puts forth the example of Weirmoth and Noseman; let them set the terms first
+- Describes Weirmoth: Cloak patched from salvaged funeral shrouds
+- Noseman seemed to recognize him, but said nothing
+- He closed that bargain with an agreement; ride at dawn for the bluff above the village
 
 ## 7. INTERVIEW (3) — Weirmoth, at the bar of the Hooded Pillow
 - Q on his trade; A: roadman, grave-carter, occasional mystic for hire
-- Q on the spear; A: the saint-and-bishop fable, whistles when sickness nears
+- Q on the spear; A: spins saint-and-bishop tale: 'It once belonged to a saint who lanced abscesses on a poisoned bishop's throat; it now whistles whenever sickness is near'
 - Q on his sleep; A: brags he never dreams, shoulders a little too tight
 
 ## 8. MEMORIALS (3)
 - Road of Graves epitaph: a wagoneer crushed by his own load, addressing the next driver
 - Road of Graves epitaph: a fevered child, addressing mothers who pass
-- Road of Graves epitaph: an unnamed mancer, addressing those who would unseal anything
+- Road of Graves epitaph: an unnamed mancer - comical rhyme about being one of the dead he used to raise
 
 ## 9. ESSAY
-- Approach to the Tower of the Attercop on its bluff, silked and grey in light
+- Describe approach to the Tower of the Attercop on its bluff, silked and grey in light
 - Othelmedir on the seal of Neinstitch: a sutured lock answering only to whisper
-- The real strength of mancy is knowledge, not force
-- Weirmoth glances at him, uneasy that he carries no visible weapon
+- *(The real strength of mancy is knowledge, not force)*
 - Hedges: 'unsealing' implies more violence than this work requires
-- He withholds the danger ahead from the man beside him
+- Continues describing tower: built by a mancer cabal called The Red Pew; breached by rivals called Milkmoot
 
 ## 10. VERSE
-- Kneel at the seal, white prosthetic hand laid against the door
-- Whisper deadspeech: 'Öltesoldzo sjhaj'
-- Sutures of the lock peel back like a slow yawn
-- Pale green gas pours forth, smelling of rosewater and spoiled meat
+- Kneel at the lock, white prosthetic hand laid against the door
+- Othelmedir whispers Deadspeech: "With a sigh came loose the sutures ('Öltesoldzo sjhaj')"
+- Seal opens like a slow yawn
+- Verdigris gas pours forth, smelling of rosewater and spoiled meat
 - Cobwebs quiver above the threshold; spiders stir in the lintel
 - Retreat upwind, wait for the fume to thin on the morning air
+- Explaination: If the death-visions of the tower continue, villagers' memories will be wholly replaced by those of the dead
 
 ## 11. INTERVIEW (3) — Weirmoth, while the gas dissipates
-- Q on his sleep last night; A: poorly, against his earlier brag
+- Q on his sleep last night; A: poorly (against his earlier brag)
 - Q on the canary; A: pulls Mister Ribbon from his cloak, talks to it
 - Q on what he expects inside; A: the picaro mask slips, says simply 'work'
 
 ## 12. LEMMA — The Tower of the Attercop
 - Sealed chrypt on a bluff above Sulky Wend
-- Built by a cabal called The Red Pew; breached by rivals called Milkmoot
-- Architecture: outer halls, scriptorium, still-room, cauldron chamber
+- Describe architecture: upper halls, scriptorium, still-room, cauldron chamber
 - Why attercop silk patinas every surface inside the structure
-- Current canonical status: sealed three thousand-odd nights, now unsealed
+- Sealed three thousand-odd nights, now unsealed
 
 ## 13. VERSE
 - Cross the threshold; footsteps bruise dark trails through silk patina
 - Preserved invader rouses, mail rusted into flesh, weapon still in hand
-- Mouth working silent breach-orders: 'No quarter for the elder'
-- Weirmoth's spear takes it through the throat, clean and unflashy
+- Mouth of dead invaders work silently, reciting breach-orders "No quarter for the elder. No quarter for the elder. No quarter."
+- Weirmoth's spear takes one through the throat, clean and unflashy
 - Othelmedir straightens a crooked sconce without looking
-- Knee-deep gas pools in the low corners, lapping at boots
+- Knee-deep gas pools in the low corners, misting over their boots
+- Weirmoth fighting other dead; extreme, hyper-specfic description of exact counts, maneuvers, and violence
+- A low sweet rot like overripe peaches
 
 ## 14. ESSAY
-- Othelmedir on which tissues the gas preserved best: lung, marrow, eye
-- Notes a lectern with three texts open to the same page
-- Reads the preserved ledger: names beside duty-hours long past
-- The muscle-wall blocking the lower sanctums, woven across the passage
+- Opening: mentions a preserved ledger nailed to a column, names beside duty-hours, most hours long past
+- Each name on ledger an individual person, individual tissues 
+- Ponders which tissues the gas preserved best
+- Switches openings: A lectern where three common books sit open to the same page, spines cracked: 'On the Conduct of Sealed Houses', 'Compendium of Threshold Speech', and 'A Practitioner's Almanac'
+- Ponders that, while the knowledge in books will crumble, tissues renew themselves in cycles
+- Switches for last time: The muscle-wall blocking the lower sanctums, woven across the passage
 - Argues the wall is both seal and tumor, the Tower's last immune response
-- Withholds the name his old colleagues used for him
+
+**Pickup**
 
 ## 15. VERSE
 - Deeper hall: a pendant on an invader, hammered tin, lidded cauldron sigil
