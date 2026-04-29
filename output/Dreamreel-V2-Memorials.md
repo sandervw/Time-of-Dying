@@ -1,40 +1,47 @@
-# Dreamreel — Memorials Blobs
+# Dreamreel: Memorials Blobs
 
 ## 8. MEMORIALS (3)
 
-Driver: the load outlives the back. Check your couplings.
+Driver. Brake at the bend.
 
 ...
 
-I burned for nine nights in my mother's lap and called her by the wrong name on the last. Mothers who pass: do not read this aloud. The fever in my throat has not finished its sentence, and any tongue will do.
+Wenna of the short cough, six summers gone, took by the third fever in the wet month. Her mother bore the bier alone and walked the Road three nights without speaking, and three more without sleeping. Mothers who pass with children at the hip, mark the lintel. Mark the lintel. Mark.
 
 ...
 
-Here lay a mancer of no listed cabal, who opened what was sealed and was thanked by the contents. The stone is unnamed by his own request. Pass quickly. What he found is patient, and recognizes footsteps.
+I raised the dead a thousand mornings,
+and now at evening I am raised.
+The lad who lifts me does not know my name,
+nor I his. We have agreed it does not matter.
+A fair trade. A fair trade. A fair.
 
 ## 17. MEMORIALS (4)
 
-Successors of the Red Pew, mark the seam in this granite.
-A vow weakens at its hinge before it weakens at its center.
-Fellow Murrick kept his at the center for forty-one years.
-The hinge took him in an afternoon.
+Successor, the Pew is red because we bled it red.
+Sit only if you can rise. Read only if you can burn.
+The cabal that does not cull itself is culled by the gate.
 
 ...
 
-I was given the lesser cauldron and told to mind the lid. I minded it well. I minded it past the hour my master said to leave it. Apprentices: a stoppered thing is not a finished thing. Read the recipe to the end before you trust the silence.
+I was Junior Fellow Tewkin, three rungs below the lectern, and I poured the wrong measure on a Whitnight in haste. The cauldron took my hand at the wrist, then my face at the jaw, then the rest in a single courteous swallow. Apprentice, weigh twice. The grams do not forgive.
 
 ...
 
-Mother Velseep refused the gassing of the lower halls. She named it cowardice in council and was outvoted by her closest friends. She walked out under her own power, drank her measure at the gate, and lay down in the garden she had planted. The stone faces inward. The verdict is the direction.
+Master Hovel Brastenwhite voted no. The minutes record him hoarse, the minutes record him outvoted, the minutes record him buried before the gas was poured. Successors who voted yes lie in finer stones than this. Walk past them faster.
 
 ...
 
-A plot kept open against a name not yet carved. The earth here is turned every spring by a gardener who has forgotten why. If you have come to fill it, the soil will know you. If you have not, walk on, and do not count the empty stones. There are more than the garden admits.
+Stranger, a name belongs here.
+The mason waits. The plot waits.
+Be sure it is not yours.
 
 ## 27. MEMORIALS (2)
 
-Berthel of the Wend, peddler in copper wire and small mirrors, was taken on the third bend past the bluff by men who left his goods and took his teeth. The Road absorbed what they discarded. The teeth have not been recovered. Travellers, carry less that glints.
+Pelf the Slow, carter of millet, took at the ford by three masked men with a borrowed pike. He carried no coin worth the killing. The bandits knew. They killed him for the practice of it. Travelers, ford at noon and not alone.
 
 ...
 
-I was an initiate of a house whose name the mason could not spell. He chipped the first letter, set down the chisel, and never returned. As I am unfinished, so are ye. Do not mistake the length of your years for the length of your stone.
+Initiate of the
+robes still clean at the
+my master promised a deeper

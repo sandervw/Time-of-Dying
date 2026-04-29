@@ -2,160 +2,239 @@
 
 ## 2. VERSE
 
-I stepped through the boarding-house door
-my oxblood cloak grown heavy with road dust
-and the lintel bore down upon my shoulders like an old debt collected at last
+Through the bruised door of the Hooded Pillow I stepped
+and there in the warped glass espied my own mien
+a broad dark face beaded with road-sweat
+cropped curls hoared with the dust of leagues
+which I wiped down with the back of one gloved hand
 
 ...
 
-Within the common room, dim with tallow-smoke
-the residents sat slack-jawed and sleep-starved
-their gazes drifting past me as past a draught from an unsealed window
+The common room sat in a wan and smoke-stained dimness
+its lodgers slack of jaw and purblind of eye
+their gazes drifting past me like silt in a cistern
+as if no fresh body had crossed that threshold in a season
 
 ...
 
-Down the stair, with the unhurried gait of the somnambulant
-came a child reciting a funeral rite
-which no waking child of Sulky Wend should have known by tongue or by rote
+No bedmeister stood at the counter
+yet from the chamber behind it issued voices
+low and braided as the murmur of mourners
+and I tarried where I was, listening
 
 ...
 
-Behind the bedmeister's drawn curtain
-voices conferred in the low register of the bereaved
-and I clocked, withal, a strong neck on a scullery boy
-clean teeth on the girl serving cups
-and steadied the dead prosthetic at my side
-and resumed the count
+I marked then a strong neck upon a boy by the hearth
+and clean teeth in the mouth of the girl who served the cups
+their tissues taking their inventory in my mind
+as a butcher reads a herd in the press
+
+...
+
+Then I drew the oxblood cloak across my shoulder
+patted the road's grey from its hem
+and folded its weight over the marble of my left arm
+that the prosthetic might not advertise itself before its hour
 
 ## 10. VERSE
 
-At the threshold of the Tower I knelt
-and laid the white prosthetic hand against the seal
-and whispered the deadspeech inscribed upon my marrow: Öltesoldzo sjhaj
+I knelt before the door
+and laid the white marble of my prosthetic palm against the sutured lock
+and felt the cold seam answer my touch
 
 ...
 
-The sutures of the lock peeled slowly back
-like the lips of a slow yawn
-and a pale green effluvium poured forth
-which carried the savor of rosewater and of spoiled meat in equal measure
+Under my breath I gave the Deadspeech
+the old phrase Öltesoldzo sjhaj
+by which with a sigh come loose the sutures
 
 ...
 
-Above the lintel the cobwebs quivered
-the spiders, hoar with three thousand nights, stirred in the silked recess
-and I retreated upwind with Weirmoth at my shoulder
-and waited for the fume to thin upon the morning air
+Slowly the seal parted as a slow yawn
+and from the dim threshold poured a verdigris fume
+sweet with rosewater
+and corrupted with the reek of spoiled meat
+
+...
+
+Above the lintel the cobwebs trembled in that exhalation
+and from their hidden cloisters the spiders stirred
+descending by silken cords as though to greet me
+
+...
+
+I withdrew upwind into the morning air
+and waited as the fume thinned among the grasses
+knowing well that should this exhalation continue unchecked
+the dreaming villagers would wake at last
+with the memories of the dead in place of their own
 
 ## 13. VERSE
 
-We crossed the threshold
-our footsteps bruising dark trails through the silk patina
-and the stillness within was the stillness of a breath long held
+Across the threshold I stepped, and Weirmoth at my heel
+our boots bruising dark trails through the silk patina
+which lay upon the flagstones like the dust of ten centuries
 
 ...
 
-From the silken deeps a preserved invader roused
-his mail rusted into the flesh beneath
-his weapon yet held in the cadaver-stiff hand
-his mouth working soundless breach-orders: No quarter for the elder
+From the wall an invader stirred to wakefulness
+his mail rusted into the meat beneath
+his weapon yet clutched in a hand half mineral
+his lips working at an old breach-order
+no quarter for the elder, no quarter for the elder, no quarter
 
 ...
 
-Weirmoth's spear took it through the throat
-clean and unflashy, as a smith drives a nail
-and I, without turning my eyes, straightened a crooked sconce upon the wall
+Weirmoth's spear took him through the throat
+clean and unflashy, as a fishmonger spits an eel
+and I, beside him, straightened a crooked sconce without looking
+that the corridor might keep its dignity
 
 ...
 
-In the low corners of the hall the gas had pooled
-knee-deep and slow as honey
-and lapped at our boots with the patience of a thing that had waited
+Two more came shuffling from the silken alcoves
+the first of them slow upon a cracked knee
+which buckled when Weirmoth feinted high
+and pivoted his shaft to drive the iron beneath the ribs
+splintering bone with a wet small report
+
+...
+
+The second sprang with a sweep of a notched falchion
+whose edge Weirmoth caught upon the haft
+and shouldered him into the patinated wall
+where the silk drank the blow as a lung drinks air
+and the spear-butt came up beneath the chin
+breaking the jaw upward into the cranial vault
+
+...
+
+Knee-deep the verdigris gas pooled in the low corners
+misting over our boots in slow lazy coils
+and beneath all this murder there ran a low sweet rot
+a savor as of overripe peaches forgotten in a bowl
 
 ## 15. VERSE
 
-In the deeper hall I marked a pendant upon the breast of an invader
-hammered tin, bearing the sigil of a lidded cauldron
-and I pocketed it without comment or prayer
-the single open eye upon the lid, the tear-shape graved below
+In the deeper halls I stooped above a fallen invader
+and espied at his throat a pendant of hammered tin
+a lidded cauldron sigil with a single open eye upon the lid
+the eye drawn flat in the shape of a falling tear
 
 ...
 
-Two more sentinels pulled themselves free of the silk
-their half-formed orders already shaping upon dead lips
-and Weirmoth's banter, which had carried us thus far, thinned to nothing
-and Mister Ribbon, in his cloak, fell silent withal
+Into the inner pocket of my cloak I slipped the gaud
+and Weirmoth, marking the gesture, opened his mouth to remark
+yet his remark was cut short by a stirring in the silk
+two more invaders pulling free of their long tapestried sleep
 
 ...
 
-As the foremost corpse collapsed beneath the spear
-it murmured a name in passing
-a name I knew of old
-and I did not turn my head to receive it
+The first lurched with his arm half-fused to a pole-axe
+which Weirmoth ducked beneath, taking off the kneecap with the spear-edge
+and as the wight pitched forward upon the ruined limb
+he drove the iron up under the sternum and twisted
+
+...
+
+The second came at him with a short sword and a broken mouth
+its tongue working still upon the breach-order
+yet Weirmoth turned its blade upon the patina-slick floor
+and brought the spear-shaft against the temple
+crushing the skull as one crushes a green walnut underfoot
+
+...
+
+I marked then that Weirmoth's banter had thinned to nothing
+and Mister Ribbon, hooded in his cloak, had gone silent
+while I, at the margin of the corridor, had picked out our next passage
+rubbed out a chalk-line marking a necromantic trap upon the flags
+and led on without commentary
 
 ## 19. VERSE
 
-Within the Still-Room, amid cold benches and copper coils
-along a stoppered alembic line ranged like teeth
-the dead-dreamer guardian uncoiled itself from a brewing-bench
-its mouth full of cooled tallow
+Into the still-room we passed, Weirmoth a half-step behind
+its benches cold as font-stones beneath our palms
+copper coils slumbering upon their cradles
+a stoppered alembic-line hung above like a row of glass tongues
+and upon every wall the diagrams of necromancy in faded ochre
 
 ...
 
-Long of limb it was, brewing-blind in both eyes
-its jaw working upon nothing of substance
-and Weirmoth's spear took it cleanly under the jaw
-twisted once, and withdrew
+From beneath the brewing-bench it came uncoiling
+a dead-dreamer of long limb and brewing-blind eye
+its joints unfolding with the slowness of an opening fan
+its mouth working at vapors that were not there
 
 ...
 
-While the thing yet shuddered to its final stillness
-I laid out the reagents upon a clean cloth
-and pocketed, withal, a few jars beyond the rite's accounting
-and felt Weirmoth's gaze upon the small theft
+Weirmoth lunged, and the dead-dreamer raked at him with one taloned hand
+which he turned aside upon the haft of his spear
+then drove the iron up under the jaw and twisted twice
+and withdrew, the head lolling open at the hinge
+the brewing-blind eyes rolling white as boiled marbles
+
+...
+
+While he wiped the spearhead I had already laid out the reagents
+upon a clean cloth at the bench's edge
+and into a deeper pocket I slipped a few jars beyond the tally
+which Weirmoth marked but said nothing of, for the moment
 
 ## 22. VERSE
 
-I painted the Lidd Decoction across the seams of the muscle-wall
-the tincture catching upon the woven sinew
-and the flesh shuddered at the touch as a horse shudders at the fly
+Weirmoth woke against the wall, his cheek dappled with patina
+and found the eleven-reagent decoction already complete
+and myself in its midst, unhurried, brushing the last of it across the seams
+of the muscle-wall that closed the lower sanctums against us
 
 ...
 
-The lips of the weave parted slowly, like a slow yawn at evening
-and I stepped through into the deeper dark
-and the silk sighed shut behind me
-then opened again to admit Weirmoth at my heel
+Beneath my brushwork the flesh shuddered like a hide upon a drum
+and the lips of the woven weave parted, yawning slow
+as a great mouth waking from a long apneic sleep
+yielding a passage humid with the rot of years
 
 ...
 
-The mercenary surfaced from his dream with wet eyes and a pale mouth
-and I returned the spear to his hand without remark
-and we descended past the dining hall
-where the rotten food yet sat upon the boards
-and the chairs lay overturned in the shape of a sudden flight
+I returned to him his spear, haft first, and a nod for thanks
+and we descended past the dining hall together
+where the food sat dessicate upon its salvers
+the chairs lay overturned as if cast off in haste
+and the candles had burned to numb black stumps in their sockets
 
 ## 24. VERSE
 
-From the far doorway came Fellow Alder the Lank
-his jaw working upon the same name his brother had spoken
-his deadspeech gathering in his throat like phlegm
+From the far doorway the second came, Alder the Lank
+his jaw working upon the same name as the first
+a single name, Liddick, repeated like a dripping faucet
 
 ...
 
-Sourbell lunged amain across the chamber
-and Weirmoth pivoted upon the ball of his foot
-and drove the spear up beneath the ribs
-clean as a reaping
+Sourbell lunged for Weirmoth across the upended table
+and Weirmoth pivoted as a millwheel pivots, smooth at the hub
+took the spear under the lifted ribs
+twisted hard, and lifted, so that the wight came off the floor
+wriggling upon the iron like a gigged frog
 
 ...
 
-I cut my own deadspeech across Alder's tongue mid-syllable
-and he collapsed where he stood
-the name yet unfinished within his mouth, a syllable unspent
+Alder strode in then from the far end, both hands raised in deadspeech
+his fingers shaping a strangling sign in the dim
+and I answered with a whisper of mine own
+which fell into the nearby ritual circle as a stone falls into a bell
+and rang therefrom a curious echo, a tonal hum amplified by the old cabal's geometry
 
 ...
 
-We came at last to the threshold of the Cauldron Chamber
-and the pendant of hammered tin hummed against my ribs
-as a struck bell hums long after the hammer has lifted
+Alder reeled, his sign undone in mid-shape
+his necromancy disrupted, his throat going slack about the syllables
+and Weirmoth, having shaken Sourbell off the spearhead, came in low
+and finished him with a thrust that emerged behind the nape
+
+...
+
+We reached the threshold of the Cauldron Chamber together
+the air thick with the savor of the dreamreel itself
+and against my ribs the pocketed pendant began to hum
+a small dry note, as a wasp hums in a sealed jar
