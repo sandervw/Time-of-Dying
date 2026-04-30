@@ -78,11 +78,14 @@ Square gold. Seven coins. No shavings. I keep an honest house, sir, but an hones
 
 ## 6. ESSAY
 
-I presented myself as a wandering scholar, which is no untruth, and spoke of dream-mancy as a dead specialism, no other licensed practitioner of the discipline remaining, and no apprentice known to me by repute. This is largely accurate; the field has produced odd survivors, and well it may be that I have missed some orphan.
+The wandering scholar is a serviceable cover precisely because it is, in my case, no full untruth; the trick of such imposture lies in selecting which true thing to disclose. In this instance I presented 'dream-mancy' as a dead specialism, no licensed practitioner of the discipline remaining and no apprentice known to me by repute, and the claim passes the test of accuracy in spirit, if not in most rigorous fact. The field has produced its odd survivors, of course, and well it may be that I have missed some orphan.
 
-To the matter of remuneration I urged what I urge whenever the road permits. The best value, I think, is gained by barter or by oath rather than by currency; let the seller name his terms first, and one may meet them with something other than coin. Weirmoth, sitting at the bar in a cloak patched from salvaged funeral shrouds, ate this counsel without chewing. Noseman did not. I had the impression, momentary and unverifiable, that the bedmeister knew my face from some earlier register, but he held his tongue, and I held mine.
+Thusly introduced, I stood and waited. One ought always to let the seller name his terms first. The mercenary whose name was Weirmoth, sitting at the bar in a cloak patched from salvaged funeral shrouds, 
 
-We closed the bargain on a single agreement: ride at dawn for the bluff above the village. The rest, I told myself, would resolve itself in due course; it generally does, though seldom by the route one expects.
+
+ate this counsel without chewing. Noseman did not; I had the impression, momentary and unverifiable, that the bedmeister knew my face from some earlier register, but he held his tongue and I held mine. By such silences are bargains kept open.
+
+We closed upon a single agreement: ride at dawn for the bluff. The rest, in my experience, resolves itself in due course, though seldom by the route one expects.
 
 ## 7. INTERVIEW (3) — Weirmoth, at the bar of the Hooded Pillow
 
