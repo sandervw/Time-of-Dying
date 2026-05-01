@@ -1,6 +1,6 @@
 # Apoptosis — Outline
 
-*Series opener. Target: ~4-5k words.*
+Target size: ~4-5k words.*
 
 ---
 
@@ -32,7 +32,7 @@ Bulk of the story is **single-room**: one chamber, one stairway into black, wave
 
 - **The Two Keepers** — sect of the **Thin Man** (Sloth; god of Sickness and Entropy; sleeping in his **Sickened Cradle**, sharing dreams with followers). Doctrine: the buried thing must sleep; we watch, we do not wake. **Forbids descending**. They have dreamt this breach for years.
   - **Elder Keeper** — gaunt, silver-masked. Speaks for the cult, will not lift a weapon. Waiting without knowing the duo's faces.
-  - **Apprentice** — not yet ossified; can move, can fight a little. The story's human heart-rate.
+  - **Apprentice** (name TBD) — not yet ossified; can move, can fight a little. The story's human heart-rate. Wishes he could leave — has a life waiting outside the shrine — but stays because the elder is old and needs help. His name is already carved on the slab leaning in the shrine-room (keeper tradition: the elder carves the next one's stone). The reader sees that name in the prologue, before it gets gouged over in the climax.
 - Stage: 4 people. **Grot** offstage as a late-act asset.
 
 ## Plot Frame
@@ -49,11 +49,12 @@ The ancient necromancer was obsessed with **creations that cannot be destroyed b
 
 ### Three-Wave Structure
 
-1. **Wave 1 — The Discards.** Failed half-flesh, plentiful and weak. Volume horror; axe-work establishes competence and blood-economy.
-2. **Wave 2 — The Catalogue.** Three named successes:
-    - **Halflung.** Expels a half-formed copy from each wound. Cutting makes more enemies. Forces them to burn — banshee-wax candles spent here.
+1. **Wave 1 — The Discards.** Failed half-flesh, plentiful and weak. Volume horror; axe-work establishes competence and blood-economy. Mid-press, **Halflung** arrives among the discards — expels a half-formed copy from each wound; cutting makes more. Forces them to burn — banshee-wax candles spent here. The catalogue has bled into the chaos before the volume is finished.
+2. **Wave 2 — The Catalogue.** Two more named successes, then quiet:
     - **Kept Smile.** Cloaked in **overlapping flayed faces**, each a consumed layer; mimics voices. Among them: keepers from generations past. The apprentice **recognizes a face** and is lost — killed mid-recognition, or the duo must do something brutal before the elder. Wedge between keepers and duo.
     - **Wedlock.** Writes the maker's name in blood across the floor. Each completed letter detaches as a small witness-creature. Killing it requires destroying the writing-arm before the signature finishes, while fighting the letters already crawling. Othelmedir recognizes the hand: first clue to the Master's nature. Costs a bone-dust working.
+
+    Wedlock falls. The stair goes silent. Not relief — anticipation. The rest of Wave 2 is the Master gathering, unseen.
 3. **Wave 3 — The Master.** Force alone cannot win. Victory requires **Headstone the Mouth**, Othelmedir's hidden cards (prosthetic, Grot), and Rayche holding the threshold long enough for a credited killing blow.
 
 By end of Wave 2: apprentice lost, reserves gone, keepers broken. They face the Master alone with the elder.
@@ -62,11 +63,10 @@ By end of Wave 2: apprentice lost, reserves gone, keepers broken. They face the 
 
 Cosmology: an epitaph on the Road of Graves shields what lies beneath from necromancy. When a person dies, their gravestone joins the cobbles. The seal is not a rite — it is an **interment**. The Road eats the breach.
 
-The elder carved his road-stone years ago. He lies on his back across the topmost step, sets his hereditary **silver mask** over his face, and the duo **lower the headstone over him**. He is crushed into the stair; the stairwell mouth becomes a new cobble.
+Keeper tradition: the elder carves the *next* one's stone, never his own. The slab in the shrine bears the **apprentice's name** — finished months ago, waiting. With the apprentice dead in Wave 2 and the Master arriving, the only stone in the holding bears the wrong name. The elder makes a choice on the topmost step: lie under a stone meant for someone else, or have the duo gouge his name over the apprentice's in the minutes they have. He chooses — Othelmedir scrapes the letters with a working-knife while Rayche holds the stair. Mask over face, slab lowered, crushed into the stair; the mouth becomes a new cobble.
 
-- No chant, no glow. Death and stone.
-- Duo lays the slab by hand while the Master arrives.
-- At dawn the silver mask glints from beneath the new cobble.
+- No chant, no glow. Improvised letters, fresh blood, and stone.
+- At dawn the silver mask glints from beneath the new cobble; the apprentice's half-effaced name still legible underneath the elder's.
 
 ### The Master — Frankenstein's Monster
 
@@ -81,7 +81,7 @@ Kneeling "to confirm the kill," he reads two truths only a flesh-shaper of his c
 - A **hollow cavity** where, by the maker's school, the core should sit.
 - A **recent extrusion seam** along the underside — fresh, unsealed — where something extruded itself moments before the killing blow.
 
-The body is a **shed husk** — apoptosis, engineered. The Master's core slipped its skin and is gone. He says **"It is done."** True and false at once. He pockets a sliver of the seam and walks out at dawn with the elder's debt and the Master's secret.
+The body is a **shed husk** — apoptosis, engineered. The Master's core slipped its skin and is gone. **Rayche** says **"It is done"** — to the elder, to the witnesses, to himself. Othelmedir only nods. He pockets a sliver of the seam and walks out at dawn with the elder's debt and the Master's secret — and Rayche's voice on record carrying the lie.
 
 ## Series-Spine
 
@@ -90,7 +90,7 @@ The Master is loose, beyond the duo's reach. Othelmedir alone knows it lives. Ra
 ## Structure & Voice
 
 - **POV:** Third-limited on Othelmedir. His interiority lands the closing trick.
-- **Opening:** ~200w Elder POV prologue — vigil, shared dream, wrongness rising for days — then cut: doors burst inward, duo bloodied, dragging plunder.
+- **Opening:** ~200w prologue in the shrine-room — elder and apprentice in conversation. Apprentice voices the life he's not living; stays because the elder is old. The slab leans against the wall, his name finished on it. Shared dream, wrongness rising for days. Cut: doors burst inward, duo bloodied, dragging plunder.
 - **Scene budget:**
   - Prologue: ~200w
   - Arrival, accusation, demand, seal: ~500-700w
