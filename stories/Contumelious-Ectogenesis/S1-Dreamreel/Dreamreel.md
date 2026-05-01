@@ -173,56 +173,64 @@ Spearwork.
 
 ![IMAGE: a grey silked stone tower on a windswept bluff, web-patina glittering on every cornice, a single sutured iron door at its base](images/the-tower-of-the-attercop.png)
 
-**Site:** Bluff above the hamlet of Sulky Wend, Road of Graves.
-**Use:** Sealed chrypt and working-house, formerly held by the cabal called The Red Pew.
-**Plan:** Upper halls, scriptorium of three floors, still-room with copper coils, cauldron chamber at the base.
-**Patina:** Every interior surface bears a film of attercop silk, cultivated within the walls and thickened by the slow seep of preservative gas from the stoppered cauldron.
-**Status:** Sealed three thousand-odd nights by rival cabal Milkmoot. Reputed unbreached until recent unsealing.
+Nestled atop a bluff above the hamlet of Sulky Wend, Road of Graves, this now sealed chrypt was formerly held by the cabal called The Red Pew. Only the uppermost floors of this 'Tower' sit above ground-level; most of the structure is subterranean.
 
 ## 13. VERSE
 
-Across the threshold I stepped, and Weirmoth at my heel
-our boots bruising dark trails through the silk patina
-which lay upon the flagstones like the dust of ten centuries
+Across the threshold I stepped
+and Weirmoth at my heel
+our boots bruising dark trails through the dust patina
+which lay upon the flagstones
 
 ...
 
-From the wall an invader stirred to wakefulness
+Then from the wall a something stirred
+cadaver
+invader
 his mail rusted into the meat beneath
-his weapon yet clutched in a hand half mineral
-his lips working at an old breach-order
-no quarter for the elder, no quarter for the elder, no quarter
+weapon cemented in a hand half mineral
+and from his lips
+the refrain
+spare not the old, spare not the young, spare not
 
 ...
 
-Weirmoth's spear took him through the throat
-clean and unflashy, as a fishmonger spits an eel
-and I, beside him, straightened a crooked sconce without looking
-that the corridor might keep its dignity
+Weirmoth's spear slammed him through the throat
+clean and unflashy
+as a fisherman spits an eel
+and I
+beside him
+straightened a crooked sconce
 
 ...
 
-Two more came shuffling from the silken alcoves
-the first of them slow upon a cracked knee
+Two more shuffled from the alcoves
+the first of them slow upon a crackling knee
 which buckled when Weirmoth feinted high
-and pivoted his shaft to drive the iron beneath the ribs
-splintering bone with a wet small report
+and pivoted his shaft
+driving the iron beneath the ribs
+splintering bone with a dry and small report
 
 ...
 
-The second sprang with a sweep of a notched falchion
-whose edge Weirmoth caught upon the haft
-and shouldered him into the patinated wall
-where the silk drank the blow as a lung drinks air
-and the spear-butt came up beneath the chin
-breaking the jaw upward into the cranial vault
+The second sprang
+sweeping with a notched falchion
+whose edge Weirmoth caught upon the reinforced spearshaft
+and thereafter shouldered this one into the patinated wall
+where the dusted wall swallowed soundlessly the blow
+and Weirmoth's spear-butt came up under the chin
+crushing the jaw
+into the cranial vault
 
 ...
 
-Knee-deep the verdigris gas pooled in the low corners
-misting over our boots in slow lazy coils
-and beneath all this murder there ran a low sweet rot
-a savor as of overripe peaches forgotten in a bowl
+Ankle-deep
+verdigris gas pooled in the uneven flags
+misting over our boots
+in slow lazy coils
+and in our throats we tasted a saccharine decay
+a savor
+like moldering peaches 
 
 ## 14. ESSAY
 

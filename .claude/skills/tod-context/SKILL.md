@@ -1,5 +1,5 @@
 ---
-name: setting-lore
+name: tod-context
 description: Use this skill whenever setting context, vocabulary, mythology, or folklore is needed for writing or worldbuilding in the Time of Dying setting.
 ---
 
