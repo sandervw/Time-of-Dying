@@ -9,4 +9,4 @@ Then walk through each aspect of the idea, resolving uncertain elements one-by-o
 
 Ask the questions one at a time.
 
-If a question can be answered by referencing a skill or setting lore, do that instead.
+If a question can be answered by referencing a skill, do that instead. Do not explore other reposity files unless requested to by the user or a skill.

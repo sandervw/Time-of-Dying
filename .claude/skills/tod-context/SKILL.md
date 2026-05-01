@@ -7,7 +7,7 @@ description: Use this skill whenever setting context, vocabulary, mythology, or 
 
 ## Vocabulary lookups (sampling-first)
 
-**Never read `setting/vocabulary.json` directly.** Use the sampling script for these arrays. Run commands from the `setting/` folder.
+**Never read `setting/vocabulary.json` directly.** Use the sampling script for these arrays. Run commands from within the `setting/` subdirectory.
 
 | Need | Command |
 | :--- | :--- |
