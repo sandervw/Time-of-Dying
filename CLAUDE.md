@@ -6,9 +6,9 @@ A fiction project for iterative composition with Claude AI.
 
 **After creating a new document**, ask the user if they want you to run text-trimmer or draft-editor.
 
+Never combine cd with output redirection in a single bash command - split into separate tool calls to avoid manual approval prompts in VS Code
+
 ## Naming Guidelines
-
-
 
 Where possible, run `sampling.py` as below. Lean into this inspiration, but create NEW names. Mirror the register and form of the samples; do not fall back to default fantasy templates.
 

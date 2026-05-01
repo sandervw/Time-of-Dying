@@ -1,6 +1,6 @@
 ---
 name: tod-context
-description: Use this skill whenever setting context, vocabulary, mythology, or folklore is needed for writing or worldbuilding in the Time of Dying setting.
+description: Use this skill whenever setting context or lore is needed for writing or worldbuilding in the Time of Dying setting.
 ---
 
 # Time-of-Dying Setting Lore
@@ -8,6 +8,8 @@ description: Use this skill whenever setting context, vocabulary, mythology, or 
 ## Vocabulary lookups (sampling-first)
 
 **Never read `setting/vocabulary.json` directly.** Use the sampling script for these arrays. Run commands from within the `setting/` subdirectory.
+
+Treat sampling output as stylistic inspiration only; do not copy/paste content into new stories verbatim.
 
 | Need | Command |
 | :--- | :--- |

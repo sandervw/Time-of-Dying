@@ -10,3 +10,7 @@ Then walk through each aspect of the idea, resolving uncertain elements one-by-o
 Ask the questions one at a time.
 
 If a question can be answered by referencing a skill, do that instead. Do not explore other reposity files unless requested to by the user or a skill.
+
+If the deliverable is a document, write to this document while interviewing (when appropriate).
+
+Keep questions and replies brief.
