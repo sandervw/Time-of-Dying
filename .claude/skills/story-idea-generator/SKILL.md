@@ -1,6 +1,6 @@
 ---
 name: story-idea-generator
-description: Generate story ideas by colliding two unrelated elements using bisociation theory. Use when asked to "generate a story idea", "come up with a plot", "merge two ideas", or any request to develop an original narrative premise. Also use when a user provides two seemingly unrelated things and asks what story could connect them.
+description: Generate story ideas by colliding two unrelated elements using bisociation theory. Use when asked to "generate a story idea", "come up with a plot", "merge two ideas", or any request to develop an original narrative premise.
 ---
 
 # Story Idea Generator

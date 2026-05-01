@@ -80,20 +80,19 @@ Square gold. Seven coins. No shavings. I keep an honest house, sir, but an hones
 
 The wandering scholar is a serviceable cover precisely because it is, in my case, no full untruth; the trick of such imposture lies in selecting which true thing to disclose. In this instance I presented 'dream-mancy' as a dead specialism, no licensed practitioner of the discipline remaining and no apprentice known to me by repute, and the claim passes the test of accuracy in spirit, if not in most rigorous fact. The field has produced its odd survivors, of course, and well it may be that I have missed some orphan.
 
-Thusly introduced, I stood and waited. One ought always to let the seller name his terms first. The mercenary whose name was Weirmoth, sitting at the bar in a cloak patched from salvaged funeral shrouds, 
+Thusly introduced, I stood and waited. One ought always to let the seller name his terms first. Bedmeister Noseman Under Eaves kept his lips still also.
 
-
-ate this counsel without chewing. Noseman did not; I had the impression, momentary and unverifiable, that the bedmeister knew my face from some earlier register, but he held his tongue and I held mine. By such silences are bargains kept open.
-
-We closed upon a single agreement: ride at dawn for the bluff. The rest, in my experience, resolves itself in due course, though seldom by the route one expects.
+A mercenary there was at The Hooded Pillow that day, whose name was Weirmoth, sitting at the bar in a cloak patched from salvaged funeral shrouds. I single him out particularly at this juncture for it was he who proposed the eventual arrangement: that he and I ride at dawn for the bluff, and resolve whatever there was within which afflected the village so. I made no particular demand for my assistance, only asserting my right to 'recompense', and to decide upon its form, should my talents prove essential to the task.
 
 ## 7. INTERVIEW (3) — Weirmoth, at the bar of the Hooded Pillow
+
+**TODO - pick dialogue style**
 
 **Trade.**
 Roadman, mostly. Grave-carter when the season's wet and the dead won't keep. Mystic for hire on a slow week, but only the small jobs, mind, I don't claim more than the spear earns. A man who claims more than his spear earns winds up on the wrong end of one. Ha. Cheers.
 
 **The spear.**
-Ah, her. Saint-and-bishop story, that one, you'll like it. Belonged to a saint, supposedly, who lanced a poisoned bishop's throat clean of abscess and saved the diocese, or so the tale runs in the cups. Now, here's the part the priests leave off, she whistles, this spear, low in the haft, whenever sickness is near. Hear that? No? Lucky us. Lucky you.
+Ah, her. A story, that one, you'll like it. Belonged to a saint, supposedly, who lanced a poisoned bishop's throat clean of abscess and saved the diocese, or so the tale runs in the cups. Now, here's the part the priests leave off, she whistles, this spear, low in the haft, whenever sickness is near. Hear that? No? Lucky us. Lucky you.
 
 **Sleep.**
 Me? Sleep like a stone. Never dream, not once, not since I was a lad. Dreams are for folk with leisure, and I'm not a leisured man.
@@ -104,7 +103,7 @@ Driver. Brake at the bend.
 
 ...
 
-Wenna of the short cough, six summers gone, took by the third fever in the wet month. Her mother bore the bier alone and walked the Road three nights without speaking, and three more without sleeping. Mothers who pass with children at the hip, mark the lintel. Mark the lintel. Mark.
+Wenna of the short cough, six summers gone, took by the third fever in the wet month. Her mother bore the bier alone and walked the Road three nights without speaking, and three more without sleeping. Mothers who pass with children at the hip; beware!
 
 ...
 
@@ -116,27 +115,27 @@ A fair trade. A fair trade. A fair.
 
 ## 9. ESSAY
 
-The Tower of the Attercop sits upon its bluff above Sulky Wend like a swaddled corpse propped to receive visitors; silked grey in the morning light, its flanks furred by three thousand-odd seasons of patient web, it gives no impression of menace until one is already at the door. Upon that door rests the Seal of Neinstitch, a sutured lock which answers only to whisper, and which I have taken upon myself to address.
+The Tower of the Attercop sits upon its bluff above Sulky Wend like a skeleton articulated to receive visitors; bleached in the slate-colored morning light, it gives no impression until one is at the door. Upon that door rests the Seal of Neinstitch, a sutured lock which answers only to a certain murmur.
 
-I should say, lest the reader misconstrue, that "unsealing" implies a degree of violence which the work does not actually require. The real strength of mancy is knowledge, not force; a lock of this make wishes to be opened by the proper syllable, and resents only the unproper one. Hammer and pick would accomplish nothing here save the shame of the wielder.
+I should say, lest the reader misconstrue, that the "unsealing" itself demand no act of violation, physical or otherwise. The real strength of necromancy is knowledge, not force; a lock of this variety wishes to be opened by the proper syllable, and resents only the unproper one. Hammer and pick would accomplish nothing here save the shame of the wielder.
 
-The Tower itself, I am given to understand, was raised by a cabal calling itself The Red Pew, and was breached, or said to be breached, by a rival fellowship whom the chronicles name Milkmoot. Howsoever the breach went, the seal was set after; and what was set may be unset, given the correct courtesy and a sufficiently unhurried morning.
+The Tower itself was raised by a cabal calling itself 'The Red Pew', and was breached, or fabled to have been breached, by a rival fellowship of the name 'Milkmoot'. Howsoever the breach went, the seal was set after.
 
 ## 10. VERSE
 
 I knelt before the door
-and laid the white marble of my prosthetic palm against the sutured lock
-and felt the cold seam answer my touch
+and laid my dark hand against the sutured lock
+and felt the cold seam
 
 ...
 
 Under my breath I gave the Deadspeech
 the old phrase Öltesoldzo sjhaj
-by which with a sigh come loose the sutures
+by which 'With a sigh came loose the sutures'
 
 ...
 
-Slowly the seal parted as a slow yawn
+Slowly the seal yawned
 and from the dim threshold poured a verdigris fume
 sweet with rosewater
 and corrupted with the reek of spoiled meat
@@ -144,27 +143,31 @@ and corrupted with the reek of spoiled meat
 ...
 
 Above the lintel the cobwebs trembled in that exhalation
-and from their hidden cloisters the spiders stirred
-descending by silken cords as though to greet me
+and from their hidden cloisters
+the spiders stirred
+descending by silken cords
+as though to bid welcome
 
 ...
 
 I withdrew upwind into the morning air
-and waited as the fume thinned among the grasses
-knowing well that should this exhalation continue unchecked
-the dreaming villagers would wake at last
-with the memories of the dead in place of their own
+and waited as the fume thinned
+over the dawn-bedewed heather
+marking well however that
+should this exhalation continue
+the dreaming villagers would wake ultimately
+with dead memories in place of their own
 
 ## 11. INTERVIEW (3) — Weirmoth, while the gas dissipates
 
 **Last night.**
-Aye, well. Poorly. Don't make a face at me, I know what I said at the bar. A man's allowed to dress up his sleep for a stranger, isn't he. Truth of it, I was up till the small hours staring at the rafters. Saw a fishwife drown four separate times. Counted her teeth on the third go.
+Aye, well. Poorly. I know, I now what I said at the bar. Truth of it, I was up till the small hours staring at the rafters. Saw a fishwife drown four separate times.
 
 **The canary.**
 Mister Ribbon, this is. Aren't you, you scrap. Yes you are. Yes you are. He goes ahead of me down the bad holes, sir, sings till he doesn't. When he doesn't, I don't. Simple arrangement. He's had three names before this one and outlasted all of them, haven't you, my lad.
 
-**Inside.**
-Work.
+**Once Inside.**
+Spearwork.
 
 ## 12. LEMMA — The Tower of the Attercop
 
