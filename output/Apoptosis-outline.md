@@ -19,7 +19,7 @@ Bulk of the story is **single-room**: one chamber, one stairway into black, wave
 ## Protagonists
 
 ### Othelmedir the Mancer
-(Full profile in `stories/Contumelious-Ectogenesis/Othelmedir-Analysis.md`.)
+(Full profile in `stories/Contumelious-Ectogenesis/Othelmedir-Profile.md`.)
 - Brings **Grot** (chained crate golem), banshee-wax, bone dust.
 - Came for plunder and lore. Now weighing what he can extract from the breach, the keepers, and Rayche before dawn.
 

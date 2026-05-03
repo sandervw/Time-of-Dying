@@ -47,7 +47,7 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 
 ## Characters
 
-**Othelmedir:** See `\stories\Contumelious-Ectogenesis\Othelmedir-Analysis.md` for character context.
+**Othelmedir:** See `\stories\Contumelious-Ectogenesis\Othelmedir-Profile.md` for character context.
 
 **Weirmoth:** *Inspiration: Jack Burton (Big Trouble in Little China) meets Wash (Firefly)* A "bally brave adventurer", irritatingly chipper and enthusiastic. Outwardly a self-mythologizing picaro and banterer, with a hidden genuine warmth underneath.
 
