@@ -12,7 +12,7 @@ Three-stage orchestrator. User provides two file paths:
 ## Setup
 
 1. Verify both files exist. Halt and report if either is missing.
-2. Derive `SCENE_TAG` from `OUTLINE_PATH` filename: strip directory and extension, lowercase, kebab-case (e.g. `input/outline-little-comfort.md` → `little-comfort`).
+2. Derive `SCENE_TAG` from the content of `OUTLINE_PATH`.
 
 If at any stage a subagent fails or expected output files are missing, halt immediately and report the failure to the user.
 

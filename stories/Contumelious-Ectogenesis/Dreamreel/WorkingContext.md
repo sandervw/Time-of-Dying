@@ -1,4 +1,4 @@
-# Contumelious Ectogenesis: Scene 1 Working Context
+# Scene 2 Context
 
 ## Premise
 
@@ -8,19 +8,49 @@
 
 In the road-village of *Sulky Wend*, near a sealed chrypt called *The Tower of the Attercop*, residents live other lives at night, their dreams replaced by the death-visions of an old cabal. They call it 'The Dreamreel'. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled the Tower when a rival cabal breached the walls; his own circle released a necromantic gas to buy time, sealing everyone inside as dreaming undead. He has now returned to destroy the cauldron producing the gas before the villagers' memories are entirely replaced by those of the dreaming dead.
 
-## Othelmedir (character)
+## Scene 2:
 
-- Tall as a redwood, thin as a reed; iron eyes, broad dark face, cropped curls, salt-and-pepper beard
-- Oxblood velvet cloak; full white prosthetic left arm hangs lifeless (reads as a maiming)
-- Sees residents as material: notes a strong neck, clean teeth on a boy
-- Speaks in precise, formal cadence
-- Fronts as a modest, wandering scholar; commands respect without raising his voice
+TODO
 
-## Scene 1: Arrival in Sulky Wend
+## Prior Scene Notes
 
-Othelmedir enters the sole boarding house of Sulky Wend: 'The Hooded Pillow'. He observes the clientele. Residents are sullen, sleep-starved. A sleepwalking child recites a funeral rite she cannot possibly know: 'The Little Mass of Failing Lamps'. Meanwhile, the local bedmeister is busy talking to another client. Othelmedir recalls that he had lived near Sulky Wend before, for a time, but he rarely visited the town proper. His reflection does not elaborate.
+### Scene Summary
 
-- (Othelmedir) Sees residents as material: notes a strong neck, clean teeth on a boy
-- (lore) The boarding house once housed Tower staff (though no one remembers); its ledger is still bound in attercop silk, a former gift of the tower's mancers
-- (withheld) The significance of that specific funeral rite, and whose death it marks
-- (withheld) Othelmedir's prior identity and his role in building the Dreamreel
+Othelmedir, fronting as a wandering scholar, arrives at *The Hooded Pillow*, the only boarding house in Sulky Wend. The door has been rehung wrong, the lintel set too low for him; inside, residents sleep upright, half-starved of rest. He observes a strong-necked boy as a butcher would, marking neck and teeth. While the bedmeister works the queue in clipped commands, a barefoot child stands in a cold that does not extend beyond her body and recites numbered lines of a funeral rite. Othelmedir crosses to the counter, recognises the attercop-silk ledger from a former life he has not named, and asks for the highest room. The bedmeister's thumb moves along the bead-tally. Nothing has been resolved; the village's sickness has been confirmed.
+
+### Ending Text
+
+..."You ask, master bedmeister, whether I take bed or bench. Let it be a bed, if any room remains, and let it be the highest room you keep, as I prefer the quiet of an upper floor." The bedmeister's thumb moved along the cord.
+
+### Questions Posed
+- Whose death does the rite mark, and why does the child carry it?
+- 
+# Speech Card: Othelmedir
+
+**Positive mode:** Always restates the other character's last line before replying
+**Register:** Archaic
+**Sentence-length cap:** Minimum 15 words; no cap maximum
+**Signature construction:** Always names the person he is addressing
+
+**Voice fingerprint:** Formal, unhurried; repeats back what was said before answering, as if correcting the record; addresses by name or title, never pronoun alone; archaic diction throughout.
+
+**Default-banned:**
+- Clinical or curious tone
+- "What does it feel like" questions
+- Detached observational commentary on the protagonist
+- Fragment-as-style
+
+### Speech Card: The Bedmeister
+
+**Positive mode:** Uses only imperatives and questions, never declaratives
+**Register:** Formal-modern
+**Sentence-length cap:** 6 words maximum
+**Signature construction:** Ends every line on a noun
+
+**Voice fingerprint:** Every line is either a command or a query; never states a fact outright; formal but efficient; speech heard at distance, truncated — he runs the house like an inventory.
+
+**Default-banned:**
+- Clinical or curious tone
+- "What does it feel like" questions
+- Detached observational commentary on the protagonist
+- Fragment-as-style
