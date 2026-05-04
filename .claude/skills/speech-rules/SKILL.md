@@ -8,22 +8,22 @@ Read the character (name, brief description, or profile if provided) and scene c
 Roll the character's voice from using `assets/sampling.py`:
 
 ```
-python assets/sampling.py positive_modes 1
-python assets/sampling.py vocab_registers 1
-python assets/sampling.py sentence_length_caps 1
-python assets/sampling.py signature_constructions 1
+python assets/sampling.py positive_modes 2
+python assets/sampling.py vocab_registers 2
+python assets/sampling.py sentence_length_caps 2
+python assets/sampling.py signature_constructions 2
 ```
+
+After rolling, select 1 of the two rolled values; the most-fitting depending on the context provided.
 
 If source paragraphs are provided, override rolled choices which conflict with concrete features extracted directly from the source.
 
 Apply the **default-banned patterns** as constants (always banned, never rolled):
-- Clinical or curious tone
 - "What does it feel like" type questions
-- Detached observational commentary on the protagonist
 - Fragment-as-style (unless the rolled positive mode requires it)
 
-Compose a markdown card per character with: positive mode, voice fingerprint (register, sentence-length cap, signature construction), default-banned patterns.
+Compose a markdown card per character with: positive mode, register, sentence-length cap, signature construction, and the default-banned patterns.
 
-Keep your card under 100 words.
+Keep your card under 60 words.
 
 Save to `output/speech-card-[character]-[scene-tag].md`.
