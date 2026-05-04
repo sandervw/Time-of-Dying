@@ -2,6 +2,8 @@
 
 ## Premise
 
+**POV:** Limited 3rd-person (Othelmedir)
+**Tense:** Past
 **Total Wordcount:** 7,000
 
 *The story is part of a large selection of 'Time of Dying' stories, based upon the learnings and adventures of Othelmedir, the necromancer: "Othelmedir's Black Scholastics".*

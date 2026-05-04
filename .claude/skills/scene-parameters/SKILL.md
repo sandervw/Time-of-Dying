@@ -10,8 +10,6 @@ For each unlocked axis, run `assets/sampling.py`:
 ```
 python assets/sampling.py senses 3
 python assets/sampling.py rhythms 2
-python assets/sampling.py pov_distances 1
-python assets/sampling.py time_handling 1
 python assets/sampling.py scene_shapes 1
 ```
 
