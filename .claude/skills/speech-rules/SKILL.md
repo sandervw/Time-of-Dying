@@ -28,4 +28,6 @@ Compose a markdown card per character with: positive mode, register, sentence-le
 
 Keep your card under 60 words.
 
+Do not add extra categories to your card.
+
 Save to `output/speech-card-[character]-[scene-tag].md`.

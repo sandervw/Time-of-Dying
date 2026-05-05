@@ -16,6 +16,8 @@ python assets/sampling.py color_palettes 1
 
 Compose a markdown card with the locked rolled parameters and one short rationale sentence per axis tying the choice to the scene.
 
+Do not add extra categories to your card.
+
 Keep your card under 100 words.
 
 Save to `output/scene-params-[scene-tag].md`.

@@ -15,7 +15,7 @@ In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of
 ### 1. Arrival in Sulky Wend
 **Wordcount:** 700
 
-Othelmedir enters the sole boarding house of Sulky Wend: 'The Hooded Pillow'. He observes the clientele. Residents are sullen, sleep-starved. A sleepwalking child recites a funeral rite she cannot possibly know: 'The Little Mass of Failing Lamps'. Meanwhile, the local bedmeister is busy talking to another client. Othelmedir recalls that he had lived near Sulky Wend before, for a time - but he rarely visited the town proper. His reflection does not elaborate.
+Othelmedir enters the sole boarding house of Sulky Wend: 'The Hooded Pillow'. He observes the clientele. Residents are sullen, sleep-starved. A sleepwalking child recites a funeral rite she cannot possibly know: 'The Little Mass of Failing Lamps'. Meanwhile, the local bedmeister is busy talking to another client. Othelmedir recalls that he had lived near Sulky Wend before, for a time - but he rarely visited the town proper.
 - (Othelmedir) Tall as a redwood, thin as a reed; iron eyes, broad dark face, cropped curls, salt-and-pepper beard
 - (Othelmedir) Oxblood velvet cloak; full white prosthetic left arm hangs lifeless (read as a maiming)
 - (Othelmedir) Sees residents as material: notes a strong neck, clean teeth on a boy
@@ -25,7 +25,7 @@ Othelmedir enters the sole boarding house of Sulky Wend: 'The Hooded Pillow'. He
 ### 2. Teammates
 **Wordcount:** 550
 
-The local bedmeister, Noseman Under Eaves, speaks with Weirmoth, a 'dashing adventurer'. The bedmeister explains the problem: the living dream the deaths of the dead. He says they call it 'Dreamreel'. He describes it as like a nagging worry one has when trying to fall asleep; the sleeper tries to think of other things, but the death-visions return until they consume the dream. He begs Weirmoth for help. Othelmedir, having overheard this conversation, presents himself as a specialist in dream-mancy. Weirmoth accepts the aid without probing, and takes the bedmeister's coin. They agree to ride in the morning.
+The local bedmeister, Noseman Under Eaves, speaks with Weirmoth, a 'dashing adventurer'. The bedmeister explains the problem: the living dream the deaths of the dead. He says they call it 'Dreamreel'. He describes it as like a nagging worry one has when trying to fall asleep; the sleeper tries to think of other things, but the death-visions return until they consume the dream. He begs Weirmoth for help. Othelmedir, having overheard this conversation, presents himself as a specialist in dream-mancy. Weirmoth accepts the aid without probing, and takes the bedmeister's coin. Othelmedir and Weirmoth agree to ride in the morning.
 - (Othelmedir) Introduces himself as a "specialist in dream-mancy" in precise, formal speech
 - (Othelmedir) Commands respect without raising his voice
 - (Othelmedir) Fronts as a modest, wandering scholar

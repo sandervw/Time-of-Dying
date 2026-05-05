@@ -11,7 +11,7 @@ Read ONLY these inputs:
 
 Analyze on two fronts:
 
-1. **Story fit** — Does the scene serve the larger story? Flag any line, paragraph, or moment that breaks the original intention, contradicts established facts, or pulls focus from the scene's purpose in the arc.
+1. **Story fit** — Does the scene serve the larger story? Flag any line, paragraph, or moment that breaks the original intention, contradicts established facts, or pulls focus from the scene's purpose in the arc. Pay close attention to the original scene's role in the larger context.
 2. **Internal quality** — Flag awkward phrasing, confusing passages, internal contradictions, or muddled cause-and-effect within the scene itself.
 
 ## Output
@@ -30,8 +30,12 @@ A markdown card with two top-level lists, in this order:
   > "[exact line or passage]"
 ```
 
-Each item must be brief: a sharp recommendation, one short justification, and the exact line/passage being flagged. No essays. The card should be scannable.
+Each item must be brief: a sharp recommendation, one short justification, and the exact line/passage being flagged.
 
 If a list has no findings, say "None." under that heading.
+
+Do not add extra categories to your card.
+
+ Keep your card under 300 words.
 
 Save to `output/scene-audit-[scene-tag].md`.

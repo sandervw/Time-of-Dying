@@ -17,6 +17,8 @@ Use the rolled rules verbatim. If the user supplies additional bans, append them
 
 Compose a markdown card with categorized bans.
 
+Do not add extra categories to your card.
+
 Keep your card under 100 words.
 
 Save to `output/blacklist-[scene-tag].md`.
