@@ -8,7 +8,10 @@
     "no metaphors built on weather or seasons",
     "no metaphors comparing human action to animal behavior",
     "no similes whose vehicle is a tool or weapon",
-    "no metaphors built on light or darkness"
+    "no metaphors built on light or darkness",
+    "no `as one [verbs] a [noun]` similes",
+    "no similes whose vehicle is a tradesman's craft",
+    "no more than one simile per paragraph"
   ],
   "cadence_bans": [
     "no isolated fragment sentences",
@@ -19,7 +22,10 @@
     "no sentences that end on a single-word coda",
     "no parallel-clause balanced sentences (`he did X. she did Y.`)",
     "no consecutive sentences of the same length",
-    "no sentences shorter than five words"
+    "no sentences shorter than five words",
+    "no scene-ending negation coda (`and X did not Y`)",
+    "no triadic sensory catalogues (smell/sound/texture)",
+    "no `X, then Y, then Z` action sequences"
   ],
   "syntactic_bans": [
     "no semicolons",
@@ -30,7 +36,10 @@
     "no comma splices",
     "no sentences beginning with `And` or `But`",
     "no colons used to introduce clauses",
-    "no rhetorical questions in narration"
+    "no rhetorical questions in narration",
+    "no `as if` constructions",
+    "no participial dialogue tags mid-sentence",
+    "no `X of X` possessive cascades"
   ],
   "imagery_bans": [
     "no visor-fogging or breath-in-helm imagery",
@@ -41,7 +50,9 @@
     "no character described by what their hands are doing",
     "no description of breath as visible vapor",
     "no eyes described as reflective surfaces (mirrors, water, glass)",
-    "no silence described as a physical weight"
+    "no silence described as a physical weight",
+    "no self-monitoring beats (`hearing himself`)",
+    "no exclusively muted/grey color palette"
   ],
   "register_bans": [
     "no clinical or scientific vocabulary in narration",

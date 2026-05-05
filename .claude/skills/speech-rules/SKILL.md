@@ -22,6 +22,8 @@ Apply the **default-banned patterns** as constants (always banned, never rolled)
 - "What does it feel like" type questions
 - Fragment-as-style (unless the rolled positive mode requires it)
 
+**Saturation cap** (constant): signature construction and positive mode each fire on no more than ~50% of the character's lines.
+
 Compose a markdown card per character with: positive mode, register, sentence-length cap, signature construction, and the default-banned patterns.
 
 Keep your card under 60 words.

@@ -43,5 +43,11 @@
     "deflation",
     "circular",
     "parallel-thread"
+  ],
+  "color_palettes": [
+    "muted earth-tones",
+    "warm-dominant",
+    "cold-dominant",
+    "monochromatic-grey"
   ]
 }

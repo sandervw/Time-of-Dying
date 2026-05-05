@@ -11,6 +11,7 @@ For each unlocked axis, run `assets/sampling.py`:
 python assets/sampling.py senses 3
 python assets/sampling.py rhythms 2
 python assets/sampling.py scene_shapes 1
+python assets/sampling.py color_palettes 1
 ```
 
 Compose a markdown card with the locked rolled parameters and one short rationale sentence per axis tying the choice to the scene.
