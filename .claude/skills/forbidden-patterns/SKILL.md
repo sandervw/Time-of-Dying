@@ -1,14 +1,7 @@
 ---
 name: forbidden-patterns
-description: Per-scene blacklist of LLM prose tells. Predictive mode rolls a sampled blacklist before drafting; audit mode scans a draft against an existing blacklist and flags violations. Triggers include "forbidden patterns", "ban patterns", "audit draft", "scene blacklist".
+description: Per-scene blacklist of LLM prose tells. Rolls a sampled blacklist before drafting. Triggers include "forbidden patterns", "ban patterns", "scene blacklist".
 ---
-
-Two modes. Detect from the request.
-
-- **Predictive** — user asks for bans/blacklist before drafting, or provides scene context without a draft. Default.
-- **Audit** — user provides a draft plus an existing blacklist card and asks for a check.
-
-## Predictive
 
 Roll bans using `assets/sampling.py`:
 
@@ -27,11 +20,3 @@ Compose a markdown card with categorized bans.
 Keep your card under 100 words.
 
 Save to `output/blacklist-[scene-tag].md`.
-
-## Audit
-
-Read the draft and the existing blacklist card. Scan systematically — one ban at a time. For each violation report: paragraph or line reference, the offending text quoted, and the rule it broke. 
-
-Keep your report under 300 words.
-
-Do NOT rewrite. Output a violation report only. Save to `output/audit-[scene-tag].md`.

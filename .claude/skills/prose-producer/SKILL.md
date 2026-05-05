@@ -1,17 +1,18 @@
 ---
 name: prose-producer
-description: Orchestrates a full scene draft. Given a scene outline file and a source style passage file, generates four style cards, composes the scene, and audits the draft against the blacklist. Triggers include "produce a scene", "run the prose pipeline", "prose-producer".
+description: Orchestrates a full scene draft. Given a scene outline, source style passage, and full story outline, generates four style cards, composes the scene, audits it for story fit and internal quality, and optionally applies chosen fixes. Triggers include "produce a scene", "run the prose pipeline", "prose-producer".
 ---
 
 # Prose Producer
 
-Three-stage orchestrator. User provides two file paths:
+Multi-stage orchestrator. User provides three file paths:
 - `OUTLINE_PATH` — scene outline / idea
 - `SOURCE_PATH` — source style passage(s)
+- `STORY_PATH` — full story outline
 
 ## Setup
 
-1. Verify both files exist. Halt and report if either is missing.
+1. Verify all three files exist. Halt and report if any is missing.
 2. Derive `SCENE_TAG` from the content of `OUTLINE_PATH`.
 
 If at any stage a subagent fails or expected output files are missing, halt immediately and report the failure to the user.
@@ -60,19 +61,44 @@ Capture the returned scene draft path.
 
 Launch a `general-purpose` subagent with `model: sonnet`. Prompt it with:
 
-> Read ONLY these files plus files inside the forbidden-patterns skill folder:
+> Read ONLY these files plus files inside the scene-audit skill folder:
 > - Scene draft: `{SCENE_DRAFT_PATH}`
-> - Blacklist card: `{BLACKLIST_PATH}`
+> - Full story outline: `{STORY_PATH}`
 >
-> Invoke `forbidden-patterns` in AUDIT mode. Use scene-tag `{SCENE_TAG}` for the audit filename. Save under `output/`.
+> Do NOT read any other file.
 >
-> Do not rewrite the scene. Output a violation report only.
+> Invoke the `scene-audit` skill, following its workflow exactly. Use scene-tag `{SCENE_TAG}` for the audit filename. Save under `output/`.
 >
-> Report back the absolute path of the audit file.
+> Report back the absolute path of the audit card.
+
+Capture the returned audit card path.
+
+## Review with User
+
+Read the audit card yourself. Present the two lists (Story Fit, Internal Quality) to the user and ask which items, if any, they want applied to the scene draft. Accept their selections in any reasonable form (numbers, ranges, "all", "none", free-form).
+
+If the user picks **none**, skip Stage 4 and go to Final Output.
+
+## Stage 4 — Apply Fixes (sonnet, optional)
+
+Only run if the user picked one or more fixes.
+
+Launch a `general-purpose` subagent with `model: sonnet`. Prompt it with:
+
+> Read ONLY:
+> - Scene draft: `{SCENE_DRAFT_PATH}`
+>
+> Apply the following edits to the scene draft, in place. Preserve all surrounding prose. Do not introduce changes beyond what is listed.
+>
+> Chosen edits:
+> {CHOSEN_EDITS_VERBATIM}
+>
+> Report back the absolute path of the edited scene file and a brief summary of the changes you made.
 
 ## Final Output
 
 Print to the user:
 - Scene draft path
 - Post-scene summary path
-- Audit report path
+- Audit card path
+- (If Stage 4 ran) brief note that fixes were applied
