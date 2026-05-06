@@ -375,6 +375,7 @@ So Turjan and T’sain watched T’sais disappear | across the many-colored mead
 “When we come to Earth, will you find me a black horse like that of T’sais?”
 
 ' “Indeed,” said Turjan, laughing, as they started back to the house of Pandelume.
+
 ## Mazirian The Magician
 
 DEEP IN thought, Mazirian the Magician walked his garden. Trees fruited with many intoxications overhung his path, and flowers bowed obsequiously as he passed. An inch above the ground, dull as agates, the eyes of mandrakes followed the tread of his black-slippered feet. Such was _Mazirian’s garden—three terraces growing with strange and wonderful vegetations. Certain plants swam with changing iridescences; others held up blooms pulsing like sea- — anemones, purple, green, lilac, pink, yellow. Here grew trees like feather parasols, trees with transparent trunks threaded with red and yellow veins, trees with foliage like metal foil, each leaf a different metal—copper, silver, blue tantalum, bronze, green iridium. Here blooms like bubbles tugged gently upward from glazed green leaves, there a shrub bore a thousand pipe-shaped blossoms, each whistling softly to make music of the ancient Earth, of the ruby-red sunlight, water seeping through black soil, the languid winds. And beyond the roqual hedge the trees of the forest made a tall wall of mystery. In this waning hour of Earth’s life no man could count himself familiar with the glens, the glades, the dells and deeps, the secluded clearings, the ruined pavilions, the sun-dappled pleasaunces, the gullys and heights, the various brooks, freshets, ponds, the meadows, thickets, brakes and rocky outcrops.
@@ -682,6 +683,7 @@ He lifted her body in his arms.
 “But I shall restore you to the vats. With your brain I build another T’sain, as lovely as you. We go.”
 
 He bore her up the stone stairs.
+
 ## Tsais
 
 T’SAIS CAME riding from the grove. She checked her horse shimmering pastel meadow toward the river . . . She stirred her knees and the horse proceeded across the turf.
@@ -1579,6 +1581,7 @@ Lith sat quiet. She waited an hour; then, creeping to the door, she listened. Th
 She eased the door ajar, found the threads and closed the door. She ran to her golden tapestry and fitted the threads into the ravelled warp.
 
 And she stared at the golden valley, sick with longing for Ariventa, and tears blurred out the peaceful river, the quiet golden forest. “The cloth slowly grows wider...
+
 ## Ulan Dhor
 
 PRINCE KANDIVE the Golden spoke earnestly to his nephew Ulan Dhor. “It must be understood that the expansion of craft and the new lore will be shared between us.” ;
@@ -2242,6 +2245,7 @@ fly and fly, till we find where the sun rises, and perhaps a quiet meadow where 
 Ulan Dhor looked to the south and thought of Kaiin with its quiet nights and wine-colored days, the wide palace where he made his home, and the couch from which he could look out over Sanreale Bay, the ancient olive trees, the harlequinade festival-times.
 
 He said, “Elai, you will like Kaiin.”
+
 ## Guyal Of Sfere
 
 GUYAL OF SFERE had been born one apart from his fellows and early proved a source of vexation for his sire. Normal in outward configuration, there existed within his mind a void which ached for nourishment. It was as if a spell had been cast upon his birth, a harassment visited on the child in a spirit of sardonic mockery, so that every occurrence, no matter how trifling, became a source of wonder and amazement. Even as young as four seasons he was expounding such inquiries as:
@@ -2960,9 +2964,7 @@ Dimming the dagger’s glow to a glimmer, Guyal passed through the door, with Sh
 
 the evil sound, and by the echoes they knew they stood in a great hall.
 
-Guyal directed the light to the floor: it was of a black
-
-resilient material. Next the wall: polished stone. He permitted the light to glow in the direction opposite to the sound, and a few paces distant they saw a bulky black case, studded with copper bosses, topped by a shallow glass tray in which could be seen an intricate concourse of metal devices.
+Guyal directed the light to the floor: it was of a black resilient material. Next the wall: polished stone. He permitted the light to glow in the direction opposite to the sound, and a few paces distant they saw a bulky black case, studded with copper bosses, topped by a shallow glass tray in which could be seen an intricate concourse of metal devices.
 
 With the purpose of the black cases not apparent, they followed the wall, and as they walked similar cases appeared, looming heavy and dull, at regular intervals. The clacking receded as they walked; then they came to a right angle, and, turning the corner, they seemed to approach the sound. Black case after black case passed; slowly, tense as foxes, they walked, eyes groping for sight through the darkness.
 

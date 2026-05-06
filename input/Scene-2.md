@@ -1,6 +1,4 @@
-# Dreamreel: Scene 2
-
-## Full Scene
+# Dreamreel Scene 2 (claude's version)
 
 The Hooded Pillow kept its evening as Othelmedir read it: the common room bedded down to a single hearth whose coal threw a low oxblood glow without anything that could be honestly called heat, a draught moving beneath the warped door and running cold along the ankles of those still upright, smelling of wet ash and of the ash beneath the ash. He had taken his place at the plank counter and there remained, unhurried, the velvet of his cloak laid on a gnarl of the wood, while at the bench-end nearest the door a smaller man held forth to the bedmeister in low, busy tones, as if their bargain had been an old one resumed and not a fresh thing being struck for the first time. The bedmeister listened in the way of men who have not slept fully in many weeks; he listened, that is, with the whole of a body that wished only to lie down. Othelmedir did not turn to either of them. He let his gaze move across the room as a valuer moves across a room: the man slumped in the corner seat, thick-necked, the cords of him sound even in sleep; the girl on the bench, her teeth caught in the low light, even and white, the jaw well-set. He waited, as travellers are taught to wait in houses where the price has not yet been named, and he allowed the room to speak before the room's keeper did.
 

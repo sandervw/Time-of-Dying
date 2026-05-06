@@ -1,4 +1,4 @@
-# Scene 2 Context
+# Scene 3 Context
 
 ## Premise
 
@@ -6,41 +6,33 @@
 **Tense:** Past
 **Scene Wordcount:** 700
 
-In the road-village of *Sulky Wend*, near a sealed chrypt called *The Tower of the Attercop*, residents live other lives at night, their dreams replaced by the death-visions of an old cabal. They call it 'The Dreamreel'. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled the Tower when a rival cabal breached the walls; his own circle released a necromantic gas to buy time, sealing everyone inside as dreaming undead. He has now returned to destroy the cauldron producing the gas before the villagers' memories are entirely replaced by those of the dreaming dead.
+In the road-village of *Sulky Wend*, near a sealed chrypt called *The Tower of the Attercop*, residents live other lives at night, their dreams replaced by the death-visions of an old cabal. They call it 'The Dreamreel'. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled the Tower when a rival cabal breached the walls; his own circle released a necromantic gas to buy time, sealing everyone inside as dreaming undead. Now unrecognized, Othelmedir has returned to destroy the cauldron producing the gas before the villagers' memories are entirely replaced by those of the dreaming dead.
 
 ## Current Scene Outline
 
-The local bedmeister, **Noseman Under Eaves**, speaks with **Weirmoth**, a 'dashing adventurer'. Noseman explains the problem: the living dream the deaths of the dead. He calls it the *Dreamreel*. He describes it as like a nagging worry when trying to fall asleep; the sleeper tries to think of other things, but the death-visions return until they consume the dream. He begs Weirmoth for help. Othelmedir, having overheard, presents himself as a specialist in dream-mancy. Weirmoth accepts the aid without probing, takes the bedmeister's coin. The two agree to ride in the morning.
+**Scene 3: The Seal of Neinstitch** (800 words)
 
-Beats / details:
-- (Othelmedir) Introduces as a "specialist in dream-mancy" in precise, formal speech.
-- (Othelmedir) Commands respect without raising his voice.
-- (Othelmedir) Fronts as a modest, wandering scholar.
-- (Othelmedir) Lets Weirmoth and Noseman name terms first; never states his cut up front.
-- (Othelmedir) Drops a line: he works by barter and oath, not coin.
-- (Weirmoth) Wiry, compact, mid-thirties; sideburns to the jaw, half-grown mutton-chop on the lip; a head shorter than Othelmedir.
-- (Weirmoth) Immaculate hands at odds with the body — notary's nails on a grave-carter; carries a sliver of fat-soap, washes at any lull.
-- (Weirmoth) Roadman / grave-carter by trade; bluffs the mystic work.
-- (Weirmoth) Chipper, self-mythologizing picaro; banters with the bedmeister.
-- (Weirmoth) Cloak patched from salvaged funeral shrouds, seams running the wrong way for ordinary tailoring.
-- (Weirmoth) Signature spear leaned at the table; spins a fabricated origin myth: *"It once belonged to a saint who lanced abscesses on a poisoned bishop's throat; it now whistles, faintly, whenever sickness is near."*
-- (Weirmoth) Brags he "never dreams" (this is groundwork — do not undercut it here).
-- (lore) Dream-mancy is a dead specialism; no licensed practitioners remain.
-- (withheld) Noseman knows or suspects something about Othelmedir, but conspicuously does not elaborate to Weirmoth.
+Othelmedir and Weirmoth approach the Tower of the Attercop on its bluff. Weirmoth admits he slept poorly (contradicting his "never dreams" brag from the night before). Outside the chrypt, Othelmedir disables the magic seal with whispered deadspeech against the lock: *"With a sigh came loose the sutures ('Öltesoldzo sjhaj')"*. A hideous, visible gas begins pouring forth. The two step back, waiting for the initial fume to dissipate. Weirmoth speaks of his background while they wait.
+
+- Othelmedir explains that, based on his "historic knowledge," if the dream-deaths are allowed to continue, the villagers' memories will be entirely replaced by those of the dead (*subtext*: he does not yet reveal his specific knowledge of *which* dead)
+- (Othelmedir) Unsealing is visibly modest magic (*subtext*: imply his real strength is knowledge; he set this seal himself)
+- (Othelmedir) Carries no visible weapon; Weirmoth notes this uneasily
+- Cobwebs quiver inside the chrypt; spiders stir
+- (Weirmoth) *subtext*: Hidden warmth surfaces under the banter during his background interview
+- (Weirmoth) Pulls a preserved canary from his cloak: 'Mister Ribbon'; talks to it like a confidant
+- (Weirmoth) Watches the unsealing deadspeech unflinching; the cadence is almost familiar to him
+- (withheld) Weirmoth was once a seminarian of a minor road-cult, washed out before ordination; the shroud-cloak is his old vestment and Mister Ribbon was his augury bird
+- (lore) The two cabal names are revealed in this scene: tower cabal = *'The Red Pew'*; invader cabal = *'Milkmoot'*
 
 ## Prior Scene Notes
 
-- Othelmedir has just entered *The Hooded Pillow*, the sole boarding house of Sulky Wend. Tall as a redwood, thin as a reed; iron eyes, broad dark face, cropped curls, salt-and-pepper beard; oxblood velvet cloak; full white prosthetic left arm hangs lifeless beneath the cloak (reads as a maiming).
-- Residents are sullen and sleep-starved; many slump asleep on benches in their clothes. A barefoot child recited *The Little Mass of Failing Lamps* in a cold radiant draught — a funeral rite she should not know.
-- The bedmeister was already busy with a prior client (Weirmoth — the same client now in this scene). Othelmedir crossed to the plank counter, where the ledger lay open, bound in attercop silk (a forgotten former gift of the tower's mancers).
-- Othelmedir asked for the highest room available, claiming preference for the quiet of an upper floor. He has lived near Sulky Wend before, though rarely came into the town proper.
-- He sees residents as material: noted a strong neck and clean teeth on a sleeping boy.
+Othelmedir (oxblood velvet cloak, full white prosthetic left arm hanging lifeless, tall and thin, formal/archaic speech) met Weirmoth (wiry, sideburns, shroud-patch cloak with reversed seams, signature spear, fat-soap, fabricated saint-origin myth for the spear) at the boarding house *The Hooded Pillow*. Bedmeister Noseman Under Eaves hired them both to "ride to the Tower, burn whatever feeds it." Othelmedir presented as a "specialist in dream-mancy," works by barter and oath, no coin. Weirmoth bragged "I never dream, myself." They agreed to ride at first light, two horses, two backs.
 
 ### Ending Text
 
-"You ask, master bedmeister, whether I take bed or bench. Let it be a bed, if any room remains, and let it be the highest room you keep, as I prefer the quiet of an upper floor."
-
-The bedmeister's thumb moved along the cord.
+> Noseman laid three coppers in front of Weirmoth. For an instant something other than sleeplessness moved in his face. He looked down again. "At first light. The horses, ready."
+>
+> Othelmedir lowered his head a finger's breadth. He crossed to the bench whose edge had been worn shiny by the shoulders of generations of sleepers, and sat.
 
 ## Speech Card: Othelmedir
 
@@ -48,19 +40,6 @@ The bedmeister's thumb moved along the cord.
 **Register:** Archaic
 **Sentence-length cap:** Minimum 15 words; no cap maximum
 **Signature construction:** Usually names the person he is addressing
-
-**Saturation cap** (constant): signature construction and positive mode each fire on no more than ~50% of the character's lines.
-
-**Default-banned:**
-- "What does it feel like" type questions
-- Fragment-as-style
-
-## Speech Card: The Bedmeister
-
-**Positive mode:** Prefers imperatives and questions, not declaratives
-**Register:** Formal-modern
-**Sentence-length cap:** 6 words maximum
-**Signature construction:** Ends lines on a noun
 
 **Saturation cap** (constant): signature construction and positive mode each fire on no more than ~50% of the character's lines.
 

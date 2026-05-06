@@ -15,7 +15,7 @@ python assets/sampling.py register_bans 1
 
 Use the rolled rules verbatim. If the user supplies additional bans, append them.
 
-Compose a markdown card with categorized bans.
+Compose a markdown card with categorized bans. if `PREDICTIVE` mode is specified by the user, add a section: **Scene-specific Bans:** with 2-4 bullets based on the scene.
 
 Do not add extra categories to your card.
 

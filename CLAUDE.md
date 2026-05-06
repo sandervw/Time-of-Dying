@@ -6,7 +6,9 @@ A fiction project for iterative composition with Claude AI.
 
 **After creating a new document**, ask the user if they want you to run text-trimmer or draft-editor.
 
-Never combine cd with output redirection in a single bash command - split into separate tool calls to avoid manual approval prompts in VS Code
+`/tod-context` is your most important skill; use it when creating fiction content
+
+"*subtext*" in an outline indicates material that should not be given directly in a scene - it should be hinted as obliquely as possible
 
 ## Naming Guidelines
 

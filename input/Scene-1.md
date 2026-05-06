@@ -1,6 +1,4 @@
-# Contumelious Ectogenesis: Scene 1 (working-context)
-
-## Full Scene
+# Dreamreel Scene 1 (claude's version)
 
 And the road into Sulky Wend ran low between hedges of dead bracken, and the wind off the road came in with Othelmedir when he stooped beneath the lintel of *The Hooded Pillow*, and stayed afterward in the wool of his cloak. The lintel was set too low for a man of his height; he stood tall as a redwood and thin as a reed, iron eyes set in a broad dark face, cropped curls and salt-and-pepper beard; and the door had been rehung on hinges fixed to the wrong jamb, as if the builder had worked from memory of a building he had only heard described. He noted the error without remarking upon it. He noted, too, the smell that met him within: stale millet, unwashed wool, the close ferment of bodies that had not bathed in a week of evenings. He drew the cloak closer at the throat and let the dead weight of his left arm settle against his ribs beneath the oxblood velvet, where no one need see it. He stood a moment in the doorway and looked. He had lived near Sulky Wend, once, though rarely come into the town.
 
