@@ -6,6 +6,17 @@ Work through each of the following tasks using the user's **story background**, 
 
 ## Tasks
 
+### 0. Scene Type
+
+Decide whether this is an **establishing scene** or a **continuation scene**:
+- **Establishing**: new location, new time-jump, new POV, or first appearance
+  of a major character. Setup may run a full 25-30% of wordcount.
+- **Continuation**: same location and time as the prior scene, no major new
+  characters, picking up mid-stride. Setup should run 5-15% of wordcount. Do not re-orient the
+  reader to a setting they were just in.
+
+State which type this scene is and proceed accordingly.
+
 ### 1. Scene Purpose
 
 Describe the purpose of this scene along two axes:
@@ -15,7 +26,9 @@ Describe the purpose of this scene along two axes:
 
 ### 2. Textures
 
-List **8–12 textures** — these are magnified sensory details, minute specifics, and concrete physical particulars that you will weave into the prose as you write.
+List **5-8 textures** for short scenes (under 700 words) or continuation scenes; **8-12 textures** for establishing scenes 700+ words.
+
+Do not list a texture if its sensory content has been depicted in prior scenes. **Textures are magnified sensory details, minute specifics, and concrete physical particulars that you will weave into the prose as you write.**
 
 These textures are your inventory. You will spend them across the setup, conflict, and resolution phases. Once used in prose, they get crossed off.
 

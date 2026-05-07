@@ -8,11 +8,12 @@ description: Audit a finished scene draft against the larger story outline. Prod
 Read ONLY these inputs:
 - The scene draft
 - The full story outline
+- The prior scene's prose (if provided — may be omitted for scene 1)
 
 Analyze on two fronts:
 
 1. **Story fit** — Does the scene serve the larger story? Flag any line, paragraph, or moment that breaks the original intention, contradicts established facts, or pulls focus from the scene's purpose in the arc. Pay close attention to the original scene's role in the larger context.
-2. **Internal quality** — Flag awkward phrasing, confusing passages, internal contradictions, or muddled cause-and-effect within the scene itself.
+2. **Internal quality** — Flag awkward phrasing, confusing passages, internal contradictions, or muddled cause-and-effect within the scene itself. If a prior scene was provided, also flag any sentence or paragraph that re-describes character appearances, setting features, or sensory details already rendered in that prior scene's prose.
 
 ## Output
 

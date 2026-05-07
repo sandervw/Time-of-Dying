@@ -12,11 +12,11 @@ Does the scene reflect the pre-scene work done in Step 1? Check the prose agains
 
 Review all guiding questions from the setup, conflict, and resolution phases. Count how many the scene currently answers "yes" to.
 
-- **75–90% is the target range.** This is the sweet spot — enough craft to feel intentional, enough gaps to feel unpredictable.
-- **Over 90%**: The scene is too tidy. Look for a question or two that could be *removed* by editing — strip out an element that makes the scene feel overly constructed. Introduce a rough edge.
-- **Below 75%**: The scene is undercooked. Look for questions you could answer by *adding* to the current prose — a line of dialogue, a shifted detail, a beat of action.
+- **60-80% is the target range.** Below 60% is undercooked; above 80% is over-engineered. Lean toward the lower end for short scenes (under 800 words) and continuation scenes, where the right answer is often "this question doesn't apply here."
+- **Above 80%**: Cut. Remove an element rather than add one. Continuation scenes especially should NOT try to re-answer questions already answered by the prior scene.
+- **Below 60%**: Add only if the missing question genuinely serves the scene; otherwise let the gap stand.
 
-**For the purposes of this revision, wordcount is no longer a constraint.** You may go over or under the target wordcount as needed to hit the 75–90% range. Quality of craft takes priority here.
+**For the purposes of this revision, wordcount is no longer a constraint.** You may go over or under the target wordcount as needed to hit the 60-80% range. Quality of craft takes priority here.
 
 ### 3. Make Edits
 
