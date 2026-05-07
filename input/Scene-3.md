@@ -1,4 +1,4 @@
-# Dreamreel Scene 3 (claude's version)
+# Dreamreel Scene 3 (rough draft)
 
 The bluff path went up out of Sulky Wend in switchbacks, slate breaking thinly under the horses' shoes, brittle grass laying flat where the slope tilted forward and the footing tried to give downhill against them. Othelmedir rode at the front. His oxblood cloak was darkened with the morning's wet, and his white prosthetic left arm hung knuckle-jointed in his lap, a thing of carved bone with iron pin-joints that took no oath from the reins.
 

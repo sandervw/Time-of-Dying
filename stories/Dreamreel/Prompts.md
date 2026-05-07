@@ -1,6 +1,10 @@
 ## Create Context
 
-Hey claude, read @stories\Dreamreel\Outline.md . From this full outline, and the prior scene file at @stories\Dreamreel\Scene-2.md I want you to extract *just* the context an LLM would need to write the full **Scene 3** of the story, without referencing any other documents. This should include all the text under the scene header, plus any *necessary* information from prior/future scenes. Your extracted text should be much shorter than the full outline: 20% the full outline size, maximum. Write your context to @stories\Dreamreel\WorkingContext.md , under the 'TODO' sections. Any questions?
+Hey claude, read @stories\Dreamreel\Outline.md . From this full outline, and the prior scene file at @stories\Dreamreel\Scene-2.md I want you to extract *just* the context an LLM would need to write the full **Scene 3** of the story, without referencing any other documents. This should include all the text under the scene header, plus any *necessary* information from prior/future scenes. Anything the LLM won't put in the current scene, or affect the writing of the current scene, is *unecessary*.
+- *Necessary* info example: a secret revealed in the previous scene, that affect character relationships in the current one
+- *Unnecessary* info example: character/location descriptive elements, already given, not needing to be restated
+- *Unnecessary* info example: a statement of belief from a prior scene, which doesn't affect the current scene
+Your extracted text should be much shorter than the full outline: 20% the full outline size, maximum. Write your context to @stories\Dreamreel\WorkingContext.md , under the 'TODO' sections. Any questions?
 
 ## Run Prose Producer
 
@@ -9,3 +13,19 @@ Hey claude, read @stories\Dreamreel\Outline.md . From this full outline, and the
 - Source Style Passages: @stories\Dreamreel\Source-Style.md
 - - Full Story Outline: @stories\Dreamreel\Outline.md
 Any questions?
+
+## Process Analysis/Refinement
+
+Study carefully first three in-order scenes in story (rough draft)
+
+Study carefully same scenes, after first edit
+
+Analyze the differences, both between the individual scenes, and across the story as a whole:
+- What was cut?
+- What was changed?
+- What was added?
+- Are there recurring/repeatable edits being made?
+- What edits are unique to each scene?
+- Are there overall 'themes' or 'types' of edits being made?
+
+Focus on the larger edits. Cuts of a few words here/there are less important than entire paragraph cuts, or entire lines of dialogue rewritten. Output your response in an organized structure, keeping it under 600 words.

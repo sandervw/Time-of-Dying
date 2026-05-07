@@ -1,4 +1,4 @@
-# Dreamreel Scene 2 (sander's version)
+# Dreamreel Scene 2 (revision)
 
 "How long's it lain on you?" Weirmoth spoke again as the bedmeister moved beads along the tally, resuming now some prior conversation he had been engaged in with the bedmeister before Othelmedir entered. Weirmoth laid a sliver of fat-soap on the counter beside his mug, where a small, sweating ring of grease had already begun to mark the wood; he turned a hand over, examined the pale crescent of a nail, and stared at the bedmeister with a face half-indifferent.
 
