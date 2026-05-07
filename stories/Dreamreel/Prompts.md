@@ -9,9 +9,11 @@ Your extracted text should be much shorter than the full outline: 20% the full o
 ## Run Prose Producer
 
 /prose-producer Hey claude, here are the full and only filed needed for the scene I want you to write:
-- Scene Outline: @stories\Dreamreel\WorkingContext.md
 - Source Style Passages: @stories\Dreamreel\Source-Style.md
-- - Full Story Outline: @stories\Dreamreel\Outline.md
+- Full Story Outline: @stories\Dreamreel\Outline.md
+- Prior Scene: @stories\Dreamreel\Scene-3.md
+- Scene Number: 4
+Note that the speech cards for some characters are already defined in the outline.
 Any questions?
 
 ## Process Analysis/Refinement

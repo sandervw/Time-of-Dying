@@ -10,6 +10,32 @@
 
 In the Road-village of *Sulky Wend*, near a sealed chrypt known as *The Tower of the Attercop*, residents live other lives at night, their dreams replaced by the death-visions of an old cabal. They call it 'The Dreamreel'. Othelmedir knows the cause because he built it. Years ago, under a different name, he fled *The Tower* when a rival mancer cabal breached the walls and his own circle released a necromantic gas to buy time, sealing everyone inside as dreaming undead. Now he hires a sellsword, Weirmoth, returns to destroy the cauldron producing the gas before the villagers' memories are entirely replaced by those of the dreaming dead. Problem: the gas preserved his old colleagues too, and they wake up as he enters.
 
+## Speech Card: Othelmedir
+
+**Positive mode:** Usually restates the other character's last line before replying
+**Register:** Archaic
+**Sentence-length cap:** Minimum 15 words; no cap maximum
+**Signature construction:** Usually names the person he is addressing
+
+**Saturation cap** (constant): signature construction and positive mode each fire on no more than ~50% of the character's lines.
+
+**Default-banned:**
+- "What does it feel like" type questions
+- Fragment-as-style
+
+## Speech Card: Weirmoth
+
+**Positive mode:** Speaks in declaratives about the past (his fabricated origin tales)
+**Register:** Thieves'-cant / criminal-slang
+**Sentence-length cap:** 25 words maximum
+**Signature construction:** Most lines refer to a body part
+
+**Saturation cap** (constant): signature construction and positive mode each fire on no more than ~50% of the character's lines.
+
+**Default-banned:**
+- "What does it feel like" type questions
+- Fragment-as-style
+
 ## Plot
 
 ### 1. Arrival in Sulky Wend
@@ -62,49 +88,43 @@ The two approach the Tower of the Attercop on its bluff. Weirmoth admits he slep
 ### 4. The Waking Halls
 **Wordcount:** 1,100
 
-Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. Weirmoth notes how Othelmedir seems to know every corridor. They encounter a "muscle-wall" a barrier of flesh woven over the passage to the lower sanctums of the tower; preventing the further release of the gas, and further progress.
-- Gas pools knee-deep in low corners, pale green, smelling of rosewater and spoiled meat
-- Every surface wears a velvet patina of spider silk; footsteps leave dark bruises behind
-- Mail rusted into the flesh of the invaders, still gripping the weapons; mouths work silently, reciting breach-orders "No quarter for the elder. No quarter for the elder. No quarter."
+Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. **Vicious, excrutiatingly-specific fighting** takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoth - describe specific maneuvers, movements, numbers of foes, how bodies are affected. Weirmoth notes how Othelmedir seems to know every corridor. They encounter a "muscle-wall" a barrier of flesh woven over the passage to the lower sanctums of the tower; preventing the further release of the gas, and further progress.
+- Gas pools knee-deep in low corners, pale green, smelling of spoiled meat
+- Every surface wears a velvet patina of spider silk; footsteps leave dark bruises
+- Dead, awakening invaders still gripping the weapons; mouths work silently, reciting specific, spoken-dialogue breach-orders.
 - A lectern where three common books sit open to the same page, spines cracked: 'On the Conduct of Sealed Houses', 'Compendium of Threshold Speech', and 'A Practitioner's Almanac'
-- A low sweet rot like overripe peaches, undercut by burnt hair and old wax candle
+- A low sweet rot
 - A preserved ledger nailed to a column, names beside duty-hours, most hours long past
 - One invader wears a cabalistic pendant (Hammered tin; sigil of a lidded cauldron with a single open eye on the lid; shape of a flat tear); Othelmedir pockets it
 - (Othelmedir) Internal line appraising which tissues on the corpses survived the gas best
-- (Othelmedir) Never reaches for a weapon when corpses lunge; Weirmoth does the killing
-- Othelmedir straightens a crooked wall sconce without lookin (an old habit from nightly rounds)
-- Weirmoth greets the first corpse-invader like a tavern acquaintance; the banter thins by the third
-- (Weirmoth) Competent in the fight; spear-work is clean and unflashy
-- (Weirmoth) Washes between kills with the fat-soap, unhurried even mid-combat
-- (Weirmoth) Lost in the chrypt arcana; defers to Othelmedir on every sigil and lock
-- The preserved canary in Weirmoth's pocket goes silent; he taps its cage, but it says nothing (a failed augury, though only he knows it)
+- (Othelmedir) Never reaches for a weapon; Weirmoth does the killing
+- Othelmedir straightens a crooked wall sconce without looking
+- (Weirmoth) Competent in the fight, spear-work is clean and unflashy; but lost in the chrypt arcana, naddefers to Othelmedir
+- Weirmoth taps his canary, but it says nothing
 - (lore) A rival mancer, Ostrobone the Rook, led the breach wearing a mask of hornet husks
 - (withheld for this scene) The name the cabal used for Othelmedir, and why these corpses murmur it
 
 ### 5. The Scriptorium
 **Wordcount:** 450
 
-They breach a library of rotted codices. Othelmedir retrieves a treatise on necromancy draughts he helped author decades ago. He does not say so.
-- Othelmedir explains the gas, the 'dreamreel'; explaining how it comes from the cauldron; it is stoppered, but certain of the elements seep outward, causing the death-memories of the townfolk
-- (Othelmedir) Loses minutes absorbed in a treatise; scholarly curiosity makes him careless
-- (Othelmedir) Retrieves an old draught-treatise he authored: 'Potions and Poisons of Eleven Reagents'; says nothing of authorship
+They breach a library of rotted codices. Othelmedir retrieves a treatise he helped author. He does not say so.
+- Othelmedir explains the gas and the cauldron: elements seep outward even though the cauldron is stoppered, producing the Dreamreel
+- (Othelmedir) Loses minutes absorbed in a treatise; retrieves 'Potions and Poisons of Eleven Reagents' without claiming authorship
 - (Othelmedir) Internal: these texts are worth more than the village, certainly more than Weirmoth
-- Three floors with an open central balcony-area overlooking a dead garden; several gravestones and plots where former cabal members were buried; the false sun globe above is dead and dim
-- Books are moldering, covered in a verdigris patina from the gas
+- Three floors with open central balcony overlooking a dead garden; gravestone plots for former cabal members (*`memorial` blob*); false sun globe dead and dim
+- Books moldering, covered in a verdigris patina from the gas
 
 ### 6. The Still-Room
 **Wordcount:** 700
 
-In the alchemy wing Weirmoth quickly cuts down the guardian dead-dreamer. They begin to brew a poison which can breach the flesh barrior. But Othelmedir only knows ten of the eleven reagents: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats, and the unknown Respiration from a Silver Dream. The final one must be retrieved from a dream-memory - and so Othelmedir has brewed a second potion to enter the dream-memory of the rising dead in these halls. Only one who is unhabituated to the strange energies of necromancy can drink it safely. Weirmoth qualifies.
+Weirmoth kills the guardian dead-dreamer. They begin brewing a poison to breach the muscle-wall. Othelmedir knows ten of eleven reagents: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats. The eleventh, Respiration from a Silver Dream, must be retrieved from a dream-memory. Othelmedir has brewed a second potion to enter that memory. Only one unhabituated to necromancy can drink it safely. Weirmoth qualifies.
 - Describe room layout
-- Various *new* alchemical ingredients; Othelmedir takes some of these, which makes Weirmoth suspecious
-- (Othelmedir) Pockets reagents like restocking a pantry, unbothered by Weirmoth's stare
+- Various *new* alchemical ingredients; Othelmedir takes some of these, which makes Weirmoth suspecious; Othelmedir unbothered by Weirmoth's stare
 - Necromantic diagrams and charts on the walls
 - Weirmoth begins to distrust Othelmedir, but Othelmedir uses deception to get him to drink the potion
   - The Generic-Witness lie. He claims the potion shows only the first death the gas preserved, an anonymous invader's; and that any practitioner who drinks it would burn to ash, since habituated nerves cannot bear the witnessing. The second half is true. He omits that the dream Weirmoth is about to inherit is his own.
-- (Othelmedir) Frames the potion-drinking as a fair exchange; his terms sound fair when set from advantage
-- (Othelmedir) Speaks in precise, formal cadence throughout
-- (Weirmoth) Drops the patter for one quiet line before drinking; the picaro mask slips, hidden warmth shows
+- (Othelmedir) Frames the potion as a fair exchange; speaks in precise, formal cadence
+- (Weirmoth) Drops the patter for one quiet line before drinking; the picaro mask slips
 
 ### 7. The Dreamer and the Watcher
 **Wordcount:** 950
@@ -113,14 +133,13 @@ Weirmoth drinks and goes under. Othelmedir stands over the sleeping body, listen
 - (Internal monologue - othelmedir's memory) Weirmoth relives the original attack through the eyes of Othelmedir; the mancer cabals and their necromancies in brutal combat
 - (Internal monologue - othelmedir's memory) Othelmedir's former colleages instruct him to release the gas
 - (Internal monologue - othelmedir's memory) Othelmedir pulls the release lever, dooming the original occupants to endless sleep
-- (Othelmedir) Internal monologue in archaic, formal, self-mythologizing register
-- (Othelmedir) Cerebral, measured, no grief; treats the original act as cowardice, not crime
+- (Othelmedir) Internal monologue in archaic, formal, self-mythologizing register; treats the original act as cowardice, not crime
 - While Weirmoth is dreaming Othelmedir brews up another potion (foreshadow resolution)
 
 ### 8. The Descent to the Cauldron
 **Wordcount:** 1,150
 
-Othelmedir has already brewed the potion and destroyed the muscle-wall by the time Weirmoth awakens. They descend toward the cauldron still spewing its slow gas; fighting through several members of both cabals. The identification of Othelmedir and the old name he wore is made clear. Vicious, excrutiatingly-specific fighting takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoth. The scene ends with the two arriving the Cauldren Chamber.
+Othelmedir has already brewed the potion and destroyed the muscle-wall by the time Weirmoth awakens. They descend toward the cauldron still spewing its slow gas; fighting through several members of both cabals. The identification of Othelmedir and the old name he wore is made clear. **Vicious, excrutiatingly-specific fighting** takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoth - describe specific maneuvers, movements, numbers of foes, how bodies are affected. The scene ends with the two arriving the Cauldren Chamber.
 - Dining hall description; the food rotten and dessicate, the chairs overturned, the candles burnt to numbs
 - They pass by a ritual circle, where formerly the rituals of necromancy were performed by the tower cabal
 - Two named, now-undead former comrades - Fellow Sourbell and Fellow Alder the Lank - reveal Othelmedir's betrayal and identity: 'Fellow Liddick'; Weirmoth helps slay them

@@ -1,25 +1,19 @@
-## Source Style Paragraphs
+“The Land None Knows Where,” said Turjan to himself. “Have I been brought high, low, into a pre-existence or into the after-world?” He looked toward the horizon and thought to see a black curtain raising high into the murk, and this curtain encircled the land in all directions.
 
-Night was closing over the mountains on great raven's wings. Shadow lay deep beneath the blue-grey pines and frost-fired hardwoods which shouldered over the narrow trail. Darkness hungrily swallowed the valleys and hollows that spread out below them--pools of gloom from which waves of mist rose to storm the wooded slopes and poor over the limestone ridges.
+The sound of galloping hooves approached; he turned to find a black horse lunging break-neck along the bank of the pool. The rider was a young woman with black hair streaming wildly. She wore loose white breeches to the knee and a yellow cape flapping in the wind. One hand clutched the reins, the other flourished a sword.
 
-A battered, gut-weary handful of hunted men--ruthless, half-wild outlaws hounded by killers as remorseless as themselves. Shivering in their dirt and blood-caked bandages, they rode on in grim determination, thoughts numb to pain and fear--although both phantoms rode beside them--intent on nothing more than the deadly necessity of flight. Flight from the hired bounty killers who followed almost on the sound of their hoofbeats.
+Turjan warily stepped aside, for her mouth was tight and white as if in anger, and her eyes glowed with a peculiar frenzy. The woman hauled back on the reins, wheeled her horse: high around, around Turjan, and struck out at him with her sword.
 
-They were well mounted; their gear was chosen from the plunder of uncounted raids. But now their horses stumbled with fatigue, their gear was worn and travel-stained, their weapons notched and dulled from hard fighting. They were the last. The last on this side of Hell of those who had ridden behind Kane, as feared and daring an outlaw pack as had ever roamed the Myceum Mountains.
+Turjan jumped back and whipped free his own blade. When she lunged at him again, he fended off the blow and leaning forward, touched the point to her arm. and brought a drop of blood. She drew back startled; then up from her saddle she snatched a bow and flicked an arrow to the string. Turjan sprang forward, dodging the wild sweep of her sword, seized her around the waist, and dragged her to the ground.
 
-No more would they set upon travellers along the lonely mountain passes, pillage merchants' camps, terrorize isolated settlements. Never again would they sweep down from the dark-pined slopes and lay waste to villages of the coastal plains, then dart back into the secret fastness of the mountains where the Combine's cavalry dared not venture. Their comrades were dead, fed ravens in a forgotten valley countless twisted miles behind their bent shoulders. Their leader, whose infamous cunning and deadly sword at last had failed them, was dying in his saddle.
+She fought with a crazy violence. He had no wish to kill her, and so struggled in a manner not entirely dignified. Finally he held her helpless, her arms pinioned behind her back.
 
-They were all dead men.
+“Quiet, vixen!” said Turjan, “lest I lose patience and stun you!”
 
-And night was upon them.
+“Do as you please,” the girl gasped. “Life and death are brothers.”
 
+“Why do you seek to harm me?” demanded Turjan. “I have given you no offense.”
 
+“You are evil, like all existence.” Emotion ground the delicate fibers of her throat. “If power were mine, I would crush the universe to bloody gravel, and stamp it into the ultimate muck.”
 
-"Thoem! It's dark as the inside of a tomb!" cursed Weed, trying to follow the shadow-hidden trail. He glanced uneasily at the blood-hued disk rising above the ridges of autumn. The moon cast no light this night.
-
-"We're almost there," Darros promised him from the darkness ahead.
-
-Moments later the trail rose over a gap, and he called back, "There it is! And there's lights! The inn hasn't been deserted, after all."
-
-Not quite, Weed observed. Even in the thick gloom, he could see that Raven's Eyrie lay half in ruins. The grey stone and black timber structure crouched on the edge of the deep valley below them, rising from a bluff overlooking the River Cotras. By the dim-eyed rows of windows, Weed noted that the main building of the sprawling caravanserai stood at least three storeys. The outlying wings of the inn appeared no more than fire-gutted walls. River mist hung over the blackened walls of Raven's Eyrie, and in the darkness below the limestone bluff, the Cotras thundered its unseen rush to the western coast.
-
-Cautiously they urged their exhausted mounts down the twisting path that descended the ridge from the gap. The last grey ghost of twilight died away as they emerged from the pine-buried slope and reached the river road. Though wider than the path they had been following, the river road showed signs of neglect. New saplings speared through its hoof-beaten surface, and older trees reached out from the looming forest on either side. Men and horses had ridden by, and smaller hoofprints marked the passage of an occasional drover, but wagon ruts were few, and these old and eroded. Weed reflected that the depredations of Kane and his men probably explained the near abandonment of this once heavily travelled trace.
+‘Turjan in surprise relaxed his grip, and she nearly broke loose. But he caught her again.
