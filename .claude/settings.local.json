@@ -20,7 +20,8 @@
       "Read(//c/Users/Sander/.claude/memory/**)",
       "Read(//c/Users/Sander/.claude/**)",
       "Bash(powershell *)",
-      "PowerShell(\\(Get-Content *))"
+      "PowerShell(Get-Content:*)",
+      "PowerShell(Measure-Object:*)"
     ],
     "deny": [],
     "ask": []
