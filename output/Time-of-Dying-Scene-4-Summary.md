@@ -1,36 +1,32 @@
-# Time of Dying: Scene 4 - Post-Scene Summary
+# Time-of-Dying: Scene 4 - Post-Scene Summary
 
 ## Scene Summary
 
-Othelmedir and Weirmoth pass into the outer halls of the Tower of the Attercop. The chambers are pelted in spider-silk patina; the necromantic gas pools knee-deep. Three preserved Milkmoot rouse and silently mouth breach-orders; Weirmoth dispatches two with clean spear-work, Othelmedir kills the third bare-handed and pockets a Milkmoot house-pendant (a tin tear with a lidded-cauldron-and-eye sigil). He names Ostrobone the Rook to Weirmoth as the breach-leader. Past a lectern of three open books and a duty-ledger from twenty-some years gone, the corridor ends in a woven wall of living muscle barring the passage to the lower sanctums. Weirmoth, increasingly suspicious of his employer's familiarity with the place, taps his preserved canary for a sign and gets none. Othelmedir lays his palm to the muscle-wall, reads it, and says they will not cut through.
+Othelmedir and Weirmoth cross the chrypt threshold into knee-deep green gas and cobwebbed silence. Reanimated invaders rise mouthing silent breach-orders; one shapes a name-sound Othelmedir registers without slowing. Weirmoth dispatches them with clean, methodical spear-work in the colonnaded gallery. Othelmedir reads books and ledgers without lifting them, straightens a crooked sconce by hip-memory, pockets a tin pendant (lidded cauldron, single open eye, flat-tear), and notes a hornet-husk talisman on the corpse's belt that he leaves untouched. Weirmoth's canary stays mute. Descending a turning stair, they reach a corridor that ends in a breathing muscle-wall woven from floor to lintel, dammed gas seeping at its base. Weirmoth halts; Othelmedir studies the seam without answering.
 
 ## Ending Text
 
-...Othelmedir went up to the wall and laid his good palm flat to it. He kept his palm there a long count, reading what the cords were doing under his skin, and took his hand away, and looked at his hand.
-
-"Weirmoth," he said. "We will not be cutting through this barrier with steel nor with fire."
+..."My spear has opinions about this, friend, but it would like instructions before it gives them." Othelmedir studied the seam where the flesh joined stone, where the weave knotted itself into the lintel, and he did not yet answer.
 
 ## Questions Posed
 
-- How will they pass the muscle-wall, since steel will not cut it?
-- What was the bent man's mouth shaping at Othelmedir, four times, and why him alone?
-- How long until Weirmoth speaks his suspicion plainly, and what does the silent canary mean to him?
-- Who or what is on the other side of the woven flesh, kept in or kept out?
+- How does one cross or unmake the muscle-wall, and what does it guard?
+- Whose name did the corpse mouth, and what does Othelmedir owe it?
+- How long can Othelmedir keep his familiarity hidden from Weirmoth?
+- Will Mister Ribbon's silence break, and at what cost?
 
 ## Characters Introduced or Referenced
 
-**Othelmedir:** Tall, dark, iron-eyed; oxblood cloak; marble-white prosthetic arm hanging dead at his side. Composed and architecturally familiar with the tower; carries no weapon. Speaks long-formed archaic sentences; clinical observer of preserved tissue; pockets a Milkmoot pendant without comment.
+**Othelmedir:** Tall, dark-faced, iron-eyed, oxblood cloak, white prosthetic left arm hanging lifeless. Walks unfamiliar halls by hip-memory; never reaches for a weapon. Reads corpses clinically; pockets relics; recognizes the hornet-husk and the unspoken name behind it but shows nothing.
 
-**Weirmoth:** Compact, sideburned; cloak of patched funeral shrouds, seams reversed. Spear-work clean and unflashy; competent killer; lost in cabal arcana. Speaks in thieves'-cant, slips fabricated origin tales (his "old da"). Begins this scene marking how well his employer knows the corridors.
+**Weirmoth:** Wiry, mid-thirties, sideburns, shroud-patched cloak, signature spear ("Mister Spear"), wax-yellow canary "Mister Ribbon" silent at his collar. Spear-work is plain and unflashy. Thieves'-cant in the mouth; speaks of past in fabricated declaratives. Watches Othelmedir's ease and quietly takes notes.
 
-**Ostrobone the Rook (referenced only):** Leader of the Milkmoot breach. Wore a mask of hornet husks. His lieutenants wore tin pendants of a lidded cauldron with a single open eye on the lid. Not present in the scene; named in dialogue.
-
-**Mister Ribbon (referenced):** Weirmoth's preserved canary, old-wax colour, one glass-bead eye, the other socket empty. Tapped twice for a sign; answered nothing.
+**Ostrobone the Rook (referenced only):** Rival mancer who led the original breach wearing a mask of hornet husks. Recognized obliquely via a hornet-husk threaded on a dead invader's belt; named in Othelmedir's interior only as "the rook."
 
 ## Reflection
 
-**What worked:** Silent mouth-orders against precise spear-work delivered the image-sound counterpoint cleanly. Pendant transfer, ledger glance, and sconce-straightening built Weirmoth's suspicion in physical gestures.
+**What worked:** The parallel-thread shape - Weirmoth's clean killing braided against Othelmedir's tenant-walk. Concrete tissue-cure detail. The sconce-straightening and the hornet-husk landed without exposition.
 
-**What was cut in review:** A second simile in setup; Othelmedir's two short utterances (lengthened to meet the 15-word floor); excessive Weirmoth-naming; a noun-phrase fragment in Weirmoth's hornet-husk reply.
+**What was cut in review:** A philosophical narrator aside on craft (blacklist). Two fragments-as-style in Weirmoth's dialogue. A short Othelmedir line under the 15-word floor.
 
-**What's missing:** A clearer hint that the bent corpse's silent words were a name; reserved for later reveal.
+**What's missing:** The muscle-wall has no clock or cost yet attached - resolution thread for Scene 5. Ostrobone's name still sits inside Othelmedir, unused on the page.

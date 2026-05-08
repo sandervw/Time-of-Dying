@@ -1,57 +1,43 @@
-# Time of Dying: Scene 4
+# Time-of-Dying: Scene 4
 
-As the fume thinned Othelmedir stepped down first. Weirmoth came after, spear held low. The first chamber opened in a vault of soft greys, walls and ceiling and floor pelted in a patina of spider-silk gone to velvet. Weirmoth's boot came down on one patch, leaving in the netted carpet a dark bruise. Ahead the floor dipped, and the gas had pooled knee-deep there, green, smelling of meat stood through a summer.
+The chrypt door stood open behind them and breathed out a cold that put rot at the back of the throat. Othelmedir crossed the threshold first and the gas parted at his shins, pale green, knee-deep where the antechamber dipped, smelling of meat gone sweet. Weirmoth followed, spear angled low.
 
-"Walk only where I walk, mercenary," warned Othelmedir.
+"Mister Spear and I have waded worse," Weirmoth muttered, "though never cold to the kneecap. Smells like a butcher's washwater, this stuff."
 
-The corridor narrowed past the third lintel. Beneath the patina of the webbing, the stone was wet. A sconce had hung crooked since some old quake. Othelmedir lifted it level without slowing or looking as they passed.
+Othelmedir said nothing in return. He moved through the foyer without lifting his lamp, his hip carrying him by some old measure of the slope it remembered without permission. Cobwebs upholstered the walls in a velvet patina that swallowed the light, and where the sellsword's boots came down the silk darkened in dark bruises that stayed bruised after the foot had passed.
 
-Past the sconce a Red Pew dreamer rose from a niche, the long gown black at the hem. The mouth started on Othelmedir alone, fast, the same six syllables and again. The hands pushed off the wall. Weirmoth went past Othelmedir's shoulder, took the spear-butt under the chin and drove up through the soft palate. The mouth shaped the syllables one more time at nothing, and stopped. The body sat down in the gas knees-out and bowed.
+The first invader rose out of the gas in the gallery beyond. He had been a tall man, and the gas had kept his face the colour of old tallow, with cured tissue clinging to good bone. He still gripped a hooked falchion, and his mouth was working without sound. The lips shaped consonants Weirmoth could half-recognize from some seminary corner he had walked out of years before, breach-orders in a tongue that never quite reached the air. The same lips, between orders, shaped a shorter sound twice, a name-sound, and Othelmedir read the shape of it on the way past and did not slow his step.
 
-They came into a guard-room. Three Milkmoot stood as they had stood when the gas had taken them, mid-stride at the inner door: one with his cudgel raised, one with a short axe two-handed at the hip, the third bent at the knees and the back, hands cupped, holding nothing. As Othelmedir crossed the threshold their heads turned, and their mouths began to work.
+Weirmoth stepped left and drove the spear point under the ribs and pulled it sideways, opening him from sternum to flank. The body did not bleed at all. It exhaled a green sigh and folded down at the knees.
 
-No sound came out. The lips shaped words distinctly. *Hold the upper landing. Take no prisoner from the eastern door. Bind the chrypt-master's hand and foot.* The cudgel-man's tongue showed black between his teeth.
+"Old meat keeps better than fresh," Weirmoth said to no one in particular, "though my elbow disagrees with the angle."
 
-The cudgel-man came first. Weirmoth pivoted off the rear foot and put the spear through the eye-socket, drove it through to the back-wall of the skull and twisted the haft. The body did not fall. He set his sole to the chest and drew the spear free with a wet pop and a tendon coming with it. The body fell then. The axe-man swung as it came down. Weirmoth ducked the swing, took the haft on his shoulder going up and not on his neck going across, slid the spear under the ribs at the soft place, and lifted. He held the man clear of the green a count, the legs kicking. He set him down on the cudgel-man and pulled the spear out.
+Othelmedir watched the body settle without comment. He noted, in private, that the diaphragm tissue had cured well while the abdominal lining had gone to a soft, soaped pulp, and the asymmetry was useful to know. He stepped past the corpse and into the gallery proper.
 
-The third had not moved. Its mouth was working still at Othelmedir, and not at Weirmoth.
+Two more came along the colonnade, then three after them. Old invaders all of them, in studded jerkins gone the colour of pondwater, weapons still in fist as if the seal had taken them mid-sentence. Their mouths worked in unison, syllables silent against the stone, and Weirmoth set Mister Spear in second guard and went to work.
 
-Othelmedir watched the lips. The mouth said something four times, the same shape. Othelmedir did not move. Weirmoth waited a count, then stepped past him and took the bent man under the jaw with his off hand and put the spear-point in through the soft of the throat, lifted, and let the body fold into the green. Othelmedir bent then over the cheek the gas had kept under the bone, and the white left clean round the eye, and made his appraisal without speaking it.
+Spear-work in the gallery was ugly and clean. He took the first at the throat, pivoted on the rear foot, and let the long iron drop the second through the eye-socket. The third had a cleaver, and he gave it the spear-butt across the temple and then the point through the mouth on the recovery. The fourth almost reached him. The fifth had a poleaxe, and Weirmoth used the colonnade for it. He stepped behind a pillar, let the haft pass, and reached around the stone to put the spear through the back of the knee, then the back of the neck on the way down. Each body went to the floor and kept working its mouth where it lay.
 
-He drew, from the bent man's chest, a pendant on a thong. It was hammered tin, the shape of a flat tear. On its face a lidded cauldron stood with a single open eye on the lid, the eye scratched in by a careful tool. He put it inside the breast of his cloak.
+Othelmedir, in the same minute, walked the gallery as if he were a tenant returning from a long journey. He passed the lectern at its centre without looking down at first, then turned back and read what was open: 'On the Conduct of Sealed Houses,' 'Compendium of Threshold Speech,' 'A Practitioner's Almanac,' all three cracked to the same page. He did not lift them off the wood. He passed a column and set his thumb against the parchment of a ledger nailed there, names listed beside duty-hours, every hour decades expired. He read three of the names and moved on.
 
-"That a saint of theirs?" Weirmoth said.
+"There is rotwork in their cured tongue I have not heard since the year of the long sealing," Othelmedir said, more to the corridor than to the sellsword.
 
-"Theirs, yes," Othelmedir said. "Not a saint of theirs but a house-mark, struck for the men of Milkmoot to wear at the breach, and to know one another by in the dark. Ostrobone the Rook led them in a mask of hornet husks; his lieutenants wore these about the throat."
+Weirmoth wiped the spear on a sleeve that had been a tabard. "These ones knew where they were going, every one of them, friend. The toe of the boot is worn even, and the knees of the breeches have gone shiny with kneeling."
 
-"There's a man with no nose left, I'd wager."
+He tapped his canary at his collar with one finger. The bird gave back nothing at all. "Mister Ribbon is shy today."
 
-Past the inner door two Milkmoot lay across two Red Pew, knit together where they had gone down: a hand in a throat, an axe-shaft sunk to the haft in a hip and the hip not letting it go. As Othelmedir crossed them the eyes opened in all four. The robed one nearest the wall came up first; Weirmoth took its head off at the joint with one stroke. The Milkmoot under it rose on the elbow it still had; Weirmoth drove the spear-point through the temple and stood on the haft till the wet was out. The other two had not got their hands free of each other. He left them so.
+"Mister Ribbon is shy today," Othelmedir said, "and so the silence in your collar is one I will trust, sellsword, though you yourself should not."
 
-"Pew and Milkmoot in the same heap," Weirmoth said. "They were still about it when the gas took them."
+He had stopped before a wall sconce that hung half a finger off true, and as he passed he reached and set it straight, and did not look at it as he did. He bent over the nearest body. From the cured throat he lifted a hammered-tin pendant on a thong: a lidded cauldron with a single open eye worked into the lid, the whole thing in the shape of a flat tear. The pendant went into his cloak. At the dead man's belt a hornet-husk had been threaded on the same thong as a knife, the paper-shell head of it dry and intact and still wearing the brown stripe along the carapace. Othelmedir let the husk hang where it was. He knew the rook whose retinue had carried such tokens, and the name went through him plain as a struck bell, and it stayed unspoken behind his teeth.
 
-"They were," Othelmedir said. "And will be about it again, by and by."
+Weirmoth watched the pendant disappear and did not remark upon it. "You walk these halls easier than I walk my own street, friend. I am taking notes."
 
-Past the guard-room a lectern stood at a pillar, three common books open at the same page, spines cracked back: *On the Conduct of Sealed Houses,* *Compendium of Threshold Speech,* *A Practitioner's Almanac.* Othelmedir glanced at the page-numbers and went past. Weirmoth slowed.
+"Our descent has more stair under it than either of us will thank the masons for," Othelmedir said, "so follow on, sellsword, and keep that spear lifted at the guard as you come."
 
-"You been here before, scholar," he said, low.
+He led on without lifting the lamp, down a stair that turned twice, and the gas flowed with them in a slow green slide along the lower tread. The corridor at the bottom narrowed and ended at no door.
 
-"You ask me a thing in the manner of a man telling it."
+Weirmoth saw what was there and stopped where he stood. The wall in front of them was not a wall at all. It was, instead, a wall of meat. A muscle-wall: fibres long and braided, woven across the passage from floor to lintel, the strands thick as a man's wrist and red-brown, glistening where the cobweb-light caught a tendon. The thing breathed in slow rhythm. Each fibre tensed and slacked in a common pulse and the seam where it met the stone was bedded in living gristle. From beneath the weave the gas seeped only in a thin trickle, dammed.
 
-"My old da used to say a man knows a room two ways. Walks in, looks up. Walks in, looks where the bell-rope used to be. You been looking for the bell-rope."
+"Mister Ribbon," Weirmoth said quietly to his shoulder, "this is not a door my mother taught me about." He looked sideways at Othelmedir. "My spear has opinions about this, friend, but it would like instructions before it gives them."
 
-"I have read the floor-plans of this house in the closets of three libraries, and the route from door to lower stair is set down in each."
-
-Weirmoth tapped his thumb against the pocket where Mister Ribbon lay. The canary said nothing back to him. He tapped again, twice, and nothing answered.
-
-They came past a column where a ledger had been nailed at chest-height with three iron nails, the parchment turned to a kind of bark. Names ran down the left, hours down the right. The hours were all noon-and-after of a day twenty-some years gone. Othelmedir read the names without slowing.
-
-The corridor bent. The corridor ended.
-
-What had been the passage to the lower sanctums was no longer a passage. From jamb to jamb and floor to lintel a wall of meat had been woven across it, plait over plait, a coarse braid of muscle-fibre still wet, the strands drawing and slackening. Where two cords crossed, a knuckle of fat had been tucked. Down the centre seam a row of thumbnail-shaped flat teeth had been set in, biting nothing.
-
-Weirmoth stopped two paces back and put his sleeve against his mouth.
-
-Othelmedir went up to the wall and laid his good palm flat to it. He kept it there a long count, reading the cords under his skin, and took his hand away.
-
-"Weirmoth," he said. "No steel will cut this and no fire will burn it. The men who set it built it to be patient. Put your spear by."
+Othelmedir studied the seam where the flesh joined stone, where the weave knotted itself into the lintel, and he did not yet answer.
