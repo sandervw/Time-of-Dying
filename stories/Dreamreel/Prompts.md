@@ -1,3 +1,7 @@
+## Scratch Prompt
+
+Hey claude, read @output\Time-of-Dying-Scene-4.md and @output\working-context-Scene-4.md . Look particularly at the paragraph starting at, "The cudgel-man came first. Weirmoth pivoted..." This scene is supposed to be a long, extended action sequence (per the scene context outline), but that paragraph is the only action in the whole scene. Can you extend the action throughout the first half of this scene, while cutting out some unnecessary exposition, restatements, and similes/metaphors to make room? When I say action, I mean this: **Vicious, excrutiatingly-specific fighting** takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoth - describe specific maneuvers, movements, numbers of foes, how bodies are affected.
+
 ## Create Context
 
 Hey claude, read @stories\Dreamreel\Outline.md . From this full outline, and the prior scene file at @stories\Dreamreel\Scene-2.md I want you to extract *just* the context an LLM would need to write the full **Scene 3** of the story, without referencing any other documents. This should include all the text under the scene header, plus any *necessary* information from prior/future scenes. Anything the LLM won't put in the current scene, or affect the writing of the current scene, is *unecessary*.
@@ -13,7 +17,7 @@ Your extracted text should be much shorter than the full outline: 20% the full o
 - Full Story Outline: @stories\Dreamreel\Outline.md
 - Prior Scene: @stories\Dreamreel\Scene-3.md
 - Scene Number: 4
-Note that the speech cards for some characters are already defined in the outline.
+**Note** - some cards are already defined in @output/ . Can you pass those to the second agent, so that it uses those cards for those characters?
 Any questions?
 
 ## Process Analysis/Refinement
