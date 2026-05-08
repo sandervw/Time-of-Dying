@@ -20,7 +20,7 @@
       "Read(//c/Users/Sander/.claude/memory/**)",
       "Read(//c/Users/Sander/.claude/**)",
       "Bash(powershell *)",
-      "PowerShell(\\(Get-Content 'C:\\\\Users\\\\Sander\\\\OneDrive\\\\Documents\\\\Github\\\\Notes\\\\Time-of-Dying\\\\Output\\\\Apoptosis-outline.md' | Measure-Object -Word\\).Words)"
+      "PowerShell(\\(Get-Content *))"
     ],
     "deny": [],
     "ask": []
