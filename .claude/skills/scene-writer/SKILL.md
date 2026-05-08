@@ -5,7 +5,7 @@ description: Write a complete prose scene from a story background and scene outl
 
 # Scene Writer
 
-Write a complete prose scene by developing it through structured narrative phases.
+Write a complete prose scene by developing it through structured narrative phases
 
 ## Inputs
 
@@ -64,45 +64,24 @@ Read `references/resolution.md`.
 
 Follow the reference file's instructions to write the resolution phase of the scene, drawing from the remaining details in your working document.
 
-### Step 8: Append Resolution & Begin Post-Scene Section
+### Step 8: Append Resolution
 
-Append the prose you wrote in Step 7 to your `working-doc.md` file.
+Append the prose you wrote in Step 7 to your `working-doc.md` file. **Remove any remaining textural details** from the working document's inventory. The inventory should now be empty.
 
-In the working document's **Post-Scene** section, fill in the **Questions Posed** subsection — the unresolved threads or tensions that carry forward into future scenes. The remaining Post-Scene subsections (Scene Summary, Characters, Reflection) will be filled in during later steps.
-
-**Remove any remaining textural details** from the working document's inventory. The inventory should now be empty.
-
-### Step 9: Review
-
-Read `references/review.md`.
-
-Follow the reference file's instructions to review and revise the full scene prose in your working document. This is a revision pass — tighten, adjust, and polish. Also fill in the **Reflection** subsection of the Post-Scene section.
-
-### Step 10: Write to Scene Template
+### Step 9: Write to Scene Template
 
 Copy the `assets/scene-template.md` template to a new file named `[Storyname]-Scene-[X].md` (where `[Storyname]` is derived from the story background and `[X]` is the scene number, provided by the user or inferred).
 
-Write your reviewed scene prose into the **Full Scene** section. Combine the setup, conflict, and resolution into continuous text — **remove the phase subheaders** (Setup / Conflict / Resolution) so the prose reads as a single unbroken scene.
+Write the scene prose into the **Full Scene** section. Combine the setup, conflict, and resolution into continuous text — **remove the phase subheaders** (Setup / Conflict / Resolution) so the prose reads as a single unbroken scene.
 
-### Step 11: Post-Scene
-
-Read `references/post-scene.md`.
-
-Follow the reference file's instructions to generate post-scene material — filling in the **Scene Summary**, **Ending Text**, and **Characters Introduced or Referenced** subsections.
-
-### Step 12: Write Post-Scene Summary
-
-Copy the `assets/post-scene-summary.md` template to a new file named `[Storyname]-Scene-[X]-Summary.md`.
-
-Write the full post-scene material (Scene Summary, Ending Text, Questions Posed, Characters, and Reflection) into this file.
-
-### Step 13: Clean Up & Present
+### Step 10: Clean Up & Present
 
 Delete the working document created in Step 2.
 
-Present both finished files to the user:
+Present the finished scene file to the user:
 - `[Storyname]-Scene-[X].md` — the scene prose
-- `[Storyname]-Scene-[X]-Summary.md` — the post-scene summary
+
+Suggest running `scene-review` next if the user wants to revise the scene and produce a post-scene summary.
 
 ## File Structure
 
@@ -113,11 +92,8 @@ scene-writer/
 │   ├── pre-setup.md
 │   ├── setup.md
 │   ├── conflict.md
-│   ├── resolution.md
-│   ├── review.md
-│   └── post-scene.md
+│   └── resolution.md
 └── assets/
     ├── working-doc.md
-    ├── scene-template.md
-    └── post-scene-summary.md
+    └── scene-template.md
 ```

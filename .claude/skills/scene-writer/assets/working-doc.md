@@ -53,35 +53,3 @@
 ### Resolution
 
 [Append resolution prose here after Step 7]
-
----
-
-## Post-Scene
-
-### Scene Summary (created during Step 11)
-
-[Text - *150 WORD TOTAL, MAXIMUM*]
-
-### Ending Text (created during Step 11)
-
-[The concluding paragraph/sentences of the scene - use ellipses if necessary - *50 WORD TOTAL, MAXIMUM*]
-
-### Questions Posed (created during Step 8)
-
-[*50 WORDS TOTAL, MAXIMUM* for questions]
-- [Unresolved thread or tension that carries forward]
-- [...]
-
-### Characters Introduced or Referenced (created during Step 11)
-
-**[Character Name]:** [Physical/Personality Description - *50 WORDS PER CHARACTER, MAXIMUM*]
-
-### Reflection (created during Step 9)
-
-[*50 WORDS TOTAL, MAXIMUM* for reflection]
-
-**What worked:** [Text]
-
-**What was cut in review:** [Text]
-
-**What's missing:** [Text]

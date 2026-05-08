@@ -1,12 +1,10 @@
 # Time of Dying: Scene 4
 
-The fume thinned. Othelmedir went down first.
+As the fume thinned Othelmedir stepped down first. Weirmoth came after, spear held low. The first chamber opened in a vault of soft greys, walls and ceiling and floor pelted in a patina of spider-silk gone to velvet. Weirmoth's boot came down on one patch, leaving in the netted carpet a dark bruise. Ahead the floor dipped, and the gas had pooled knee-deep there, green, smelling of meat stood through a summer.
 
-He stepped through the parted seam without putting a hand to the jamb, his prosthetic dead at his side. Weirmoth came after, spear low, the iron tip wet with the door's weep. The first chamber opened in a vault of soft greys, walls and ceiling pelted in a patina of spider-silk gone to velvet. Weirmoth's boot came down on it; the print stayed dark behind him. Ahead the floor dipped and the gas had pooled knee-deep there, green, smelling of meat stood through a summer.
+"Walk only where I walk, mercenary," warned Othelmedir.
 
-"Walk only where I walk, mercenary, and let the low ground alone where you can," Othelmedir said. He walked down into it.
-
-The corridor narrowed past the third lintel. The patina under their boots gave a soft give, and beneath it the stone was wet. A sconce had hung crooked since some old quake. Othelmedir set the heel of his good hand to it and lifted it level without slowing or looking, and went on.
+The corridor narrowed past the third lintel. Beneath the patina of the webbing, the stone was wet. A sconce had hung crooked since some old quake. Othelmedir lifted it level without slowing or looking as they passed.
 
 Past the sconce a Red Pew dreamer rose from a niche, the long gown black at the hem. The mouth started on Othelmedir alone, fast, the same six syllables and again. The hands pushed off the wall. Weirmoth went past Othelmedir's shoulder, took the spear-butt under the chin and drove up through the soft palate. The mouth shaped the syllables one more time at nothing, and stopped. The body sat down in the gas knees-out and bowed.
 
