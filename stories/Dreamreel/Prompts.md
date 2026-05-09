@@ -12,6 +12,7 @@ Summarize your changes across the scene when finished.
 - Prior Scene: @stories\Dreamreel\Scene-3.md
 - Scene Number: 4
 **Note** - some cards are already defined in @output/ . Can you pass those to the second agent, so that it uses those cards for those characters?
+Also, I'd like to run this in **interactive** mode.
 Any questions?
 
 ## Process Analysis/Refinement

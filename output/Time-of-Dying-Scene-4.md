@@ -1,0 +1,41 @@
+# Time of Dying: Scene 4
+
+Othelmedir crossed the threshold first, and the gas closed around his shins, and his boots found the stair beneath. The taste of it came at once into the back of his throat, spoiled meat and old water, a thing the tongue tried to be rid of and could not. He did not slow.
+
+Weirmoth came after, spear levelled, the butt thumping the stone. "After you, my prince, after the prince," he said. "I'll be the man at your heel and the heel under the man, what does it matter."
+
+The antechamber was hung in grey. Every wall, every lintel, every bracket and bench wore a velvet of spider-silk thick enough to take the press of a thumb. Othelmedir's tread left dark bruises in it. Weirmoth's, behind him, did the same.
+
+The first of them was sat against the wall, gauntleted hands still folded over the haft of a billhook, and as Othelmedir passed it the head lifted. The mouth opened. Words came out and made no sound. Othelmedir noted the lips, the lips and the run of the jaw, and how the soft tissues of the cheek had not slumped — preserved past their reckoning by the same vapour that had taken the breath from them.
+
+"Stand off," said Weirmoth, and stepped past Othelmedir, and brought the spear-butt down on the wrist that gripped the bill, and brought the point through the eye-socket on the second beat. The corpse went down at the shoulder. Its mouth went on with what it had been saying.
+
+"Right," said Weirmoth. "Right, Mister Ribbon, that's the shape of it."
+
+Two more were rising from the bench at the far wall. They came up at the knees first, then at the hips, slow as a man waking under heavy bedding. Both still wore the thick leather of a breach-party, and both carried short hooked swords, and both were saying the same silent thing. Othelmedir watched their lips and read the cadence and knew the words for what they were: the breach-orders, the old call-and-answer of an attacking quorum, given in the proper sequence and given to no one.
+
+Weirmoth went into them low. He put the spear under the first man's guard and drove it up through the soft place under the jaw and lifted, and the body came off its feet and folded sideways, and the second was on him with the hook already swinging. Weirmoth caught it on the spear-haft and turned the wrist and stepped through, and put his elbow into the dead throat, and went on through and around. The second one struck the column behind it and stuck there a moment, hooked sword still rising, and Weirmoth put the spear in twice — once in the belt-line, once at the joint of the neck — and let it lie. He was breathing hard. He was not flashy. He was breathing hard and clean and the work was done.
+
+"Plain enough," he said. "Plain meed for a plain man, eh, Ribbon."
+
+Othelmedir was already moving. He passed the lectern without turning his head, and a man who did not know better might not have caught how he passed it — that he did not slow at the three open books on the stand, the leaves cracked back at the same page in each, *On the Conduct of Sealed Houses* and the *Compendium of Threshold Speech* and *A Practitioner's Almanac*, all three lying as they had lain. He went round the column where the watch-ledger was nailed up, names listed beside duty-hours that had gone past in the year of someone else's reign, and he did not stop to read it. Weirmoth, behind, did stop. "Fellows kept their hours," he said. "Fellows kept their hours and the hours kept the fellows and now, look, no fellows."
+
+Othelmedir said, "Walk on, Weirmoth, the chamber after this one is where the work begins. Speak less; the air does not love the speaking."
+
+"You go through this place like you are owed a bedroom in it, my prince."
+
+"Walk on."
+
+Two more came to their feet from a heap behind the lectern, and Weirmoth went to meet them. Spear low, then the hook of the haft behind a knee, then the lever and the step over the falling weight; he did the same thing twice and it worked twice, and it was done.
+
+Othelmedir bent at the last of them and put his fingers to the throat of the man on the floor. He did not check for life. He worked at the chain there and lifted from the dead-cold neck a hammered tin pendant, flat as a tear, sigil of a lidded cauldron with a single open eye worked into the lid. He put it into the pocket of his oxblood cloak and his hand came out without it.
+
+"Trophy?" said Weirmoth.
+
+"A token, Weirmoth, of a quorum I have read of. Carry on."
+
+The corridor narrowed past the lectern, and the gas in the low places of the floor gathered deeper, and at the end of the corridor the corridor ended. Where a door should have been, where a passage should have run on into the lower chambers, there was a wall of meat. Sheets of muscle plaited into sheets of muscle, layered and woven the long way of the passage and the short way of it, threaded through with sinew at the seams. Othelmedir put his hand to it. The wall took the warmth of his palm and gave it back. It was warm. It moved. Beneath his hand, very slowly, it drew breath.
+
+Weirmoth said, "That is a wall I have not been paid to fight."
+
+Othelmedir stood there and did not answer at once, and the silent mouths behind them, in the chamber they had crossed, went on saying what they had been saying.
