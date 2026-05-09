@@ -1,20 +1,24 @@
 # Time-of-Dying: Scene 4
 
-The chrypt door stood open behind them and breathed out a cold that put rot at the back of the throat. Othelmedir crossed the threshold first and the gas parted at his shins, pale green, knee-deep where the antechamber dipped, smelling of meat gone sweet. Weirmoth followed, spear angled low.
+Once the fume had diminished the two stepped back toward the door. Othelmedir crossed the threshold first, the gas parting at his shins, pale green, knee-deep where the antechamber dipped, smelling of meat gone sweet. Weirmoth followed behind..
 
-"Mister Spear and I have waded worse," Weirmoth muttered, "though never cold to the kneecap. Smells like a butcher's washwater, this stuff."
+"My Lord Pointy and I have plumbed worse," Weirmoth muttered, "though never through such gas as this, which strokes the kneecap. Smells like a butcher's washwater."
 
-Othelmedir said nothing in return. He moved through the foyer without lifting his lamp, his hip carrying him by some old measure of the slope it remembered without permission. Cobwebs upholstered the walls in a velvet patina that swallowed the light, and where the sellsword's boots came down the silk darkened in dark bruises that stayed bruised after the foot had passed.
+Othelmedir moved through the foyer without speaking, his lamp held at his side. Cobwebs upholstered the walls in a velvet patina that swallowed the light, and where the sellsword's boots came down the silk captured dark imprinted bruises that linged after the foot had passed.
 
-The first invader rose out of the gas in the gallery beyond. He had been a tall man, and the gas had kept his face the colour of old tallow, with cured tissue clinging to good bone. He still gripped a hooked falchion, and his mouth was working without sound. The lips shaped consonants Weirmoth could half-recognize from some seminary corner he had walked out of years before, breach-orders in a tongue that never quite reached the air. The same lips, between orders, shaped a shorter sound twice, a name-sound, and Othelmedir read the shape of it on the way past and did not slow his step.
+The first invader rose out of the gas in the gallery beyond. He had been a tall man, and the gas had kept his face the colour of tallow, with cured tissue clinging to good bone. He still gripped a hooked falchion, and his mouth moved now without sound. Weirmoth hissed sharply as he followed the motion of the lips. Othelmedir read the shape of the lips of the lips, and though they made no noise, he thought he recognized disticntly the shape of a name-sound amidst the airless dead speaking.
 
-Weirmoth stepped left and drove the spear point under the ribs and pulled it sideways, opening him from sternum to flank. The body did not bleed at all. It exhaled a green sigh and folded down at the knees.
+Weirmoth stepped up, shifted left, and drove the spear point under the ribs. He then jerked the haft out sideways, opening the corpse from sternum to flank. The body did not bleed at all. It exhaled a green sigh and folded down at the knees.
 
-"Old meat keeps better than fresh," Weirmoth said to no one in particular, "though my elbow disagrees with the angle."
+"Old meat," Weirmoth said as he flicked a stringy piece of bloodless tissue from the tip of his spear. "I'd forgotten to oil the upper haft so that the remains don't cling at my thrusts."
 
-Othelmedir watched the body settle without comment. He noted, in private, that the diaphragm tissue had cured well while the abdominal lining had gone to a soft, soaped pulp, and the asymmetry was useful to know. He stepped past the corpse and into the gallery proper.
+Othelmedir looked down upon the now-still body. He noted, in private, that the tissues above the diaphragm had cured well; while the abdominal lining, made visible by Weirmoth's attack, had gone to a soft, soaped pulp.
 
-Two more came along the colonnade, then three after them. Old invaders all of them, in studded jerkins gone the colour of pondwater, weapons still in fist as if the seal had taken them mid-sentence. Their mouths worked in unison, syllables silent against the stone, and Weirmoth set Mister Spear in second guard and went to work.
+They stepped past the corpse and into the gallery proper.
+
+**Pickup**
+
+Two more came along the colonnade, then three after them. Old invaders all of them, in studded jerkins gone the colour of pondwater, weapons still in fist as if the seal had taken them mid-sentence. Their mouths worked in unison, syllables silent against the stone, and Weirmoth set his long spear in second guard and went to work.
 
 Spear-work in the gallery was ugly and clean. He took the first at the throat, pivoted on the rear foot, and let the long iron drop the second through the eye-socket. The third had a cleaver, and he gave it the spear-butt across the temple and then the point through the mouth on the recovery. The fourth almost reached him. The fifth had a poleaxe, and Weirmoth used the colonnade for it. He stepped behind a pillar, let the haft pass, and reached around the stone to put the spear through the back of the knee, then the back of the neck on the way down. Each body went to the floor and kept working its mouth where it lay.
 
