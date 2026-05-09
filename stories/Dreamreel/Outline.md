@@ -97,10 +97,8 @@ Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. **Vic
 - A preserved ledger nailed to a column, names beside duty-hours, most hours long past
 - One invader wears a cabalistic pendant (Hammered tin; sigil of a lidded cauldron with a single open eye on the lid; shape of a flat tear); Othelmedir pockets it
 - (Othelmedir) Internal line appraising which tissues on the corpses survived the gas best
-- (Othelmedir) Never reaches for a weapon; Weirmoth does the killing
-- Othelmedir straightens a crooked wall sconce without looking
+- (Othelmedir) Never fights; Weirmoth does the killing
 - (Weirmoth) Competent in the fight, spear-work is clean and unflashy; but lost in the chrypt arcana, naddefers to Othelmedir
-- Weirmoth taps his canary, but it says nothing
 - (lore) A rival mancer, Ostrobone the Rook, led the breach wearing a mask of hornet husks
 - (withheld for this scene) The name the cabal used for Othelmedir, and why these corpses murmur it
 
