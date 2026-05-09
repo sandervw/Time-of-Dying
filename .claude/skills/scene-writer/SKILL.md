@@ -1,11 +1,9 @@
 ---
 name: scene-writer
-description: Write a complete prose scene from a story background and scene outline. Use when asked to "write a scene", "draft a scene", "write the next scene", or any request to produce narrative prose from a scene outline or story context.
+description: Write a complete prose scene from a given scene outline. Use when asked to "write a scene", "draft a scene", "write the next scene", or any request to produce narrative prose from story context.
 ---
 
 # Scene Writer
-
-Write a complete prose scene by developing it through structured narrative phases
 
 ## Inputs
 

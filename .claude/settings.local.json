@@ -21,7 +21,8 @@
       "Read(//c/Users/Sander/.claude/**)",
       "Bash(powershell *)",
       "PowerShell(Get-Content:*)",
-      "PowerShell(Measure-Object:*)"
+      "PowerShell(Measure-Object:*)",
+      "Skill(update-config)"
     ],
     "deny": [],
     "ask": []
