@@ -59,7 +59,7 @@ Every section must survive the exclusion test.
 
 ## Wordcount cap
 
-Everything in the brief **except the scene outline** must fit in **20% of the combined wordcount of all supplementary source material, OR 400 words, whichever is smaller**.
+Everything in the brief **except the scene outline** must fit in **20%** of the combined wordcount of all supplementary source material (including words from any material in `PRIMARY_PATH` not directly part of the scene), OR **400 words**, whichever is smaller.
 
 The scene outline does not count toward the cap.
 

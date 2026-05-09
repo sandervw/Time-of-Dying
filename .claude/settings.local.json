@@ -22,7 +22,8 @@
       "Bash(powershell *)",
       "PowerShell(Get-Content:*)",
       "PowerShell(Measure-Object:*)",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Bash(awk '/^## Scene Outline/{flag=1; next} /^## Already Rendered/{flag=0} !flag' \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/scene-brief-scene-4.md\")"
     ],
     "deny": [],
     "ask": []
