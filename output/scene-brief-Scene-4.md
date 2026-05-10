@@ -32,11 +32,10 @@ In the road-village of Sulky Wend, residents' dreams are being replaced by the d
 
 Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. **Vicious, excruciatingly-specific fighting** takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoth — describe specific maneuvers, movements, numbers of foes, how bodies are affected. Weirmoth notes how Othelmedir seems to know every corridor. They encounter a "muscle-wall," a barrier of flesh woven over the passage to the lower sanctums of the tower; preventing the further release of the gas, and further progress.
 
-- Gas pools knee-deep in low corners, pale green, smelling of spoiled meat
+- Gas pools knee-deep in low corners, pale green
 - Every surface wears a velvet patina of spider silk; footsteps leave dark bruises
 - Dead, awakening invaders still gripping the weapons; mouths work silently, reciting specific, spoken-dialogue breach-orders
 - A lectern where three common books sit open to the same page, spines cracked: 'On the Conduct of Sealed Houses', 'Compendium of Threshold Speech', and 'A Practitioner's Almanac'
-- A low sweet rot
 - A preserved ledger nailed to a column, names beside duty-hours, most hours long past
 - One invader wears a cabalistic pendant (Hammered tin; sigil of a lidded cauldron with a single open eye on the lid; shape of a flat tear); Othelmedir pockets it
 - (Othelmedir) Internal line appraising which tissues on the corpses survived the gas best

@@ -1,16 +1,18 @@
 # Time of Dying: Scene 4
 
-Othelmedir crossed the threshold first, and the gas closed around his shins, and his boots found the stair beneath. The taste of it came at once into the back of his throat, spoiled meat and old water, a thing the tongue tried to be rid of and could not. He did not slow.
+Othelmedir crossed the threshold first. The gas closed around his shins, and his boot found the stair beneath. The aftertaste of the dissipated fume came at once into the back of his throat, spoiled meat; his tongue curled from it, yet he proceeded.
 
-Weirmoth came after, spear levelled, the butt thumping the stone. "After you, my prince, after the prince," he said. "I'll be the man at your heel and the heel under the man, what does it matter."
+Weirmoth came after, spear levelled. "After you, my prince, after the prince," he said. "I'll be the man at your heel, and under your heel if you like, what does it matter."
 
-The antechamber was hung in grey. Every wall, every lintel, every bracket and bench wore a velvet of spider-silk thick enough to take the press of a thumb. Othelmedir's tread left dark bruises in it. Weirmoth's, behind him, did the same.
+The antechamber was hung in grey. Every wall, every lintel, every bracket and bench wore a velvet of spider-silk thick enough to take the press of a thumb. Their footsteps left imprints in the webbed carpet, visible beneath the pale green gas, like dark bruises.
 
-The first of them was sat against the wall, gauntleted hands still folded over the haft of a billhook, and as Othelmedir passed it the head lifted. The mouth opened. Words came out and made no sound. Othelmedir noted the lips, and the run of the jaw, and how the soft tissues of the cheek had not slumped, and how the gum had held its line above the teeth, and how the thin membrane at the inner lid of the eye still wept a clear humour — all of it preserved past its reckoning by the same vapour that had taken the breath out of the chest.
+They discovered the first of the dead dreamers in the next corridor. It sat in a copper-backed chair, its gauntleted hands still folded over the haft of a billhook. As Othelmedir passed, the dead man's head rose. The mouth opened. It spoke a word, but the word made no sound. Othelmedir noted the lips, and the run of the jaw, and how the soft tissues of the cheek had not slumped, and how the gum had held its line above the teeth, and how the thin membrane at the inner lid of the eye still wept a clear humour — all of it immaculately preserved by the same vapour that had taken the breath out of the chest.
 
-"Stand off," said Weirmoth, and stepped past Othelmedir, and brought the spear-butt down on the wrist that gripped the bill, and brought the point through the eye-socket on the second beat. The corpse went down at the shoulder. Its mouth went on with what it had been saying.
+"Stand off," said Weirmoth, and he stepped swiftly past Othelmedir. The mercenary brought his spear-butt down on the wrist that gripped the bill, and the dead man dropped the weapon with a thump to the velvet floor. Before the foe might recover Weirmoth had whirled his spear about. He thrust. His spear plunged through a gleaming eye-socket. The corpse slumped back into its copper chair. Its mouth moved, shaping the same words, for a few seconds longer, the death-throes of a mancer already dead.
 
-"Right," said Weirmoth. "Right, Mister Ribbon, that's the shape of it."
+"Right," said Weirmoth. "Right, Mister Ribbon. I told you this would be simple weapon play."
+
+**Pickup**
 
 Two more were rising from the bench at the far wall. They came up at the knees first, then at the hips, the joints reluctant in their sockets and the heads following the bodies a beat after. Both still wore the thick leather of a breach-party, and both carried short hooked swords, and both were saying the same silent thing. Othelmedir watched their lips and read the cadence and knew the words for what they were: the breach-orders of the Milkmoot, the old call-and-answer of an attacking quorum, given in the proper sequence and given to no one. He marked the leader's harness too, and the brown-stained leather mask still strapped to the dead face beside him, hornet-husks stitched into the cheekplate where eyes should have been; and he knew without looking the name that had ridden under it, the name of the Rook, the name of Ostrobone who had led the breach.
 
