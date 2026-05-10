@@ -5,81 +5,117 @@ description: Write a complete prose scene from a given scene outline. Use when a
 
 # Scene Writer
 
+You are the orchestrator. Spawn four sequential `general-purpose` phase agents (`model: sonnet`), each writing one section of the scene. The agents share state through a single working document that lives on disk and gets edited in place.
+
+You do NOT write any prose yourself. Your jobs are: launching agents in order, reading the working doc between phases for sanity, and assembling the final scene file at the end.
+
 ## Inputs
 
-The user provides:
+The user (or a calling skill) provides one or more files giving the scene's context — at minimum a scene outline; commonly a scene brief and a scene frame. Collect every input file path as `INPUT_PATHS`. Identify or ask for:
 
-- **Story background**: The broader narrative context (world, characters, prior events).
-- **Scene outline/idea**: What this specific scene should accomplish — its purpose, characters involved, tone.
-- **Scene priorities (optional)**: What different aspects of style or parts of of prose should weigh most in the scene - action, dialogue, humor, etc.
-- **Wordcount**: Target length for the finished scene.
+- `STORYNAME` — short story label (used in filenames and the scene title)
+- `SCENE_NUM` — scene number or label
+- `WORDCOUNT` — target total wordcount for the finished scene
+
+## Working files
+
+- `WORKING_DOC` = `output/working-doc-{STORYNAME}-Scene-{SCENE_NUM}.md` — created by Agent 1, edited in place by Agents 2–4, deleted at the end.
+- `SCENE_FILE` = `output/{STORYNAME}-Scene-{SCENE_NUM}.md` — the final scene file.
 
 ## Workflow
 
-_Each step's reference file must only be read AFTER the previous step's output has been completed. Do NOT batch-read reference files. Reading a step's reference file counts as beginning that step._
+Run agents sequentially. If any agent fails or its expected output is missing, halt and report.
 
----
+Each agent must read its phase reference (`references/<phase>.md`) LAST — reading it counts as beginning the phase.
 
-### Step 1: Pre-Setup
+### Agent 1 — Pre-Setup
 
-Read `references/pre-setup.md`.
+Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
 
-Using the story background and scene outline, follow the reference file's instructions to generate the raw material for this scene.
+> You are Agent 1 of 4 running the `scene-writer` skill. Your job is pre-setup only — Steps 1–2 of the skill. Do NOT write scene prose.
+>
+> Read in order:
+> 1. Each context file in `{INPUT_PATHS}`.
+> 2. `.claude/skills/scene-writer/references/pre-setup.md` (last — reading it begins the phase).
+>
+> Address all six pre-setup tasks. Decide establishing vs. continuation.
+>
+> Condense to under 300 words total and write to `{WORKING_DOC}` using the template at `.claude/skills/scene-writer/assets/working-doc.md`. Storyname: `{STORYNAME}`. Scene: `{SCENE_NUM}`. Leave the `### Setup`/`### Conflict`/`### Resolution` placeholders under `## Draft` untouched.
+>
+> Target wordcount for the full scene: `{WORDCOUNT}` words.
+>
+> Report under 120 words: working doc path, final word count (`wc -w`), any judgment calls. Do NOT paste the working doc back.
 
-### Step 2: Condense to Working Document
+### Agent 2 — Setup
 
-Condense the output of Step 1 to **under 300 words**. This is your scene's working inventory — a compact reference of elements available to draw from as you write.
+Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
 
-Write this condensed material to a new file using the `assets/working-doc.md` template.
+> You are Agent 2 of 4 running the `scene-writer` skill. Your job is the SETUP phase only — Steps 3–4 of the skill.
+>
+> Read in order:
+> 1. Each context file in `{INPUT_PATHS}` (treat every section as binding).
+> 2. `{WORKING_DOC}` — Agent 1 already wrote the Pre-Scene Work; the Draft section's placeholders are empty.
+> 3. `.claude/skills/scene-writer/references/setup.md` (last — reading it begins the phase).
+>
+> Write the setup prose. Total scene target: `{WORDCOUNT}` words. Setup is 5–15% of that for continuation scenes, 25–30% for establishing.
+>
+> Replace the `[Append setup prose here after Step 3]` placeholder in `{WORKING_DOC}` with your prose. Delete every texture you spent from the inventory and renumber.
+>
+> Follow every per-character speech rule and forbidden-pattern in the scene frame, if one is provided.
+>
+> Report under 120 words: setup word count, textures spent (by current #), one judgment call. Do NOT paste prose back.
 
-### Step 3: Setup
+### Agent 3 — Conflict
 
-Read `references/setup.md`.
+Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
 
-Follow the reference file's instructions to write the setup phase of the scene, drawing from your working document.
+> You are Agent 3 of 4 running the `scene-writer` skill. Your job is the CONFLICT phase only — Steps 5–6.
+>
+> Read in order:
+> 1. Each context file in `{INPUT_PATHS}`.
+> 2. `{WORKING_DOC}` — Setup is already drafted; you continue from where it ends.
+> 3. `.claude/skills/scene-writer/references/conflict.md` (last).
+>
+> Write the conflict prose. Total scene target: `{WORDCOUNT}` words. Conflict is 50–60% of that; hard cap 70%.
+>
+> Leave 1–2 textures in the inventory for the resolution agent. If the brief specifies a closing image or beat, reserve the texture(s) supporting it.
+>
+> Replace the `[Append conflict prose here after Step 5]` placeholder with your prose. Delete every texture you spent and renumber.
+>
+> Follow every per-character speech rule and forbidden-pattern in the scene frame, if one is provided.
+>
+> Report under 120 words: conflict word count, textures spent (by current #), textures reserved, one judgment call. Do NOT paste prose back.
 
-### Step 4: Append Setup & Spend Details
+### Agent 4 — Resolution
 
-Append the prose you wrote in Step 3 to your `working-doc.md` file.
+Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
 
-Then, in the working document's inventory section, **remove any textural details you used** in the setup.
+> You are Agent 4 of 4 running the `scene-writer` skill. Your job is the RESOLUTION phase only — Steps 7–8.
+>
+> Read in order:
+> 1. Each context file in `{INPUT_PATHS}`.
+> 2. `{WORKING_DOC}` — Setup and Conflict are drafted; you continue from where Conflict ends.
+> 3. `.claude/skills/scene-writer/references/resolution.md` (last).
+>
+> Write the resolution prose. Total scene target: `{WORDCOUNT}` words. Resolution is 10–20% of that.
+>
+> Spend ALL remaining textures from the inventory; the inventory must be empty after.
+>
+> Replace the `[Append resolution prose here after Step 7]` placeholder with your prose. Empty the texture inventory.
+>
+> Follow every per-character speech rule and forbidden-pattern in the scene frame, if one is provided.
+>
+> Report under 100 words: resolution word count, how the closing texture(s) were staged, one judgment call. Do NOT paste prose back.
 
-### Step 5: Conflict
+### Final Assembly
 
-Read `references/conflict.md`.
+Read `{WORKING_DOC}`. Create `{SCENE_FILE}` from `assets/scene-template.md`:
+- Substitute the title: `# {STORYNAME}: Scene {SCENE_NUM}`.
+- Combine the Setup, Conflict, and Resolution sections into continuous prose. **Remove the phase subheaders** (Setup / Conflict / Resolution) so the prose reads as a single unbroken scene.
 
-Follow the reference file's instructions to write the conflict phase of the scene, drawing from the remaining details in your working document.
+Delete `{WORKING_DOC}`.
 
-### Step 6: Append Conflict & Spend Details
-
-Append the prose you wrote in Step 5 to your `working-doc.md` file.
-
-Again, **remove any textural details you used** from the working document's inventory.
-
-### Step 7: Resolution
-
-Read `references/resolution.md`.
-
-Follow the reference file's instructions to write the resolution phase of the scene, drawing from the remaining details in your working document.
-
-### Step 8: Append Resolution
-
-Append the prose you wrote in Step 7 to your `working-doc.md` file. **Remove any remaining textural details** from the working document's inventory. The inventory should now be empty.
-
-### Step 9: Write to Scene Template
-
-Copy the `assets/scene-template.md` template to a new file named `[Storyname]-Scene-[X].md` (where `[Storyname]` is derived from the story background and `[X]` is the scene number, provided by the user or inferred).
-
-Write the scene prose into the **Full Scene** section. Combine the setup, conflict, and resolution into continuous text — **remove the phase subheaders** (Setup / Conflict / Resolution) so the prose reads as a single unbroken scene.
-
-### Step 10: Clean Up & Present
-
-Delete the working document created in Step 2.
-
-Present the finished scene file to the user:
-- `[Storyname]-Scene-[X].md` — the scene prose
-
-Suggest running `scene-review` next if the user wants to revise the scene and produce a post-scene summary.
+Report `{SCENE_FILE}` to the user. Suggest running `scene-review` next if they want to revise and produce a post-scene summary.
 
 ## File Structure
 
@@ -87,11 +123,11 @@ Suggest running `scene-review` next if the user wants to revise the scene and pr
 scene-writer/
 ├── SKILL.md
 ├── references/
-│   ├── pre-setup.md
-│   ├── setup.md
-│   ├── conflict.md
-│   └── resolution.md
+│   ├── pre-setup.md      # creative guidance for Agent 1
+│   ├── setup.md          # creative guidance for Agent 2
+│   ├── conflict.md       # creative guidance for Agent 3
+│   └── resolution.md     # creative guidance for Agent 4
 └── assets/
-    ├── working-doc.md
-    └── scene-template.md
+    ├── working-doc.md    # template Agent 1 instantiates
+    └── scene-template.md # template the orchestrator instantiates
 ```

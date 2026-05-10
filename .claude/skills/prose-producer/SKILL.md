@@ -35,7 +35,9 @@ When `INTERACTIVE = false`, run all stages back-to-back as described below with 
 
 ## Prompt files
 
-Each stage's agent prompt lives in its own file under `references/`. For each stage: read the prompt file, substitute the placeholders (e.g. `{STORY_PATH}`, `{SCENE_TAG}`, `{SCENE_FRAME_PATH}`) with the actual values captured so far, and pass the resulting text to the subagent.
+Most stages' agent prompts live in their own files under `references/`. For each subagent stage: read the prompt file, substitute the placeholders (e.g. `{STORY_PATH}`, `{SCENE_TAG}`, `{SCENE_FRAME_PATH}`) with the actual values captured so far, and pass the resulting text to the subagent.
+
+Stage 3 is the exception — it runs in your context (no subagent) by following the `scene-writer` skill directly. See its section below.
 
 ## Stage 1 — Scene Brief (opus)
 
@@ -53,13 +55,20 @@ Substitute `{SCENE_BRIEF_PATH}`, `{SOURCE_PATH}`, `{SCENE_TAG}`.
 
 Capture the returned scene-frame path as `SCENE_FRAME_PATH`.
 
-## Stage 3 — Compose (opus)
+## Stage 3 — Compose (inline; spawns sonnet phase agents)
 
-Launch a `general-purpose` subagent with `model: opus`. Prompt: `references/stage3-compose.md`.
+Do NOT launch a subagent for this stage. The `scene-writer` skill orchestrates four phase subagents itself, and a subagent cannot spawn its own subagents — so this stage runs in YOUR context.
 
-Substitute `{SCENE_BRIEF_PATH}`, `{SCENE_FRAME_PATH}`.
+Follow `.claude/skills/scene-writer/SKILL.md` directly:
+- `INPUT_PATHS` = [`{SCENE_BRIEF_PATH}`, `{SCENE_FRAME_PATH}`]. Do not pass the full story outline, source style passage, or prior scene file — Agents are constrained to the brief and frame.
+- `STORYNAME`, `SCENE_NUM`, `WORDCOUNT` come from the scene brief (or the values you captured during Setup).
+- Write all output files under `output/`.
 
-Capture the returned scene draft path as `SCENE_DRAFT_PATH`.
+Treat every section of the scene frame as binding constraints throughout drafting. Do not re-describe material listed under "Already Rendered (DO NOT RE-DESCRIBE)" in the scene brief.
+
+When scene-writer completes, capture the final scene file path as `SCENE_DRAFT_PATH`.
+
+Interactive-mode pause (if `INTERACTIVE = true`) happens AFTER the full 4-phase composition finishes, not between phases.
 
 ## Stage 4 — Review (opus)
 
