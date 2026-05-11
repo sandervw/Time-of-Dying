@@ -68,7 +68,7 @@ Treat every section of the scene frame as binding constraints throughout draftin
 
 When scene-writer completes, capture the final scene file path as `SCENE_DRAFT_PATH`.
 
-Interactive-mode pause (if `INTERACTIVE = true`) happens AFTER the full 4-phase composition finishes, not between phases.
+Interactive-mode pause (if `INTERACTIVE = true`) happens BETWEEN phases.
 
 ## Stage 4 — Review (opus)
 

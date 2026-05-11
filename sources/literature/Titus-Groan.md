@@ -5,6 +5,7 @@
 *Source: Distributed Proofreaders Canada (1946)*
 
 ---
+
 ## THE HALL OF THE BRIGHT CARVINGS
 
 Gormenghast, that is, the main massing of the original stone, taken by itself would have displayed a certain ponderous architectural quality were it possible to have ignored the circumfusion of those mean dwellings that swarmed like an epidemic around its outer walls. They sprawled over the sloping earth, each one half way over its neighbour until, held back by the castle ramparts, the innermost of these hovels laid hold on the great walls, clamping themselves thereto like limpets to a rock. These dwellings, by ancient law, were granted this chill intimacy with the stronghold that loomed above them. Over their irregular roofs would fall throughout the seasons, the shadows of time-eaten buttresses, of broken and lofty turrets, and, most enormous of all, the shadow of the Tower of Flints. This tower, patched unevenly with black ivy, arose like a mutilated finger from among the fists of knuckled masonry and pointed blasphemously at heaven. At night the owls made of it an echoing throat; by day it stood voiceless and cast its long shadow.

@@ -93,36 +93,35 @@ Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. **Vic
 - Every surface wears a velvet patina of spider silk; footsteps leave dark bruises
 - Dead, awakening invaders still gripping the weapons; mouths work silently, reciting specific, spoken-dialogue breach-orders.
 - A lectern where three common books sit open to the same page, spines cracked: 'On the Conduct of Sealed Houses', 'Compendium of Threshold Speech', and 'A Practitioner's Almanac'
-- A low sweet rot
 - A preserved ledger nailed to a column, names beside duty-hours, most hours long past
 - One invader wears a cabalistic pendant (Hammered tin; sigil of a lidded cauldron with a single open eye on the lid; shape of a flat tear); Othelmedir pockets it
 - (Othelmedir) Internal line appraising which tissues on the corpses survived the gas best
 - (Othelmedir) Never fights; Weirmoth does the killing
-- (Weirmoth) Competent in the fight, spear-work is clean and unflashy; but lost in the chrypt arcana, naddefers to Othelmedir
+- (Weirmoth) Competent in the fight, spear-work is clean and unflashy; but lost in the chrypt arcana, defers to Othelmedir
 - (lore) A rival mancer, Ostrobone the Rook, led the breach wearing a mask of hornet husks
 - (withheld for this scene) The name the cabal used for Othelmedir, and why these corpses murmur it
 
 ### 5. The Scriptorium
 **Wordcount:** 450
 
-They breach a library of rotted codices. Othelmedir retrieves a treatise he helped author. He does not say so.
+(Cold Open) Othelmedir leads them into a library of rotted codices. Othelmedir retrieves a treatise he helped author. (*subtext* he does not reveal he authored it). They hear the sound of an awakening dead-dreamer down another door; Othelmedir knows it leads to the still-room (*subtext*), and tells Weirmoth to "get ready" (but use a better line than that).
+- Library Layout: Three floors with open central balcony overlooking a dead garden; gravestone plots for former cabal members; false sun globe dead and dim
+- Books moldering, many unreadable, most have no titles
 - Othelmedir explains the gas and the cauldron: elements seep outward even though the cauldron is stoppered, producing the Dreamreel
-- (Othelmedir) Loses minutes absorbed in a treatise; retrieves 'Potions and Poisons of Eleven Reagents' without claiming authorship
-- (Othelmedir) Internal: these texts are worth more than the village, certainly more than Weirmoth
-- Three floors with open central balcony overlooking a dead garden; gravestone plots for former cabal members (*`memorial` blob*); false sun globe dead and dim
-- Books moldering, covered in a verdigris patina from the gas
+- (Othelmedir) Loses a moment absorbed in the treatise; it is named 'Potions and Poisons of Eleven Reagents' (*subtext* the meaning of the name is withheld until next scene)
+- (Othelmedir, Internal/*subtext*): these texts are worth more than the village, certainly more than Weirmoth
 
 ### 6. The Still-Room
 **Wordcount:** 700
 
-Weirmoth kills the guardian dead-dreamer. They begin brewing a poison to breach the muscle-wall. Othelmedir knows ten of eleven reagents: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats. The eleventh, Respiration from a Silver Dream, must be retrieved from a dream-memory. Othelmedir has brewed a second potion to enter that memory. Only one unhabituated to necromancy can drink it safely. Weirmoth qualifies.
+(Open with action) Weirmoth kills the guardian dead-dreamer of the still-room. They begin brewing a poison to breach the muscle-wall. Othelmedir knows ten of eleven reagents: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats. The eleventh, Respiration from a Silver Dream, must be retrieved from a dream-memory. Othelmedir has brewed a second potion to enter that memory. Only one unhabituated to necromancy can drink it safely. Weirmoth qualifies.
 - Describe room layout
 - Various *new* alchemical ingredients; Othelmedir takes some of these, which makes Weirmoth suspecious; Othelmedir unbothered by Weirmoth's stare
 - Necromantic diagrams and charts on the walls
 - Weirmoth begins to distrust Othelmedir, but Othelmedir uses deception to get him to drink the potion
   - The Generic-Witness lie. He claims the potion shows only the first death the gas preserved, an anonymous invader's; and that any practitioner who drinks it would burn to ash, since habituated nerves cannot bear the witnessing. The second half is true. He omits that the dream Weirmoth is about to inherit is his own.
 - (Othelmedir) Frames the potion as a fair exchange; speaks in precise, formal cadence
-- (Weirmoth) Drops the patter for one quiet line before drinking; the picaro mask slips
+- (Weirmoth) Drops the banter for one quiet line before drinking; the picaro mask slips
 
 ### 7. The Dreamer and the Watcher
 **Wordcount:** 950
