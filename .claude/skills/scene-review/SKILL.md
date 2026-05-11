@@ -1,11 +1,11 @@
 ---
 name: scene-review
-description: Review and finalize a draft scene against its original story context, then produce a post-scene summary file with reference material for downstream scenes. Use when asked to "review the scene", "finalize the scene", "produce the scene summary", or any request to revise a finished scene draft and generate its summary.
+description: Audit a finished scene draft against its original story context and produce a post-scene summary file with reference material and a review audit. Use when asked to "review the scene", "produce the scene summary", or any request to analyze a finished scene draft and generate its summary.
 ---
 
 # Scene Review
 
-Review a finished scene draft against its original story context, revise the prose in place, and produce a post-scene summary file.
+Audit a finished scene draft against its original story context and produce a post-scene summary file. The scene file itself is not modified.
 
 ## Inputs
 
@@ -24,17 +24,17 @@ _Each step's reference file must only be read AFTER the previous step's output h
 
 ---
 
-### Step 1: Review and Revise
+### Step 1: Audit Against Original
 
 Read `references/review.md` and `references/audit-questions.md`.
 
-Follow the review reference's instructions to audit the scene against the original story context and the guiding questions. Edit the scene prose directly in the scene file.
+Follow the review reference's instructions to audit the scene against the original story context and the guiding questions. Hold the audit findings (wordcount comparison, per-question yes/no/N/A coverage, any alignment notes) in working memory. Do NOT edit the scene file.
 
 ### Step 2: Generate Post-Scene Material
 
 Read `references/post-scene.md`.
 
-Follow the reference's instructions to generate the post-scene material from the revised scene: Scene Summary, Ending Text, Questions Posed, Characters Introduced or Referenced, and Reflection.
+Follow the reference's instructions to generate the post-scene material from the scene: Scene Summary, Ending Text, Questions Posed, Characters Introduced or Referenced, and the Review Audit (assembled from Step 1's findings).
 
 ### Step 3: Write Post-Scene Summary
 
@@ -44,9 +44,10 @@ Write the post-scene material into this file.
 
 ### Step 4: Present
 
-Present both finished files to the user:
-- `[Storyname]-Scene-[X].md` — the revised scene prose
+Present the finished file to the user:
 - `[Storyname]-Scene-[X]-Summary.md` — the post-scene summary
+
+The scene file is left untouched.
 
 ## File Structure
 

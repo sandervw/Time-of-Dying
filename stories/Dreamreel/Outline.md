@@ -114,7 +114,7 @@ Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. **Vic
 ### 6. The Still-Room
 **Wordcount:** 700
 
-(Open with action) Weirmoth kills the guardian dead-dreamer of the still-room. They begin brewing a poison to breach the muscle-wall. Othelmedir knows ten of eleven reagents: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats. The eleventh, Respiration from a Silver Dream, must be retrieved from a dream-memory. Othelmedir has brewed a second potion to enter that memory. Only one unhabituated to necromancy can drink it safely. Weirmoth qualifies.
+(Cold Open again, with action) Weirmoth kills the guardian dead-dreamer of the still-room. They begin brewing a poison to breach the muscle-wall. Othelmedir knows ten of eleven reagents: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats. The eleventh, Respiration from a Silver Dream, must be retrieved from a dream-memory. Othelmedir has brewed a second potion to enter that memory. Only one unhabituated to necromancy can drink it safely. Weirmoth qualifies.
 - Describe room layout
 - Various *new* alchemical ingredients; Othelmedir takes some of these, which makes Weirmoth suspecious; Othelmedir unbothered by Weirmoth's stare
 - Necromantic diagrams and charts on the walls

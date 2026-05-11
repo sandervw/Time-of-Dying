@@ -70,13 +70,13 @@ When scene-writer completes, capture the final scene file path as `SCENE_DRAFT_P
 
 Interactive-mode pause (if `INTERACTIVE = true`) happens BETWEEN phases.
 
-## Stage 4 — Review (opus)
+## Stage 4 — Review (sonnet)
 
-Launch a `general-purpose` subagent with `model: opus`. Prompt: `references/stage4-review.md`.
+Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/stage4-review.md`.
 
 Substitute `{SCENE_DRAFT_PATH}`, `{SCENE_BRIEF_PATH}`, `{SCENE_FRAME_PATH}`.
 
-Capture the returned post-scene summary path as `POST_SCENE_SUMMARY_PATH`. The scene draft path is unchanged (revised in place).
+Capture the returned post-scene summary path as `POST_SCENE_SUMMARY_PATH`.
 
 ## Stage 5 — Audit (sonnet)
 

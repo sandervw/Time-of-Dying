@@ -1,6 +1,6 @@
 # Review
 
-This is a revision pass on the scene file. Read the scene file in full, then audit it against the original story context (story background, scene outline, scene priorities) and the guiding questions in `audit-questions.md`.
+This is a read-only audit of the scene file. Read the scene file in full, then audit it against the original story context (story background, scene outline, scene priorities) and the guiding questions in `audit-questions.md`. Do NOT edit the scene file at any point.
 
 ## Tasks
 
@@ -13,22 +13,25 @@ Compare the scene against the original inputs:
 - Does it honor the **scene priorities** if any were provided?
 - Are the **location** and atmosphere consistent with the story background?
 
-If the scene has drifted from its original intent, determine whether the drift is an improvement or a loss — and edit accordingly.
+If the scene has drifted from its original intent, note where and how (and whether the drift reads as an improvement or a loss). These notes feed into the Review Audit's "Alignment Notes" in the next step.
 
-### 2. Question Coverage Audit
+### 2. Wordcount Comparison
 
-Read `audit-questions.md`. Count how many of the 18 guiding questions the scene currently answers "yes" to.
+Use `wc -w` on the scene file. Record:
 
-- **60-80% is the target range** (roughly 11-14 yes answers). Below 60% is undercooked; above 80% is over-engineered. Lean toward the lower end for short scenes (under 800 words) and continuation scenes, where the right answer is often "this question doesn't apply here."
-- **Above 80%**: Cut. Remove an element rather than add one. Continuation scenes especially should NOT try to re-answer questions already answered by the prior scene.
-- **Below 60%**: Add only if the missing question genuinely serves the scene; otherwise let the gap stand.
+- Target wordcount (from the original inputs)
+- Actual wordcount
+- Delta (absolute and percentage)
 
-**For the purposes of this revision, wordcount is no longer a constraint.** You may go over or under the target wordcount as needed to hit the 60-80% range. Quality of craft takes priority here.
+### 3. Question Coverage Audit
 
-### 3. Make Edits
+Read `audit-questions.md`. For **each of the 18 questions**, decide whether the scene answers it Yes, No, or N/A (not applicable to this scene's role in the story). Hold the per-question verdict and a short rationale phrase.
 
-Edit the scene prose directly in the scene file. Tighten, adjust, and polish.
+Count the Yes answers. Note whether the total falls inside, below, or above the **60-80% target zone (11-14 yes)**.
+
+- **60-80% is the target range**. Below 60% is undercooked; above 80% is over-engineered. Lean toward the lower end for short scenes (under 800 words) and continuation scenes, where the right answer is often "this question doesn't apply here."
+- For continuation scenes especially, questions already answered by the prior scene should usually be marked N/A.
 
 ## Output
 
-The scene file should now contain the revised prose. The next step will generate the post-scene material.
+Hold the audit findings (alignment notes, wordcount comparison, per-question verdicts, yes count) in working memory. The next step assembles them into the Review Audit section of the post-scene summary file.

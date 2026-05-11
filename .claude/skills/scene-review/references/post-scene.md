@@ -25,13 +25,16 @@ For each character introduced or meaningfully referenced in the scene, write a *
 - **Physical**: What they look like — distinctive features, build, dress, mannerisms.
 - **Personality**: How they behave — temperament, speech patterns, disposition, any shifts revealed in this scene.
 
-### 5. Reflection
+### 5. Review Audit
 
-Write a brief reflection (under 50 words total) on the revision pass:
+Assemble the audit findings produced during Step 1 into a structured report:
 
-- **What worked**: Which elements landed — what should be preserved or built on.
-- **What was cut in review**: What you removed and why.
-- **What's missing**: Any gaps you noticed but chose not to address — threads for future revision or future scenes.
+- **Wordcount**: Target / Actual / Delta (absolute and percentage).
+- **Question coverage**: Total Yes count out of 18, and whether the count fell inside, below, or above the 60-80% target zone (11-14 yes).
+- **Per-question verdicts**: For each of the 18 questions in `audit-questions.md`, mark **Yes**, **No**, or **N/A**. Append a short rationale phrase (under 12 words) so the reader can see which were answered, which were skipped deliberately, and which were missed.
+- **Alignment notes** (optional, under 50 words total): If the scene drifted from its outline or stated priorities, briefly describe where and how, and whether the drift reads as improvement or loss.
+
+This section is the only place where pass-through review analysis is preserved — no scene edits are made.
 
 ## Output
 
