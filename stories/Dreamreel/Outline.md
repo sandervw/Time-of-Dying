@@ -112,10 +112,11 @@ Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. **Vic
 - (Othelmedir, Internal/*subtext*): these texts are worth more than the village, certainly more than Weirmoth
 
 ### 6. The Still-Room
-**Wordcount:** 700
+**Wordcount:** 900
 
-(Cold Open again, with action) Weirmoth kills the guardian dead-dreamer of the still-room. They begin brewing a poison to breach the muscle-wall. Othelmedir knows ten of eleven reagents: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats. The eleventh, Respiration from a Silver Dream, must be retrieved from a dream-memory. Othelmedir has brewed a second potion to enter that memory. Only one unhabituated to necromancy can drink it safely. Weirmoth qualifies.
-- Describe room layout
+(Cold Open again, with action) Weirmoth kills the guardian dead-dreamer of the still-room. Soon, Othelmedir begins brewing a poison to breach the muscle-wall. Weirmoth rests, fixing his torn armor/clothing. Othelmedir knows ten of eleven reagents: Widowwine, Priest's Quicklime, Honey, Green from the Blades of Grass, Black Lye, Glasswort, Crystalwort, Iron shavings, Dandelion root, Preserved nine-day-gnats. The eleventh, *Respiration from a Silver Dream*, must be retrieved from a dream-memory. As Weirmoth returns his attention to the room, Othelmedir has brewed a different potion first; a potion to enter that memory. Only one unhabituated to necromancy can drink it safely. Weirmoth qualifies.
+- Open with **Vicious, excrutiatingly-specific fighting** - describe specific maneuvers, movements, numbers of foes, how bodies are affected; the fight should have a back/forth, ups and downs - it should capture a mini-arc in a short number of words
+- Invent and describe a room layout
 - Various *new* alchemical ingredients; Othelmedir takes some of these, which makes Weirmoth suspecious; Othelmedir unbothered by Weirmoth's stare
 - Necromantic diagrams and charts on the walls
 - Weirmoth begins to distrust Othelmedir, but Othelmedir uses deception to get him to drink the potion
@@ -124,7 +125,7 @@ Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. **Vic
 - (Weirmoth) Drops the banter for one quiet line before drinking; the picaro mask slips
 
 ### 7. The Dreamer and the Watcher
-**Wordcount:** 950
+**Wordcount:** 600
 
 Weirmoth drinks and goes under. Othelmedir stands over the sleeping body, listening to the mercenary murmur the names of the old tower cabal's members. Othelmedir internal monologue: the night of the breach; his hand on the lever that will unseal the lidded cauldron, releasing the gas; the colleagues he sealed inside. He knows precisely what Weirmoth is witnessing, and what the mercenary will know when he wakes.
 - (Internal monologue - othelmedir's memory) Weirmoth relives the original attack through the eyes of Othelmedir; the mancer cabals and their necromancies in brutal combat

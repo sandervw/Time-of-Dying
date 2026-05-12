@@ -5,7 +5,7 @@ description: Write a complete prose scene from a given scene outline. Use when a
 
 # Scene Writer
 
-You are the orchestrator. Spawn four sequential `general-purpose` phase agents (`model: sonnet`), each writing one section of the scene. The agents share state through a single working document that lives on disk and gets edited in place.
+You are the orchestrator. Spawn four sequential `general-purpose` phase agents (`model: opus`), each writing one section of the scene. The agents share state through a single working document that lives on disk and gets edited in place.
 
 You do NOT write any prose yourself. Your jobs are: launching agents in order, reading the working doc between phases for sanity, and assembling the final scene file at the end.
 
@@ -30,7 +30,7 @@ Each agent must read its phase reference (`references/<phase>.md`) LAST — read
 
 ### Agent 1 — Pre-Setup
 
-Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
+Spawn a `general-purpose` subagent (`model: opus`) with this prompt:
 
 > You are Agent 1 of 4 running the `scene-writer` skill. Your job is pre-setup only — Steps 1–2 of the skill. Do NOT write scene prose.
 >
@@ -48,7 +48,7 @@ Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
 
 ### Agent 2 — Setup
 
-Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
+Spawn a `general-purpose` subagent (`model: opus`) with this prompt:
 
 > You are Agent 2 of 4 running the `scene-writer` skill. Your job is the SETUP phase only — Steps 3–4 of the skill.
 >
@@ -67,7 +67,7 @@ Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
 
 ### Agent 3 — Conflict
 
-Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
+Spawn a `general-purpose` subagent (`model: opus`) with this prompt:
 
 > You are Agent 3 of 4 running the `scene-writer` skill. Your job is the CONFLICT phase only — Steps 5–6.
 >
@@ -88,7 +88,7 @@ Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
 
 ### Agent 4 — Resolution
 
-Spawn a `general-purpose` subagent (`model: sonnet`) with this prompt:
+Spawn a `general-purpose` subagent (`model: opus`) with this prompt:
 
 > You are Agent 4 of 4 running the `scene-writer` skill. Your job is the RESOLUTION phase only — Steps 7–8.
 >
