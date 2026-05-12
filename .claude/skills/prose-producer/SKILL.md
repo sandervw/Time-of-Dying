@@ -47,6 +47,8 @@ Substitute `{STORY_PATH}`, `{PRIOR_SCENE_PATH}`, `{SCENE_TAG}`.
 
 Capture the returned path as `SCENE_BRIEF_PATH`.
 
+Reminder: if `INTERACTIVE = true`, **pause** before launching the next stage.
+
 ## Stage 2 — Scene Frame (sonnet)
 
 Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/stage2-cards.md`.
@@ -54,6 +56,8 @@ Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/st
 Substitute `{SCENE_BRIEF_PATH}`, `{SOURCE_PATH}`, `{SCENE_TAG}`.
 
 Capture the returned scene-frame path as `SCENE_FRAME_PATH`.
+
+Reminder: if `INTERACTIVE = true`, **pause** before launching the next stage.
 
 ## Stage 3 — Compose (inline; spawns sonnet phase agents)
 
@@ -77,6 +81,8 @@ Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/st
 Substitute `{SCENE_DRAFT_PATH}`, `{SCENE_BRIEF_PATH}`, `{SCENE_FRAME_PATH}`.
 
 Capture the returned post-scene summary path as `POST_SCENE_SUMMARY_PATH`.
+
+Reminder: if `INTERACTIVE = true`, **pause** before launching the next stage.
 
 ## Stage 5 — Audit (sonnet)
 
