@@ -18,7 +18,10 @@ Use the following questions to shape your setup. You do not need to answer "yes"
 
 ## Wordcount Constraint
 
-The total finished scene should be approximately **[WORDCOUNT]** words. For establishing scenes, the setup should account for **25–30%**. For continuation scenes, **5-15%** is the target.
+The total finished scene should be approximately **[WORDCOUNT]** words. This setup stage owns the establishing-vs-continuation swing for the whole scene; the conflict and resolution stages do not adjust based on scene type.
+
+- **Establishing scenes:** setup runs **25–30%** of total wordcount.
+- **Continuation scenes:** setup runs **5–15%** of total wordcount.
 
 If your setup exceeds the relevant cap (30% establishing, 15% continuation), **rewrite it shorter**. Brevity here is more important than addressing every guiding question. Cut the question, not the budget.
 

@@ -10,6 +10,8 @@ When counting words in a file, always use `wc -w <file>`
 
 `/tod-context` is your most important skill; use it when creating fiction content.
 
+All skills referenced by name live in this project at `<project>/.claude/skills/<name>/`, never in `~/.claude/skills/`. Pass absolute paths to subagents.
+
 "*subtext*" in an outline indicates material that should not be given directly in a scene - it should be hinted as obliquely as possible
 
 ## Naming Guidelines
