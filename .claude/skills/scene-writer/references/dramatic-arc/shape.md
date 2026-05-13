@@ -18,20 +18,20 @@ Declarative pipeline for the `dramatic-arc` shape. The orchestrator reads this f
 ### 2. Setup
 - Reference: `references/dramatic-arc/setup.md`
 - Role: writes opening prose; establishes situation before the central conflict.
-- Placeholder: `[Append setup prose here after Step 3]`
+- Placeholder: `[Append setup prose here]`
 - Wordcount share: **5–30%** of total. This stage owns the establishing-vs-continuation swing: establishing 25–30%, continuation 5–15%.
 - Report cap: 120 words.
 
 ### 3. Conflict
 - Reference: `references/dramatic-arc/conflict.md`
 - Role: writes the main body; central tension plays out.
-- Placeholder: `[Append conflict prose here after Step 5]`
+- Placeholder: `[Append conflict prose here]`
 - Wordcount share: **50–60%** of total (hard cap 70%).
 - Report cap: 120 words.
 
 ### 4. Resolution
 - Reference: `references/dramatic-arc/resolution.md`
 - Role: writes the closing prose; spends all remaining textures.
-- Placeholder: `[Append resolution prose here after Step 7]`
+- Placeholder: `[Append resolution prose here]`
 - Wordcount share: **10–20%** of total.
 - Report cap: 100 words.

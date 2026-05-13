@@ -14,7 +14,7 @@ Use the following questions to shape your conflict. You do not need to answer "y
 2. **Advancement**: Does the scene advance both plot and character development?
 3. **Desire-driven action**: Are each character's actions driven by their personal desires? Do these desires contrast or oppose each other?
 4. **Grounded conflict**: Are the conflicts grounded in specific, concrete actions — things characters *do* — rather than abstract disagreements or internal monologue?
-5. **Suppressed conflict**: What is the underlying or suppressed conflict in the scene? It should be implied through subtext — felt by the reader, not stated openly by the characters.
+5. **Suppressed conflict**: Is there an underlying or suppressed conflict implied through subtext — felt by the reader, not stated openly by the characters?
 6. **Re-blocking**: Do characters or locations shift dynamically through the scene? "Re-blocking" means changing the physical arrangement: characters move, the scene shifts locations, spatial relationships change.
 7. **Traded objects**: Are physical objects exchanged, handled, or fought over?
 

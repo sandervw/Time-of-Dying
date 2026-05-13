@@ -23,8 +23,8 @@
 
 ### Characters
 
-1. **[Name]:** [Current state, immediate goal]
-2. **[Name]:** [Current state, immediate goal]
+1. **[Name]:** [Current state, role as witness/observer]
+2. **[Name]:** [Current state, role as witness/observer]
 
 ### Location
 
@@ -42,14 +42,14 @@
 
 ## Draft
 
-### Setup
+### Threshold
 
-[Append setup prose here]
+[Append threshold prose here]
 
-### Conflict
+### Procession
 
-[Append conflict prose here]
+[Append procession prose here]
 
-### Resolution
+### Dissolution
 
-[Append resolution prose here]
+[Append dissolution prose here]

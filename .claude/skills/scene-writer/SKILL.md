@@ -44,7 +44,7 @@ The orchestrator instantiates this prompt per stage, substituting the bracketed 
 > 3. `{REFERENCE_PATH}` (last — reading it begins the phase).
 >
 > **If Stage 1 (Pre-Setup):**
-> Instantiate `{WORKING_DOC}` from the template at `{WORKING_DOC_TEMPLATE}`. Fill in the Pre-Scene Work section per the reference's tasks. Storyname: `{STORYNAME}`. Scene: `{SCENE_NUM}`. SHAPE: `{SHAPE}`. Leave every `[Append … prose here after …]` placeholder under `## Draft` untouched. Do NOT write scene prose. Condense your Pre-Scene Work to under 300 words total. Target wordcount for the full scene: `{WORDCOUNT}` words.
+> Instantiate `{WORKING_DOC}` from the template at `{WORKING_DOC_TEMPLATE}`. Fill in the Pre-Scene Work section per the reference's tasks. Storyname: `{STORYNAME}`. Scene: `{SCENE_NUM}`. SHAPE: `{SHAPE}`. Leave every `[Append … prose here]` placeholder under `## Draft` untouched. Do NOT write scene prose. Condense your Pre-Scene Work to under 300 words total. Target wordcount for the full scene: `{WORDCOUNT}` words.
 >
 > Report under `{REPORT_CAP}` words: working doc path, Pre-Scene Work word count (`wc -w`), any judgment calls. Do NOT paste the working doc back.
 >
@@ -81,7 +81,12 @@ scene-writer/
 │   │   ├── conflict.md
 │   │   └── resolution.md
 │   ├── revelation/    (TBD)
-│   ├── reverie/       (TBD)
+│   ├── reverie/
+│   │   ├── shape.md
+│   │   ├── working-doc.md
+│   │   ├── threshold.md
+│   │   ├── procession.md
+│   │   └── dissolution.md
 │   └── embedded-tale/ (TBD)
 └── assets/
     └── scene-template.md            # final scene wrapper
