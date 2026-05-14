@@ -9,4 +9,4 @@
 
 **Saturation cap (constant):** signature construction and positive mode each fire on no more than ~50% of the character's lines.
 
-**Banned:** "What does it feel like" type questions; fragment-as-style; any direct disclosure of builder-knowledge (he does not yet name his role in the tower's sealing)
+**Banned:** "What does it feel like" type questions; fragment-as-style.

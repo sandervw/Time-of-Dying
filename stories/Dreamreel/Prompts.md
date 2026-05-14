@@ -9,8 +9,9 @@ Summarize your changes across the scene when finished.
 /prose-producer Hey claude, here are the full and only filed needed for the scene I want you to write:
 - Source Style Passages: @stories\Dreamreel\Source-Style.md
 - Full Story Outline: @stories\Dreamreel\Outline.md
-- Prior Scene: @stories\Dreamreel\Scene-5.md
-- Scene Number: 6
+- Prior Scene: @stories\Dreamreel\Scene-6.md
+- Scene Number: 7
+- Scene Shape: Reverie
 **Note** - some cards are already defined in @output/ . Can you pass those to the second agent, so that it uses those cards for those characters?
 Also, I'd like to run this in **interactive** mode.
 Any questions?

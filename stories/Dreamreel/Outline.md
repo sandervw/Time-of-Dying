@@ -127,12 +127,12 @@ Outer chambers. Old invaders, long-preserved in the gas, rouse and attack. **Vic
 ### 7. The Dreamer and the Watcher
 **Wordcount:** 600
 
-Weirmoth drinks and goes under. Othelmedir stands over the sleeping body, listening to the mercenary murmur the names of the old tower cabal's members. Othelmedir internal monologue: the night of the breach; his hand on the lever that will unseal the lidded cauldron, releasing the gas; the colleagues he sealed inside. He knows precisely what Weirmoth is witnessing, and what the mercenary will know when he wakes.
+Weirmoth drinks and goes under. Othelmedir stands over the sleeping body, listening to the mercenary murmur the names of the old tower cabal's members. While Weirmoth dreams, Othelmedir begins brewing the poison of eleven reagents which will destroy the flesh-wall. Othelmedir goes through an internal monologue through most of this scene: the night of the breach; his hand on the lever that will unseal the lidded cauldron, releasing the gas; the colleagues he sealed inside. His moologue is an exact reflection of what Weirmoth is witnessing, and what the mercenary will know when he wakes.
 - (Internal monologue - othelmedir's memory) Weirmoth relives the original attack through the eyes of Othelmedir; the mancer cabals and their necromancies in brutal combat
 - (Internal monologue - othelmedir's memory) Othelmedir's former colleages instruct him to release the gas
 - (Internal monologue - othelmedir's memory) Othelmedir pulls the release lever, dooming the original occupants to endless sleep
 - (Othelmedir) Internal monologue in archaic, formal, self-mythologizing register; treats the original act as cowardice, not crime
-- While Weirmoth is dreaming Othelmedir brews up another potion (foreshadow resolution)
+- While Weirmoth is dreaming Othelmedir secretly brews up another, second potion (foreshadow resolution)
 
 ### 8. The Descent to the Cauldron
 **Wordcount:** 1,150

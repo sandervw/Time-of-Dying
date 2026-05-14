@@ -27,9 +27,3 @@ Weirmoth took the cup. He held it at the level of his chin.
 "I am not so clever as you take me for, friend," he said.
 
 Then he raised the cup to his lips.
-
-``` TODO - possibly cut this (unecessary?)
-He drank in three measured swallows. The cup came down, and his throat worked once more after it was empty. His eyes drifted from Othelmedir's face to the plaster above the cauldron, where a diagram of branching lungs had been inked over an older chart of the autumn stars; the inkwork forked and re-forked through the constellations as if reaching for them. Weirmoth's mouth opened on a word, then shut. He sat down very slowly against the bench.
-
-Othelmedir caught the cup before it fell. He set it on the slate and stood a moment over the sleeping man. The cauldron's heat rose at the small of his back; the gas chilled his ankles. He waited. After a moment, he drew the oxblood cloak from his shoulders and laid it across Weirmoth.
-```
