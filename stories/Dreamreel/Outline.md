@@ -137,7 +137,8 @@ Weirmoth drinks the witness-draught goes under. Othelmedir stands over the sleep
 ### 8. The Descent to the Cauldron
 **Wordcount:** 1,150
 
-Othelmedir has already brewed the potion and destroyed the muscle-wall by the time Weirmoth awakens. They descend toward the cauldron still spewing its slow gas; fighting through several members of both cabals. The identification of Othelmedir and the old name he wore is made clear. **Vicious, excrutiatingly-specific fighting** takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoth - describe specific maneuvers, movements, numbers of foes, how bodies are affected. The scene ends with the two arriving the Cauldren Chamber.
+(**Action Scene** - see below) Othelmedir and Weirmoth watch as the brewed poison destroys the muscle-wall. They descend toward the cauldron still spewing its slow gas; fighting through several members of both cabals. The identification of Othelmedir and the old name he wore is made clear. The scene ends with the two arriving the Cauldren Chamber.
+- **Vicious, excrutiatingly-specific fighting** takes place between the two reanimating cabals of necromancers (invaders and tower residents), and Othelmedir/Weirmoth throughout this scene. - describe specific maneuvers, movements, numbers of foes, how bodies are affected; the fight should have a back/forth, ups and downs - it should capture a mini-arc in a short number of words
 - Dining hall description; the food rotten and dessicate, the chairs overturned, the candles burnt to numbs
 - They pass by a ritual circle, where formerly the rituals of necromancy were performed by the tower cabal
 - Two named, now-undead former comrades - Fellow Sourbell and Fellow Alder the Lank - reveal Othelmedir's betrayal and identity: 'Fellow Liddick'; Weirmoth helps slay them

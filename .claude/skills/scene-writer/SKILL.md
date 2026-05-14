@@ -65,7 +65,7 @@ Read `{WORKING_DOC}`. Create `{SCENE_FILE}` from `assets/scene-template.md`:
 
 Delete `{WORKING_DOC}`.
 
-Report `{SCENE_FILE}` to the user. Suggest running `scene-review` next if they want to revise and produce a post-scene summary.
+Report `{SCENE_FILE}` to the user. Suggest running `scene-audit` next if they want a review of the draft.
 
 ## File Structure
 

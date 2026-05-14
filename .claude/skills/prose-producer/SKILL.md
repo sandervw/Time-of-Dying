@@ -29,7 +29,7 @@ When `INTERACTIVE = true`, after each of Stages 1–4 completes, **pause** befor
   - `continue` — proceed to the next stage as normal
   - `continue with note: <note>` — proceed to the next stage, appending `<note>` as additional instructions/context to that stage's prompt only (notes do not carry past one stage)
 
-Apply pauses only after Stages 1, 2, 3, and 4.
+Apply pauses only after Stages 1, 2, and 3.
 
 When `INTERACTIVE = false`, run all stages back-to-back as described below with no intermediate user input.
 
@@ -74,19 +74,9 @@ When scene-writer completes, capture the final scene file path as `SCENE_DRAFT_P
 
 Interactive-mode pause (if `INTERACTIVE = true`) happens BETWEEN phases.
 
-## Stage 4 — Review (sonnet)
+## Stage 4 — Audit (sonnet)
 
-Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/stage4-review.md`.
-
-Substitute `{SCENE_DRAFT_PATH}`, `{SCENE_BRIEF_PATH}`, `{SCENE_FRAME_PATH}`.
-
-Capture the returned post-scene summary path as `POST_SCENE_SUMMARY_PATH`.
-
-Reminder: if `INTERACTIVE = true`, **pause** before launching the next stage.
-
-## Stage 5 — Audit (sonnet)
-
-Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/stage5-audit.md`.
+Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/stage4-audit.md`.
 
 Substitute `{SCENE_DRAFT_PATH}`, `{STORY_PATH}`, `{PRIOR_SCENE_PATH}`, `{SCENE_TAG}`.
 
@@ -96,13 +86,13 @@ Capture the returned audit card path.
 
 Read the audit card yourself. Present the two lists (Story Fit, Internal Quality) to the user and ask which items, if any, they want applied to the scene draft. Accept their selections in any reasonable form (numbers, ranges, "all", "none", free-form).
 
-If the user picks **none**, skip Stage 6 and go to Final Output.
+If the user picks **none**, skip Stage 5 and go to Final Output.
 
-## Stage 6 — Apply Fixes (sonnet, optional)
+## Stage 5 — Apply Fixes (sonnet, optional)
 
 Only run if the user picked one or more fixes.
 
-Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/stage6-apply-fixes.md`.
+Launch a `general-purpose` subagent with `model: sonnet`. Prompt: `references/stage5-apply-fixes.md`.
 
 Substitute `{SCENE_DRAFT_PATH}` and `{CHOSEN_EDITS_VERBATIM}` (the verbatim text of the edits the user picked).
 
@@ -112,6 +102,5 @@ Print to the user:
 - Scene brief path
 - Scene frame path
 - Scene draft path
-- Post-scene summary path
 - Audit card path
-- (If Stage 6 ran) brief note that fixes were applied
+- (If Stage 5 ran) brief note that fixes were applied
