@@ -26,7 +26,9 @@
       "Bash(awk '/^## Scene Outline/{flag=1; next} /^## Already Rendered/{flag=0} !flag' \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/scene-brief-scene-4.md\")",
       "Bash(mv \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/setup.md\" \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/dramatic-arc/setup.md\")",
       "Bash(mv \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/conflict.md\" \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/dramatic-arc/conflict.md\")",
-      "Bash(mv \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/resolution.md\" \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/dramatic-arc/resolution.md\")"
+      "Bash(mv \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/resolution.md\" \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/dramatic-arc/resolution.md\")",
+      "Bash(awk '/^## Scene Outline/{exit} {print}' output/scene-brief-scene-7.md)",
+      "Read(//tmp/**)"
     ],
     "deny": [],
     "ask": []

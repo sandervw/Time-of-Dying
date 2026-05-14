@@ -12,15 +12,15 @@ Othelmedir went among the shelves. He took down a jar marked in a fading script,
 
 "That last one," Weirmoth said. "Those crystals. What's that which sits in your pocket now, and what'll it buy me?"
 
-"The grey," said Othelmedir, "buy nothing of your interest, Weirmoth. It is purchasing for me a future hour in a city not this one. The brew before us is the article of our contract; what travels in my coat is severance against the road home, and your coin is no thinner for it."
+"The crystals," said Othelmedir, "buy nothing of your interest, Weirmoth. It is purchasing for me a future hour in a city not this one. The brew before us is the article of our contract; what travels in my coat is severance against the road home, and your coin is no thinner for it."
 
 Weirmoth bit the thread off against his teeth. "Mancer's pockets get awful deep when no one's counting."
 
-"Mancer's pockets get awful deep when no one is counting; just so. Count, then." Othelmedir did not turn. "When the cauldron is split, you may search me to the lining. For now, attend. There is an eleventh reagent the treatise names: *Respiration from a Silver Dream* — a breath drawn from a sleeper who has died inside the sleep. The gas in this hall preserved such a breath; the first death it took, that of an anonymous trespasser, hangs in the air. To fetch it I must enter the dream that holds it, and I cannot. A practitioner habituated to necromancy who drinks the witness-draught burns at the nerves and is rendered into ash. An unhabituated man passes through and wakes."
+"Mancer's pockets get awful deep when no one is counting; just so. Count, then." Othelmedir did not turn. "When the cauldron is split, you may search me to the lining. For now, attend. There is an eleventh reagent the treatise names: *Respiration from a Silver Dream* — a breath drawn from a sleeper who has died inside the sleep. The gas in this hall preserved such a breath; the first death it took, that of an anonymous trespasser, hangs in the air. To fetch it I must enter the dream that holds it, and I cannot. But look here now, see this second deoction which I have pulled from the store. This is the witness-draught. A practitioner habituated to necromancy who drinks the witness-draught burns at the nerves and is rendered into ash. An unhabituated man passes through and wakes."
 
-Weirmoth set the needle down. He looked at the cup Othelmedir was now decanting, then at Othelmedir's white hand on the ladle, then back at the cup.
+Weirmoth set the needle down. He looked at the cup Othelmedir was now decanting, then at Othelmedir's white hand on the small bottle of the draught, then back at the cup.
 
-"Drink, master Weirmoth," said Othelmedir, holding out the cup now. "You will return, with the taste of wine still upon your lips; and we will go down to the cauldron together, with the potion rendered from this reagent."
+"Drink, master Weirmoth," said Othelmedir, holding out the cup now. "You will return, with no poor taste upon your lips; and we will go down to the cauldron together, through the wall, with my poison rendered from the eleventh reagent."
 
 Weirmoth took the cup. He held it at the level of his chin.
 

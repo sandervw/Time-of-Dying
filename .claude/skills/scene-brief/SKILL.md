@@ -39,7 +39,8 @@ Write the brief to `output/scene-brief-{SCENE_TAG}.md`.
 ### Required sections
 
 - **`# Scene {SCENE_TAG} Brief`** — title.
-- **`## Premise`** — one paragraph: POV, tense, target wordcount, and a brief, single-paragraph premise of the larger story, distilled from the source material.
+- **`## Premise`** — one paragraph: a brief, single-paragraph premise of the larger story, distilled from the source material.
+- **`## Scene Structure`** — POV, tense, target wordcount
 - **`## Scene Outline`** — preserved from the source. You may paraphrase, summarize, or reorder only if the original material would confuse the LLM writing the prose. You may not add elements, unecessary justification, or further instructions to this outline.
 
 ### Optional sections

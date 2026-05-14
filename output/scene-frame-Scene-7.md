@@ -1,19 +1,16 @@
-# Scene Frame — Scene 7
+# Scene Frame — Scene-7
 
 ## Scene Parameters
 
-**POV / Tense:** Limited 3rd-person (Othelmedir), past tense.
+**Senses (3):** taste, temperature, sound
 
-**Scene Shape:** Reverie. Drift, tableaux, observer/witness, slack time. No fight, no negotiation, no plot ratchet inside this scene.
+The still-room is a closed, airless space saturated with the brew's fumes; taste and temperature anchor the physical reality. Sound is the only outward evidence of Weirmoth's dream state.
 
-**Senses (rolled):** taste · sight · pain
-Taste grounds the small brew-work of the second potion only (its reagents tasted, not merely smelled); the staged eleven-reagent poison sits already-measured on the slate and is not actively worked in this scene. Sight governs the memory-tableaux drifting through Othelmedir's mind. Pain surfaces as sensation-memory: the lever-pull, the sealed colleagues, the cost of cowardice reframed.
+**Rhythm:** Othelmedir's interior monologue benefits from periodic sentences that withhold their main clause.
 
-**Rhythms (rolled):** run-on · periodic-with-interruptions
-Run-on suits the slow drift of Reverie; periodic-with-interruptions captures the way memory surfaces then is suppressed mid-thought.
+**Scene shape:** The scene moves from the charged moment of the draught going down toward a quiet, diminished close.
 
-**Color Palette (rolled):** cold-dominant
-Blues, greys, and pale greens.
+**Color palette:** The still-room palette should run cold, slate, iron, pale copper — with heat only in the cauldron's glow.
 
 ---
 
@@ -21,22 +18,17 @@ Blues, greys, and pale greens.
 
 **Extracted features:**
 
-1. **Sentence-length distribution:** Long, elaborately subordinated sentences (30-60 words) dominate; occasional mid-length sentences (12-18 words) for beat-breaks; almost no short sentences except for stark declaratives at scene pivots.
-2. **Clause stacking:** Right-branching, accumulative — main clause states fact, then participial phrases and relative clauses pile detail behind it. Periodic construction used sparingly but with weight.
-3. **Register:** Elevated, slightly archaic; Latinate diction preferred (*putrescence, sepulchral, preternatural, adytum*); no contractions; no colloquialism.
-4. **Dominant sensory channels:** Smell and hearing dominate the approach; sight withheld until threshold-crossing, then delivered in controlled fragments.
-5. **Signature tics:** Paired nouns or adjectives joined by *and* (*dead and clammy, wild and stifling*); appositive noun phrases used to re-anchor a subject mid-sentence; similes are rare and classical in structure.
-6. **Punctuation habits:** Semicolons used to chain coordinated observations rather than full stops; em-dashes avoided; commas carry most internal pause-work.
-7. **Negation as description:** Negative constructions used frequently to characterize what is absent (*lightless as dead eyes, rayless as any mausoleum*).
+1. **Sentence-length distribution:** Swings between very short declaratives (under 10 words) and long, winding periodic sentences (50–100+ words); the mid-range is almost absent.
+2. **Clause stacking:** Right-branching accumulation of participial and relative clauses; lists frequently extend beyond expectation, then collapse into a one-line beat.
+3. **Register:** Formal but not quite archaic; plain nouns and plain verbs, elevated by unusual collocations and deliberate oddness of image rather than Latinate vocabulary.
+4. **Dominant sensory channels:** Visual (color, light, texture) dominant; temperature present; smell and taste rare but used for emotional weight.
+5. **Signature tics:** Anaphora ("And the days move on... and..."); the comma-strung list that ends on a single falling phrase; the em-dash used sparingly for a sudden close-up.
+6. **Punctuation habits:** Long sentences are held together with commas and conjunctions rather than semicolons; full stops are used for abrupt weight, not pause.
+7. **Repetition:** Key nouns and phrases are repeated across a paragraph.
 
-**Do / Don't:**
-- DO stack participial and relative clauses behind a plain main clause.
-- DO use semicolons to chain observations within a single long breath.
-- DO deploy elevated Latinate vocabulary without apology.
-- DO describe absence and silence as negatives, not metaphors.
-- DON'T use contractions or modern registers.
-- DON'T rush to sight — withhold visual detail until the beat earns it.
-- DON'T write short declarative strings for atmosphere; let sentences breathe long.
+**Do this:** Let long accumulative sentences run; close them with a short, flat line. Repeat key nouns rather than reaching for synonyms. Use plain English for concrete objects; allow strangeness in the collocations.
+
+**Don't do this:** Semicolons as a default joiner. Latinate abstraction. Similes built on tools or weapons. Tidy parallel structure.
 
 ---
 
@@ -51,7 +43,7 @@ Blues, greys, and pale greens.
 
 **Saturation cap (constant):** signature construction and positive mode each fire on no more than ~50% of the character's lines.
 
-**Banned:** "What does it feel like" type questions; fragment-as-style.
+**Banned:** "What does it feel like" type questions; fragment-as-style
 
 ---
 
@@ -71,17 +63,18 @@ Blues, greys, and pale greens.
 ## Forbidden Patterns
 
 **Rolled bans:**
-- No `X like Y` similes where Y is domestic or food
-- No `like a` constructions
-- No isolated fragment sentences
-- No anaphora across consecutive sentences
-- No rhetorical questions in narration
-- No silence described as a physical weight
-- No character described by what their hands are doing
-- No modern slang if the scene is pre-modern
 
-**Scene-specific bans (PREDICTIVE — Reverie shape):**
-- No explicit scene-boundary markers announcing the memory-drift (*"he remembered," "the vision showed him," "he saw again"*)
-- No emotional summary at the close of a memory tableau
-- No dream-logic inconsistency used for texture
-- No waking-dream clichés (*his vision swam, the room blurred, he was transported*)
+- No `like a` constructions
+- No similes whose vehicle is a tool or weapon
+- No parallel-clause balanced sentences (`he did X. she did Y.`)
+- No `not X, but Y` constructions
+- No comma splices
+- No eyes described as reflective surfaces (mirrors, water, glass)
+- No Latinate vocabulary where Anglo-Saxon would do
+
+**Scene-specific bans (PREDICTIVE):**
+
+- No direct naming of Othelmedir's guilt; the interior monologue must frame the lever-pull through euphemism, self-mythologizing distance, or passive construction — never confession.
+- No over-literalizing the shared dream; Weirmoth's murmured names should be heard, not described or explained.
+- No clichéd dream/sleep imagery (mist, fog, drifting, floating, veils).
+- No clean resolution to Othelmedir's self-examination; the scene closes in deflation, not absolution.
