@@ -28,7 +28,9 @@
       "Bash(mv \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/conflict.md\" \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/dramatic-arc/conflict.md\")",
       "Bash(mv \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/resolution.md\" \"C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/.claude/skills/scene-writer/references/dramatic-arc/resolution.md\")",
       "Bash(awk '/^## Scene Outline/{exit} {print}' output/scene-brief-scene-7.md)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Skill(scene-brief)",
+      "Skill(scene-framing)"
     ],
     "deny": [],
     "ask": []

@@ -12,10 +12,10 @@ if (-not $path -or $path -notmatch '\.md$') {
 }
 
 $reminder = @"
-Reminder before writing/editing this markdown: would the text benefit from specific proper names, or from added setting-specific lore? If yes:
+Before writing/editing this markdown: would the text benefit from *new* specific proper names, or from *existing* lore? If yes:
 - For names: run `python sampling.py names 10` from setting/ (per CLAUDE.md naming guidelines), then invent NEW names inspired by the samples.
 - For lore/setting: invoke the /tod-context skill.
-Skip if the content is purely structural/meta (config, index, todo, etc.), or would not benefit from added names or lore.
+Skip if the content is purely structural/meta (config, index, todo, etc.).
 "@
 
 @{

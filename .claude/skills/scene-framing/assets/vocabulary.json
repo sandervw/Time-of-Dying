@@ -45,10 +45,16 @@
     "parallel-thread"
   ],
   "color_palettes": [
-    "muted earth-tones",
-    "warm-dominant",
-    "cold-dominant",
-    "monochromatic-grey"
+    "violets-and-yellows",
+    "rust-and-verdigris",
+    "ember-and-soot",
+    "ink-and-parchment",
+    "stained-glass-jewel-tones",
+    "bonefire-blue-and-pitch-black",
+    "sea-glass-and-bleach",
+    "reds-and-whites",
+    "pinks-and-greys",
+    "greens-and-browns"
   ],
   "positive_modes": [
     "speaks in declaratives about the past",

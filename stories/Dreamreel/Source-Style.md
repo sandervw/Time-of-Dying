@@ -1,45 +1,35 @@
-And all the while the progress of the seasons, those great tides, enveloped and stained with their passing colors, chilled or warmed with their varying exhalations, the tracts of Gormenghast. And so, as Fuchsia wanders across her room in search of a lost book, the South Spinneys below her window are misty with a green hesitation, and a few days later the sharp green fires have broken out along the iron boughs.
+Mazirian went his way. At the end of the glade the trail led steeply down ledges of dark green serpentine to the River Derna. The sun had set and shade filled the valley. Mazirian gained the riverside and set off downstream toward a far shimmer known as Sanra Water, the Lake of Dreams.
 
-Opus Fluke and Flannelcat are leaning over the veranda railing above the Professors’ Quadrangle. The old Quadman is sweeping the dust thirty feet below them. It is thick and white with heat, for the spring has long since passed.
+An evil odor came to the air, a stink of putrescence and filth. Mazirian went ahead more cautiously, for the lair of Thrang the ghoul-bear was near, and in the air was the feel of magic — strong brutal sorcery his own more subtle spells might not contain.
 
-“Hot work for an old fellow!” shouts Fluke to the old man. The ancient lifts his head and wipes his brow. “Ah!” he calls up in a voice that could not have been used for weeks. “Ah, sir, it’s a dry do.” Fluke retires and in a few minutes has returned with a bottle which he has stolen from Mulefire’s apartment. This he lowers on a length of string to the old man, far below in the dust.
+The sound of voices reached him, the throaty tones of Thrang and gasping cries of terror. Mazirian stepped around a shoulder of rock, inspected the origin of the sounds.
 
-In his study, and locked away from the world, Prunesquallor, lying rather than sitting in his elegant armchair, reads, with his crossed feet resting just below the mantelpiece.
+Thrang’s lair was an alcove in the rock, where a fetid pile of grass and skins served him for a couch. He had built a rude pen to cage three women, these wearing many bruises on their bodies and the effects of much horror on their faces. Thrang had taken them from the tribe that dwelt in silk-hung barges along the lake-shore. Now they watched as he struggled to subdue the woman he had just captured. His round gray man’s face was contorted and he tore away her jerkin with his human hands. But she held away the great sweating body with an amazing dexterity. Mazirian’s eyes narrowed. Magic, magic!
 
-The small fire in the grate lights up his keen, absurdly refined, and for all its weirdness of proportion, delicate face. The magnifying lenses of his spectacles, which can give so grotesque an effect to his eyes, gleam in the firelight.
+So he stood watching, considering how to destroy Thrang with no harm to the woman. But she spied him over Thrang’s shoulder.
 
-It is no book of medicine that he is so absorbed in. On his knee there is an old exercise book filled with verses. The handwriting is erratic but legible. Sometimes the poems are in a heavy, ponderous, and childish hand—sometimes in a quick, excited calligraphy, full of crossings-out and misspellings.
+“See,” she panted, “Mazirian has come to kill you.”
 
-That Fuchsia should have ever asked him to read them is the most thrilling thing that he has ever experienced. He loves the girl as though she were his own daughter. But he has never sought her out. Little by little, as the times have gone by, she has taken him into her confidence.
+Thrang twisted about. He saw Mazirian and came charging on all fours, venting roars of wild passion. Mazirian later wondered if the ghoul had cast some sort of spell, for a strange paralysis strove to bind his brain. Perhaps the spell lay in the sight of Thrang’s raging gray-white face, the great arms thrust out to grasp.
 
-But as he reads, and while the autumn wind whistles in the branches of the garden trees, his brow contracts and he returns his gaze to the four curious lines which Fuchsia had crossed out with a thick pencil:
+Mazirian shook off the spell, if such it were, and uttered a spell of his own, and all the valley was lit by streaming darts of fire, lashing in from all directions to spit Thrang’s blundering body in a thousand places. This was the Excellent Prismatic Spray — many-colored stabbing lines. Thrang was dead almost at once, purple blood flowing from countless holes where the radiant rain had pierced him.
 
-*How white and scarlet is that face!*
+But Mazirian heeded little. The girl had fled. Mazirian saw her white form running along the river toward the lake, and took up the chase, heedless of the piteous cries of the three women in the pen.
 
-*Who knows, in some unusual place*
+The lake presently lay before him, a great sheet of water whose further rim was but dimly visible. Mazirian came down to the sandy shore and stood seeking across the dark face of Sanra Water, the Lake of Dreams. Deep night with only a verge of afterglow ruled the sky, and stars glistened on the smooth surface. The water lay cool and still, tideless as all Earth’s waters had been since the moon had departed the sky.
 
-*The colored heroes are alight*
+Where was the woman? There, a pale white form, quiet in the shadow across the river. Mazirian stood on the riverbank, tall and commanding, a light breeze ruffling the cloak around his legs.
 
-*With faces made of red and white.*
+“Ho, girl,” he called. “It is I, Mazirian, who saved you from Thrang. Come close, that I may speak to you.”
 
-It is a cold and dreary winter. Once again Flay, who is now as much at home in the Silent Halls as he has been in the forests, sits at the table in his secret room. His hands are deep in his ragged pockets. Before him is spread a great sail of paper that not only covers the table, but descends in awkward folds and creases to the floor on every side. A portion near its center is covered with markings, laboriously scripted words, short arrows, dotted lines, and incomprehensible devices. It is a map; a map which Mr. Flay has been working upon for over a year. It is a map of the district that surrounds him—the empty world, whose anatomy, little by little, he is piecing together, extending, correcting, classifying. He is, it seems, in a city that has been forsaken, and he is making it his own; naming its streets and alleys, its avenues of granite, its winding flights and blackened terraces—exploring even further its hollow hinterlands, while over all, like a lowering sky, as continuous and as widespread, are the endless ceilings and the unbroken roof.
+“At this distance I hear you well, Magician,” she replied. “The closer I approach the farther I must flee.”
 
-He is no master of calligraphy. A pen sits awkwardly in his hand. But, both while engaged upon his expeditions and when adding with painful slowness to his map, during the long days, his life in the pathless woods is standing him in good stead.
+“Why then do you flee? Return with me and you shall be mistress of many secrets and hold much power.”
 
-With no stars to help him, his sense of orientation has become uncanny.
+She laughed. “If I wanted these, Mazirian, would I have fled so far?”
 
-Tonight he will keep watch upon Steerpike’s door as has become his custom in the small hours, and if the opportunity arises, he will follow him upon whatever business he is bent. Until then he has seven hours in which to push forward with this task of reconnaissance, which has now become a passion.
+“Who are you then that you desire not the secrets of magic?”
 
-He takes his hands out of his pockets and with a scarred and bony forefinger he traces for himself the path he proposes to follow. It takes a northward course, sweeping in a number of arcs before it zigzags through a veritable cross-hatching of narrow alleys to reappear as a twelve-foot corridor with a worn pavement on its either side. This corridor heads undeviatingly to the north and fades out in a series of small, hesitant dots on that part of Mr. Flay’s paper that has all but overlapped the table. It has reached the margin of his knowledge to the north.
+“To you, Mazirian, I am nameless, lest you curse me. Now I go where you may not come.” She ran down the shore, waded slowly out till the water circled her waist, then sank out of sight. She was gone.
 
-He pulls the chart toward him and the loose paper on the far side of the table slides upward from the floor, and then, in creeping forward to beneath his outstretched head, it opens out its wastes of untrodden whiteness with an arctic yawn.
-
-And the days move on and the names of the months change and the four seasons bury one another and it is spring again and yet again, and the small streams that run over the rough sides of Gormenghast Mountain are big with rain while the days lengthen and summer sprawls across the countryside, sprawls in all the swathes of its green, with its gold and sticky head, with its slumber and the drone of doves and with its butterflies and its lizards and its sunflowers, over and over again, its doves, its butterflies, its lizards, its sunflowers, each one an echo-child, while the fruit ripens and the grotesque boles of the ancient apple trees are dappled in the low rays of the sun and the air smells of such rotten sweetness as brings a hunger to the breast, and makes of the heart a sea-bed, and a tear, the fruit of salt and water, ripens, fed by a summer sorrow—ripens and falls . . . falls gradually along the cheekbones, wanders over the wastelands listlessly, the loveliest emblem of the heart’s condition.
-
-And the days move on and the names of the months change and the four seasons bury one another and the field-mice draw upon their granaries. The air is murky and the sun is like a raw wound in the grimy flesh of a beggar, and the rags of the clouds are clotted. The sky has been stabbed and has been left to die above the world, filthy, vast, and bloody. And then the great winds come and the sky is blown naked, and a wild bird screams across the glittering land. And the Countess stands at the window of her room with the white cats at her feet and stares at the frozen landscape spread below her, and a year later she is standing there again but the cats are abroad in the valleys and a raven sits upon her heavy shoulder.
-
-And every day the myriad happenings. A loosened stone falls from a high tower. A fly drops lifeless from a broken pane. A sparrow twitters in a cave of ivy.
-
-The days wear out the months and the months wear out the years, and a flux of moments, like an unquiet tide, eats at the black coast of futurity.
-
-And Titus Groan is wading through his boyhood.
+Mazirian paused indecisively. It was not good to use so many spells and thus shear himself of power. What might exist below the lake? The sense of quiet magic was there, and though he was not at enmity with the Lake Lord, other beings might resent a trespass. However, when the figure of the girl did not break the surface, he uttered the Charm of Untiring Nourishment and entered the cool waters.
