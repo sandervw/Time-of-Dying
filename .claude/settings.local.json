@@ -30,7 +30,8 @@
       "Bash(awk '/^## Scene Outline/{exit} {print}' output/scene-brief-scene-7.md)",
       "Read(//tmp/**)",
       "Skill(scene-brief)",
-      "Skill(scene-framing)"
+      "Skill(scene-framing)",
+      "Skill(scene-audit)"
     ],
     "deny": [],
     "ask": []
