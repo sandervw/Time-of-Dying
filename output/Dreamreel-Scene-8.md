@@ -18,7 +18,7 @@ Two of the Milkmoot stood waiting under the lintel of an inner door. They had be
 
 The first invader carried a broken halberd and a soundless word on his dead tongue. Weirmoth caught the descending halberd-haft against his spear. Deflecting, he pulled sharply back, and lunged. His speartip slid beneath the chin of his foe. That dead dream seemed to crumble with the blow, dry as bark.
 
-The second came through Weirmoth's guard while he recovered. A late parry: the vibration ran up the mercenary's spear, through his forearm to the shoulder. Weirmoth staggered a half step into the table. But the invader's legs had been still too long. They betrayed him; he sat abruptly down in the gas, yet with his eyes still following hatefully the mercenary.
+The second came through Weirmoth's guard while he recovered. A late parry — the spearblade caught his forearm as he turned it, opening the skin to the bone. Weirmoth staggered a half step into the table. The invader pressed, jabbing high. Weirmoth let him, took the blow on his shoulder, dropped his weight, and drove his speartip through the dead man's chest. The invader went down into the gas with his hands still reaching.
 
 "Friend Weirmoth," said Othelmedir, "the next door - enter it carefully, and pass along the wall once within. A ritual circle lies past it, and we must not step upon the chalk."
 
