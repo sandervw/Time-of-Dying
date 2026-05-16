@@ -340,6 +340,61 @@ Therewith stood up Lord Juss, and with him the Lord Goldry Bluszco, that went in
 
 The Red Foliot sent after them and made them in their own booths to be served of great plenty of wine and good and delicate meats, and sent them musicians and a minstrel to gladden them with songs and stories of old time, that they might lack nought of entertainment. But for his other guests he let bear in the massy cups of silver, and the great eared wine jars holding two firkins apiece, and he let pour forth to the Witches and the Foliots, and they drank the cup of memory unto King Gorice XI., slain that day by the hand of Goldry Bluszco. Thereafter when their cups were brimmed anew with foaming wine the Red Foliot spake among them and said, “O ye lords of Witchland, will you that I speak a dirge in honour of Gorice the King that the dark reaper hath this day gathered?” So when they said yea to this, he called to him his player on the theorbo and his player on the hautboy, and commanded them saying, “Play me a solemn music.” And they played softly in the Aeolian mode a music that was like the wailing of wind through bare branches on a moonless night, and the Red Foliot leaned forth from his high seat and recited this lamentation:
 
+I that in heill was and gladness
+Am trublit now with great sickness
+  And feblit with infirmitie:--
+  Timor Mortis conturbat me.
+
+Our plesance here is all vain glory,
+This fals world is but transitory,
+  The flesh is bruckle, the Feynd is slee:--
+  Timor Mortis conturbat me.
+
+The state of man does change and vary,
+Now sound, now sick, now blyth, now sary,
+  Now dansand mirry, now like to die:--
+  Timor Mortis conturbat me.
+
+No state in Erd here standis sicker;
+As with the wynd wavis the wicker,
+  So wannis this world's vanitie:--
+  Timor Mortis conturbat me.
+
+Unto the Death gois all Estatis,
+Princis, Prelattis, and Potestatis,
+  Baith rich and poor of all degree:--
+  Timor Mortis conturbat me.
+
+He takis the knichtis in to field
+Enarmit under helm and scheild;
+  Victor he is at All mellie:--
+  Timor Mortis conturbat me.
+
+That strong unmerciful tyrand
+Takis, on the motheris breast sowkand,
+  The babe full of benignitie:--
+  Timor Mortis conturbat me.
+
+He takis the campion in the stour,
+The captain closit in the tour,
+  The lady in bour full of bewtie:--
+  Timor Mortis conturbat me.
+
+He spairis no lord for his piscence,
+Na clerk for his intelligence;
+  His awful straik may no man flee:--
+  Timor Mortis conturbat me.
+
+Art-magicianis and astrologis,
+Rethoris, logicianis, theologis,
+  Them helpis no conclusionis slee:--
+  Timor Mortis conturbat me.
+
+In medecine the most practicianis,
+Leechis, surrigianis, and physicianis,
+  Themself from Death may nocht supplee:--
+  Timor Mortis conturbat me.
+
 When the Red Foliot had spoken thus far his dirge, he was interrupted by an unseemly brawling betwixt Corinius and one of the sons of Corund. For Corinius, who gave not a fig for music or dirges, but liked well of carding and dicing, had brought forth his dice box to play with the son of Corund. They played awhile to Corinius’s great content, for at every throw he won and the other’s purse waxed light. But at this eleventh stanza the son of Corund cried out that the dice of Corinius were loaded. And he smote Corinius on his shaven jowl with the dice box, calling him cheat and mangy rascal, whereupon Corinius drew forth a bodkin to smite him in the neck withal; but some went betwixt them, and with much ado and much struggling and cursing they were parted, and it being shown that the dice were not loaded, the son of Corund was fain to make amends to Corinius, and so were they set at one again.
 
 Now was the wine poured forth yet again to the lords of Witchland, and the Red Foliot drank deep unto the glory of that land and the rulers thereof. And he issued command saying, “Let my Kagu come and dance before us, and thereafter my other dancers. For there is no pleasure whereon the Foliots do more dearly dote than this pleasure of the dance, and sweet to us it is to behold delightful dancing, be it the stately splendour of the Pavane which progresseth as large clouds at sun-down that pass by in splendour; or the graceful Allemande; or the Fandango, which goeth by degrees from languorous beauty to the swiftness and passion of Bacchanals dancing on the high lawns under a summer moon that hangeth in the pine trees; or the joyous maze of the Galliard; or the Gigue, dear to the Foliots. Therefore delay not, but let my Kagu come, that she may dance before us.”
