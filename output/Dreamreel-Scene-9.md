@@ -1,39 +1,10 @@
-# Dreamreel: Scene 9 Working Doc
+# Dreamreel: Scene 9
 
-## Pre-Scene Work
-
-**Scene Type:** Continuation. Picks up moments after Scene 8; same tower, same pair. No re-orientation.
-
-### Purpose
-
-Resolves the cauldron objective, converts Othelmedir's guilt into stated terms, reveals Weirmoth's hidden register, and seeds the pendant as a lingering question for the audience.
-
-### Textures
-
-1. The hammered-tin pendant cold against Othelmedir's sternum beneath the oxblood cloak
-
-### Characters
-
-1. **Othelmedir:** Steady, conserving breath; arm of bone-white prosthetic at rest. Wants the ritual finished, the bargain closed clean, and the pendant unmentioned.
-2. **Weirmoth:** Wounded but composed; spear ready, weight off the cut side. Wants payment in reagents, and to test whether his read of the mancer is correct.
-
-### Location
-
-The cauldron chamber at the tower's base. A low vaulted room of riveted iron plates, walls bloomed rust and verdigris. The cauldron squats centered on a short dais, knee-high, its lip blackened. Knee-deep pale-green gas thins as the decoction takes.
-
----
-
-## Draft
-
-### Setup
-
-The half-open door gave onto a short flight, and the short flight gave onto the cauldron chamber. Othelmedir went first. The stone underfoot was gritted with old salt, and his boot found the grain of it through the pale-green wash of gas. 
+The half-open door gave onto a short flight, and the short flight gave onto the cauldron chamber. Othelmedir went first. The stone underfoot was gritted with old salt, and his boot found the grain of it through the pale-green wash of gas.
 
 The cauldron squatted on its dais at the room's center, dull copper bloomed to verdigris along the rivets, its lip blackened, its body sweating. Weirmoth came down behind him at a careful pace, using one hand to keep his sleeve wrapped tightly around his cut arm.
 
 "I'll not interfere," said Weirmoth. "Do your work, mancer."
-
-### Conflict
 
 Othelmedir drew his secret third bottle - The Lidd Decoction - from the inner pocket of the oxblood cloak. Thumbing away the wax seal he had placed upon it, he stepped to the dais. He tipped the bottle's mouth over the cauldron's lip and poured.
 
@@ -53,6 +24,8 @@ Othelmedir's black brow furrowed. He had taken Weirmoth for a road-tough. He inc
 
 Othelmedir laid the reagents on the dais one at a time: a stoppered horn first, then a twist of waxed paper, then a small leather purse of cinerous crystals that spilled a little at one torn corner. Weirmoth's eye moved over each as it was set down.
 
-### Resolution
+Othelmedir straightened. "Master Weirmoth," he said, "you bargain in the manner of a mancer."
 
-[Append resolution prose here]
+Weirmoth gathered the reagents into the crook of his good arm. "Back up the stairs we go then."
+
+As they began to ascend the stair leading from the cauldron room, Othelmedir said nothing. He had no wish to remind Weirmoth of the pendant of hammered tin which he had taken from the Milmoot cabalist. He felt the flat-tear edge of it now, cool against his sternum, hidden beneath his robes.
