@@ -1,35 +1,41 @@
-Mazirian went his way. At the end of the glade the trail led steeply down ledges of dark green serpentine to the River Derna. The sun had set and shade filled the valley. Mazirian gained the riverside and set off downstream toward a far shimmer known as Sanra Water, the Lake of Dreams.
+All during the day they flew, over dusty waste, dry cliffs, another great range of mountains, and as sunset came they slowly sloped downward over a green parkland.
 
-An evil odor came to the air, a stink of putrescence and filth. Mazirian went ahead more cautiously, for the lair of Thrang the ghoul-bear was near, and in the air was the feel of magic — strong brutal sorcery his own more subtle spells might not contain.
+Ahead shone a glimmering sea. The winged things landed on the wide strand, and Javanne bound them to immobility for their return.
 
-The sound of voices reached him, the throaty tones of Thrang and gasping cries of terror. Mazirian stepped around a shoulder of rock, inspected the origin of the sounds.
+The beach, the woodland behind, both were bare of any trace of the wondrous city of the past. But a half-mile out to sea rose a few broken columns.
 
-Thrang’s lair was an alcove in the rock, where a fetid pile of grass and skins served him for a couch. He had built a rude pen to cage three women, these wearing many bruises on their bodies and the effects of much horror on their faces. Thrang had taken them from the tribe that dwelt in silk-hung barges along the lake-shore. Now they watched as he struggled to subdue the woman he had just captured. His round gray man’s face was contorted and he tore away her jerkin with his human hands. But she held away the great sweating body with an amazing dexterity. Mazirian’s eyes narrowed. Magic, magic!
+“The sea has come,” Etarr muttered. “The city has foundered.”
 
-So he stood watching, considering how to destroy Thrang with no harm to the woman. But she spied him over Thrang’s shoulder.
+He waded out. The sea was calm and shallow. T’sais and Javanne followed. With the water around their waists, and dusk coming from the sky, they came through the broken columns of the ancient temple.
 
-“See,” she panted, “Mazirian has come to kill you.”
+A brooding presence pervaded the place, dispassionate, supernal, of illimitable will and power.
 
-Thrang twisted about. He saw Mazirian and came charging on all fours, venting roars of wild passion. Mazirian later wondered if the ghoul had cast some sort of spell, for a strange paralysis strove to bind his brain. Perhaps the spell lay in the sight of Thrang’s raging gray-white face, the great arms thrust out to grasp.
+Etarr stood in the center of the old temple.
 
-Mazirian shook off the spell, if such it were, and uttered a spell of his own, and all the valley was lit by streaming darts of fire, lashing in from all directions to spit Thrang’s blundering body in a thousand places. This was the Excellent Prismatic Spray — many-colored stabbing lines. Thrang was dead almost at once, purple blood flowing from countless holes where the radiant rain had pierced him.
+“God of the past!” he cried. “I know not how you were called, or I would invoke you by name. We three come from a far land to the west to seek justice of you. If you hear and will administer us each our due, give me a sign!”
 
-But Mazirian heeded little. The girl had fled. Mazirian saw her white form running along the river toward the lake, and took up the chase, heedless of the piteous cries of the three women in the pen.
+A low sibilant voice came from the air: “I hear and will give each his due.” And each saw a vision of a golden six-armed figure with a round, calm face, sitting impassive in the nave of a monstrous temple.
 
-The lake presently lay before him, a great sheet of water whose further rim was but dimly visible. Mazirian came down to the sandy shore and stood seeking across the dark face of Sanra Water, the Lake of Dreams. Deep night with only a verge of afterglow ruled the sky, and stars glistened on the smooth surface. The water lay cool and still, tideless as all Earth’s waters had been since the moon had departed the sky.
+“I have been bereft of my face,” said Etarr. “If you deem me fit, restore me the face I once wore.”
 
-Where was the woman? There, a pale white form, quiet in the shadow across the river. Mazirian stood on the riverbank, tall and commanding, a light breeze ruffling the cloak around his legs.
+The god of the vision extended its six arms.
 
-“Ho, girl,” he called. “It is I, Mazirian, who saved you from Thrang. Come close, that I may speak to you.”
+“I have searched your mind. Justice shall be meted. You may remove your hood.” Slowly Etarr doffed his mask. He put his hand to his face. It was his own.
 
-“At this distance I hear you well, Magician,” she replied. “The closer I approach the farther I must flee.”
+T’sais looked numbly at him. “Etarr!” she gasped. “My brain is whole! — *I see the world!*”
 
-“Why then do you flee? Return with me and you shall be mistress of many secrets and hold much power.”
+“To each who comes, justice is done,” said the sibilant voice.
 
-She laughed. “If I wanted these, Mazirian, would I have fled so far?”
+They heard a moan. They turned and looked at Javanne. Where was the lovely face, the strawberry mouth, the fair skin?
 
-“Who are you then that you desire not the secrets of magic?”
+Her nose was a three-fold white squirming thing, her mouth a putrefying blotch. She had dangling mottled jowls and a peaked black forehead. The only thing left of Javanne was the long red hair dangling over her shoulders.
 
-“To you, Mazirian, I am nameless, lest you curse me. Now I go where you may not come.” She ran down the shore, waded slowly out till the water circled her waist, then sank out of sight. She was gone.
+“To each who comes, justice is done,” said the voice, and the vision of the temple faded, and once more the cool water of the twilight sea lapped at their waists, and the broken columns leaned black on the sky.
 
-Mazirian paused indecisively. It was not good to use so many spells and thus shear himself of power. What might exist below the lake? The sense of quiet magic was there, and though he was not at enmity with the Lake Lord, other beings might resent a trespass. However, when the figure of the girl did not break the surface, he uttered the Charm of Untiring Nourishment and entered the cool waters.
+They returned slowly to the winged creatures.
+
+Etarr turned to Javanne. “Go,” he commanded. “Fly back to your lair. When the sun sets tomorrow, release yourself from the spell. Never bother us henceforth, for I have magic which will warn me and blast you if you approach.”
+
+And Javanne wordlessly bestrode her dark creature and winged off through the night.
+
+Etarr turned to T’sais, and took her hand. He gazed down at her tilted white face, into the eyes glowing with such feverish joy that they seemed afire. He bent and kissed her forehead; then, together, hand in hand, they went to their fretting winged creatures, and so flew back to Ascolais.

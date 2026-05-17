@@ -4,13 +4,22 @@ Hey claude, read @output\Time-of-Dying-Scene-4.md and @output\working-context-Sc
 The goal is not to increase the total wordcount of the scene (hence the cutting). Count the original words before you start. Count again after edits. If your new wordcount is mroe than 105% of the original, you must trim until it is below. You must not trim individual words - trim only sentences, choosing the sentences that contribute the least to the scene.
 Summarize your changes across the scene when finished.
 
+## Finding Scene Shapes
+
+Hey claude, read @output\scene-shapes.md and the files in @.claude\skills\scene-writer\references\dramatic-arc from your scene-writer skill. Just read those for now, and explain how the `dramatic arc` scene type functions so that I know you understand.
+
+
+Great. Now read the titles of the files in @sources\literature. These are (mostly) classic dark fantasy/sci-fi books and short stories. All I want you to do is give me examples of small, self-contained scenes from those stories that fit the `dramatic arc` scene type. Focus on finales, or scenes where the resolution ends with finality (even if the story continues).
+
+Great, all I want you to do is search through the stories for examples of self-contained scenes
+
 ## Run Prose Producer
 
 /prose-producer Hey claude, here are the full and only filed needed for the scene I want you to write:
 - Source Style Passages: @stories\Dreamreel\Source-Style.md
 - Full Story Outline: @stories\Dreamreel\Outline.md
-- Prior Scene: @stories\Dreamreel\Scene-7.md
-- Scene Number: 8
+- Prior Scene: @stories\Dreamreel\Scene-8.md
+- Scene Number: 9 (the finale)
 - Scene Shape: Dramatic Arc
 **Note** - some cards are already defined in @output/ . Can you pass those to the second agent, so that it uses those cards for those characters?
 Also, I'd like to run this in **interactive** mode.

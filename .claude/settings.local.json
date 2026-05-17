@@ -31,7 +31,8 @@
       "Read(//tmp/**)",
       "Skill(scene-brief)",
       "Skill(scene-framing)",
-      "Skill(scene-audit)"
+      "Skill(scene-audit)",
+      "Skill(tod-context)"
     ],
     "deny": [],
     "ask": []

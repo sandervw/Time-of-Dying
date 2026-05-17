@@ -1,6 +1,6 @@
 ---
 name: tod-context
-description: Use this skill whenever setting context or lore is needed for writing or worldbuilding in the Time of Dying setting.
+description: Use this skill whenever you are missings setting context or lore for the Time of Dying setting.
 ---
 
 # Time-of-Dying Setting Lore
@@ -32,7 +32,7 @@ Treat sampling output as stylistic inspiration only; do not copy/paste content i
 
 Apply to all setting content.
 
-## Deeper lore (read only if larger setting context is needed)
+## Deeper lore (read if broader story context would help)
 
 - `setting/Time-of-Dying.md`: Setting overview for the Time-of-Dying project.
 - `setting/Folklore.md`: Random setting folklore. Good source when generating story ideas.
