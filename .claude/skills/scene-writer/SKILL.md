@@ -16,7 +16,7 @@ The user (or a calling skill) provides one or more files giving the scene's cont
 - `STORYNAME` — short story label (used in filenames and the scene title).
 - `SCENE_NUM` — scene number or label.
 - `WORDCOUNT` — target total wordcount for the finished scene.
-- `SHAPE` — scene shape. Default `dramatic-arc`. Supported: `dramatic-arc`, `revelation`, `reverie`, `embedded-tale`. Each shape has its own pipeline declared in `references/{SHAPE}/shape.md`.
+- `SHAPE` — scene shape. **Optional.** Supported: `dramatic-arc`, `revelation`, `reverie`, `embedded-tale`. Each shape has its own pipeline declared in `references/{SHAPE}/shape.md`. If the caller does not supply `SHAPE`, read `references/shapes.md` and pick the shape whose selection criteria best match the scene outline. Report the choice (and a one-line reason) to the user before launching Stage 1.
 
 ## Working files
 
@@ -73,6 +73,7 @@ Report `{SCENE_FILE}` to the user. Suggest running `scene-audit` next if they wa
 scene-writer/
 ├── SKILL.md
 ├── references/
+│   ├── shapes.md                    # selection guide (used when SHAPE omitted)
 │   ├── pre-setup.md                 # shared first-stage reference (shape-aware)
 │   ├── dramatic-arc/
 │   │   ├── shape.md                 # pipeline declaration (stage list, wordcount %, caps)
