@@ -81,7 +81,12 @@ scene-writer/
 │   │   ├── setup.md
 │   │   ├── conflict.md
 │   │   └── resolution.md
-│   ├── revelation/    (TBD)
+│   ├── revelation/
+│   │   ├── shape.md
+│   │   ├── working-doc.md
+│   │   ├── approach.md
+│   │   ├── accretion.md
+│   │   └── epiphany.md
 │   ├── reverie/
 │   │   ├── shape.md
 │   │   ├── working-doc.md

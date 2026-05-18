@@ -33,7 +33,7 @@ These textures are your inventory. You will spend them across the scene's downst
 
 **Texture flavor by shape:**
 - `dramatic-arc` — sensory specifics tied to physical or verbal action: weapons, terrain, gestures, vocal grain, traded objects, the texture of a held thing about to be used.
-- `revelation` — evidence-fragments: half-glimpsed objects, document phrases, overheard speech, contradictions between accounts, telling details that do not yet fit together.
+- `revelation` — evidence-fragments: half-glimpsed objects, document phrases, overheard speech, contradictions between accounts. List fragments in the order they will be deployed, with the final fragment marked as the tipping element.
 - `reverie` — atmospheric textures: light quality, ambient sound, weather, color, scent, slow movement, the texture of surfaces and air.
 - `embedded-tale` — split into **two inventories**: a smaller frame-scene inventory (the listener's setting and body) and a larger inner-tale inventory (the events being recounted). List them separately under sub-headers.
 
