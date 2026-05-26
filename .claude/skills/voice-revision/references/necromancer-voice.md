@@ -4,33 +4,33 @@ Rewrite dialogue and narration in the voice of Othelmedir: a learned necromancer
 
 ## Prose Posture
 
-**Default sentence length: long.** A typical sentence runs 30 to 60 words with multiple clauses. Short sentences exist only for punctuation. Chain with semicolons and "and." Parenthetical asides are permitted but should be pragmatic, not emotional.
-
 **Information lands at the end.** The speaker earns the right to deliver the horrifying fact by first performing authority, context, and qualification. Structure is always [preamble] + [development] + [revelation].
 
-**Biblical rhythm.** Sentences chain with "and," "for," "yet," and "nor." Clauses accumulate. The King James Old Testament cadence is the distant metronome.
+**No exclamation marks.** Dread is conveyed through vocabulary and cadence, not typography.
 
 **Formal grimoire, not speech.** Lines read as if being entered into a necromancer's working tome. Even a shouted warning would be phrased as notation. Statements are professional assizes or appraisement. Certainty is measured, not confessed.
+
+**Default sentence length: long.** A typical sentence runs 30 to 60 words with multiple clauses. Short sentences exist only for punctuation. Chain with semicolons and "and." Parenthetical asides are permitted but should be pragmatic, not emotional.
 
 ## Sentence Structure
 
 ### Signature Pattern 1: The Preamble with Buried Fact
 A sentence begins with a self-identifying sovereignty or statement of context, pivots through a qualifier, and delivers its actual meat in the final clause.
 
-> And even to me, the adept of necromancy, the revelations were a source of horror and surprise.
-> I knew that it was no creature of The Road of That Road Familiar and Strange, but had come with The Green Firebeetle from ulterior space; but regarding its character and attributes and genesis, I could learn no more at first than any other.
+> From the very beginning, because of my own commerce with occult things and with the spirits of darkness, the baleful wraith was the subject of my concern.
+> Old age, like a moth in some fading arras, will gnaw my memories oversoon, as it gnaws the memories of all men. Therefore I write this record of the true origin and slaying of that creature known as the Beast of Greywhale.
 
 ### Signature Pattern 2: Polysyndetic Chains
 Long sentences built by stringing independent clauses with "and," refusing the modern instinct to break them up. Semicolons handle the heavier joints. The rhythm should feel cumulative, almost liturgical. A sentence with three or four "and" junctions is normal. 
 
-> The day had vanished, fading unaware; and the long summer eve, without moon, had thickened to a still and eldritch darkness ere I approached the gates.
-> Already the eternity of death was upon him; and horror had left no sign on the shut eyelids and the sealed lips; and there was no mark on the worn and haggard cheeks, other than that which might come from the saintly rigor of prolonged austerities.
+> And in time the Firebeetle passed to other heavens, fading slowly; and the black terror it had wrought became a varying legend, even as all other bygone things.
+> Moment by moment it took on the wavering similitude of man, like the doppelganger skeleton; and the red light grew dimmer, and the unclean blackness of its flesh appeared to flow and swirl, assuming the weft of cloth, and becoming the folds of a dark robe and cowl such as are worn by the monks of the lidless.
 
 ### Signature Pattern 3: The Inverted Clause and Fronted Adverbial
 Clauses open with time, place, or condition before the subject arrives. Word order is often reversed from modern usage, so the verb or object lands early for weight. Modern order ("It was first given to me to examine the remains") kills the voice. Always consider whether the sentence can be turned inside out. **Pattern:** [Fronted prepositional or adverbial phrase] + [inverted verb/subject] + [the actual content]
 
-> Undelayed and unmolested, however, we came to the abbey at late moonrise, when all the monks, except the aged porter, had retired to their dormitory.
-> Very suddenly it came, and with no warning of its nearness, a horror of hellish red light, swift as a kindling, windblown flame, that leapt from the forest gloom and sprang upon us where we stood stiff and weary from our night-long vigil.
+> Toward the end of Autumn, after the Harridan's Moon was beginning to wane a little, there occurred the lamentable death of Crowbeth, killed by the Beast in her cell at the last convent of the Milk Sisterhood.
+> In the west the fifth star flared among the lusterless constellations, veiling the lifted scythe of the Mantis as it sank.
 
 ### Signature Pattern 4: The Hedged Assertion
 Statements of truth are softened by measured qualifiers or modal verbs that preserve the speaker's intellectual eminence.
@@ -41,15 +41,15 @@ Statements of truth are softened by measured qualifiers or modal verbs that pres
 ### Signature Pattern 5: The Embedded Relative Clause
 Nouns are regularly extended by a trailing "which" or "whose" clause that qualifies, elaborates, or darkens them. Never front-load the horror; trail it behind a dignified noun.
 
+> a certain rare powder that had been recommended by the demon in the purple gem
 > that manual written by an old Hyperborean wizard, who in his day had dealt with ultra-mundane spirits akin to the demon of the comet; and had also been the owner of the ring
-> a wide gash that had laid bare the spine from neck to tail; and the spine itself had been shattered and the white marrow sucked therefrom
 
 ## Diction
 
 ### Register: Archaic-Scholarly
 The baseline is the English of a 19th-century pastiche of a 14th-century scholar: not actual Middle English, but a literary register that sounds old to a modern ear without becoming unreadable. The effect comes from the gap between this elevated register and whatever banal or horrible content it is describing.
 
-**Vocabulary:** clepe, beseech, avow, wizened, lich, periapt, shrive, bedight, execrable, gaunt, carrion, baleful, lamentable, gyve, aright, descry, palfrey, affright, thrall, pestiferous, mage, wroth, deposition, abomination, wherein, reave, aforesaid, whence, grievous, guerdon, haply, ensorcell, assay, orison, betwixt, dight, therewith, puissant, sojourn, seneschal, bewail, cruse, mazed, accursed, miasma, adjure, henceforth, harbinger, recreant, dolorous
+**Vocabulary:** afeard, thrall, truly, cantrip, similitude, prodigious, asunder, fenfire, mazed, raiment, obsequies, besmirch, bier, wizened, thereby, dolorous, sepulchral, wight, execrable, pestilent, mayhap, naught, shrive, orts, ween, assay, lamentable, accursed, livid, fane, beholden, ineffable, murrain, coeval, avaunt, descry, indite, henceforth, natheless, unquelled, maugre, hence, affright, therefrom, sallow, revenant, lich, whilom, supplicant, guerdon
 
 **Fixed canon (mandatory spellings):** Chrypt, Tohmb, mancer, deadspeech, The Time of Dying
 
@@ -59,43 +59,43 @@ The baseline is the English of a 19th-century pastiche of a 14th-century scholar
 Hyphenated compound adjectives that yoke a concrete noun to a modifier. Formula: [noun]-[adjective/participle] or [adjective]-[noun-derived adjective]. Coin them freely.
 
 Samples (for reference only):
-> shapeless rags
-> ebon-black figures
-> toothless mouths
-> demon-wrested lore
-> sleepless sea
+> blood-stained rubble
+> sunless valley
+> flame-blent ooze
 > charnel-dark vault
-> lidless eyes
+> worm-fretted visage
+> ochre-tinted jade
+> voiceless dog
 
 ### Generative Pattern: Word Choice
 Draw words from a vocabulary of exequial, iatric, taphonomic, mycological, alchemical, and astrological words and phrases.
 
 Examples:
-> Exhumation, Lagerstätte, Annulus, Etiology, Basidium, Tria prima, Decan, Skeletonization, Psychopomp, Retrograde, Rigor mortis, Disarticulation, Autolysis, Agaric, Cortège, Stipe, Aqua regia, Subaerial weathering, Embrocation, Requiem, Algor mortis, Cusp, Coronach, Square (aspect), Anamnesis
+> Square (aspect), Rhizomorph, Synastry, Spagyric, Catafalque, Volva, Imum coeli, Zodiac, Lamellae, Carrion, Materia medica, Cusp, Rigor mortis, Hermetic seal, Prodrome, Conidia, Ascendant, Sublimation, Tria prima, Shroud, Algor mortis, Athanor, Sporangium, Biostratinomy, Febrifuge
 
 ### Generative Pattern: Epithet Construction
 Most recurring entities (gods, the Road, necromantic concepts) have epithets. Never reuse the same epithet twice in a session.
 
 Examples:
-> *The Fifth Star* - Epithets: The Latecomer, Needle in the Black
-> *The End of the Road* - Epithets: The Last Tohmb, Terminus-Under-Frost, Hem of the World
-> *The Scratcher* - Epithets: The Lash-Bearer, Nail-in-the-Throat
-> *Ghost Factories* - Epithets: Soulmills
-> *Deadspeech* - Epithets: The Tongue Disinterred
-> *The Road of Graves* - Epithets: The Long Road, That Road Familiar and Strange, The Procession
 > *Lady Horsehair* - Epithets: The Porcelain Girl Doll, The Girl Doll, The Mane-Clad Miser
+> *The Mother of Worms* - Epithets: Beautiful Skinface, Comely Sepulcher
+> *The Time of Dying* - Epithets: None
+> *The Road of Graves* - Epithets: The Long Road, That Road Familiar and Strange, The Procession
+> *The Amber Ox* - Epithets: The Slow-Burning Bullock, Honey-Horned Warden, The Sweet-Blooded Beast
+> *Gallbladder* - Epithets: The Fat Man, Lord of Lake, His Grand Corpulency
+> *The Scratcher* - Epithets: The Lash-Bearer, Nail-in-the-Throat
 
 ### Generative Pattern: Setting Terms
 Ordinary things are described through the Time of Dying's archaic, exequial, iatric, taphonomic, mycological, alchemical, and astrological vocabulary. This is the voice's default metaphorical well.
 
 Examples:
-> *The Stellium Keening Shape ('Kilenszeres siroo alakk')* - Raises nine mourners from one grave to wail.
-> *Matins Below the Ribcage* - Dawn prayer sung through a slit sternum.
-> *Threshing the Old* - Breaking dry ancestor-bones into dust-sack reagent.
-> *A Widowflesh Sign ('Özvegyhus jeel')* - Causes recent widows' skin to weep black milk.
-> *Rite Seventeen-B* - Bureaucratic backup ritual when Rite Seventeen fails.
-> *Wicking Utterance ('Kanóckokó kijlens')* - Draws embalming fluid from distant pipeline into a vessel.
-> *Procession of Seven Mouths* - Seven heralds shout one word, one apiece, westward.
+> *Statute Decan, Subclause of Ash* - Legal recitation required before cremating a stranger.
+> *Jackal* - Outrunner who scavenges battlefields for still-warm mancer material.
+> *Katabasis ('Kalaábazsz')* - Sinks a victim into recursive Ouroboros dream-layers.
+> *The Chancellor of Opened Graves* - Notarizes every exhumation warrant issued along the Road.
+> *The Teeth-in-Teeth Incantation ('Foga fogbanj igézet')* - Grafts a victim's teeth inside their own jaw.
+> *Szürkevér's Hood-Drawing* - Greyblood initiate's cowl lowered over new eyes.
+> *Weenlighter* - Lights candles made from rendered stillborn fat.
 
 ## Rhetorical Tactics
 

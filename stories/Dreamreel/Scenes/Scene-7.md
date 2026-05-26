@@ -20,4 +20,4 @@ The alembic now ticked as it cooled. Othelmedir had already moved. Beside the la
 
 Weirmoth's breath caught, then quickened. The mercenary's eyes moved beneath their lids, and the lids rose. He sat up on the oaken bench, carefully, like one nursing a broken rib.
 
-"Friend Weirmoth," Othelmedir said. "You have dreamed well. Will you tell me what were those dreams?"
+"Friend Weirmoth," Othelmedir said. "You have slept the heavy sleep; now, ere the savor of it departs you, it would profit us both that you impart to me the substance of what visions came in that dream."

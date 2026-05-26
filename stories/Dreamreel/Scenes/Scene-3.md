@@ -2,23 +2,23 @@
 
 The bluff path went up out of Sulky Wend in switchbacks, slate stones breaking thinly under the horses' shoes, brittle grass laying flat where the slope tilted forward and the footing tried to give downhill against them. Othelmedir rode at the front. His oxblood cloak was darkened with the morning's wet, and his marble-white prosthetic arm hung limp across his lap. Weirmoth came up behind. Below them the village was already gone under mist that thickened among the pines.
 
-They dismounted when the reached the foot of two stone steps cut into the bluff-face. A little beyond these steps, the chrypt-door waited. Oak-black was the door, crossed angularly with iron banding, and at the door's center a brass seal hung in a circular bezel, its engraving worn so thin by weather that only the outermost rim still kept the old shape of letters. Othelmedir srode briskly up before it. His functional hand he laid against the brass, palm-flat.
+They dismounted when they reached the foot of two stone steps cut into the bluff-face. A little beyond these steps, the chrypt-door waited. Oak-black was the door, crossed angularly with iron banding, and at the door's center a brass seal hung in a circular bezel, its engraving worn so thin by weather that only the outermost rim still kept the old shape of letters. Othelmedir strode briskly up before it. His functional hand he laid against the brass, palm-flat.
 
 Weirmoth held the horses at a few paces. He studied the tall black man carefully. "You ride to your work without a weapon, friend?" Weirmoth asked.
 
-"Weirmoth, a blade has no quarrel with what feeds inside this door."
+"Weirmoth, though thy iron has its uses, not all that which exists beyond this door may be exorcised with such mundane implements."
 
-""Not even a paring knife in the boot. A man might catch his death of nothing in particular."
+"Not even a paring knife in the boot. A man might catch his death of nothing in particular."
 
 "I do not carry what I cannot use."
 
 "Your grave. I'll stick to pointy iron myself."
 
-Othelmedir half-turned his face. "If we let what is inside continue, the people in the valley below will no longer, by the next bright-burning flight of the Cracked Comet, be themselves. The dead replace the living from inside, memory by memory. There fought two cabals within this tower once: the Red Pew and the Milkmoot. The Red Pew is what dreams now in Sulky Wend's beds."
+Othelmedir half-turned his face. "Should we suffer what abides within to continue unchecked, the folk of the valley below will, ere the next bright-burning flight of the Cracked Comet is upon them, be no longer themselves; for the dead supplant the living from within, memory by memory. Two cabals contended within this tower once, the Red Pew and the Milkmoot; and it is the Red Pew, the older and more imaginative of the two, which dreams now in the beds of Sulky Wend."
 
 "Heard those names before in a tavern, maybe. Or maybe the names are new and I've a tavern's head on my shoulders." Weirmoth scratched at his sideburn. "Slept rough last night, truth told, and that's no usual sleep for me."
 
-"You expressed to me quite emphatically that you never dreamed at all, that the inside of your skull was a winter church with the doors shut."
+"You professed to me, and with no small vehemence, that you never dreamed at all; that within your skull there stood a winter church whose doors were barred against all comers."
 
 "The mouth runs on its own."
 

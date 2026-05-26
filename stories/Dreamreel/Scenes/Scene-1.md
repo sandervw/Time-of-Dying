@@ -30,12 +30,12 @@ The bedmeister, paying no attention to the girl, said, "Pallet? Bed? Straw or fe
 
 "Five. Hand without the ring."
 
-And Othelmedir recognized this rite - The Little Mass of Failing Lamps - and the lifeliess arm beneath his velvet felt heavy against his ribs.
+And Othelmedir recognized this rite - The Little Mass of Failing Lamps - and the lifeless arm beneath his velvet felt heavy against his ribs.
 
 The bedmeister looked up from his tally, noticed Othelmedir, and lifted a hand. "You. Bed or bench?"
 
 Othelmedir crossed between the tables, passing the boy and the untouched pewter cup whose surface bore a thin olive-colored film, and came to stand at the plank counter. Upon the counter lay an open ledger. The book was bound in spidersilk, dulled and ridged at the spine where many fingers had worn it, and its open page showed names entered in a careful hand, with all but the last few names struck through with one short line.
 
-"You ask, master bedmeister, whether I take bed or bench," said Othelmedir to Noseman. "Let it be a bed, if any room remains, and let it be the highest room you keep, as I prefer the quiet of an upper floor."
+"You inquire, master bedmeister, whether I would take bed or bench," said Othelmedir to Noseman. "Let it be a bed, if any chamber yet remains un-tenented; and let it be the highest room you keep, for the quiet of an upper floor sits more kindly with a man whose labours are accomplished in the sidereal hours."
 
 The bedmeister's thumb moved along the bead tally.

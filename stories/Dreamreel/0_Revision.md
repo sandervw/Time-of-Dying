@@ -2,9 +2,6 @@
 
 ## Dialogue
 
-Revise Othelmedir Dialogue style:
-- Use necromancer-voice skill (create)
-
 Revise Wiermoth Dialogue
 
 **TRANSLATING DIALOGUE:**

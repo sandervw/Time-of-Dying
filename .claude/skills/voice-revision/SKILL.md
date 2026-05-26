@@ -22,7 +22,7 @@ Revise user-provided prose into a specific character voice while preserving core
 **Necromancer:** before reading the reference, regenerate it:
 
 ```
-python .claude/skills/_revision/voice-revision/assets/build_voice.py
+python .claude/skills/voice-revision/assets/build_voice.py
 ```
 
 This writes `references/necromancer-voice.md` (overwriting any prior run). Then read that file.

@@ -26,11 +26,11 @@ Over by the far wall, against the leg of a bench, the cold little girl had falle
 
 Othelmedir, who had affected to be watching the little sleeping girl, now turned toward the pair, and spoke.
 
-"If I may take up your figure of this 'worry', master bedmeister, I would say a worry stops where the worrier sleeps, whereas a Dreamreel does not; that, more than the visions themselves, is what undoes a town."
+"If I may take up your figure of this 'worry', master bedmeister, I would observe that a worry ceases once the worrier sinks into sleep, whereas a Dreamreel ceases nowise; and it is this, more than the visions themselves, more than whatever dead faces crowd the shut eyelids, which lays thy township bare to ruin."
 
 The two men turned. Weirmoth weighed him, with the eye of a man who has weighed many strangers.
 
-"Othelmedir is the name I carry on these roads," Othelmedir went on. "I ama specialist in dream-mancy, lately come up out of the south, and at your service. My discipline is unlicensed now, the last registered practitioners having died without heirs, but the knowledge did not die with the licence. I take no coin; I work by barter and oath, and such barters may await the slate-colored rays of the morning."
+"Othelmedir is the name I carry on these roads," Othelmedir went on. "I am a humble practitioner of the dream-mancer's discipline, lately come up out of the south, and at your service. My art wants for licence in these years, the last who held such warrant having died and left no heirs to keep it; yet the knowledge did not perish. I take no coin; I work by barter and by oath, though such negotiations may bide until the slate-coloured rays of the morning shine."
 
 Weirmoth grinned. "A man after my own good humor. I never dream, myself." He turned the fat-soap over once with a thumb, set it down, and his eyes went to Othelmedir's cloak and the motionless hidden appendage. "Well, my arm's good for it. Two horses at dawn."
 
