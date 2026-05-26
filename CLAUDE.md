@@ -20,7 +20,6 @@ Where possible, run `python sampling.py names 10` from within the `setting/` sub
 - *locations* Always use the following FORMS: "[Owner]'s [Place]", "[Noun] of [Noun(s)]", "The [Adj] [Noun]", Bare "[Adj/Noun] [Noun]", Welded compound (one word), etc.
 - *Character names* Always use the following FORMS: compound descriptive phrases, Germanic/Old English roots, animal-adjacent words, dark irony or oxymoron, Compound neologisms, etc.
 - *Spell/magic naming* Also run `python sampling.py spells 7` for example format.
-- 
 
 Setting-specific spellings:
 - "Chrypt" replaces "Crypt"
