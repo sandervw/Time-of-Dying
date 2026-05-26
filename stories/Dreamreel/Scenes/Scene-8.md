@@ -22,7 +22,7 @@ The second came through Weirmoth's guard while he recovered. A late parry — th
 
 "Friend Weirmoth," said Othelmedir, "the door that follows - pass within it warily, and keep close along the wall once you are through. A ritual circle lies beyond, scored in chalk; and upon that chalk we must on no account set foot."
 
-"You know the floor awful particular for a man who never sleeped here."
+"You know the floor awful well for a man who never slept down here."
 
 Past the door the floorboards opened into a wide round chamber, and there, scored deep into the planks beneath the gas, was the chalked ritual circle of the Red Pew. The chalk had gone violet with age and damp.
 
@@ -64,10 +64,10 @@ Silence was summoned and came at once. Othelmedir now scanned the space once mor
 
 Othelmedir rose from his knees. The taste of aniseed was gone from his tongue. "Friend Weirmoth," he said. "The way lies open below, and we must now go down to it."
 
-Weirmoth wiped the short knife on the sere robes of the dead mancer. He slid it back into its sheath. He set his off hand to his shoulder and rolled it, testing where the late parry had rung his bones. "The hips and shoulders seem no less mobile than before at least - Fellow Liddick."
+Weirmoth wiped the short knife on the sere robes of the dead mancer. He slid it back into its sheath. He set his off hand to his shoulder and rolled it, testing where the late parry had rung his bones. "Hips and shoulders still moving — that's something. Fellow Liddick."
 
 "That is a name I wear no longer."
 
-"Heard it twice tonight. Bass and treble both." Weirmoth stepped carefully around the chalk circle. "I was a boy once in Doomsower, picked pockets at the moot fairs. Never heard my real name from a corpse, though. That's new for the ledger."
+"Heard it twice tonight. Bass and treble." Weirmoth stepped carefully around the chalk circle. "I was a boy once in Doomsower, picked pockets at the moot fairs. Never heard my real name from a corpse, though. That's a first for the journal."
 
 "Friend Weirmoth, keep what ledger you will, and enter therein what entries please you. There remains to us business yet unfinished within this tower."

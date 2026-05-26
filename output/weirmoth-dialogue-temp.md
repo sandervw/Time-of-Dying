@@ -6,49 +6,49 @@ All spoken lines by Weirmoth across the Dreamreel scenes, in order.
 *(No dialogue — Weirmoth does not appear/speak.)*
 
 ## Scene 2
-- "How long's it lain on you?"
-- "Run me through the ailment."
-- "Of which dead does the village dream?"
-- "These dream, you described them distinctly: like a worry behind the eyes?"
-- "Coin's on the table, bedmeister. Name what's fair."
-- "My spear has done worse errands. It once belonged to a saint who lanced abscesses on a poisoned bishop's throat; it whistles, so they say, whenever sickness is near."
-- "A man after my own good humor. I never dream, myself. Well, my arm's good for it. Two horses at dawn."
+- "How long's this thing been parked on you? Timeline, not a poem."
+- "Walk me through it. Slowly — I'm not a healer, I just kill things."
+- "Which dead, exactly? Be specific. 'The dead' is a lot of people."
+- "Behind the eyes, you said — like a headache that's also a person? Great. Go on."
+- "Coin's on the table, bedmeister. Name a number, I'll pretend it's fair."
+- "My spear's done worse. Belonged to a saint, supposedly — whistles near sickness. True or not, it's still pointy."
+- "A man after my own heart, which is to say cheap. I never dream — too busy worrying. My arm's ready for this, anyway. Two horses, dawn."
 
 ## Scene 3
-- "You ride to your work without a weapon, friend?"
-- "Not even a paring knife in the boot. A man might catch his death of nothing in particular."
-- "Your grave. I'll stick to pointy iron myself."
-- "Heard those names before in a tavern, maybe. Or maybe the names are new and I've a tavern's head on my shoulders. Slept rough last night, truth told, and that's no usual sleep for me."
-- "The mouth runs on its own."
-- "Mister Ribbon, this meed we're earning today is more than square gold pieces in the pocket, eh, more than pocketed squares." *(to the canary)*
+- "You ride to a job like this without a weapon? On purpose?"
+- "Not even a knife in your boot. A man could die of nothing in particular out here."
+- "Your funeral, friend. I'll keep the pointy iron."
+- "Heard those names somewhere — a tavern, maybe. Or they're new and my head's still in the tavern. Slept rough last night, which I never do, and now look at me."
+- "Sorry — mouth just goes. No driver."
+- "Mister Ribbon, what we're earning today's worth more than square gold — more than pocketed squares, even." *(to the canary)*
 
 ## Scene 4
-- "After you, my prince, after the prince. I'll be the man at your heel, and under your heel if you like, what does it matter."
-- "Stand off."
-- "Right. Right, Mister Ribbon. I told you this would be simple weapon play."
-- "Snabbled clean enough. My old cully would call this swell work. Three stiffs dropped, and not a drop of claret on my shirt."
-- "Fellows kept a neat schedule. Fellows kept their hours and now, look. No more fellows, no new hours. Is all punctuality eventually pointless?"
-- "You walk through this place like it owed you a bed and supper."
+- "After you, my prince. I'll walk at your heel — under it, if you like, what's the difference."
+- "Stand off. I mean it."
+- "Right. Right, Mister Ribbon. Told you — simple weapon play."
+- "Snabbled clean. My old cully would call this swell work. Three down, not a drop of claret on the shirt."
+- "These fellows kept a tidy schedule. Hours, routines — now nothing. Makes you wonder if being on time ever meant anything."
+- "You walk through this place like it owes you supper and a bed."
 - "Trophy?"
 
 ## Scene 5
-- "That one worth reading?"
-- "The gas. You were going to tell me how it works."
+- "That one actually worth reading, or is it for show?"
+- "The gas. You were going to tell me how it works — I'd like to not breathe it wrong."
 
 ## Scene 6
-- "That last one. Those crystals. What's that which sits in your pocket now, and what'll it buy me?"
-- "Mancer's pockets get awful deep when no one's counting."
-- "I am not so clever as you take me for, friend."
+- "That last one — the crystals. What's in your pocket now, and what's it worth?"
+- "Funny how a mancer's pockets get deep when nobody's counting."
+- "I'm not as clever as you keep insisting, friend. Stop flattering me into a worse deal."
 
 ## Scene 7
 *(No waking dialogue — Weirmoth is asleep. While dreaming he murmurs a slurred recital of names: "Sourbell, Liddick.")*
 
 ## Scene 8
-- "You know the floor awful particular for a man who never sleeped here."
-- "The hips and shoulders seem no less mobile than before at least — Fellow Liddick."
-- "Heard it twice tonight. Bass and treble both. I was a boy once in Doomsower, picked pockets at the moot fairs. Never heard my real name from a corpse, though. That's new for the ledger."
+- "You know the floor awful well for a man who never slept down here."
+- "Hips and shoulders still moving — that's something. Fellow Liddick."
+- "Heard it twice tonight. Bass and treble. I was a boy once in Doomsower, picked pockets at the moot fairs. Never heard my real name from a corpse, though. That's a first for the journal."
 
 ## Scene 9
-- "I'll not interfere. Do your work, mancer."
-- "Fine words, Liddick. Othelmedir. Mancer. Whatever you wish. Keep the words. The ingredients you lifted from the still-room. All of them. On the dais, where I can count."
-- "My legs remember the way up better than the way down, so let's put them to work."
+- "I won't interfere. Do your work, mancer. I'll stand here being uninvolved."
+- "Fine words, Liddick. Othelmedir. Mancer. Pick one, keep them all. The ingredients you lifted from the still-room — every last one — on the dais where I can count them."
+- "My legs remember the way up better than the way down, so let's use them while they still agree with me."

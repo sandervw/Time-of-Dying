@@ -4,7 +4,7 @@ The half-open door gave onto a short flight, and the short flight gave onto the 
 
 The cauldron squatted on its dais at the room's center, dull copper bloomed to verdigris along the rivets, its lip blackened, its body sweating. Weirmoth came down behind him at a careful pace, using one hand to keep his sleeve wrapped tightly around his cut arm.
 
-"I'll not interfere," said Weirmoth. "Do your work, mancer."
+"I won't interfere," said Weirmoth. "Do your work, mancer. I'll stand here being uninvolved."
 
 Othelmedir drew his secret third bottle - The Lidd Decoction - from the inner pocket of the oxblood cloak. Thumbing away the wax seal he had placed upon it, he stepped to the dais. He tipped the bottle's mouth over the cauldron's lip and poured.
 
@@ -18,7 +18,7 @@ Weirmoth stood three paces off. The tipped end of his broken spear was in his ha
 
 "Friend Weirmoth," Othelmedir said. He let the silence sit a moment, that the sellsword might choose whether to lower the spear or not. He did not. "You have had a name out of two dead mouths this night, and you stand now with steel set betwixt us; and therefore I will lay the matter before you plainly, and lay it but once. The cabal of mancers that wrought this cauldron wrought no execrable deed; the gas lay bound within the vessel against the appointed hour of its opening, and the breaching of vessel and of hour alike was the doing of a rival house, and of no other. The dolorous plight that came upon the townfolk of Sulky Wend followed from that breach, and from no design of mine, nor of my Fellows. The silence I kept, I kept because this country - and many a country besides, it may be - has no patience for the finer turns of such a tale, and a man accused unjustly is oftentimes a man unjustly hanged. To the cowardice of that silence I confess, friend Weirmoth, and to naught beyond it; and the fruits of that cowardice I have, in this hour and within this chamber, redressed."
 
-Weirmoth cocked his head to one side, squinting. At last he said, "Fine words, Liddick. Othelmedir. Mancer. Whatever you wish. Keep the words." The mercenary lowered his broken spear, but did not set it back in his belt. He held out his other, palm up, displaying that the wound upon his upper arm, though deep, was not disabling. "The ingredients you lifted from the still-room. All of them. On the dais, where I can count."
+Weirmoth cocked his head to one side, squinting. At last he said, "Fine words, Liddick. Othelmedir. Mancer. Pick one, keep them all." The mercenary lowered his broken spear, but did not set it back in his belt. He held out his other, palm up, displaying that the wound upon his upper arm, though deep, was not disabling. "The ingredients you lifted from the still-room — every last one — on the dais where I can count them."
 
 Othelmedir's black brow furrowed. Weirmoth had named only what was named, demanded only what was itemized - it was mancer's own customary method. He inclined his head once. "It shall be as you ask, master Weirmoth."
 
@@ -26,6 +26,6 @@ Othelmedir laid the reagents on the dais one at a time: a stoppered horn first, 
 
 Othelmedir straightened. "Master Weirmoth," he said, "you drive your bargain after the manner of a mancer."
 
-Weirmoth gathered the reagents into the crook of his good arm. "My legs remember the way up better than the way down, so let's put them to work."
+Weirmoth gathered the reagents into the crook of his good arm. "My legs remember the way up better than the way down, so let's use them while they still agree with me."
 
 As they ascended, Othelmedir pressed one hand briefly to his chest — a settling gesture, no more. The pendant of hammered tin lay flat against his sternum, itemized by no one, demanded by no one.
