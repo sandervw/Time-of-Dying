@@ -2,7 +2,7 @@
 
 *Extracted from* Dreamreel *Scenes 1–9.*
 
-## Scene 1
+## Scene One
 
 > "You inquire, master bedmeister, whether I would take bed or bench. Let it be a bed, if any chamber yet remains un-tenented; and let it be the highest room you keep, for the quiet of an upper floor sits more kindly with a man whose labours are accomplished in the sidereal hours."
 
