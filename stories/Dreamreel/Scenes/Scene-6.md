@@ -18,9 +18,9 @@ Weirmoth bit the thread off against his teeth. "Funny how a mancer's pockets get
 
 "Mancer's pockets get deep when no one is counting; just so, and well said. Count, then." Othelmedir did not turn. "When the cauldron is split asunder, you may search me to the very lining of my coat. Yet for the present, attend. There is an eleventh reagent which the treatise names: *Respiration from a Silver Dream* — a breath drawn forth from a sleeper who has died within the sleep itself. The gas of this hall has preserved such a breath; for the first death it took, that of some nameless trespasser, hangs yet upon the air. To fetch it I must enter into the dream which holds it, and that I cannot do. Yet look here, and behold this second decoction which I have drawn from the store. This is the witness-draught. A practitioner habituated unto necromancy who drinks of the witness-draught burns at the nerves, and is rendered unto ash. An unhabituated man passes through it, and wakes."
 
-Weirmoth set the needle down. He looked at the cup Othelmedir was now decanting, then at Othelmedir's white hand on the small bottle of the draught, then back at the cup.
+Weirmoth set the needle down.
 
-"Drink, master Weirmoth," said Othelmedir, holding out the cup now. "You shall return, and with no ill savour lingering upon your lips; and together we shall go down unto the cauldron, through the wall, bearing my poison rendered from the eleventh reagent."
+"Drink, master Weirmoth," said Othelmedir, holding out the cup. "You shall return, and with no ill savour lingering upon your lips; and together we shall go down unto the cauldron, through the wall, bearing my poison rendered from the eleventh reagent."
 
 Weirmoth took the cup. He held it at the level of his chin.
 
