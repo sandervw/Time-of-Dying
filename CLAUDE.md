@@ -4,7 +4,7 @@ A *Time of Dying* fiction project.
 - `Stories/` - In progress and completed stories/narratives
 - `Output/` - Default destination for generated files (unless the user specifies otherwise)
 
-After creating a new document, ask the user if they want you to run text-trimmer or draft-editor.
+After creating a new document, ask the user if they want you to run text-trimmer or ruthless-pruner.
 
 When counting words in a file, always use `wc -w <file>`
 

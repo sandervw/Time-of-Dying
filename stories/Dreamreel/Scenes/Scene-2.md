@@ -1,6 +1,6 @@
 # Dreamreel Scene 2 (revision)
 
-"How long's this thing been parked on you? Timeline, not a poem." Weirmoth spoke again as the bedmeister moved beads along the tally, resuming now some prior conversation he had been engaged in with the bedmeister before Othelmedir entered. Weirmoth laid a sliver of fat-soap on the counter beside his mug, where a small, sweating ring of grease had already begun to mark the wood; he turned a hand over, examined the pale crescent of a nail, and stared at the bedmeister with a face half-indifferent.
+"How long've you been saddle up like this? Parable, not a poem." Weirmoth spoke again as the bedmeister moved beads along the tally, resuming now some prior conversation he had been engaged in with the bedmeister before Othelmedir entered. He laid a sliver of fat-soap on the counter beside his mug, turned a hand over, examined the pale crescent of a nail, then stared at the bedmeister with a face half-indifferent.
 
 "Three months. Maybe four," said Noseman.
 
@@ -16,7 +16,7 @@ The bedmeister breathed out. "The living dream the dead. We dream how they died.
 
 "Like a worry, yes. It will not loosen. You try to think elsewhere. A barn. A wife. Some song you half remember. But the death returns. It crowds out the dream. We call it the Dreamreel."
 
-Over by the far wall, against the leg of a bench, the cold little girl had fallen asleep. Her mouth lay open, eyelids running with whatever ran behind them; her breath came small and even, and seemed not to belong to her at all.
+Over by the far wall, against the leg of a bench, the cold little girl had fallen asleep. Her mouth lay open, eyelids running with whatever ran behind them; her breath came small and even.
 
 "Coin's on the table, bedmeister." Weirmoth rubbed the sliver of soap over his dry hands. "Name a number, I'll pretend it's fair."
 
@@ -24,13 +24,13 @@ Over by the far wall, against the leg of a bench, the cold little girl had falle
 
 "My spear's done worse." Weirmoth tipped his head toward the weapon leaned against the bench-end, its butt wrapped in oiled twine, a hairline split running the length of the haft. The sere funeral-shroud swatches of his cloak swayed dangerously near a bowl-lamp as he shifted. "Belonged to a saint, supposedly — whistles near sickness. True or not, it's still pointy."
 
-Othelmedir, who had affected to be watching the little sleeping girl, now turned toward the pair, and spoke.
+Othelmedir, who had been watching the sleeping girl, now turned toward the pair.
 
-"If I may take up your figure of this 'worry', master bedmeister, I would observe that a worry ceases once the worrier sinks into sleep, whereas a Dreamreel ceases nowise; and it is this, more than the visions themselves, more than whatever dead faces crowd the shut eyelids, which lays thy township bare to ruin."
+"If I may take up your figure of this 'worry', master bedmeister, I would observe that a worry ceases once the worrier sinks into sleep, whereas a Dreamreel ceases nowise; and it is this, more than whatever dead faces crowd the shut eyelids, which lays thy township bare to ruin."
 
-The two men turned. Weirmoth weighed him, with the eye of a man who has weighed many strangers.
+The two men turned. Weirmoth measured the tall mancer.
 
-"Othelmedir is the name I carry on these roads," Othelmedir went on. "I am a humble practitioner of the dream-mancer's discipline, lately come up out of the south, and at your service. My art wants for licence in these years, the last who held such warrant having died and left no heirs to keep it; yet the knowledge did not perish. I take no coin; I work by barter and by oath, though such negotiations may bide until the slate-coloured rays of the morning shine."
+"Othelmedir is the name I carry on these roads," Othelmedir went on. "I am a humble practitioner of the dream-mancer's discipline, and at your service.My art wants for licence in these years, the last who held such warrant having died and left no heirs to keep it; yet the knowledge did not perish. I take no coin; I work by barter and by oath."
 
 Weirmoth grinned. "A man after my own heart, which is to say cheap. I never dream — too busy worrying." He turned the fat-soap over once with a thumb, set it down, and his eyes went to Othelmedir's cloak and the motionless hidden appendage. "My arm's ready for this, anyway. Two horses, dawn."
 
