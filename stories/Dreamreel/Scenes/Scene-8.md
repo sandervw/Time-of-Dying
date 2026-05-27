@@ -10,13 +10,13 @@ Weirmoth used the haft of his spear to rise from a half crouch, and stepped up t
 
 The last strand parted with a wet snap, and the pale-green gas that had been pent in the lower passages came forward in a slow wave, parting around their boots and closing knee-deep behind each step. Weirmoth went through first. Othelmedir followed at his right shoulder.
 
-They came into the upper dining hall. The long-table lay overturned on its trestles, a desiccated capon still pinned to the boards by an iron skewer; plums lay scattered beneath the gas-layer, shriveled to knucklebones. The high-backed chairs were thrown wide, the sconces stood flameless, the room lay darkly.
+They came into the upper dining hall. The long oak table lay overturned on its trestles, a desiccated capon still pinned to the boards by an iron skewer; plums lay scattered beneath the gas-layer, shriveled to a knucklebone. Seven high-backed chair had been thrown wide - the iron sconce stood flameless, the room lay dark.
 
 Two of the Milkmoot stood waiting under the lintel of an inner door. They had been waiting, by Othelmedir's reckoning, for long decades.
 
 "Yonder, upon the right," Othelmedir said, and stepped left. Weirmoth went right.
 
-The first invader carried a broken halberd. Weirmoth caught the descending halberd-haft against his spear and lunged. His speartip slid beneath the chin of his foe. That dead dream seemed to crumble with the blow, dry as bark.
+The first invader carried a broken halberd. Weirmoth caught the descending halberd-haft against his spear and lunged. His speartip slid beneath the chin of his foe. That dead dreamer crumbled with the blow, dry as bark.
 
 The second came through Weirmoth's guard while he recovered. A late parry — the spearblade caught his forearm as he turned it, opening the skin to the bone. Weirmoth staggered a half step into the table. The invader pressed, jabbing high. Weirmoth let him, took the blow on his shoulder, dropped his weight, and drove his speartip through the dead man's chest. The invader went down into the gas with his hands still reaching.
 

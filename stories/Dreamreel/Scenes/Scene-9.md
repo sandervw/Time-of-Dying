@@ -1,8 +1,8 @@
 # Dreamreel: Scene 9
 
-The half-open door gave onto a short flight, and the short flight gave onto the cauldron chamber. Othelmedir went first. The stone underfoot was gritted with old salt.
+The half-open door gave onto a short flight of twelve steps, and the flight gave onto the cauldron chamber. Othelmedir descended first. The stone underfoot was gritted with old salt.
 
-The cauldron squatted on its dais at the room's center, dull copper bloomed to verdigris along the rivets, its lip blackened, its body sweating. Weirmoth came down behind him, using one hand to keep his sleeve wrapped tightly around his cut arm.
+The cauldron squatted on its dais at the room's center, dull copper bloomed to verdigris along the rivets, its lip blackened, its body sweating. Weirmoth came down behind him, one fist clamping his sleeve around his cut arm.
 
 "I won't interfere," said Weirmoth. "Do your work, mancer. I'll stand here being uninvolved."
 
@@ -10,7 +10,7 @@ Othelmedir drew his secret third bottle - The Lidd Decoction - from the inner po
 
 As the decoction met the boiling gas it hissed, a long flat hiss like wet steel thrust into a glowing forge.
 
-Othelmedir set the empty bottle on the dais. He bent his head over the cauldron, which no longer belched its heavy gas, and began a spell of deadspeech: Ülledéék's Closure-Song. "Ülledéék zárréenk. Ülledéék zárréenk." He spoke the syllables slowly, each guttural and unnatural sound like a tiny metal hammer upon a sheet of brass, and the pale-green vapor about his knees fell back from the cauldron in soft retreating shelves. Something turned inside the copper cauldron. He heard the wet thud of a semi-solid sediment thunking against the bottom. The liquid had turned to a thick sediment. It had solidified into mundane muck.
+Othelmedir set the empty bottle on the dais. He bent his head over the cauldron, which no longer belched its heavy gas, and began a spell of deadspeech: Ülledéék's Closure-Song. "Ülledéék zárréenk. Ülledéék zárréenk." He let a breath fall between each syllable, every guttural sound like a tiny iron hammer upon a sheet of brass, and the pale-green vapor about his knees fell back from the cauldron in soft retreating shelves. Something turned inside the copper cauldron. He heard the wet thud of a semi-solid sediment thunking against the bottom. The liquid had turned to a thick sediment. It had solidified into mundane muck.
 
 Othelmedir raised his head.
 
