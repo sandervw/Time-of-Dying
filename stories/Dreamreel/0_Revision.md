@@ -2,8 +2,6 @@
 
 ## Automatic (Make Claude do it)
 
-Run pruner
-
 Check for lore consistency
 - possibly look for missed opportunities to weave in lore
 

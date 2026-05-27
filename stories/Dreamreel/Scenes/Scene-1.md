@@ -1,6 +1,6 @@
 # Dreamreel Scene 1 (revision)
 
-The road into Sulky Wend ran low between hedges of dead bracken, and the wind off the road came in with Othelmedir when he stooped beneath the lintel of *The Hooded Pillow*, and stayed afterward in the wool of his cloak. He stood tall as a redwood and thin as a reed, iron eyes set in a broad dark face, cropped curls and salt-and-pepper beard. Othelmedir noted the smell that met him within: stale millet, unwashed wool, the close ferment of unbathed bodies. With his right hand he drew the cloak closer at the throat, letting the dead weight of his left arm settle against his ribs beneath the oxblood velvet. For a moment he only stood in the doorway and looked.
+The Road of Graves ran low into Sulky Wend between hedges of dead bracken, and the wind which blew along it came in with Othelmedir when he stooped beneath the lintel of *The Hooded Pillow*, and stayed afterward in the wool of his cloak. He stood tall as a redwood and thin as a reed, iron eyes set in a broad dark face, cropped curls and salt-and-pepper beard. Othelmedir noted the smell that met him within: stale millet, unwashed wool, the close ferment of unbathed bodies. With his right hand he drew the cloak closer at the throat, letting the dead weight of his left arm settle against his ribs beneath the oxblood velvet. For a moment he only stood in the doorway and looked.
 
 The room beyond the doorway lay slumped under its own low ceiling, the hearth a heap of orange coals giving more glow than warmth, the benches against the long wall populated by men and a woman or two who seemed to doze upright. On the nearest bench a boy of perhaps fourteen sat with his head fallen back against the plaster, jaw slack, and Othelmedir, while letting his eyes pass across the company, marked this boy's neck for its breadth, and the white evenness of the boy's teeth where the lower lip had drawn aside.
 
@@ -10,9 +10,9 @@ And at the far end of the room the bedmeister of *The Hooded Pillow* stood at hi
 
 "Two."
 
-"Any cough?"
+"Moldy knuckles?"
 
-The client coughed once, then shook his head. The beads on the tally clacked along the cord as the bedmeister's thumbed them.
+The client spread his clean hands, then shook his head. The beads on the tally clacked along the cord as the bedmeister thumbed them.
 
 From the corner of the room, where Othelmedir had not yet looked, a frost radiated. He turned his gaze.
 

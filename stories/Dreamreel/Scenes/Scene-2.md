@@ -22,7 +22,7 @@ Over by the far wall, against the leg of a bench, the cold little girl had falle
 
 "Ride to the Tower, burn the sharer of dead dreams."
 
-"My spear's done worse." Weirmoth tipped his head toward the weapon leaned against the bench-end, its butt wrapped in oiled twine, a hairline split running the length of the haft. The sere funeral-shroud swatches of his cloak swayed dangerously near a bowl-lamp as he shifted. "Belonged to a saint, supposedly — whistles near sickness. True or not, it's still pointy."
+"My spear's done worse." Weirmoth tipped his head toward the weapon leaned against the bench-end, its butt wrapped in oiled twine, a hairline split running the length of the haft. The sere funeral-shroud swatches of his cloak swayed dangerously near a bowl-lamp as he shifted. "Belonged to Saint Wakeful-Unto-Death, supposedly — whistles near sickness. True or not, it's still pointy."
 
 Othelmedir, who had been watching the sleeping girl, now turned toward the pair.
 
@@ -34,6 +34,6 @@ The two men turned. Weirmoth measured the tall mancer.
 
 Weirmoth grinned. "A man after my own heart, which is to say cheap. I never dream — too busy worrying." He turned the fat-soap over once with a thumb, set it down, and his eyes went to Othelmedir's cloak and the motionless hidden appendage. "My arm's ready for this, anyway. Two horses, dawn."
 
-Noseman laid three square golden pieces in front of Weirmoth, but stared at Othelmedir. For an instant something other than sleeplessness moved in his face. He looked down again. "At first light. The horses, ready."
+Noseman laid three square golden pieces in front of Weirmoth, each stamped with the Widow-Star, but stared at Othelmedir. For an instant something other than sleeplessness moved in his face. He looked down again. "At first light. The horses, ready."
 
 Othelmedir crossed to the bench whose edge had been worn shiny by the shoulders of generations of sleepers, and sat.
