@@ -14,7 +14,7 @@ Hey claude, read @{FILE} . Do not read any other files. I want you to revise and
 Keep your edits as minimal as possible: you are not rewriting the story, changing the plot, changing the characters, or making other large-scale revisions. You are making minimal adjustments which add specificity to the scene. Your final wordcount must not exceed 105% of the original wordcount. Remember: cutting/replacing is better than adding.
 ```
 
-Each agent should be given one of three scene files (1-3) from @stories\Dreamreel\Scenes\ .
+Each agent should be given one of three scene files (scenes 7-9) from @stories\Dreamreel\Scenes\ . Scenes 1-6 are already done.
 
 Any questions?
 
