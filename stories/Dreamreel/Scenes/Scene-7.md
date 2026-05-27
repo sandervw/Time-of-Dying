@@ -14,10 +14,10 @@ And there had been the lever.
 
 Then the instruction. The Pew had conferred, and had rendered its verdict the voice of many voices, and the instruction had been given to the Hand Which Must Attend the Lever; and it had so happened that the hand chosen belonged to the Fellow then called Liddick, who had been young. The verdict had been brief. The verdict had been understood. A young hand, the ready hand, the only hand, had been asked to do a small thing, in the secret room near the top of the tower, in a great hurry.
 
-The lever had been pulled. The lid above the brass cauldron, in that deep central chamber, had risen. The gas had risen, pale, slow, and *green*, and the breathing of all parties in the hall, friend and stranger, had dwindled. The long uninterrupted sleep. The hall had quieted. Fellow Liddick had stepped back from the lever then. He alone had not slept. He alone, farthest from the rising fume, had left.
+The lever had been pulled. The lid above the brass cauldron, in that deep central chamber, had risen. The gas had risen, pale, slow, and *green*, and the breathing of all parties in the hall, friend and stranger, had dwindled. The long uninterrupted sleep. The hall had quieted. Fellow Liddick had stepped back from the lever then. He alone, farthest from the rising fume, had left.
 
-The alembic now ticked as it cooled. Othelmedir had already moved. Beside the larger cauldron, now swollen with all eleven of the necessary reagents, he had set a second smaller vessel boiling while the sellsword slept; the oils inside bubbled without sound, a greased and patient silence. Othelmedir covered the vessel with a cloth. He stepped over beside the bench.
+The alembic now ticked as it cooled. Othelmedir had already moved. Beside the larger cauldron, now swollen with all eleven of the necessary reagents, he had set a second smaller vessel boiling while the sellsword slept; the oils inside bubbled without sound, a greased and patient silence.
 
-Weirmoth's breath caught, then quickened. The mercenary's eyes moved beneath their lids, and the lids rose. He sat up on the oaken bench, carefully, like one nursing a broken rib.
+Weirmoth's breath caught, then quickened. The mercenary's eyes moved beneath their lids, and the lids rose. He sat up on the oaken bench.
 
-"Friend Weirmoth," Othelmedir said. "You have slept the heavy sleep; now, ere the savor of it departs you, it would profit us both that you impart to me the substance of what visions came in that dream."
+"Friend Weirmoth," Othelmedir said. "You have slept the heavy sleep; it would profit us both that you impart to me the substance of what visions came in that dream."

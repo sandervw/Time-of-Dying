@@ -1,10 +1,10 @@
 # Dreamreel: Scene 8
 
-Othelmedir set the vial of the poison against the muscle-wall; not opened, but with the smooth, small glass surface pressed a small indent into the living tissue. He spoke a word of deadspeech, and a taste rolled over the back of his tongue - aniseed.
+Othelmedir set the vial of the poison against the muscle-wall. He spoke a word of deadspeech, and a taste rolled over the back of his tongue - aniseed.
 
 The wall began to come apart in slow rivulets, sinew unbraiding strand by strand down the doorframe.
 
-"Friend Weirmoth," said Othelmedir, glancing at the mercenary, "the way, that has stood sealed against us, shall stand open within the hour. Thereafter we must descend together through the halls remaining, down to the cauldron chamber, and you must go before me and ward this body of mine against whatsoever waits."
+"Friend Weirmoth," said Othelmedir, "the way, that has stood sealed against us, shall stand open within the hour. Thereafter we must descend down to the cauldron chamber, and you must go before me and ward this body of mine against whatsoever waits."
 
 Weirmoth used the haft of his spear to rise from a half crouch, and stepped up to the disintegrating wall.
 
@@ -16,11 +16,11 @@ Two of the Milkmoot stood waiting under the lintel of an inner door. They had be
 
 "Yonder, upon the right," Othelmedir said, and stepped left. Weirmoth went right.
 
-The first invader carried a broken halberd and a soundless word on his dead tongue. Weirmoth caught the descending halberd-haft against his spear. Deflecting, he pulled sharply back, and lunged. His speartip slid beneath the chin of his foe. That dead dream seemed to crumble with the blow, dry as bark.
+The first invader carried a broken halberd. Weirmoth caught the descending halberd-haft against his spear and lunged. His speartip slid beneath the chin of his foe. That dead dream seemed to crumble with the blow, dry as bark.
 
 The second came through Weirmoth's guard while he recovered. A late parry — the spearblade caught his forearm as he turned it, opening the skin to the bone. Weirmoth staggered a half step into the table. The invader pressed, jabbing high. Weirmoth let him, took the blow on his shoulder, dropped his weight, and drove his speartip through the dead man's chest. The invader went down into the gas with his hands still reaching.
 
-"Friend Weirmoth," said Othelmedir, "the door that follows - pass within it warily, and keep close along the wall once you are through. A ritual circle lies beyond, scored in chalk; and upon that chalk we must on no account set foot."
+"Friend Weirmoth," said Othelmedir, "the door that follows - pass within it warily, and keep close along the wall once you are through. A ritual circle lies beyond, scored in chalk."
 
 "You know the floor awful well for a man who never slept down here."
 
@@ -44,27 +44,27 @@ Othelmedir scanned the space.
 
 A second voice, thinner, came from the chamber's far side. A figure stood there amidst a necromancy Othelmedir knew. The Cope of Blue Wasps. Dried wasp husks were pinned in triangular patterns across the figure's shoulders, each one shifting when he breathed. Alder the Lank now rose to his full height from behind the upended table.
 
-"Fellow Liddick walked out," said the deep voice from below - the voice that belonged to Fellow Sourbell. "Fellow Liddick pulled the lever and walked out alone, and left us in our sleep."
+"Fellow Liddick walked out," said the deep voice from below. "Fellow Liddick pulled the lever and left us in our sleep."
 
 Weirmoth did not look at Othelmedir. He stepped between him and the dream-dead, wasp-armored Alder.
 
-"Fellow Sourbell," Othelmedir said, in the same measured cadence he had used on the door. "You speak in error. The lever was the order rendered. You gave it, and that order, being given, was obeyed."
+"Fellow Sourbell," Othelmedir said. "You speak in error. The lever was the order rendered. You gave it, and that order, being given, was obeyed."
 
 "He names us still," said Alder, and lifted both hands. The gas around his fingers began to braid. The wasp husk stirred.
 
 "Undo that one ere he rouses his wasps," said Othelmedir. "His hands you must unmake before all else."
 
-Weirmoth lunged low. Alder turned his hip, and the speartip carved a long furrow down his thigh; preserved flesh gave under the long speartip, bloodless, only powder. The wasps stirred. One buzzed from the shoulder, aloft on ash flake wings. Alder brought one braided hand down. Weirmoth caught the blow on the spear-haft, and the wood split lengthwise. The mercenary dropped the broken half, drew his short knife with his off hand, and opened Alder's wrist along the tendon.
+Weirmoth lunged low. Alder turned his hip, and the speartip carved a long furrow down his thigh; preserved flesh gave under the long speartip, bloodless, only powder. One wasp buzzed from the shoulder, aloft on ash flake wings. Alder brought one braided hand down. Weirmoth caught the blow on the spear-haft, and the wood split lengthwise. The mercenary dropped the broken half, drew his short knife with his off hand, and opened Alder's wrist along the tendon.
 
-Othelmedir knelt and laid his palm flat upon the boards. Beneath the planking the bass note of Sourbell rolled on, naming Liddick, naming the lever. Othelmedir spoke into the wood the inverse of that name. "Kciddil, Kciddil, Kciddil." The voice below stumbled. The boards buckled. Sourbell's deep words reflected back upon him. The bass note climbed, doubled in the narrow space beneath the floor. Something cracked wetly. The boards cracked, and then were still.
+Othelmedir knelt and laid his palm flat upon the boards. Beneath the planking the bass note of Sourbell rolled on, naming Liddick, naming the lever. Othelmedir spoke into the wood the inverse of that name. "Kciddil, Kciddil, Kciddil." The voice below stumbled. The boards buckled. The bass note climbed, doubled in the narrow space beneath the floor. Something cracked wetly. The boards cracked, and then were still.
 
 Alder heard the crack and turned to look. Weirmoth stepped inside the lifted hand. He ducked a darting wasp and drove the short blade up under the jaw. Alder died, dreamless forever.
 
-Silence was summoned and came at once. Othelmedir now scanned the space once more. The way down lay through a door behind the table, half-open, past the corpse of Alder the Lank.
+Silence was summoned and came at once. The way down lay through a door behind the table, half-open, past the corpse of Alder the Lank.
 
-Othelmedir rose from his knees. The taste of aniseed was gone from his tongue. "Friend Weirmoth," he said. "The way lies open below, and we must now go down to it."
+Othelmedir rose from his knees. The taste of aniseed was gone from his tongue. "Friend Weirmoth. The way lies open below."
 
-Weirmoth wiped the short knife on the sere robes of the dead mancer. He slid it back into its sheath. He set his off hand to his shoulder and rolled it, testing where the late parry had rung his bones. "Hips and shoulders still moving — that's something. Fellow Liddick."
+Weirmoth wiped the short knife on the sere robes of the dead mancer. He set his off hand to his shoulder and rolled it, testing where the late parry had rung his bones. "Hips and shoulders still moving — that's something. Fellow Liddick."
 
 "That is a name I wear no longer."
 

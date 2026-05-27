@@ -1,14 +1,14 @@
 # Dreamreel: Scene 9
 
-The half-open door gave onto a short flight, and the short flight gave onto the cauldron chamber. Othelmedir went first. The stone underfoot was gritted with old salt, and his boot found the grain of it through the pale-green wash of gas.
+The half-open door gave onto a short flight, and the short flight gave onto the cauldron chamber. Othelmedir went first. The stone underfoot was gritted with old salt.
 
-The cauldron squatted on its dais at the room's center, dull copper bloomed to verdigris along the rivets, its lip blackened, its body sweating. Weirmoth came down behind him at a careful pace, using one hand to keep his sleeve wrapped tightly around his cut arm.
+The cauldron squatted on its dais at the room's center, dull copper bloomed to verdigris along the rivets, its lip blackened, its body sweating. Weirmoth came down behind him, using one hand to keep his sleeve wrapped tightly around his cut arm.
 
 "I won't interfere," said Weirmoth. "Do your work, mancer. I'll stand here being uninvolved."
 
 Othelmedir drew his secret third bottle - The Lidd Decoction - from the inner pocket of the oxblood cloak. Thumbing away the wax seal he had placed upon it, he stepped to the dais. He tipped the bottle's mouth over the cauldron's lip and poured.
 
-As the decoction met the boiling gas it hissed, a long flat hiss like wet steel thrust into a glowing forge. This hiss rose, thinned, and then the chamber was silent.
+As the decoction met the boiling gas it hissed, a long flat hiss like wet steel thrust into a glowing forge.
 
 Othelmedir set the empty bottle on the dais. He bent his head over the cauldron, which no longer belched its heavy gas, and began a spell of deadspeech: Ülledéék's Closure-Song. "Ülledéék zárréenk. Ülledéék zárréenk." He spoke the syllables slowly, each guttural and unnatural sound like a tiny metal hammer upon a sheet of brass, and the pale-green vapor about his knees fell back from the cauldron in soft retreating shelves. Something turned inside the copper cauldron. He heard the wet thud of a semi-solid sediment thunking against the bottom. The liquid had turned to a thick sediment. It had solidified into mundane muck.
 
@@ -28,4 +28,4 @@ Othelmedir straightened. "Master Weirmoth," he said, "you drive your bargain aft
 
 Weirmoth gathered the reagents into the crook of his good arm. "My legs remember the way up better than the way down, so let's use them while they still agree with me."
 
-As they ascended, Othelmedir pressed one hand briefly to his chest — a settling gesture, no more. The pendant of hammered tin lay flat against his sternum, itemized by no one, demanded by no one.
+As they ascended, Othelmedir pressed one hand briefly to his chest. The pendant of hammered tin lay flat against his sternum, itemized by no one, demanded by no one.
