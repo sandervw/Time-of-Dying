@@ -4,7 +4,7 @@
 
 "Three months. Maybe four," said Noseman.
 
-"Walk me through it. Slowly — I'm not a healer, I just kill things."
+"Walk me through it. Slowly — I'm not a healer, I just kill the thing in front of me."
 
 The bedmeister breathed out. "The living dream the dead. We dream how they died. Each night, again." His eyes were lower-lidded with broken red lacework, the iris half-lost in a yellowed white.
 
@@ -14,7 +14,7 @@ The bedmeister breathed out. "The living dream the dead. We dream how they died.
 
 "Behind the eyes, you said — like a headache that's also a person? Great. Go on."
 
-"Like a worry, yes. It will not loosen. You try to think elsewhere. A barn. A wife. Some song you half remember. But the death returns. It crowds out the dream. We call it the Dreamreel."
+"Like a worry, yes. It will not loosen. You try to think elsewhere. A barn. A wife. Three notes of a song you half remember. But the death returns. It crowds out the dream. We call it the Dreamreel."
 
 Over by the far wall, against the leg of a bench, the cold little girl had fallen asleep. Her mouth lay open, eyelids running with whatever ran behind them; her breath came small and even.
 
@@ -34,6 +34,6 @@ The two men turned. Weirmoth measured the tall mancer.
 
 Weirmoth grinned. "A man after my own heart, which is to say cheap. I never dream — too busy worrying." He turned the fat-soap over once with a thumb, set it down, and his eyes went to Othelmedir's cloak and the motionless hidden appendage. "My arm's ready for this, anyway. Two horses, dawn."
 
-Noseman laid three square golden pieces in front of Weirmoth, each stamped with the Widow-Star, but stared at Othelmedir. For an instant something other than sleeplessness moved in his face. He looked down again. "At first light. The horses, ready."
+Noseman laid three square pieces of soft yellow electrum in front of Weirmoth, each stamped with the Widow-Star, but stared at Othelmedir. For an instant something other than sleeplessness moved in his face. He looked down again. "At first light. The horses, ready."
 
-Othelmedir crossed to the bench whose edge had been worn shiny by the shoulders of generations of sleepers, and sat.
+Othelmedir stepped, unhurried, to the bench whose edge had been worn shiny by the shoulders of generations of sleepers, and sat.

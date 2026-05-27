@@ -1,8 +1,8 @@
 # Dreamreel Scene 3 (revision)
 
-The bluff path went up out of Sulky Wend in switchbacks, slate stones breaking thinly under the horses' shoes, brittle grass laying flat where the slope tilted forward and the footing tried to give downhill against them. Othelmedir rode at the front. His oxblood cloak was darkened with the morning's wet, and his marble-white prosthetic arm hung limp across his thigh. Weirmoth came up behind. Below them the village was already gone under mist that thickened among the pines.
+The bluff path went up out of Sulky Wend in switchbacks, a slate slab breaking thinly under the lead horse's iron shoe, brittle grass laying flat where the slope tilted forward and the footing tried to give downhill against them. Othelmedir rode at the front. His oxblood cloak was darkened with the morning's wet, and his marble-white prosthetic arm hung limp across his thigh. Weirmoth came up behind. Below them the village was already gone under mist that thickened among the pines.
 
-They dismounted when they reached the foot of two stone steps cut into the bluff-face. A little beyond these steps, the chrypt-door waited. Oak-black was the door, crossed angularly with iron banding, and at the door's center a brass seal hung in a circular bezel, its engraving worn so thin by weather that only the outermost rim still kept the old shape of letters. Othelmedir strode briskly up before it. His functional hand he laid against the brass, palm-flat.
+They dismounted when they reached the foot of two stone steps cut into the bluff-face. A little beyond these steps, the chrypt-door waited. Oak-black was the door, crossed corner to corner with iron banding, and at the door's center a brass seal hung in a circular bezel, its engraving worn so thin by weather that only the outermost rim still kept the old shape of letters. Othelmedir strode up before it in three quick paces. His functional hand he laid against the brass, palm-flat.
 
 "You ride to a job like this without a weapon? On purpose?" Weirmoth asked.
 
@@ -26,6 +26,6 @@ Othelmedir turned back. He bent his head close to the brass. The whisper he gave
 
 "*Öltesoldzo sjhaj*." In common language: 'With a sigh came loose the sutures.'
 
-A seam parted along the door's lower edge. From it came pouring a slow green-grey heaviness, gas with weight in it, that did not rise but went over the sill and down the steps in the manner of something poured. Behind the door cobwebs began to quiver all at once.
+A seam parted along the door's lower edge. From it came pouring a slow green-grey heaviness, gas with weight in it, that did not rise but went over the sill and down the steps in the manner of something poured. Behind the door a single grey cobweb began to quiver.
 
-The two men withdrew up the steps and stood out of the path of the spill. Weirmoth sank onto a cold stone block beside the path, the damp coming up through his trousers. He fished from his cloak a canary dipped and stiffened in banshee-wax, one glass bead for an eye and the other socket empty. "Mister Ribbon," he said to the canary, softly, "lets hope this dingy hole's worth the shiny squares I've added to my pocket."
+The two men withdrew up the steps and stood out of the path of the spill. Weirmoth sank onto a cold granite block beside the path, the damp coming up through his trousers. He fished from his cloak a canary dipped and stiffened in banshee-wax, one glass bead for an eye and the other socket empty. "Mister Ribbon," he said to the canary, his lips barely parting, "lets hope this dingy hole's worth the shiny squares I've added to my pocket."
