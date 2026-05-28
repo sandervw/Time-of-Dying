@@ -1,3 +1,5 @@
+# Dreamreel
+
 ## Scene 1
 
 The Road of Graves ran low into Sulky Wend between hedges of dead bracken, and the wind which blew along it came in with Othelmedir when he stooped beneath the lintel of *The Hooded Pillow*, and stayed afterward in the wool of his cloak. He stood tall as a redwood and thin as a reed, iron eyes set in a broad dark face, cropped curls and salt-and-pepper beard. Othelmedir noted the smell that met him within: stale millet, unwashed wool, the close ferment of unbathed bodies. With his right hand he drew the cloak closer at the throat, letting the dead weight of his left arm settle against his ribs beneath the oxblood velvet. For a moment he only stood in the doorway and looked.
