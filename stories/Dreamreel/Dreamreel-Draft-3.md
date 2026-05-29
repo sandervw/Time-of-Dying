@@ -2,7 +2,7 @@
 
 ## Scene 1
 
-Into Sulky Wend went The Road of Graves, between hedges of dead bracken, and the wind which blew along the paved names carried with it with Othelmedir, till he stooped beneath the lintel of *The Hooded Pillow*. The mancer stood tall as a redwood and thin as a reed, iron eyes set in a broad dark face, cropped curls and salt-and-pepper beard. Othelmedir noted the smell that met him within the establishment: stale millet, and the close ferment of unbathed bodies. With his right hand he drew his cloak closer at the throat, letting the dead weight of his left arm settle against his ribs, hidden beneath the oxblood velvet folds. For a moment he only stood in the doorway and looked.
+Into Sulky Wend went The Road of Graves, between hedges of dead bracken, and the wind which blew along the paved names carried with it with Othelmedir, till he stooped beneath the lintel of *The Hooded Pillow*. The mancer stood tall as a redwood and thin as a reed, iron eyes set in a broad black face, cropped curls and salt-and-pepper beard. Othelmedir noted the smell that met him within the establishment: stale millet, and the close ferment of unbathed bodies. With his right hand he drew his cloak closer at the throat, letting the dead weight of his left arm settle against his ribs, hidden beneath the oxblood velvet folds. For a moment he only stood in the doorway and looked.
 
 The room beyond the doorway lay slumped under its own low ceiling, the hearth a heap of orange coals giving more glow than warmth, the benches against the long wall populated by seven men and one woman who dozed upright. On the nearest bench a boy of perhaps fourteen sat with his head fallen back against the plaster, jaw slack, and Othelmedir, while letting his eyes pass across the company, marked this boy's neck for its breadth, and the white evenness of the boy's teeth where the lower lip had drawn aside.
 
@@ -266,7 +266,7 @@ Beside the larger cauldron, now swollen with all eleven of the necessary reagent
 
 Weirmoth's breath caught, then quickened. The mercenary's eyes moved beneath their lids, and the lids rose. He sat up on the oaken bench.
 
-"Friend Weirmoth," Othelmedir said. "You have slept the heavy sleep. It would profit us both that you now impart to me the substance of what visions came in that dream."
+"Friend Weirmoth," Othelmedir said. "You have slept the heavy sleep. It would profit us both that you now impart to me the substance of what visions came in that reverie."
 
 ---
 
@@ -338,7 +338,7 @@ Othelmedir meanwhile knelt and laid his palm flat upon the boards. Beneath the p
 
 The voice below stumbled. The boards buckled. The bass note climbed, doubled in the narrow space beneath the floor. Something cracked wetly. The boards cracked, and then were still.
 
-Alder heard the crackling board and turned to look. Weirmoth stepped inside the lifted hand. He ducked a darting wasp and drove the short blade up under the jaw.
+Alder heard the crackling board and turned to look. Weirmoth stepped inside the lifted hand. He ducked a darting wasp and drove the short blade up under the mandible.
 
 Alder resumed his death, now dreamless forever.
 
