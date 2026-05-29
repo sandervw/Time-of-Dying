@@ -250,9 +250,9 @@ Othelmedir set his good palm against the slate table.
 
 *The sleeper saw the gate. Othelmedir saw it with him. He had stood at it. The gate had been sturdy, hinged and banded in a pitch-colored iron from the abandoned mine a mile out of Sulky Wend. There had been the noise of a man coming through that gate, and Ostrobone the Rook had shouldered it agape, and the long hall had filled with the tissue-makings of the Milkmoot and their crawl-things, their thin and patient dead.*
 
-*Before the gate had finished swinging, the Red Pew had answered the attack. Fellow Sourbell had answered with his signature Cope of Blue Wasps. Fellow Alder the Lank had answered, his necromancies bass and potent. The hall had filled and filled with discordant black song.*
+*Before the gate had finished swinging, the Red Pew had answered the attack. Fellow Alder the Lank had answered with his signature Cope of Blue Wasps. Fellow Sourbell had answered, his necromancies bass and potent. The hall had filled and filled with discordant black song.*
 
-Within the still-room, a draft stirred under the sealed door behind Othelmedir's back. It came up out of the crypt above and conveyed a peculiar smell, old plaster, the smell of that long ago night.
+Within the still-room, a draft stirred under the sealed door behind Othelmedir's back. It came up out of the chrypt above and conveyed a peculiar smell, old plaster, the smell of that long ago night.
 
 *And there had been the lever.*
 
@@ -384,7 +384,7 @@ Weirmoth cocked his head to one side, squinting. At last he said, "Fine words, L
 
 Othelmedir's black brow furrowed. They had struck no set bargain, no agreed terms of the arrangement. Now the mercenary set his condition plainly, after the work had been accomplished. It was the mancer's own customary method.
 
-Othelmedirinclined his head once. "It shall be as you ask, master Weirmoth."
+Othelmedir inclined his head once. "It shall be as you ask, master Weirmoth."
 
 Othelmedir laid the reagents on the dais one at a time: a stoppered horn first, then a twist of waxed paper, then a small leather purse of cinerous crystals that spilled a little at one torn corner. Weirmoth's eye moved over each as it was set down.
 
