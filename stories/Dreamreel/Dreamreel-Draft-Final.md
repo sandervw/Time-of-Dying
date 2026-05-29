@@ -1,8 +1,6 @@
 # Dreamreel
 
-## Scene 1
-
-Into Sulky Wend went The Road of Graves, between hedges of dead bracken, and the wind which blew along the paved names carried with it with Othelmedir, till he stooped beneath the lintel of *The Hooded Pillow*. The mancer stood tall as a redwood and thin as a reed, iron eyes set in a broad black face, cropped curls and salt-and-pepper beard. Othelmedir noted the smell that met him within the establishment: stale millet, and the close ferment of unbathed bodies. With his right hand he drew his cloak closer at the throat, letting the dead weight of his left arm settle against his ribs, hidden beneath the oxblood velvet folds. For a moment he only stood in the doorway and looked.
+Into Sulky Wend went The Road of Graves, between hedges of dead bracken, and the wind which blew along the paved names carried with it Othelmedir, till he stooped beneath the lintel of *The Hooded Pillow*. The mancer stood tall as a redwood and thin as a reed, iron eyes set in a broad black face, cropped curls and salt-and-pepper beard. Othelmedir noted the smell that met him within the establishment: stale millet, and the close ferment of unbathed bodies. With his right hand he drew his cloak closer at the throat, letting the dead weight of his left arm settle against his ribs, hidden beneath the oxblood velvet folds. For a moment he only stood in the doorway and looked.
 
 The room beyond the doorway lay slumped under its own low ceiling, the hearth a heap of orange coals giving more glow than warmth, the benches against the long wall populated by seven men and one woman who dozed upright. On the nearest bench a boy of perhaps fourteen sat with his head fallen back against the plaster, jaw slack, and Othelmedir, while letting his eyes pass across the company, marked this boy's neck for its breadth, and the white evenness of the boy's teeth where the lower lip had drawn aside.
 
@@ -36,17 +34,15 @@ Othelmedir recognized this rite - The Little Mass of Failing Lamps - and the lif
 
 The bedmeister looked up from his tally, noticed Othelmedir, and lifted a hand. "You. Bed or bench?"
 
-Othelmedir threaded between the tables, passing the strong-necked boy and the untouched pewter cup setting before him, the surface of which bore a thin olive-colored film, and came to stand at the plank counter. Upon the counter lay an open ledger. The book was bound in spidersilk, dulled and ridged at the spine where a hundred fingers had worn it, and its open page showed names entered in a meticulous hand, with all but the last few names struck through with one short line.
+Othelmedir threaded between the tables, passing the strong-necked boy and the untouched pewter cup sitting before him, the surface of which bore a thin olive-colored film, and came to stand at the plank counter. Upon the counter lay an open ledger. The book was bound in spidersilk, dulled and ridged at the spine where a hundred fingers had worn it, and its open page showed names entered in a meticulous hand, with all but the last few names struck through with one short line.
 
-"You inquire, master bedmeister, whether I would take bed or bench," said Othelmedir to Noseman. "Let it be a bed, if any chamber yet remains un-tenented; and let it be the loftiest room you keep, for the quiet of an upper floor sits more kindly with a man whose labours are accomplished in the sidereal hours."
+"You inquire, master bedmeister, whether I would take bed or bench," said Othelmedir to Noseman. "Let it be a bed, if any chamber yet remains un-tenanted; and let it be the loftiest room you keep, for the quiet of an upper floor sits more kindly with a man whose labours are accomplished in the sidereal hours."
 
 The bedmeister's thumb moved along the bead tally.
 
 ---
 
-## Scene 2
-
-"How long've you been saddle up like this? Parable, not a poem." The client to whom Noseman had first been speaking spoke now again, resuming now some prior conversation they had been engaged in before Othelmedir entered. He laid a sliver of fat-soap on the counter beside his mug, turned a hand over, examined the pale crescent of a nail, then stared at the bedmeister with a face half-indifferent.
+"How long've you been saddled up like this? Parable, not a poem." The client to whom Noseman had first been speaking spoke now again, resuming now some prior conversation they had been engaged in before Othelmedir entered. He laid a sliver of fat-soap on the counter beside his mug, turned a hand over, examined the pale crescent of a nail, then stared at the bedmeister with a face half-indifferent.
 
 "Three months, master Weirmoth. Maybe four," said Noseman.
 
@@ -80,13 +76,11 @@ The two men stared at the tall mancer.
 
 Weirmoth smirked. "A man after my own heart, which is to say cheap. I never dream myself. Too busy worrying." He turned the fat-soap over once with a thumb, set it down, and his eyes went to Othelmedir's cloak and the motionless hidden appendage. "My arm's ready for this. Two horses, dawn. Sound fair?"
 
-Noseman laid three square pieces of supple yellow electrum in front of Weirmoth, each stamped with the Widow-Star, but the bedmiester kept his stare upon Othelmedir. For an instant something other than sleeplessness stirred in his face. He turned his eyes down again. "First light. The horses, ready."
+Noseman laid three square pieces of supple yellow electrum in front of Weirmoth, each stamped with the Widow-Star, but the bedmeister kept his stare upon Othelmedir. For an instant something other than sleeplessness stirred in his face. He turned his eyes down again. "First light. The horses, ready."
 
 Othelmedir stepped to the bench whose edge had been worn shiny by generations of sitters, and sat.
 
 ---
-
-## Scene 3
 
 The bluff path twisted up and out of Sulky Wend in switchbacks, slate slabs clacking under the lead horse's iron shoe, brittle grass laying flat where the slope tilted forward. Othelmedir rode at the front. His oxblood cloak was darkened with the morning's wet, and his marble-white prosthetic arm hung limp across his thigh. Weirmoth came up behind. Below them the village had already vanished within mist that congealed among the pines.
 
@@ -118,11 +112,9 @@ Othelmedir turned back to the door. He bent his head close to the brass. The whi
 
 A seam parted along the door's lower edge. From it came pouring a slow green-grey heaviness, gas with weight in it, that did not rise but went over the sill and down the steps in the manner of something poured slowly from a carafe. Behind the door a single grey cobweb began to quiver.
 
-The two men withdrew up the steps and stood out of the path of the spill. Weirmoth sank onto a cold granite block, the damp coming up through his trousers. He fished from his cloak a canary dipped and stiffened in banshee-wax, one glass bead for an eye and the other socket empty. "Mister Ribbon," he said to this canary, softly, "lets hope this dingy hole's worth the shiny squares I've added to my pocket."
+The two men withdrew up the steps and stood out of the path of the spill. Weirmoth sank onto a cold granite block, the damp coming up through his trousers. He fished from his cloak a canary dipped and stiffened in banshee-wax, one glass bead for an eye and the other socket empty. "Mister Ribbon," he said to this canary, softly, "let's hope this dingy hole's worth the shiny squares I've added to my pocket."
 
 ---
-
-## Scene 4
 
 Othelmedir crossed the threshold first. The gas swallowed his legs to the shins; his boot found the stair beneath. The aftertaste of the dissipated fume came at once into the back of his throat, spoiled meat. His tongue curled, yet he proceeded.
 
@@ -160,7 +152,7 @@ Othelmedir said, "Walk on, good Weirmoth. The chamber that lies beyond this one,
 
 The two cadavers they found in the next room - a censing hall - were not of the breach-party. These wore the long surplice of the tower itself, cloth so old it had gone the colour of a scab. They had no weapons. They had been slain at their post. The gas had preserved them, and now the seal had broken and they were standing again at their post and reaching empty-handed toward the Milkmoot invader already on the floor - toward the killing they had been killed in the middle of, and meant still to finish.
 
-Now they came at Weirmoth with empty hands. He kept the spear long between him and his foes, but the corridor was narrow, and the first one was inside the spear's reach in three steps. Its hands found his wrist. The grip was cold and stronger than three living men's - the fingers ground his wristbones. He swore. He could not bring the spearpoint to bear. He drove his knee up into the surplice and felt nothing, no breath, no gasp. The dead man kept his grip. He came on. The second was reaching for the mercenary's throat. Weirmoth let the spear clatter on the floor. He took the first man by the cloth at the shoulder and turned him into the second. The two became tangled Weirmoth used the moment to whip a long iron skinning-knife from his belt, and went in for close work. He struck at the throat of the first, finding purchase, sawing through the surplice and the leather and the desiccated meat beneath, until the head sat at a wrong angle. Then nimbly he pulled back. He punched once. His knife slammed into the temple of the second. He buried it to its simple hilt in the porous bone and dead skin.
+Now they came at Weirmoth with empty hands. He kept the spear long between him and his foes, but the corridor was narrow, and the first one was inside the spear's reach in three steps. Its hands found his wrist. The grip was cold and stronger than three living men's - the fingers ground his wristbones. He swore. He could not bring the spearpoint to bear. He drove his knee up into the surplice and felt nothing, no breath, no gasp. The dead man kept his grip. He came on. The second was reaching for the mercenary's throat. Weirmoth let the spear clatter on the floor. He took the first man by the cloth at the shoulder and turned him into the second. The two became tangled. Weirmoth used the moment to whip a long iron skinning-knife from his belt, and went in for close work. He struck at the throat of the first, finding purchase, sawing through the surplice and the leather and the desiccated meat beneath, until the head sat at a wrong angle. Then nimbly he pulled back. He punched once. His knife slammed into the temple of the second. He buried it to its simple hilt in the porous bone and dead skin.
 
 The two dead men lay completely still on the ground, half-concealed beneath the layer of gas. Their empty hands twitched for some time after.
 
@@ -184,11 +176,9 @@ And as he spoke, the wall continued to contract and swell under Othelmedir's liv
 
 ---
 
-## Scene 5
-
 The corridor led into a room which opened onto greyness, not blackness. The false-sun globe suspended above this large chamber's central gallery had long since emptied of whatever luminance it once held, yet its dead face cast a radiance that was not so much light as the negation of shadow, flat and without warmth or direction. Othelmedir's boot found the first flagstone's raised corner before his eyes had adjusted. He stumbled, yet straightened without comment and without breaking stride, his second foot already correcting for the terrain his first had not anticipated, not so much as glancing over the room's nearby balcony.
 
-Weirmoth marched behind Othelmedir. He ran one gloved hand running along the handrail's smooth stone - cold even through the leather, the drop to the dead garden below shifting in and out of view through flat pillars as he sidled along - while Othelmedir examined this second floor's shelves. His hand moved from spine to spine, then stopped, the third shelf from the floor, second column from the corner. The spine yielded softly to his touch, like a tender bread crust, its cover having absorbed so many seasons of damp that it had become a texture rather than a structure. He drew it gingerly free of its neighbors. The volume was heavier than one would expect from its moldy cover. He opened it to a page at the middle; the ink, at least, had been preserved.
+Weirmoth marched behind Othelmedir. He ran one gloved hand along the handrail's smooth stone - cold even through the leather, the drop to the dead garden below shifting in and out of view through flat pillars as he sidled along - while Othelmedir examined this second floor's shelves. His hand moved from spine to spine, then stopped, the third shelf from the floor, second column from the corner. The spine yielded softly to his touch, like a tender bread crust, its cover having absorbed so many seasons of damp that it had become a texture rather than a structure. He drew it gingerly free of its neighbors. The volume was heavier than one would expect from its moldy cover. He opened it to a page at the middle; the ink, at least, had been preserved.
 
 "That one for reading, or for show?" Weirmoth had halted at the rail, observing his companion.
 
@@ -205,8 +195,6 @@ Then a low, sustained note reached them from beyond the door - the sound of a si
 Othelmedir did not move at once. He stood holding the treatise. Weirmoth stood a little farther back, in the center of the open central space below the dead sun, among the garden plots: nine small humped islands of pale, grassless soil amidst the ankle-deep sea of gas, with each island marking where the cabal had interred one of its mancers.
 
 Othelmedir tucked the treatise under his arm and regarded Weirmoth with an inscrutable expression. He said, "This, I deem, is your métier."
-
-## Scene 6
 
 Weirmoth surged through the door, coming in low with his thrust. The spear took the dead-dreamer waiting beyond under the floating rib, a pristine upward stab meant for the heart; but the thing did not buckle, only writhed on the haft and clouted him across the temple with the flat of its forearm. Weirmoth reeled. The corpse stepped through the swing, and its other hand closed about the mercenary's throat. He fell back against the slate worktop that lined the chamber's inner wall. A wax-sealed jar of widowwine rattled. The spear was pinned between their bodies, otiose.
 
@@ -236,11 +224,9 @@ Weirmoth set the needle down.
 
 Weirmoth took the cup. He held it at the level of his chin.
 
-"I'm not as clever as you keep insisting, friend" Weirmoth shrugged. "Stop flattering me into a worse deal."
+"I'm not as clever as you keep insisting, friend." Weirmoth shrugged. "Stop flattering me into a worse deal."
 
 Then he raised the cup to his lips.
-
-## Scene 7
 
 The cup came down empty against the bench. Weirmoth set it down himself; and then the sellsword's head pitched against his own shoulder. He toppled sideways onto the bench, knocking the cup to the ground with a clatter that the now-dreaming mercenary did not hear.
 
@@ -270,8 +256,6 @@ Weirmoth's breath caught, then quickened. The mercenary's eyes moved beneath the
 
 ---
 
-## Scene 8
-
 Othelmedir set the vial of the poison against the muscle-wall. He spoke a word of deadspeech, and a taste rolled over the back of his tongue. Aniseed.
 
 The wall came apart in slow rivulets, sinew unbraiding strand by strand down the doorframe.
@@ -282,7 +266,7 @@ Weirmoth used the haft of his spear to rise from a half crouch. He stepped up to
 
 The last strand parted with a wet snap, and the pale-green gas that had been pent in the lower passages came forward in a slow wave, parting around their boots and closing behind each step. Weirmoth went through first. Othelmedir followed at his right shoulder.
 
-They came into the upper dining hall. The long oak table stood turned on its trestles, a desiccated capon still pinned to the boards by an iron skewer. Pums lay scattered beneath the gas-layer, shriveled to a knucklebone. Seven high-backed chair had been thrown wide. The iron sconce stood flameless, the room lay dark.
+They came into the upper dining hall. The long oak table stood turned on its trestles, a desiccated capon still pinned to the boards by an iron skewer. Plums lay scattered beneath the gas-layer, shriveled to a knucklebone. Seven high-backed chairs had been thrown wide. The iron sconce stood flameless, the room lay dark.
 
 Two of the Milkmoot stood waiting under the lintel of an inner door. They had been waiting, by Othelmedir's reckoning, for long decades.
 
@@ -354,8 +338,6 @@ Weirmoth wiped the short knife on the sere robes of the dead mancer. He set his 
 
 "Yet a name spoken by a corpse is no momentous matter in the practice of necromancy. Friend Weirmoth, keep what journal you will, and enter therein what entries please you. For the present, there remains to us business yet unfinished within this tower."
 
-## Scene 9
-
 The half-open door gave onto a short flight of twelve steps, and the flight gave onto the cauldron chamber. The stair was wide; the pair went down it together. The stone under their boots was gritted with old salt.
 
 The cauldron squatted on its dais at the room's center, wan copper bloomed to verdigris along the rivets, its lip blackened, its body sweating.
@@ -392,4 +374,4 @@ Othelmedir straightened. "Master Weirmoth," he said, "you drive your bargain fro
 
 Weirmoth gathered the reagents into the crook of his good arm. "My legs remember the way up better than the way down," said the mercenary, ignoring the comment. "Let's use them while they still agree with me."
 
-As they ascended, Othelmedir pressed one hand briefly to his chest. there the unremembered pendant of hammered tin lay flat against his sternum.
+As they ascended, Othelmedir pressed one hand briefly to his chest. There the unremembered pendant of hammered tin lay flat against his sternum.
