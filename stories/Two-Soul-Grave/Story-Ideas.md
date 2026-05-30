@@ -15,6 +15,10 @@ Now the assassin is in a state of turmoil. He wants revenge; he wants to know wh
 ## Story Ideas
 
 Assassin sent to bottom of middlemoss gorge (bottom of middle of road) - fights back to vampire mausoleum near surface
+- Hydro-electro-necromantic Dam, at The Lake Which Precedes the Bottom, down in the lightless depths of The Middlemoss
+- one way to the surface: gain entry past the door of the whispering lady
+- one assassin scene/story: he is targeted himself by an "Imperial Mancer" - there is a self-proclaimed empire/emperor of The Lake
+- Assassin char has 6 fingers on one hand
 
 **Nyorzal - aka "The Black Ax"** - cursed mcguffin weapon
 
