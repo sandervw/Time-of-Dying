@@ -1,3 +1,10 @@
+---
+title: "Dreamreel"
+author: "Sander VanWilligen"
+date: "2026-05-29"
+description: "A one-armed dream-mancer hires a blunt-spoken mercenary to breach a sealed tower whose leaking gas forces a village to relive the deaths of long-dead sorcerers."
+---
+
 # Dreamreel
 
 Into Sulky Wend went The Road of Graves, between hedges of dead bracken, and the wind which blew along the paved names carried with it Othelmedir, till he stooped beneath the lintel of *The Hooded Pillow*. The mancer stood tall as a redwood and thin as a reed, iron eyes set in a broad black face, cropped curls and salt-and-pepper beard. Othelmedir noted the smell that met him within the establishment: stale millet, and the close ferment of unbathed bodies. With his right hand he drew his cloak closer at the throat, letting the dead weight of his left arm settle against his ribs, hidden beneath the oxblood velvet folds. For a moment he only stood in the doorway and looked.
@@ -156,7 +163,7 @@ Now they came at Weirmoth with empty hands. He kept the spear long between him a
 
 The two dead men lay completely still on the ground, half-concealed beneath the layer of gas. Their empty hands twitched for some time after.
 
-Othelmedir bent at the body with the puncture temple. He put his fingers to the throat under the leather. From beneath the cuirass he drew a chain. At the end of the chain there hung a hammered tin pendant, flat as a tear, sigil of a lidded cauldron with a single ear worked into the lid. He tucked chain and pendant into an inner pocket of his cloak.
+Othelmedir bent over the body with the punctured temple. He put his fingers to the throat under the leather. From beneath the cuirass he drew a chain. At the end of the chain there hung a hammered tin pendant, flat as a tear, sigil of a lidded cauldron with a single ear worked into the lid. He tucked chain and pendant into an inner pocket of his cloak.
 
 "Trophy?" asked Weirmoth.
 
@@ -342,7 +349,7 @@ The half-open door gave onto a short flight of twelve steps, and the flight gave
 
 The cauldron squatted on its dais at the room's center, wan copper bloomed to verdigris along the rivets, its lip blackened, its body sweating.
 
-Weirmoth hissed as with one fist clamping his sleeve around his lacerated arm. He said, "I won't interfere. Do your work, mancer. I'll stand here being uninvolved."
+Weirmoth hissed. With a fist he clamped his sleeve around his lacerated arm. He said, "I won't interfere. Do your work, mancer. I'll stand here being uninvolved."
 
 Othelmedir drew his secret third bottle - The Lidd Decoction, the potion he had brewed in the cauldron of black oil - from the inner pocket of the oxblood cloak. Thumbing away the wax seal he had placed upon it, he stepped to the dais. He tipped the bottle's mouth over the cauldron's lip and poured.
 
