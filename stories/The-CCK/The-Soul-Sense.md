@@ -71,8 +71,8 @@ Your Blue Lady’s voice begins softly, but echoes louder with each word.
 
 Like fingers gone numb, flexing and unflexing, prickling as the blood creeps back under the pale skin - in this way do your senses return.
 
-| **Touch** You feel the bark of the tree, your spine contouring against the trunk. | **Sound** Your Lady has fallen quiet. But in the succeeding silence is a sound you know. *Caw. **Cawcaw**.* A crow. Between each of its croaks, somewhere in the boughs, you hear the hiss of light rain. |
-| --- | --- |
+| **Touch** You feel the bark of the tree, your spine contouring against the trunk.                                                       | **Sound** Your Lady has fallen quiet. But in the succeeding silence is a sound you know. *Caw. **Cawcaw**.* A crow. Between each of its croaks, somewhere in the boughs, you hear the hiss of light rain.                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Taste and Smell** Breathing deeply, air swells your lungs. The taste and smell of petrichor light up another part of your lost sense. | **Sight** First you see nothing. Then light, and color, and a vague rectangle of shape. Then, your Blue Lady. Her face is bent over yours, looking down at your eyes, you knew, behind the shadow of your visor. Around her neck she wears a thin silver necklace. |
 
 Your eye is most troubled.
@@ -158,7 +158,7 @@ A pool of red spreads from the dead man.
 `The castle employs seven men in the rite of the duel.`
 
 | **The Four Burdened Ones** Four to grasp the arms and legs. Four to bear the dripping body. Four to depart unknown. | **Scholar of the Arid Art** He lives behind a slatted birch door, to the side of the dueling hall. He draws from a body its water, and returns the body to its clan. | **The Wringers Twain** They soak the sacred foe’s blood up from the floor, and wring it into a silver-gilt iron ewer. |
-| --- | --- | --- |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
@@ -232,7 +232,7 @@ Othelmedir’s voice summons its distinctly deep, distinctly resonant sound.
 
 `The Kustodevite sect of mancers present the soul as a lodging house. A painted lodging house, with many floors, many rooms, many windows and doors. The house begins with the boy on the roof, waving a flag at the pigeons in the sky. It descends, through rooms and persons: the husband and wife dining on the balcony, the maid dusting curtains, the three old friends playing cards at a table on the porch. The lodge ends at the bottom, with the coffin-maker in the cellar.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Soul-Sense-media/image21.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Soul-Sense-media/image21.png)
 
 ---
 
@@ -275,7 +275,7 @@ Near one edge of the road, where four new stones must have been freshly appended
 `There are only two ways to look.`
 
 | **Ahead** The Road seems to have narrowed to only a few stones in width. The line of watching Buried overhead thins respectively. Only a narrow band of complete, floating skeletons remains to witness your passage. | **Behind** Where the Road of Graves ran there lies now only a bristling nothing, filled of static. At the center of this mouth there lurches a form. The tattered, bloody, ten-foot aspect of The Red King. |
-| --- | --- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 `Two things of smoke and mist will drop just before you. Call on your trained instinct for succor. Bring your Polished Steel out and cutting. You have time to strike only one of the mist things. Then the other throws itself at you.`
 

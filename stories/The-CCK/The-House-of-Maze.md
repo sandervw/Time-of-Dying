@@ -33,7 +33,7 @@ You see no windows, no main entry, just three or four gaps between the scaffolds
 
 `Sepulchral is the living space in Middlemoss.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-House-of-Maze-media/image14.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-House-of-Maze-media/image14.png)
 
 ---
 
@@ -53,9 +53,9 @@ The narrow stucco crack through which you slip keeps going. And going. And twist
 
 `There are many obstacles you will need to traverse.`
 
-| **Revolving wall.** | **Floorless corridor with tusk-framework.** |
-| --- | --- |
-| **Room of bridges.** | **Arrow signs of impossible directions.** |
+| **Revolving wall.**  | **Floorless corridor with tusk-framework.** |
+| -------------------- | ------------------------------------------- |
+| **Room of bridges.** | **Arrow signs of impossible directions.**   |
 
 `The key to getting past most of these is to find the secret candle switch.`
 
@@ -82,10 +82,10 @@ You will likely decide to turn back at some point. No matter when you decide thi
 
 `There are four ‘safe zones’ where you can cut the slimes with ease.`
 
-| **The Echo Room** This room is thirteen feet long by nine-and-one-half feet wide. The floor is a network of crossbeams densely woven-together, like layered spiderwebs. Every footstep shudders through the walls and floor and ceiling for miles. | **Beaker’s Garden** The twisted hanging oak that is this circular stone chamber’s only feature thrives despite its sunless domain. The single candle dripping on one of its lower branches shoves its yellow light against the underside of a green canopy. |
-| --- | --- |
-| **Doorless Circling Stairway** You always seem to enter this room through a broken hole of brick rubble. The stairs run endlessly up and down. To reveal the secret silver-door, travel up twenty-eight steps, down thirty-five, up one, down nine, and up thirty-nine. | **The Scriptorum** Behind the shelves you hear the scuffling of the rats; and from somewhere far away, a violin’s sorrowful banshee-wail. If you search the shelves, you can also find a set of Scroll-Armor. |
-| **Scroll-Armor** Though rusted like your present suit, the inside of this set of metal plate is lined with vellum, yellow scrolls covered in a dainty mancer’s script. Most ghosts will not trouble you while you wear it. |   |
+| **The Echo Room** This room is thirteen feet long by nine-and-one-half feet wide. The floor is a network of crossbeams densely woven-together, like layered spiderwebs. Every footstep shudders through the walls and floor and ceiling for miles.                      | **Beaker’s Garden** The twisted hanging oak that is this circular stone chamber’s only feature thrives despite its sunless domain. The single candle dripping on one of its lower branches shoves its yellow light against the underside of a green canopy. |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Doorless Circling Stairway** You always seem to enter this room through a broken hole of brick rubble. The stairs run endlessly up and down. To reveal the secret silver-door, travel up twenty-eight steps, down thirty-five, up one, down nine, and up thirty-nine. | **The Scriptorum** Behind the shelves you hear the scuffling of the rats; and from somewhere far away, a violin’s sorrowful banshee-wail. If you search the shelves, you can also find a set of Scroll-Armor.                                               |
+| **Scroll-Armor** Though rusted like your present suit, the inside of this set of metal plate is lined with vellum, yellow scrolls covered in a dainty mancer’s script. Most ghosts will not trouble you while you wear it.                                              |                                                                                                                                                                                                                                                             |
 
 ---
 
@@ -152,7 +152,7 @@ An old man lies on his side in the back of a black stone shelf. His sere hair ha
 
 `Although rats in the cities are smaller and less territorial, they are still dangerous. They coalesce into huge packs. Some unscrupulous sorts, with voices that can touch the hearts of beasts, train the rats for crime. Theft is the most common use, but swarms have also been trained for murder, arson, forgery, kidnapping, blackmail, and, puzzlingly, animal cruelty.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-House-of-Maze-media/image15.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-House-of-Maze-media/image15.png)
 
 ---
 
@@ -165,7 +165,7 @@ An old man lies on his side in the back of a black stone shelf. His sere hair ha
 `If you settle into the slippers of a thief, several are your modi vivendi.`
 
 | **Gambling** You may stumble onto a cardsharp’s table tucked into a secret dormer of the house. No matter how you try, yours is always a losing hand at this table. You gain neither wealth nor information. | **Deception** If you took the Sorrowful Father Mask from Birchbark, back in The Cat in the Jar, you can use it here to wear a false identity. Disguising yourself as one of the house thieves is unhelpful, but if you wear the guise of a mad slave, you can sometimes overhear a secret path to a window or skylit hall. Visiting these will help to delay your own madness, though all such windows are grated. | **Stalking** Oiling your rusted armor will allow you, with careful footsteps, to follow the tracks of house thieves. They inevitably stop by the house kitchens. Here you can grab a bite to eat. |
-| --- | --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 

@@ -34,7 +34,7 @@ R jerks his Morning Star loose. He staggers.
 
 `The bent squall is an apparition of driving jaguar winds, flowing streams of black cloud, and sideways lightning. They are local to one country of The Road of Graves, east of The Meathook Mountains. They kill quicker than blizzards, faster than floods, more swiftly even than some fatal poisons.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Coffin-Rollers-media/image58.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Coffin-Rollers-media/image58.png)
 
 ---
 
@@ -66,7 +66,7 @@ Gawpers peek from the canvas wagon flaps. Pale gawpers. Gawpers with too many te
 
 `The varied vagrants that travel with the caravan come in all shapes and sizes, colors and talents. Some are simple dwarves. Some are mancers. Some are sane.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Coffin-Rollers-media/image59.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Coffin-Rollers-media/image59.png)
 
 ---
 
@@ -75,7 +75,7 @@ You know that each caravan has one Master; and also that, to identify themselves
 As you march down the twin wagon lines, several features attract your eye.
 
 | **Legbones Man** One gawper sits on the stairs of his house-sized wagon. His upper half is hidden behind the flaps of the entrance. Of his lower body, you see two skinny legs clad in loose red silk. Each leg is crooked acutely, pointing up at the tunnel of clouds. You guess the limbs to be nine feet long. | **The Hypnotist** A woman with a lumpy, wide, froglike face stares at you from the round window of a wagon. Her eyes spin in their sockets. You feel the hair stand on your neck. | **Carousel of Bones** The source of the singing which your Lady heard is made clear when you pass a flat-topped wagon. Upon it, there is a carousel of horses shaped from cat bones. A girl the size of a cat spins the carousel with a crank, while singing through the numbers one through twelve to the tune of the calliope. |
-| --- | --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Four tall heavy forms march past you in a perfect line and mechanical pace. Others stand randomly about the caravan, statue-stiff.
 
@@ -172,9 +172,9 @@ You do not know how many minutes, hours, days go by. There is no food or water, 
 
 `Beyond the same rooms with bright clothes and stacked furnishing, or the rooms stocked with Waiting Coffin Rollers and Wax Golems, a few of the silken spaces you may enter are noteworthy.`
 
-| **Beetroot Picklery** Two hundred gnarled roots float in an obfuscating green fluid, upon three long racks of metal shelves. It is hard to tell, but it seems as if the roots turn inside their jars, following you as you pass. | **Shaggy Franklin** A black goat with long, tangled hair paces in wide circles in this room. If you search in its pelt, you can find a nugget of Speech Cheese. |
-| --- | --- |
-| **Theater** A small box of a room, with the silks hanging so close to each other that your pauldrons rub against your Lady and R’s shoulders. On one side, there is a stage for puppets. | **The Dwarf Compressor** A hole in the shape of a normal-sized man opens on one side of the copper machine - the shape is the same on the other side, but squashed to two feet tall. |
+| **Beetroot Picklery** Two hundred gnarled roots float in an obfuscating green fluid, upon three long racks of metal shelves. It is hard to tell, but it seems as if the roots turn inside their jars, following you as you pass. | **Shaggy Franklin** A black goat with long, tangled hair paces in wide circles in this room. If you search in its pelt, you can find a nugget of Speech Cheese.                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Theater** A small box of a room, with the silks hanging so close to each other that your pauldrons rub against your Lady and R’s shoulders. On one side, there is a stage for puppets.                                         | **The Dwarf Compressor** A hole in the shape of a normal-sized man opens on one side of the copper machine - the shape is the same on the other side, but squashed to two feet tall. |
 
 After plunging through curtains for what seems like eternity, you enter a special room.
 
@@ -342,8 +342,8 @@ The monster hisses, then lowers it flat head and thunders on down the line.
 
 Though time is against you, you stop in the brush for a moment while waiting for the monster to gain some distance. You take stock with R of your magical gear.
 
-| **Sorrowful Father Mask** Though it has served you on occasion before, you doubt that this magical disguise will grant any advantage against the Rollers. | **Silver Ring** R carries this masterfully lambent ring. He assures you it won’t help in this battle. He does not expand upon its qualities. |
-| --- | --- |
+| **Sorrowful Father Mask** Though it has served you on occasion before, you doubt that this magical disguise will grant any advantage against the Rollers.                                                                                                                                                    | **Silver Ring** R carries this masterfully lambent ring. He assures you it won’t help in this battle. He does not expand upon its qualities.                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Jugflower** You find this pressed, pitcher-shaped flower blossom in a roll of leather, in the bottom of your pack. You quickly rewrap it; when exposed to air, a plucked Jugflower instantly starts to disintegrate. As it disintegrates, a piercing ring fills the ears of anyone nearby, deafening them. | **Pure Wheat** You only have three crackers of this revitalizing bread. You were saving them for your Lady. Now, you chew a piece, and grudgingly pass one to R. The weariness in your arms, the soreness from your rough handling, disappears. |
 
 `Don’t bother returning to The Silk Maze or The Chemical Show. You won’t find your Lady in either of those wagons. As you sneak along the caravan, keep your eye out for a wagon with a semitranslucent, glass-like cover. You’ll know you’re close when you see three wagons in a row loaded with buckets of varicolored lead paint.`

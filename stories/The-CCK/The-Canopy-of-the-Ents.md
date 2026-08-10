@@ -13,7 +13,7 @@ The thicket wriggles and squeezes. From the left. From the right. Above. Under y
 Two paths lead up the trunk.
 
 | **Right** The slope, in buckles and gnarls, rises gradually like a whole landscape of crags, of wooden hills and wooden cliffs. Branches, like trees in their own right, burst up from the rugged terrain like volcanic mushrooms. There is no easy path up the slope; the little ‘branch trees’ thicken into a thicket, the tunnels through the thicket shrink and shrink. | **Left** Your branch opens onto a wide, flat ledge. The light looks brighter this way. A place for your Blue Lady to catch her breath? |
-| --- | --- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 
 Taking the left path; on the wide branch-cliff of the mountain-tree, the old wood swells away like the sea. Far below The Old Soulwood foams in slow but heavy winds.
 
@@ -65,7 +65,7 @@ Other great trees spread behind you, eastward. Dozens. They sway, more than regu
 
 `The Ents stand only in the remotest parts of the great Soulwood. Up on the forested mountain peaks. Or, hidden in ravines that run so deeply into the earth, their canopies lie lower even than that of the regular forest. They sway, but do not move from the place of their roots.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Canopy-of-the-Ents-media/image45.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Canopy-of-the-Ents-media/image45.png)
 
 ---
 
@@ -91,7 +91,7 @@ Your Lady raises a hand to shield her eyes from the sun, and looks east.
 Two paths lead off the trunk.
 
 | **Right** One long branch swings out in wild arcs. Down and sideways. Up and sideways. Whenever this horizontal pendulum reaches the end of its arc, it draws near the bristling, swinging limb of a nearby juniper-Ent. If you take this path, and make the jump to the opposite tree, you will find the nest of a golden crow amidst the immediate bristles. Taking one egg from the nest will bring you ill-luck. If you take two instead, they will later hatch, and be your faithful followers. | **Left** One branch of your towering oak wriggles back and forth like the tail of a snake. At its end, it almost touches the still branch of the Ent you noticed earlier, the one with the strange grey leaves. |
-| --- | --- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 You run with your Lady along the swaying branch, toward the Ent that is mottled grey. A pine. The grey-shapes are not leaves, you now see, but calcified pinecones, with some of their grey bleeding into the wood.
 
@@ -139,7 +139,7 @@ Something rustles behind you. Instantly your fingers are wrapping the hilt of yo
 `This is your last chance to alter the fate of this Living Bones, the Late Poet. His tall cap droops, the blue and orange feathers overhang his bent skull. His voice is melancholy. Your opinion, though unspoken, determines his end.`
 
 | **He has wasted his time** The Late Poet realizes there are no stars on The Road of Graves. Later, you find his bones in a defiled coffin, near Alsoburg. They appear to have been buried there for centuries. | **Remember your Lord** The Late Poet will compose a song about your fallen lord. The song wins him fame. He wanders The Road, singing it between the towns, long after you are gone. | **Remember your Lady** The Late Poet will compose a song about your Blue Lady. |
-| --- | --- | --- |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 
 As you leave the hollow chamber, The Late Poet remains.
 
@@ -153,10 +153,10 @@ Small trees, *within* this great hollow tree, also dead, shoot up on your left a
 
 `Many are the afflictions which might strangle an oak or pine.`
 
-| **Petrification** | **Red King’s Curse** | **Stone Curse** |
-| --- | --- | --- |
-| **Slumber** | **Wilting Disease** | **Millipedes** |
-| **Curse of Soft Roots** | **Pulping** | **Shakes** |
+| **Petrification**       | **Red King’s Curse** | **Stone Curse** |
+| ----------------------- | -------------------- | --------------- |
+| **Slumber**             | **Wilting Disease**  | **Millipedes**  |
+| **Curse of Soft Roots** | **Pulping**          | **Shakes**      |
 
 ---
 
@@ -265,7 +265,7 @@ Your light awakens the stag head. It lows at the apex of the ceiling. Its opens 
 
 `The Eye of an Ent is a valuable prize. This once-alive man tried to steal this once-alive Ent’s eye for his House. He forgot to bring a clotting salve for the wound, however, so the heart trapped and consumed him in vengeance. Whatever was human in the man is something else now. He has become the heart-mite, the insect-servant of the Ent’s thrumming organ.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Canopy-of-the-Ents-media/image55.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Canopy-of-the-Ents-media/image55.png)
 
 ---
 

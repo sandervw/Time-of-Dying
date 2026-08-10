@@ -74,7 +74,7 @@ The old man sets his right arm on the crook of his right cane, and points.
 
 `A distant chime-carillon strikes up a complicated fugue in D-minor. For decades the people of Middlemoss have traded tales of various persons, ill-fated, who began to hear this chime in their dreams, and thereafter went missing.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Hypnotist-of-Yellowmoor-media/image38.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Hypnotist-of-Yellowmoor-media/image38.png)
 
 ---
 
@@ -85,7 +85,7 @@ Though you did not visit as  the old man suggested, lacking invitation, the imag
 `You can follow one of two courses: continue the search for your Lady’s stepson, or try to learn more about her daughter’s haunting ghost. If you spend the week on the former, you’ll receive the following clues.`
 
 | **From the Reed Seller** That he has been in Middlemoss for ten years, and memorized every passing face, and never seen a face like your Lady describes. | **From the Frozen Skeleton in the Mancer’s Guild** That knightly orders from the East sometimes recruit in Middlemoss | **From Lady Orca** That you and your Lady should move on... |
-| --- | --- | --- |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 
 If you instead pursue the latter objective, you can purchase a Hauntshield ritual for your Lady’s protection. It will keep her from seeing any ghost for ten days.
 
@@ -227,9 +227,9 @@ As you bury your eyes in their reflection, in a pool of silver water, you hear y
 
 `You’ll hear her same four sentences repeated in each of the endless trances you see from this point forward. If you listen carefully to each of the sentences, you can focus on one key word or phrase in each. Picking the four correct keyword will open up four specific trances to you.`
 
-| **‘Golden Sepulchral Light’** Opens the trance of Goldegrave. | **‘Cul-de-sac’** Opens the trance of The Dead End. |
-| --- | --- |
-| **‘A Game Table’** Opens the trance of Toad’s Chessboard. | **‘Stairway’** Opens the trance of The Sinking Marble Pillar of the Sky. |
+| **‘Golden Sepulchral Light’** Opens the trance of Goldegrave. | **‘Cul-de-sac’** Opens the trance of The Dead End.                       |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **‘A Game Table’** Opens the trance of Toad’s Chessboard.     | **‘Stairway’** Opens the trance of The Sinking Marble Pillar of the Sky. |
 
 `At the conclusion of each of these special trances you will hear that old chime sound. Each chime thrums through your body like an inner earthquake, bringing you closer back to reality.`
 
@@ -291,7 +291,7 @@ Just before you break the latch, something shudders in the hall below. Some foe.
 
 `The Hypnotist of Yellowmoor is a Wooly Vampire, a not-quite-undead, not-quite-alive misery, which feeds on imagination. Wooly Vampires eat the dreams of their victims. In so doing, they make weary the waking hours. They move into homes that have suffered great loss, slowly driving out the other inhabitants, and once settled can live off of only a small village of dreaming victims for hundreds of years. Their thralls are drained of all emotion, flesh without inner will, domesticated swords.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Hypnotist-of-Yellowmoor-media/image39.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Hypnotist-of-Yellowmoor-media/image39.png)
 
 ---
 

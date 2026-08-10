@@ -72,7 +72,7 @@ You meet the glazed stare. When the swollen mouth speaks, the voice is distinctl
 
 `The architrave is painted amber and covered in glyphs. Passing under, one feels a static in the teeth.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Scarab-Mine-media/image63.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Scarab-Mine-media/image63.png)
 
 ---
 
@@ -115,7 +115,7 @@ Now it is the same. You see The Alien Knight step thunderingly to the curtain. Y
 `From here you can take one of a few routes.`
 
 | **Left** You’ll eventually emerge onto the brink of an unfathomed quarry. An underground lighthouse perches off to your left, necromancy-animated, its beam of crystal moonlight making sweeps of the quarry’s upper hemispheres. A dizzying screw stair within leads to higher tunnels via a connecting bridge. Beware: a skeleton with a sling guards the bridge. | **Right** Use the ‘all-rights’ strategy to navigate a burg of hex houses, quarters for the inhabitants of old. In this Time the only dwellers in the homes are the ubiquitous scarabs. They watch you from their lead-lined cavities. Only the deep-earth lead keeps the souls inside the scarabs from disintegrating. | **Straight** The Miner’s Stoa. A ceiling of dripstone impends  right overhead, where each distinct stalactite has been carved with a bat’s-head termina, and each bat’s mouth holds one wooden scarab. If you happen to spot it, you might snatch the sack of stained-glass dust that sits in one of the mouths. It is worth fifty square coins. |
-| --- | --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 `No matter which route you choose, your destination is the same. The bank of a subterranean river. The opposite bank lies beyond your sight, nor is any crossing apparent; which is troubling, as you hesitate to swim this ‘stream’.`
 
@@ -174,7 +174,7 @@ As you tend her wound your Lady’s voice is quietly audible above the noisy spi
 `The shapes and natures and desires of the un-dead are many. Some shapes, natures, and desires are more terrible than others.`
 
 | **Mailed Flayer** A blessedly deathless knight. This armored and skillful creature acts as a resurrectionist’s deterrent, in tohmbs and chrypts sacred to The Scratcher. | **Halo of Worms** Though it can take many figures, this collection of undead flatworms most often forms a circle around the plinths of statues. The worms do not feed; they kill for sport. | **Lectergast** “...Wraithish, worthy and wroth, he runs; Sidelong dancing, for strong sons; And under the ossuaries, there he dwells, and tells; Of the paladin’s dulcet funereal bells...” |
-| --- | --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
@@ -205,7 +205,7 @@ She steps off to your right. The preceding days of travel have stitched her cut.
 
 `From the first Time comes this relic of potent necromancy. Once and only once, place it on the throat of one who is not too long dead. He shall live again.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Scarab-Mine-media/image67.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Scarab-Mine-media/image67.png)
 
 ---
 

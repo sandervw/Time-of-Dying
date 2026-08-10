@@ -43,7 +43,7 @@ HIIIIISSSSSSS.
 The lift rattles. Your knuckles tighten on the handle of your shield. Your mind summons reflections; advice from a chryptsacker. He spoke of sounds one hears in the caves under the hills and mountains.
 
 | **Herdybey** It makes two-tone howls. AHHHH-woooo. In cool caves, good blades’ll keep you out of its jaws. But watch for mating bulls in humid holes. | **Leatherworm** Try to hear the tumbling of boulders down the side of a gorge, heard distantly, echoing. Speed it up, make it deeper. That is the leatherworm, which guises itself as a bas-relief, and is the bane of us sackers. | **Golems** Marching, heavy steps. Ubiquitous underground. They cannot be molded under sun or stars. |
-| --- | --- | --- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 
 ---
 
@@ -61,9 +61,9 @@ The engineer-knights of the station are locked in a pitched battle. Their foes -
 
 `Among the engineer-knights there are a few idiosyncratic persons.. You may wish to spot and rescue these men especially.`
 
-| **Damon the Pilferer** A skinny but tall man. Has a good eye. Carries the station’s only crossbow. | **Old Soldier** He must be strong to carry that heavy broadsword and pack on that armor. Good with his shield too. |
-| --- | --- |
-| **Forester** One of the forest cats, giant and tame, guards his shadow. | **Former Mance** No combat specialty. Has none of necromancy’s necessary reagents. Does offer insights on your foes. |
+| **Damon the Pilferer** A skinny but tall man. Has a good eye. Carries the station’s only crossbow. | **Old Soldier** He must be strong to carry that heavy broadsword and pack on that armor. Good with his shield too.   |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Forester** One of the forest cats, giant and tame, guards his shadow.                            | **Former Mance** No combat specialty. Has none of necromancy’s necessary reagents. Does offer insights on your foes. |
 
 ---
 
@@ -79,7 +79,7 @@ Yet light plays over many of the tumbling stones, and the crashing crystal water
 
 `Station Archer is one of four stations in Spring-Under-Fjall. The station warms the cavern by drawing water from deeper hot springs.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Alsoburg-Siege-media/image61.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Alsoburg-Siege-media/image61.png)
 
 ---
 
@@ -174,7 +174,7 @@ One of the surviving knights has lost his ear in the battle; a thick gauze wraps
 
 `This new heptad of mancers plumbed the darkest caves and deepest graves that wind below That Road Familiar and Strange. In their seeking they accidentally stepped across the threshold of the Chrypt of the Fermented Princess, which was sacred to another god-necromancer, The Mother of worms. As punishment that goddess destroyed six of the seven. She left one mancer alive, a man with a beard long and painted white. As he groveled, listening at the stone for the Thin Man’s dreams, she blessed him with that eternal life which the seven had sought – and at the same instant, cursed him to forever grovel, forever listen, driven to ascendent madness by voices underneath.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Alsoburg-Siege-media/image62.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Alsoburg-Siege-media/image62.png)
 
 ---
 
@@ -193,7 +193,7 @@ You see a trio of sleek, luminous freshwater eels plying up the current of a nar
 `The knights will choose one of three routes from the exit of the sewers to Alsoburg. The route is chosen at random.`
 
 | **The Narrow Lake Strand** The ripples from the broken sewer grate have vanished. As you stare out over the bestilled lake, you will witness the slow, crystallizing transformation of the water. Your breath mists before your helmet. | **Ruins of Station Babyfray** If you duck inside the ruined tower with the blasted door, you can retrieve a small pouch of twelve Onyx Sunflower seeds, tucked under a splintered reedwood bench. | **Mushroom Forest** In the gossamer frills of these giant mushrooms, you will hear small shuffling and chittering noises. Bats. Proceed to the end without looking up, and you will be rewarded with a Flawless Summonable Squeaking Icon. |
-| --- | --- | --- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 As you march to Alsoburg you are gradually enveloped in the warm honey of the sun disk.
 
@@ -240,9 +240,9 @@ You take care to step between the bars. The clink of your sabatons might reveal 
 
 The cavern town is small, but packed densely with steamwork architecture.
 
-| **Card Houses** Each home is made of two titanic stone slabs leaning against each other, with mudbrick fronts. The citizens have shut their doors and windows, sheltering in false shelters. | **The Tower of Invisible Fire** Silence. The steel drum in the heart of Alsoburg sheds no warmth. |
-| --- | --- |
-| **The Door of Xyn** The Door of Xyn, in the Temple of Xyn, has been thrown open. In Alsoburg, this symbolizes an end of peace. | **The Mayor’s Keep** Two ladies, dressed in silver-and-sapphire silk robes which seem to glow in the sun disk’s yellow beams, weep upon the third floor balcony of the Mayor’s Keep. |
+| **Card Houses** Each home is made of two titanic stone slabs leaning against each other, with mudbrick fronts. The citizens have shut their doors and windows, sheltering in false shelters. | **The Tower of Invisible Fire** Silence. The steel drum in the heart of Alsoburg sheds no warmth.                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **The Door of Xyn** The Door of Xyn, in the Temple of Xyn, has been thrown open. In Alsoburg, this symbolizes an end of peace.                                                               | **The Mayor’s Keep** Two ladies, dressed in silver-and-sapphire silk robes which seem to glow in the sun disk’s yellow beams, weep upon the third floor balcony of the Mayor’s Keep. |
 
 From under the flayed hoods of the real Hides surrounding you, that same deadspeech hymn issues, a united hiss.
 

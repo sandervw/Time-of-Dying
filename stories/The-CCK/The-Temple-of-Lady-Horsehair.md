@@ -43,7 +43,7 @@ Just inside the crack of the silent stone door stands a woman. Her robes are ivo
 You pass through a convoluted vestibule of dim lamps and shadowed marble, the walls crooked, and heavy with portrait paintings. Your passage is heralded by song. The music is of human voices, rising from behind the portraits, but not human words. Each voice seems to mimic some instrument.
 
 | **Walrus Painting** A man with a pointed steel cap and a long grey mustache. It produces a brassy, squeaky blowing, like a rusty hunting horn. | **Madam Painting** This tall woman with a goose’s neck and tight black hair trembles like the string of a violin. | **Wind Painting** Sun-scarred and rain-worn, this olive elder produces only a halfhearted whisper. Like a tremulous flute, talking to itself, but right beside your ear. |
-| --- | --- | --- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 `The priestess will stop beside a flight of broad, shallow stone steps that slope gently downward. She will wait there for you, seemingly forever, and does not seem to mind if you wander again through the gallery you have just passed. You may thus choose to explore a little before you leave the vestibule of The Emerald House.`
 
@@ -93,7 +93,7 @@ You notice then that the priestess who led you into the chamber must have slippe
 
 `They make the visitor paint their own face.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Temple-of-Lady-Horsehair-media/image36.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Temple-of-Lady-Horsehair-media/image36.png)
 
 ---
 
@@ -159,7 +159,7 @@ One of the first things you noticed when you entered is the two additional wax g
 Each painting has glowing stone below its frame. All the paintings are peeling and faded. The souls are gone. Some of the pictures appear almost to have reverted to blank canvas. A few catch your eye.
 
 | **Man with Sheep’s Wool** A coarse beard of curly white wool cover’s half of this cursed man’s face. | **The Broom Woman** She holds one. If you touch the fading handle, some of the flaking paint will slip into your skin. | **Time-Eyes** The paint of his eyes alone has fallen away, leaving two pupils like the hands of clocks. No matter how long you stare, the hands refuse to move. |
-| --- | --- | --- |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 The heavy, dusted, slightly-sweet air of The Exhibition invites torpid ruminations.
 
@@ -213,9 +213,9 @@ But your mind has not for a moment slacked in the thought of your Blue Lady. You
 
 `If you choose instead to fight, you’ll find the priestesses and their servants no soft foes. Aside from the wax golems, which can crack your bones through your armor if you don’t block their fists with your Pinecone Crest Shield, the priestesses each has one of a certain set of violence talents.`
 
-| **Wailing Priestess** Her rituals of grief can fill even a stout heart with despair, and stop a weak one. | **Tonguebinder Priestess** Not especially effective against you. Her prayers to the goddess can stymie the mind of a mancer. |
-| --- | --- |
-| **Gargoyle Priestess** This kind have covered their skin in grey, painted, leering, fanged faces. Their flesh is stone. They fight with quick knives. | **Living Hair Priestess** Keep your Steel swinging with this kind. |
+| **Wailing Priestess** Her rituals of grief can fill even a stout heart with despair, and stop a weak one.                                             | **Tonguebinder Priestess** Not especially effective against you. Her prayers to the goddess can stymie the mind of a mancer. |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Gargoyle Priestess** This kind have covered their skin in grey, painted, leering, fanged faces. Their flesh is stone. They fight with quick knives. | **Living Hair Priestess** Keep your Steel swinging with this kind.                                                           |
 
 `By stealth or slaying you’ll find the chamber of paints on the third layer, between a doll-statue and the temple loomery. The Unhue is in a small, plain clay jar, bottom shelf, third row on your left.`
 
@@ -242,7 +242,7 @@ You have hardly taken your first step down when onto the balcony file the same s
 
 `The paint covering these two golems makes their wax as hard as stone. It’s not a full coat, but it makes anything other than precise cuts and stabs useless.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Temple-of-Lady-Horsehair-media/image37.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Temple-of-Lady-Horsehair-media/image37.png)
 
 ---
 

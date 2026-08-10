@@ -30,7 +30,7 @@ As you lift your Lady over a glacial fissure you study her expression.
 
 `Another legend tells of the Green Firebeetle, which paints the aurora in the night sky when it flies.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Tunnel-of-the-Stillbreather-media/image56.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Tunnel-of-the-Stillbreather-media/image56.png)
 
 ---
 
@@ -55,7 +55,7 @@ As you lift your Lady over a glacial fissure you study her expression.
 
 `The practice of putting Winter wind in a body is not a lost one.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Tunnel-of-the-Stillbreather-media/image57.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Tunnel-of-the-Stillbreather-media/image57.png)
 
 ---
 
@@ -287,7 +287,7 @@ A wind gusts past. But it is brisk, refreshing, natural.
 You know there are three main routes that will take you from the mountains to Hornwater.
 
 | **The Road of Graves** This time, strict adherence to The Road is not ideal. You can follow it east toward Hornwater for a hundred miles more. After that, before reaching Hornwater, it loops south along a thousand-mile stretch, through the frigid and friendless Limbichorous Dunes. | **The Scarab Mines** This way takes you under the impassable Waxy Maize Fields. Along the way you may stop at the cave-town of Alsoburg for supplies. | **The Forest of Candles and Skulls and Roaches and Fungi and Ruptured Capillaries** You’ve had enough of forests. |
-| --- | --- | --- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 
 No matter which route you choose, you know that your first step is to leave The Meathook Mountains.
 

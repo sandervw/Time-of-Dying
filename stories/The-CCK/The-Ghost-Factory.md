@@ -26,10 +26,10 @@ The mancers of modern Middlemoss gated the path to Albino Fish’s way with good
 
 `With a head-action, or with their scraping finger bones, Veyers can inflict a variety of maladies.`
 
-| **Amnesia Sweats** Each cold bead running down your hip is a moment of a memory lost. | **Cataracts** Incurable. |   | **The Haunting Cleanness** Washing, washing, washing, your hands lathering the soap and the water, until your skin forgets the name of dirt, until your ectodermal raiment is frighteningly clean. |
-| --- | --- | --- | --- |
-| **Foot Famine** Your toes become starved. |   | **Siderophobia** Though you cannot see them now, the thought of those tiny shiny holes which prick the sky, always staring remorselessly at you, following you with their gaze, makes your organs shiver. |   |
-| **Misoplexy** Each attack of rage is sudden, violent, and ends in tragedy. |   | **The Gaze** You can’t blink. |   |
+| **Amnesia Sweats** Each cold bead running down your hip is a moment of a memory lost. | **Cataracts** Incurable. |                                                                                                                                                                                                           | **The Haunting Cleanness** Washing, washing, washing, your hands lathering the soap and the water, until your skin forgets the name of dirt, until your ectodermal raiment is frighteningly clean. |
+| ------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Foot Famine** Your toes become starved.                                             |                          | **Siderophobia** Though you cannot see them now, the thought of those tiny shiny holes which prick the sky, always staring remorselessly at you, following you with their gaze, makes your organs shiver. |                                                                                                                                                                                                    |
+| **Misoplexy** Each attack of rage is sudden, violent, and ends in tragedy.            |                          | **The Gaze** You can’t blink.                                                                                                                                                                             |                                                                                                                                                                                                    |
 
 `The best way to fight a Veyer is to whittle at it slowly with your Steel. Dealing too much bone-damage at once, unless you destroy it in one blow, will drive a Veyer in a rampage.`
 
@@ -93,9 +93,9 @@ Though the difficult geography between Arras and The Ghost Factory has fixed a s
 
 `You have the opportunity to “speak” with a variety of ghosts in the deeply-dug factory chambers.`
 
-| **Sir Diomete** This Knight fell in a duel beneath Surveillance’s Triumph. He warns you, should you ever find yourself in his position: don’t let your foe slip under that monument’s shadow. | **A Sister with a Plea** “Please retrieve and bury my brother’s skull. It is hidden behind a bookshelf in The Temple of Lady Horsehair.” | **Mithy the Thief** If you treat him kindly, he will tell you where to find a Wooden Dagger in the factory’s Shriving Fourches. |
-| --- | --- | --- |
-| **Wooden Dagger** This dagger was the last carving of a blind artist, and varnished in his albino tears. It is useless in a physical fight, easily shattered. Yet the one who carries it may discern more in the words of men. |   |   |
+| **Sir Diomete** This Knight fell in a duel beneath Surveillance’s Triumph. He warns you, should you ever find yourself in his position: don’t let your foe slip under that monument’s shadow.                                  | **A Sister with a Plea** “Please retrieve and bury my brother’s skull. It is hidden behind a bookshelf in The Temple of Lady Horsehair.” | **Mithy the Thief** If you treat him kindly, he will tell you where to find a Wooden Dagger in the factory’s Shriving Fourches. |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Wooden Dagger** This dagger was the last carving of a blind artist, and varnished in his albino tears. It is useless in a physical fight, easily shattered. Yet the one who carries it may discern more in the words of men. |                                                                                                                                          |                                                                                                                                 |
 
 ---
 
@@ -111,11 +111,11 @@ Though no sound you have produced has drawn a reaction from the workers, it is s
 
 `Ghost factories sort the souls they acquire into castes.`
 
-| **Tragic Monarchs** These icons choke the inlet silos with their density and shake the stones with their howling. Once shrived and reduced, they are easily digested. | **Talkative Ghosts** Must be left a long, long time to mature into silence. |
-| --- | --- |
-| **Cold Ghosts** Such spirits are of much interest to mancers, but hard to find, and harder to bend. | **The Elderly** These are of no value individually. They must be gathered into a wrinkling mass to be of use in necromancy. |
+| **Tragic Monarchs** These icons choke the inlet silos with their density and shake the stones with their howling. Once shrived and reduced, they are easily digested. | **Talkative Ghosts** Must be left a long, long time to mature into silence.                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Cold Ghosts** Such spirits are of much interest to mancers, but hard to find, and harder to bend.                                                                   | **The Elderly** These are of no value individually. They must be gathered into a wrinkling mass to be of use in necromancy. |
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Ghost-Factory-media/image16.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Ghost-Factory-media/image16.png)
 
 ---
 
@@ -204,7 +204,7 @@ As you turn to go, however, Hemlock burst forth, hurried, frightened.
 
 `A skull of chromatic absinth judders low over the sweeping stone floors. It’s permanent grin is dyed in ink, its two sockets smile bright with blacklight joy. This skull sits on a circle of jade, a tray, which is attached to eight pumping, syncopated, articulated spider legs. the joints are solid steel, but the struts of each leg are all cut from the scapula of a once-sacred cow.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Ghost-Factory-media/image17.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Ghost-Factory-media/image17.png)
 
 ---
 
@@ -227,7 +227,7 @@ As you turn to go, however, Hemlock burst forth, hurried, frightened.
 `If you keep ahead of the lich and aren’t caught by roots or shrieking madness, you’ll come to the last obstacle: a chasm, and the choice of three bridges.`
 
 | **Bridge of Stone** Haunted. A ghost latches onto your back. | **Bridge of Snow** Frostbitten. The toll is your toes. | **Bridge of Graveclothes** Guilt. Only you and the necromancer-gods know what you tread on, but that is enough. |
-| --- | --- | --- |
+| ------------------------------------------------------------ | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
 
 `Choose swiftly, or perish.`
 

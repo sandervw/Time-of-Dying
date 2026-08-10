@@ -32,7 +32,7 @@ You sweep your arm up and hold your blade horizontal, the flat facing out. Your 
 
 `A skeleton of black bones, longer than twenty long serpents, lies on its back beneath the golem. The giant loops of its ribs have been fractured by the plate of the golem’s copper axe. Its fanged jawbone gapes. It is the skeleton of the Demon King, Surveillance.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Duel-media/image22.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Duel-media/image22.png)
 
 ---
 
@@ -77,7 +77,7 @@ As he rubs his knee, and sits up, Skimcalf turns his fixed look to you.
 `A tip: search under the sodden log on the ledge behind the weir’s waterfall. You have a small chance of finding one of the following Oddboons.`
 
 | **Leather Sack** If you open the sack, you find a living infant with a Radiant Scalp. Turn it in to the Middlemoss Mayor to earn a reward. | **A Thumb and a Ring** The ring is gold, and bears the signet of a wasp. | **Engraved Nautilus** This shell is made of polished Ivory. It shows a map through The Tunnel of the Stillbreather. |
-| --- | --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
@@ -100,11 +100,11 @@ As the days wax, Skimcalf’s tongue unfurls.
 
 `Middlemoss boasts a variety of tradesmen, craftsmen, merchants, markets, and milieu of idiosyncrasy.`
 
-| **Fogsea the Armorer** A sooty, hairless, corpulent master smith. From him you may purchase a helmet for Skimcalf. He Sells three styles: Knight’s Watchtower Helm, Knight’s Founder Helm, Knight’s Stonetower Helm. | **The Loweating Herd** Roams on Middlemoss’s lowest habitable ledge. From the livestock throats issue sounds like burning wood. A moisture as of tears trickles down the gorge wall in their corral. | **Chryptsacker`s Lodge** The chryptsackers never sell to customers directly. They do the scouting, digging, and cleaning, then broker their goods through licensed peddlers. |
-| --- | --- | --- |
-| **Guilda the Scarab Seller** Known affectionately among the local mancers as ‘the six and a half foot scowl’. Sells a wide diversity of soul scarabs. His stock changes every daybreak. | **The Cloth and Tailor Market** Here you can purchase any cut, color, cloth, and style of graveclothes, all free of dirt, and with few wormholes. | **Hall of Loving Shapers** The best place for edged steel. Skimcalf’s jaw swings loose if you present him his first sword from one of these consummate smiths. |
+| **Fogsea the Armorer** A sooty, hairless, corpulent master smith. From him you may purchase a helmet for Skimcalf. He Sells three styles: Knight’s Watchtower Helm, Knight’s Founder Helm, Knight’s Stonetower Helm.                                                                                                                               | **The Loweating Herd** Roams on Middlemoss’s lowest habitable ledge. From the livestock throats issue sounds like burning wood. A moisture as of tears trickles down the gorge wall in their corral.                                                                                               | **Chryptsacker`s Lodge** The chryptsackers never sell to customers directly. They do the scouting, digging, and cleaning, then broker their goods through licensed peddlers.                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Guilda the Scarab Seller** Known affectionately among the local mancers as ‘the six and a half foot scowl’. Sells a wide diversity of soul scarabs. His stock changes every daybreak.                                                                                                                                                            | **The Cloth and Tailor Market** Here you can purchase any cut, color, cloth, and style of graveclothes, all free of dirt, and with few wormholes.                                                                                                                                                  | **Hall of Loving Shapers** The best place for edged steel. Skimcalf’s jaw swings loose if you present him his first sword from one of these consummate smiths.                                                          |
 | **The Shellfish Museum** Here, in these resonant marble halls, in this former tohmb of a priest of a god-necromancer, from a long ago Time; here you may see the layers of Times and Dyings. The curators have organized the different fossils and shells and bones from their excavations to mirror the layers of graves in the Middlemoss gorge. | **Ledge of the Twenty Mancers** This long, majestic quarter is lined with guilds, workshops, laboratories, and schools of necromancy. It is named for the twenty mancers who erected the death fence separating the livable levels of the gorge from the mad souls of its unfathomed lower depths. | **Suspicious Tile** This alley tile may appear anywhere in town. When you step on it, the tile cracks. Peeling it up you find an inscription predicting this exact Time and location in which the tile has been broken. |
-| **Thornwarren** Take care if you visit this residential ghetto with Skimcalf. The homes seem almost unlived-in; leaves litter the marble; mildew chokes the air. Yet there are dwellers. Many, given the chance, will gladly trade their scruples for your worldly possessions – even your bodies. | **Ghostglass Shop** Changes locations every seven and a half hours. If you can find it, the curving, gleaming, colored faces are surprisingly lifelike, and astoundingly free! For a favor... | **The Deep Well** Supposedly goes all the way to the bottom of the chasm; anyone who brings the bucket all the way up is rewarded with a glass of The Time of Dying’s purest water. |
+| **Thornwarren** Take care if you visit this residential ghetto with Skimcalf. The homes seem almost unlived-in; leaves litter the marble; mildew chokes the air. Yet there are dwellers. Many, given the chance, will gladly trade their scruples for your worldly possessions – even your bodies.                                                 | **Ghostglass Shop** Changes locations every seven and a half hours. If you can find it, the curving, gleaming, colored faces are surprisingly lifelike, and astoundingly free! For a favor...                                                                                                      | **The Deep Well** Supposedly goes all the way to the bottom of the chasm; anyone who brings the bucket all the way up is rewarded with a glass of The Time of Dying’s purest water.                                     |
 
 ---
 
@@ -148,7 +148,7 @@ You remain by your Lady’s side - always - as Skimcalf’s wicker sandals dimin
 
 `And, Lendendrung could not destroy all of Surveillance. It could not destroy the Demon King’s ear. The Demon King, though he is only a skeleton, still hears when the soul of an unworthy slave draws near his fanged jaw.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Duel-media/image35.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Duel-media/image35.png)
 
 ---
 

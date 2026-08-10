@@ -39,7 +39,7 @@ The two men now lie lifeless in the lane. Your sword has cut them down, and two 
 `If you try to slay your way to freedom, you will fail. No matter how many killers you lay out on the lane, more follow. You have two ways of escaping.`
 
 | **Commandeer a Gondola** First, tempt the shots from the two crossbows coming up from behind. Quickly usher your Lady into the gondola with red-painted gunnels. This is the smallest and swiftest vessel. Use your sword to cut the line. Have your Lady paddle out to the water, then down the canal. You’ll need to keep your shield raised for incoming bolts. | **Climb the Wooden Stair** Again, draw shots from the rear group, but this time quickly mount the creaking stairs to the second-floor balcony of the canalside home. You’ll have to break down the door. This path leads to a short battle with a paper ghost (the house is abandoned and labyrinthine). |
-| --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
@@ -129,7 +129,7 @@ But you yourself have stolen the momentary break of sight, and drawn your Steel.
 `You’ll have to find the clue hidden in each of the three locations. The order in which the man visits them is always the same.`
 
 | **The Old Arena Arcade** The clue here lies in the riddle, carven into the stone on the flaking mural, where the east sun shines through a crack in the wall. The answer to the riddle is “Crows’ Feet”. | **The Skylit Hall with Hanging Vines** Listen to the trilling of the birds in the skylights. Their song has a rhythm; bum buuuum, bum bum bumbum. | **The Pond House** Simply search the rooms for a while. After a few minutes, the man will stare fixedly at his expression in a still pool, before twisting a knowing smile upon you. |
-| --- | --- | --- |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 `You are unsure of the significance of each clue, but the man’s face wriggles at each revelation. When you’ve found all three clues he suggests going to The Channelloft.`
 
@@ -150,7 +150,7 @@ But you yourself have stolen the momentary break of sight, and drawn your Steel.
 
 `No matter how one watches, companions always seem to vanish in The Channelloft.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Weaponmaster-media/image75.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Weaponmaster-media/image75.png)
 
 ---
 

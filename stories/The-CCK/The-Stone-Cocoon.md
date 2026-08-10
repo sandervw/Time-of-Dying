@@ -19,10 +19,10 @@ Then; necromancy. Despair so fills the bones and the skins and the souls of the 
 
 Seven necromancer-gods were the first and greatest masters.
 
-| **The Thin Man** Who from his cradle, brought wasting sickness down upon the demon. |   | **The Old Man Below** Who with a smiling whisper, made their hearts grow timid. |   |
-| --- | --- | --- | --- |
-| **The Scratcher** Who dealt in curses. |   | **The Mother of Worms** Who, naked, looked on the hoard - and all their bones did rot. |   |
-| **Gallbladder** Who summoned the hungry among the dead. | **Lady Horsehair** Who bought her power. |   | **The Red King** Who, with red conscience and nails, tore the throats from his peers. |
+| **The Thin Man** Who from his cradle, brought wasting sickness down upon the demon. |                                          | **The Old Man Below** Who with a smiling whisper, made their hearts grow timid.        |                                                                                       |
+| ----------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **The Scratcher** Who dealt in curses.                                              |                                          | **The Mother of Worms** Who, naked, looked on the hoard - and all their bones did rot. |                                                                                       |
+| **Gallbladder** Who summoned the hungry among the dead.                             | **Lady Horsehair** Who bought her power. |                                                                                        | **The Red King** Who, with red conscience and nails, tore the throats from his peers. |
 
 Seven necromancer-gods were the ones who left ruins of stone where once had been the palaces of the demon kings.
 
@@ -38,7 +38,7 @@ These figments manifest during the snowstorms that shadow this land. The snow ma
 
 `A symbol of love on The Road of Graves in The Time of Dying.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Stone-Cocoon-media/image68.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Stone-Cocoon-media/image68.png)
 
 ---
 
@@ -58,7 +58,7 @@ These figments manifest during the snowstorms that shadow this land. The snow ma
 `The exception is a pair of separate sensations, manifesting simultaneously.`
 
 | **Approach the Vision of Your Old Lord** You lead your Lady deeper into the blinding, blowing whiteness. She cannot see your Lord, and it seems you never come closer, no matter how quickly you march. *Crunch. Crunch. Crunch.* Your sabatons crush a long path in the snow. Eventually, the vision disappears. You will die in the cold. | **Follow the Smell of Old Wet Stones** The snow seems pockmarked in places. You skirt wide of these depressions in the plain. |
-| --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 
 `Wandering, you may come across one enormous drift of snow. There is a vacant cavity in the side of the drift. It is not an illusion, but if you reach hesitantly inside, there is nothing to account for the strange hole. It seems as if the snow has piled around nothing.`
 
@@ -97,8 +97,8 @@ The cold is wet like a razor on the back of your neck. It seems to cut through y
 `As you approach the cave you will see one of four hallucinations.`
 
 | **The Grandmother Snake** Its face is old and human. Its illusory poison can paralyze. | **Sittingsmoking** A harmless woodsman sits and puffs on his pipe. |
-| --- | --- |
-| **Ruddy Living Bones** A living bones covered in viscera. | **The Spider** Take care with the webs this one spins. |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Ruddy Living Bones** A living bones covered in viscera.                              | **The Spider** Take care with the webs this one spins.             |
 
 `As long as you discredit these deliria, they pose no threat. Your Steel evaporates each in a single cut.`
 
@@ -112,7 +112,7 @@ The cold is wet like a razor on the back of your neck. It seems to cut through y
 
 `If they can pass the visions.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Stone-Cocoon-media/image69.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Stone-Cocoon-media/image69.png)
 
 ---
 
@@ -159,15 +159,15 @@ The echoes however begin to writhe and crisscross, and other echoes mingle with 
 
 `As you wander you may enter several unique chambers.`
 
-| **The Old Wall Room** Some sort of paper or thin fabric fills the cracks between the crumbling brick walls. If you chip away some of the ice coating the walls, and pull on a piece of paper, it whispers in an unknown tongue. | **The Glowbug Hive** There are small bubbles in the ice-walls of this room. Glowbugs shine dimly from each bubble, frozen in light. |
-| --- | --- |
-| **Emerald’s** Your sabatons crunch over fragmented ice and glass in this long corridor. If you take the time to sift through the crystalline gravel, you can find an emerald with a soul trapped inside. | **The Casting Chambers** A cauldron for pouring metal hangs over your head, from two chains in the ceiling. Something sputters inside. |
+| **The Old Wall Room** Some sort of paper or thin fabric fills the cracks between the crumbling brick walls. If you chip away some of the ice coating the walls, and pull on a piece of paper, it whispers in an unknown tongue. | **The Glowbug Hive** There are small bubbles in the ice-walls of this room. Glowbugs shine dimly from each bubble, frozen in light.    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Emerald’s** Your sabatons crunch over fragmented ice and glass in this long corridor. If you take the time to sift through the crystalline gravel, you can find an emerald with a soul trapped inside.                        | **The Casting Chambers** A cauldron for pouring metal hangs over your head, from two chains in the ceiling. Something sputters inside. |
 
 `You’ll have to fight your way through a variety of hallucinations as you search the frozen ruins and frozen caves for your Lady. The hallucinations have different strengths and weaknesses.`
 
-| **Laminated Goblin Knight** Attacks with spear. Destroyed by cracking the ice in which he scintillates. | **Millingmist** Grates away your armor and skin. Breathe deeply, and you realize it is only cold air. | Voidingmist Suffocates. Close your eyes and imagine a wide, sunny space; it will vanish. |
-| --- | --- | --- |
-| **The Knife Mother** Stabs you. Stab her first. | **Unshadowed Wraith** A black ghost which surfaces in any source of light. Drains your life. Cannot survive in the dark. | **Demonheads** Disembodied deadheads with wing-ears. Their screams will deafen you. You can plug your ears with whispering cloth from The Old Wall Room. |
+| **Laminated Goblin Knight** Attacks with spear. Destroyed by cracking the ice in which he scintillates. | **Millingmist** Grates away your armor and skin. Breathe deeply, and you realize it is only cold air.                    | Voidingmist Suffocates. Close your eyes and imagine a wide, sunny space; it will vanish.                                                                 |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Knife Mother** Stabs you. Stab her first.                                                         | **Unshadowed Wraith** A black ghost which surfaces in any source of light. Drains your life. Cannot survive in the dark. | **Demonheads** Disembodied deadheads with wing-ears. Their screams will deafen you. You can plug your ears with whispering cloth from The Old Wall Room. |
 
 ---
 

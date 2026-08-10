@@ -39,7 +39,7 @@ Having plunged into The Old Soulwood you swiftly find yourself enclosed on all s
 `If you happen to spot a stone with the epitaph ‘Grau of Faceless Statue Way’, pour water on it. You will flush out a faerie, either black or walnut.`
 
 | **Black Fairie** Hides under gravestones, beached scallops, and manure piles. Swallowing one grants three days of prosperous financial dealings. | **Walnut Fairie** Will beg to be taken to the nearest frog pond. If you agree to escort him, he shrinks down to the size of a yam, and climbs inside your Blue Lady’s pocket. |
-| --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 You push yourself to the top of a steep and long hill. The looping roots and great shelves of rock – epithets, those sacred labelled stones, scattered seemingly all around – act as both obstacle and handhold in the ascent.
 
@@ -63,7 +63,7 @@ When you reach the summit, you see only more dense wood.
 
 `Men of older Times tried to weave their epitaphs around these trees. But the trees only spread wider, no matter how many they felled.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Old-Soulwood-media/image42.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Old-Soulwood-media/image42.png)
 
 ---
 
@@ -140,7 +140,7 @@ The ‘image’ of the strange musical light still worries your mind, but The Tr
 
 `The Underpass. Caverns of clotted midnight.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Old-Soulwood-media/image43.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Old-Soulwood-media/image43.png)
 
 ---
 
@@ -160,7 +160,7 @@ You cross one tunnel with a low channel running down its middle. A stream of the
 
 `Behavior: The Periwinkle Forest Cat’s favorite quarry are the giant tunnel-rats that live in The Underpass, the carved-out tunnels beneath The Soulwood. The Underpass is the cat’s hunting ground. It will not kill hunt creatures in the forest proper, except for play, or vengeance.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Old-Soulwood-media/image44.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Old-Soulwood-media/image44.png)
 
 ---
 

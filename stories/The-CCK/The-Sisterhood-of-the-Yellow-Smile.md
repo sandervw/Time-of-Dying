@@ -77,9 +77,9 @@ The weighty bronze door of the ruined shrine squeals at your approach. The doors
 
 `Additionally, if you ask, the mancer can supply you with information on several subjects.`
 
-| **Your Lady** “She told me she wanted to visit the heart of Hornwater. Three hours ago, she took the gondola into the city.” |   | **The Cult of the Leather Dragon** “Deadly fighters, or such is what I’ve heard. You can see their keep; just there, through the east window. That is the Island of the Dragon. The only passage is by gondola, through invitation.” |   |
-| --- | --- | --- | --- |
-| **Necromancy** “I’ve summoned only vessels myself. We Horners placate the seven with prayer, and by keeping the shrines.” | **Namman Tide** “Five-score men hope to break their bread with a maid this year. Myself? I’m too old for the festival.” |   | **The Sisterhood of the Yellow Smile** “We both know their way of worship. You won’t catch me near their grove...” |
+| **Your Lady** “She told me she wanted to visit the heart of Hornwater. Three hours ago, she took the gondola into the city.” |                                                                                                                         | **The Cult of the Leather Dragon** “Deadly fighters, or such is what I’ve heard. You can see their keep; just there, through the east window. That is the Island of the Dragon. The only passage is by gondola, through invitation.” |                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **Necromancy** “I’ve summoned only vessels myself. We Horners placate the seven with prayer, and by keeping the shrines.”    | **Namman Tide** “Five-score men hope to break their bread with a maid this year. Myself? I’m too old for the festival.” |                                                                                                                                                                                                                                      | **The Sisterhood of the Yellow Smile** “We both know their way of worship. You won’t catch me near their grove...” |
 
 As soon as he collects his coin from Hayz, R the Killer will shoulder his road sack.
 
@@ -150,7 +150,7 @@ Her amber eyes fix on you as they pass where you stand. She gives a word. The ca
 
 `Though the Guildlord has not the strongest militia, The Palace of Burning Shells is an imposing prospect. Perched alone on its island, girt by jagged cliffs, with one long, narrow stone bridge, at the end of which sits a heavy iron portcullis, the Palace perches like the nest of some prehistorical sky whale. Weathered limestone towers stare with ten thousand sparkled window-eyes, slate-tinted in the sun. At its pinnacle, a cathedral roof crowns the monolith.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Sisterhood-of-the-Yellow-Smile-media/image70.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Sisterhood-of-the-Yellow-Smile-media/image70.png)
 
 ---
 
@@ -198,8 +198,8 @@ The handwriting of the letter shrinks as it falls from your gauntlet. The mud be
 `There are two devoted fraternities and two unblemished sororities in The Time of Dying.`
 
 | **The Brotherhood of Crimson** The brothers excoriate themselves in their devotion to The Scratcher. They desire one end only; to be falsely buried under the road, and serve their god in death forever as Mailed Flayers. | **The Sisterhood of Marblevale** They renounce love, wealth, and name. Their end is under unscraped stones, on a smoothly-surfaced mile of The Road. |
-| --- | --- |
-| **The Brotherhood of the Hoof** This cloister is settled not far from your former Lord’s keep, beside The Lake of Tomatoes. It is devoted to Gallbladder. The brothers eat the dead. | **The Sisterhood of the Yellow Smile** They bury the living. In such a way is the soul vouchsafed from necromancy. |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Brotherhood of the Hoof** This cloister is settled not far from your former Lord’s keep, beside The Lake of Tomatoes. It is devoted to Gallbladder. The brothers eat the dead.                                        | **The Sisterhood of the Yellow Smile** They bury the living. In such a way is the soul vouchsafed from necromancy.                                   |
 
 ---
 
@@ -222,14 +222,14 @@ Something in the prioress’ speech is potent with witchery. Though you would no
 As you go you pass a hall of sculpted glass. You see the fate of those who take gold from The Priory of the Yellow Smile.
 
 | **The Thief** Made of many small green pieces. Hunched. His forever-still fingers reach for a purse. | **The Beggar** Kneeling, her hands form a bowl, her ruby-glass eyes and lips shaped in gratitude. | **The Killer** His sculpture is fresh, gleaming, rounded and smoothed like melted wax. One hand raises his Morning Star, no longer horned metal, only dull red glass. |
-| --- | --- | --- |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Four doors clang shut as you exit the priory. The moon in high and bright in the velvet sky. In the ditches, the crickets chirr.
 
 `You must now choose between two ways.`
 
 | **Accept your Lady’s End** Keeping your oath to the road, you let your Lady perish underground. You may serve the guild at Burning Shells as a master of arms. | **Break The Road’s Tenets** You choose to turn your will and your Steel against the Sisterhood. |
-| --- | --- |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 
 ---
 
@@ -260,9 +260,9 @@ The sisters stand a quarter-mile down the stretch. When the ancient prioress not
 
 `You’ll need to defeat four different glass illusions.`
 
-| **Empty Robe Man** You cannot catch his eyes, nor should you want to. His legs are fragile, but hard to hit. | **Crying Child at the end of the Hall** This one never seems to get any closer, until you look away. |
-| --- | --- |
-| **Body Faker** No sooner have you shattered this church-window-figure, than it reassembles and attacks again. Must be shattered thirteen times. | **Veilface** Moves like a jagged fog cloud; slow and cutting. Let your shield do the work here. |
+| **Empty Robe Man** You cannot catch his eyes, nor should you want to. His legs are fragile, but hard to hit.                                    | **Crying Child at the end of the Hall** This one never seems to get any closer, until you look away. |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Body Faker** No sooner have you shattered this church-window-figure, than it reassembles and attacks again. Must be shattered thirteen times. | **Veilface** Moves like a jagged fog cloud; slow and cutting. Let your shield do the work here.      |
 
 The last of the glass illusions finally shatters into silence that is pristine. You stand alone on the Road of onyx Graves.
 

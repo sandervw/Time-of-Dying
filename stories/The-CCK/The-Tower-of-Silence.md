@@ -15,9 +15,9 @@ part: 13
 
 The crack of sky far overhead is wet with lightning. From your place at the window, if you look down past the spackled window of your mausoleum, you see varied figures passing on the road.
 
-| **Half-Nose** The man in fact has no nose. Only a tall, thin hole below his left eye. | **Girl Dragging Canoe** She walks with the front half of the vessel held aloft in her skinny arms. The stern rattles on the paving stones behind her. The bow, like an arching beak, protects her from the rain. |
-| --- | --- |
-| **The Coffee Seller** He holds his lamp high in one arm, its yellow light sparkling in the rain, and with his other arm shakes a big jar of beans. | **Living Bones** At first you mistake this upright walking skeleton for The Late Poet. On second glance, however, you notice that the feathers in its hat are purple and gold, not blue and orange. |
+| **Half-Nose** The man in fact has no nose. Only a tall, thin hole below his left eye.                                                              | **Girl Dragging Canoe** She walks with the front half of the vessel held aloft in her skinny arms. The stern rattles on the paving stones behind her. The bow, like an arching beak, protects her from the rain. |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Coffee Seller** He holds his lamp high in one arm, its yellow light sparkling in the rain, and with his other arm shakes a big jar of beans. | **Living Bones** At first you mistake this upright walking skeleton for The Late Poet. On second glance, however, you notice that the feathers in its hat are purple and gold, not blue and orange.              |
 
 As you watch Middlemoss’s people flit through the rain, one young woman in a soaked blouse of stone-colored cotton catches your attention. She shouts from hands that are cupped.
 
@@ -60,7 +60,7 @@ Only a little way into the warren you come abruptly helm-to-face with a whiskere
 `There are a few different treasures within the Deep Compost burg that will satisfy Valance’s bargain.`
 
 | **Steel Gargoyle** Hidden beneath a tangle of dead brown roots over an abandoned chrypt. No one cares if you take it. | **Glowbug in Amber** The shopkeeper who sells this curio tells you that a mancer imbued the bug inside with un-life before freezing it in amber. Unliving or not, the encased insect glows brightly. | **Old Blacksmith’s Cinder** In a chrypt in a far corner of Deep Compost, you will find a dry, crumbling mummy, wrapped around a glowing piece of slag. Despite its glow, the metal is quite cool. |
-| --- | --- | --- |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 `Alternatively, instead of bringing Valance a treasure, you can consult with the Haruspex, Joole. Her shop is in Deep Compost. The price she demands is steep; Three stamped squares of Lady Horsehair gold. If you choose to pay, she will consult the ghosts of her prophetic organs, and give you The Tower’s Location.`
 
@@ -107,7 +107,7 @@ Following R, you eventually discover an alley festooned in curtains of lichen, d
 
 `Nowadays only The Monks of the Lidless visit the old wine chrypt. They send to this chrypt their outcasts; monks gone blind. Wrapped in blankets of owl-feathers, bellies distended from the ancient wine that is their only comfort, these blind monks pound and lumber through the corridors under The Towers of Silence.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Tower-of-Silence-media/image40.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Tower-of-Silence-media/image40.png)
 
 ---
 
@@ -120,7 +120,7 @@ Following R, you eventually discover an alley festooned in curtains of lichen, d
 `Be ready for serious fight. Anywhere from two to eight monks may be in the room at the time. There are three kinds of blind Monk of The Lidless, with their eyelid tattoos to identify the different kinds.`
 
 | **Tuskhands** Watch out for these ones. You’ll know them by the bristling, many-lashed, yellow eye-tattoos over their own eyelids. Their haymakers can put solid dents in your rusted plate mail. | **Man of Dogs** The eye-tattoos on this one’s body seem to glisten, as if each is beneath a shiny droplet of saliva. | **Leaping Monk** Former wrestlers of the order, probably, these monks will charge you headlong before jumping and trying to crush you under their flabby mass. |
-| --- | --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 As the last monk falls, R the Killer flicks a string of crimson pulp from his Horned Morning Star. He looks angry.
 
@@ -219,8 +219,8 @@ The chairs all sport pairs of shackles. In one, your Blue Lady is bound. She rai
 
 `The lever which unlocks the clasps in the chairs is hidden under a shroud. You may have to check a few of the shrouded objects. Take care; each covering pulls away in a cloud of dust, and each cloud of dust has a fifty-percent chance of afflicting you with one of the following diseases.`
 
-| **Dustheels** Every step is agony. | **The Red King’s Curse** You know this bloody doom too well. |
-| --- | --- |
+| **Dustheels** Every step is agony.                                            | **The Red King’s Curse** You know this bloody doom too well.                                                     |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Meerie’s Weeping Affliction** A torrent of endless tears blurs your vision. | **Scattles** Shaking and shivering, your numb extremities move as if in slow motion. Lasts a year minus one day. |
 
 When you step out from behind the curtain, your Lady stands. She dusts her blouse. R applauds, silently.
@@ -276,7 +276,7 @@ R, swallowing past his exertions, gives your Lady a cunning look.
 `Choose one of the three routes that lead to The Owlery in The Tower of Silence.`
 
 | **Chain Lift** You step out onto the corner-landing of a stairway. It creeps round the wall of a massive square room. The floor and ceiling are hidden in blackness. There is a single chair, too far out to reach, hanging in the central space. If you choose to follow this route, you will want to first head down three flights, then back up seven. The door on the tenth flight up will always lead to The Owlery. (Warning: watch out for frenzied bat swarms here). | **Landscape Wing** This long series of corridors is lined in broad windows, with thick green glass and heavy satin drapes. You know that you are underground, yet you see upon entering that each green glass window shines with light, and that each light is a different shade. Each window looks out on a different landscape: mountains, rivers, a wood. Take care here. Looking out of certain windows will draw the attention of the Will-O-Wisps that live therein. | **The Scriptorium** You find a T-intersection. The floor to your left and right both curve up and away. You soon realize two things. First, the hall is a circle. Second, gravity keeps pace with you as you walk the hall. The walls are lined in shelves of books, each book penned in a language which may only be written; it is unspeakable. Each door in the hall connects to another random door. You will have to try a few doors before finding the path to The Owlery. |
-| --- | --- | --- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 `No matter which route you take, you yourself should lead. Your Pinecone Crest Shield and rusted armor give you the best chance of withstanding a surprise attack, should you meet any monks or their guardian wisps. Let R walk behind your Lady, guarding the rear.`
 
@@ -315,7 +315,7 @@ A moving shadow catches your attention.
 
 `The Lidless are malevolent winged female half-demon, born from two half-souls. They usually haunt churches, towers, and barns.`
 
-![](C:/Users/Sander/OneDrive/Documents/Github/Notes/Time-of-Dying/output/The-Tower-of-Silence-media/image41.png)
+![](C:/Users/Sander/Documents/Github/Notes/Time-of-Dying/output/The-Tower-of-Silence-media/image41.png)
 
 ---
 
